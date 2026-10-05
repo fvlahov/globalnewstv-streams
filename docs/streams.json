@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T09:56:50.854Z",
+  "generatedAt": "2026-10-05T10:32:35.701Z",
   "streams": [
     {
       "videoId": "WNUrTFC4q7A",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/WNUrTFC4q7A/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 537,
+      "concurrentViewers": 469,
       "startedAt": "2026-10-05T09:02:40Z",
       "regionRestriction": {
         "blocked": [
@@ -52,7 +52,7 @@
           "url": "https://i.ytimg.com/vi/Cl3iGZfyJkQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 202,
+      "concurrentViewers": 120,
       "startedAt": "2026-10-05T08:36:00Z",
       "regionRestriction": null
     },
@@ -76,56 +76,8 @@
           "url": "https://i.ytimg.com/vi/6gOlJyTZHzw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1294,
+      "concurrentViewers": 1397,
       "startedAt": "2026-10-05T08:25:51Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "lkRgu6hr5bM",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "2026 Nobel Prize in medicine or physiology is announced – watch live",
-      "description": "The winner of the 2026 Nobel Prize in medicine or physiology is announced by the Karolinska Institute.\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The…",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lkRgu6hr5bM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lkRgu6hr5bM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lkRgu6hr5bM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 42,
-      "startedAt": "2026-10-05T09:26:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_YCP5XRveUE",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Nobel Prize in Medicine or Physiology is announced",
-      "description": "The winner of the 2026 Nobel Prize in Medicine or Physiology is announced by the Karolinska Institute in Stockholm, Sweden. \n \n#nobelprize #physiology #medicine #karolinskainstitute #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_YCP5XRveUE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_YCP5XRveUE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_YCP5XRveUE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 39,
-      "startedAt": "2026-10-05T09:17:05Z",
       "regionRestriction": null
     },
     {
@@ -148,7 +100,7 @@
           "url": "https://i.ytimg.com/vi/E25NzQmNlcM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 19,
       "startedAt": "2026-10-05T07:28:44Z",
       "regionRestriction": null
     },
@@ -172,7 +124,7 @@
           "url": "https://i.ytimg.com/vi/fBA1N_haXi0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8,
+      "concurrentViewers": 6,
       "startedAt": "2026-10-05T05:02:40Z",
       "regionRestriction": null
     },
@@ -196,32 +148,8 @@
           "url": "https://i.ytimg.com/vi/z0nHA8i4j2M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 282,
+      "concurrentViewers": 289,
       "startedAt": "2026-10-04T06:36:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "wUzEYfTLW6c",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Nobel Prize in medicine 2026 announcement",
-      "description": "Watch live as this year's Nobel Prizes kick off with the announcement of the medicine prize winner at the Karolinska Institute in Stockholm, Sweden.\n\n#nobelprize #live #medicine",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wUzEYfTLW6c/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wUzEYfTLW6c/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wUzEYfTLW6c/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 569,
-      "startedAt": "2026-10-05T09:05:37Z",
       "regionRestriction": null
     },
     {
@@ -244,7 +172,7 @@
           "url": "https://i.ytimg.com/vi/OhCm-BA1_30/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 80,
+      "concurrentViewers": 76,
       "startedAt": "2026-10-05T08:45:51Z",
       "regionRestriction": null
     },
@@ -268,7 +196,7 @@
           "url": "https://i.ytimg.com/vi/DeYDv9mE2WU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 32,
       "startedAt": "2026-10-05T05:51:00Z",
       "regionRestriction": null
     },
@@ -292,7 +220,7 @@
           "url": "https://i.ytimg.com/vi/6hudtwQSJLw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 32,
       "startedAt": "2026-10-05T06:48:38Z",
       "regionRestriction": null
     },
@@ -316,32 +244,8 @@
           "url": "https://i.ytimg.com/vi/C-rKfYhw3YQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 59,
+      "concurrentViewers": 78,
       "startedAt": "2026-10-05T09:24:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "NHq1XlevJjA",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Russia Plague LIVE News | Russia Plague Outbreak | Russian Lab Worker Dies, Hundreds Quarantined",
-      "description": "At least five hospitals have been shut and hundreds quarantined after a 28-year-old laboratory technician reportedly died of plague in the remote Siberian region of Irkutsk in Russia.The incident occurred at the Anti-Plague Research Institute in Shelekhov and the technician, identified as Darya Shi…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 57,
-      "startedAt": "2026-10-05T09:37:25Z",
       "regionRestriction": null
     },
     {
@@ -364,8 +268,32 @@
           "url": "https://i.ytimg.com/vi/P0Z-IsTaABY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 47,
       "startedAt": "2026-10-05T09:51:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NHq1XlevJjA",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Russia Plague LIVE News | Russia Plague Outbreak | Russian Lab Worker Dies, Hundreds Quarantined",
+      "description": "At least five hospitals have been shut and hundreds quarantined after a 28-year-old laboratory technician reportedly died of plague in the remote Siberian region of Irkutsk in Russia.The incident occurred at the Anti-Plague Research Institute in Shelekhov and the technician, identified as Darya Shi…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 44,
+      "startedAt": "2026-10-05T09:37:25Z",
       "regionRestriction": null
     },
     {
@@ -388,7 +316,7 @@
           "url": "https://i.ytimg.com/vi/cGKIIGuK8Zk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 881,
+      "concurrentViewers": 794,
       "startedAt": "2026-10-05T08:12:05Z",
       "regionRestriction": null
     },
@@ -412,7 +340,7 @@
           "url": "https://i.ytimg.com/vi/6W4bhjD8vgI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 309,
+      "concurrentViewers": 228,
       "startedAt": "2026-10-05T07:40:27Z",
       "regionRestriction": null
     },
@@ -436,15 +364,15 @@
           "url": "https://i.ytimg.com/vi/F2pdg2QD5AE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 43,
       "startedAt": "2026-10-05T07:54:50Z",
       "regionRestriction": null
     },
     {
       "videoId": "g8ccNsYS0q8",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "BJP List For Rajya Sabha Election LIVE राज्यसभा के लिए बीजेपी की लिस्ट जारी  | UP News | Politics",
-      "description": "उत्तर प्रदेश से राज्यसभा चुनाव के लिए बीजेपी ने धर्मपाल सिंह, राधाकांत ओझा, प्रकाश पाल, विद्याशंकर सोनकर, गोपी कृष्ण पांडेय, प्रियंका सिंह रावत, राम प्रताप सिंह चौहान और श्रुति गंगवार को उम्मीदवार बनाया है.\n\n#rajyasabhaelection #BJP #UPNews #upelection2027 #Politics #Aajtak \n\nआजतक के साथ देखिये देश…",
+      "title": "BJP List For UP Rajya Sabha Election LIVE: बीजेपी की 8 उम्मीदवारों की लिस्ट जारी | UP Election 2027",
+      "description": "उत्तर प्रदेश से राज्यसभा चुनाव के लिए बीजेपी ने 8 उम्मीदवारों के नामों का ऐलान किया है. पार्टी ने धर्मपाल सिंह, राधाकांत ओझा, प्रकाश पाल, विद्यासागर सोनकर, गोपी कृष्ण पांडेय, प्रियंका सिंह रावत, राम प्रताप सिंह चौहान और श्रुति गंगवार को उम्मीदवार बनाया है.\n\n#uprajyasabhaelection #bjpcandidateslist …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -460,7 +388,7 @@
           "url": "https://i.ytimg.com/vi/g8ccNsYS0q8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2310,
+      "concurrentViewers": 2031,
       "startedAt": "2026-10-05T09:46:55Z",
       "regionRestriction": null
     },
@@ -484,7 +412,7 @@
           "url": "https://i.ytimg.com/vi/eBt_R9CI1oM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1522,
+      "concurrentViewers": 611,
       "startedAt": "2026-10-05T07:33:29Z",
       "regionRestriction": null
     },
@@ -508,7 +436,7 @@
           "url": "https://i.ytimg.com/vi/DSaEsf9m1JY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 521,
+      "concurrentViewers": 174,
       "startedAt": "2026-10-05T07:47:49Z",
       "regionRestriction": null
     }
