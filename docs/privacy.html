@@ -35,12 +35,11 @@
 <p>The app shows ads served by Google AdMob. Google and its advertising partners, not the app's developer, may process information such as your device's advertising identifier, IP address, device and app information and ad interactions to deliver and personalize ads, measure their performance, prevent fraud and abuse, and for other purposes described in Google's policies. See <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from sites or apps that use its services</a> and <a href="https://policies.google.com/technologies/ads">Google's advertising policy</a>.</p>
 <p>The app uses Google's User Messaging Platform for consent. The app does not initialize the ads SDK or request ads until that consent flow reports that ads may be requested, either because you gave consent or because consent is not required where you are. The consent flow itself contacts Google to determine whether a consent message applies to you. Where the message is shown (for example in the European Economic Area and the United Kingdom) you can review or change your choice later in <em>Settings → Ad privacy settings</em>.</p>
 
-<h2>Analytics and crash reports (Firebase)</h2>
-<p>The app includes Firebase Analytics and Firebase Crashlytics (Google services). They are switched off when the app starts and are turned on only after the same consent flow reports that data may be used; if you withdraw consent they are turned off again.</p>
+<h2>Analytics (Firebase)</h2>
+<p>The app includes Firebase Analytics (a Google service). It is switched off when the app starts and is turned on only after the same consent flow reports that data may be used; if you withdraw consent it is turned off again.</p>
 <ul>
   <li><strong>Collected automatically by Firebase:</strong> such as device model, operating system version, app version, language, approximate location derived from your IP address, app usage events (for example app opens and screen views) and a Firebase app-instance identifier.</li>
-  <li><strong>Sent by the app itself:</strong> when an unexpected error is handled, the app records it (error description and stack trace) in Crashlytics. The app does not send custom analytics events, user identifiers or account information.</li>
-  <li>Crash reports from crashes are collected by Crashlytics together with technical device information.</li>
+  <li><strong>Sent by the app itself:</strong> nothing. The app does not send custom analytics events, user identifiers or account information, and it does not collect crash reports.</li>
 </ul>
 <p>See <a href="https://firebase.google.com/support/privacy">Firebase privacy information</a>.</p>
 
