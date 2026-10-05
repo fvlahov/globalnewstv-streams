@@ -21,7 +21,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Check out the branch head, not the triggering commit: a run that waited in the queue would
+      # otherwise start from an older commit than the one the previous run just pushed.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
       - uses: actions/setup-node@v4
         with:
@@ -51,7 +55,13 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/streams.json
             git commit -m "Update streams"
-            git push
+            # If another run pushed first, replay this (fully generated) file on top of it.
+            for attempt in 1 2 3; do
+              git push && exit 0
+              git pull --rebase -X theirs origin "$GITHUB_REF_NAME" || git rebase --abort
+            done
+            echo "Could not push after 3 attempts" >&2
+            exit 1
           else
             echo "docs/streams.json unchanged"
           fi
