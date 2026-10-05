@@ -165,6 +165,28 @@ describe('resolveStreams', () => {
     assert.equal(state[a.id].searchedAt, NOW.toISOString());
   });
 
+  it('searches a never-searched idle channel without waiting for the next scan', async () => {
+    const a = chan(1);
+    const client = fakeClient({ videos: [video('found', a)], search: { [a.id]: ['found'] } });
+    // Scanned 10 minutes ago (so no scan is due), but never searched.
+    const previous = { streams: [], state: { [a.id]: { checkedAt: minutesAgo(10) } } };
+    const { streams } = await resolveStreams({ channels: [a], previous, client, now: NOW });
+    assert.deepEqual(client.calls.uploads, [], 'no scan was due');
+    assert.deepEqual(client.calls.search, [a.id]);
+    assert.deepEqual(streams.map((s) => s.videoId), ['found']);
+  });
+
+  it('does not search an already-searched channel when no scan is due', async () => {
+    const a = chan(1);
+    const client = fakeClient({});
+    const previous = {
+      streams: [],
+      state: { [a.id]: { checkedAt: minutesAgo(10), searchedAt: minutesAgo(60 * 30) } },
+    };
+    await resolveStreams({ channels: [a], previous, client, now: NOW });
+    assert.deepEqual(client.calls.search, []);
+  });
+
   it('respects the per-run search budget', async () => {
     const chans = [1, 2, 3].map((n) => chan(n));
     const client = fakeClient({});

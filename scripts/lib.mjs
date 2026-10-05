@@ -237,8 +237,12 @@ export async function resolveStreams({
   //    Set "searchFallback": false on a channel in channels.json to opt it out.
   let budget = o.searchBudget;
   const searchedChannelOf = new Map();
-  for (const channel of scanned) {
+  const scannedIds = new Set(scanned.map((c) => c.id));
+  for (const channel of channels) {
     if (channel.searchFallback === false || live.get(channel.id).size > 0 || budget <= 0) continue;
+    // Search after a scan found nothing, or right away if this channel was never searched
+    // (otherwise a new channel would wait for the idle-rescan interval before its first search).
+    if (!scannedIds.has(channel.id) && state[channel.id].searchedAt) continue;
     if (minutesSince(state[channel.id].searchedAt) < o.searchRetryHours * 60) continue;
     budget--;
     state[channel.id].searchedAt = now.toISOString();
