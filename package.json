@@ -1,0 +1,11 @@
+{
+  "name": "globalnewstv-streams",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "resolve": "node scripts/resolve.mjs",
+    "dry-run": "node scripts/resolve.mjs --dry-run"
+  }
+}

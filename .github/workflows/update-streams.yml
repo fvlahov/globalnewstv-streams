@@ -1,0 +1,57 @@
+name: Update streams
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [channels.json, scripts/**, .github/workflows/update-streams.yml]
+
+permissions:
+  contents: write
+
+# Never run two updates at once: they would race on the cache and the push.
+concurrency:
+  group: update-streams
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Scheduled runs skip the tests: a failing test must not stop the data from refreshing.
+      - name: Test
+        if: github.event_name != 'schedule'
+        run: node --test
+
+      # Remembers when each channel was last scanned, to save quota. A cache miss only costs a few extra units.
+      - uses: actions/cache@v4
+        with:
+          path: .state
+          key: state-${{ github.run_id }}
+          restore-keys: state-
+
+      - name: Resolve live streams
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/resolve.mjs
+
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain docs/streams.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/streams.json
+            git commit -m "Update streams"
+            git push
+          else
+            echo "docs/streams.json unchanged"
+          fi
