@@ -19,7 +19,7 @@
 <p>Global News TV ("the app") lists live news streams that news channels publish on YouTube and plays them in an embedded YouTube player. This page explains what information the app and the third-party services built into it handle.</p>
 
 <h2>Who handles what</h2>
-<p>The app has no accounts, no sign-in and no backend server of its own, and the developer does not receive your personal information. However, third-party services that the app uses or connects to may process information about you independently, under their own policies: <strong>YouTube and Google</strong> (video playback, advertising, consent management), <strong>Firebase</strong> (analytics and crash reports, a Google service) and <strong>GitHub</strong> (which hosts the stream list). Each is described below.</p>
+<p>The app has no accounts, no sign-in and no backend server of its own, and the developer does not receive your personal information. However, third-party services that the app uses or connects to may process information about you independently, under their own policies: <strong>YouTube and Google</strong> (video playback, advertising, consent management) and <strong>GitHub</strong> (which hosts the stream list). Each is described below.</p>
 
 <h2>What is stored on your device</h2>
 <p>Your favorite channels, filter choices (country, language, category) and theme choice are stored locally on your device. They are not intentionally transmitted by the app. Depending on your device settings, the operating system may include app data in its own backups (for example Android's backup to your Google account or iOS device backups). These settings are removed from the app's local storage when you uninstall the app, subject to your device's backup and restore features.</p>
@@ -35,13 +35,8 @@
 <p>The app shows ads served by Google AdMob. Google and its advertising partners, not the app's developer, may process information such as your device's advertising identifier, IP address, device and app information and ad interactions to deliver and personalize ads, measure their performance, prevent fraud and abuse, and for other purposes described in Google's policies. See <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from sites or apps that use its services</a> and <a href="https://policies.google.com/technologies/ads">Google's advertising policy</a>.</p>
 <p>The app uses Google's User Messaging Platform for consent. The app does not initialize the ads SDK or request ads until that consent flow reports that ads may be requested, either because you gave consent or because consent is not required where you are. The consent flow itself contacts Google to determine whether a consent message applies to you. Where the message is shown (for example in the European Economic Area and the United Kingdom) you can review or change your choice later in <em>Settings → Ad privacy settings</em>.</p>
 
-<h2>Analytics (Firebase)</h2>
-<p>The app includes Firebase Analytics (a Google service). It is switched off when the app starts and is turned on only after the same consent flow reports that data may be used; if you withdraw consent it is turned off again.</p>
-<ul>
-  <li><strong>Collected automatically by Firebase:</strong> such as device model, operating system version, app version, language, approximate location derived from your IP address, app usage events (for example app opens and screen views) and a Firebase app-instance identifier.</li>
-  <li><strong>Sent by the app itself:</strong> nothing. The app does not send custom analytics events, user identifiers or account information, and it does not collect crash reports.</li>
-</ul>
-<p>See <a href="https://firebase.google.com/support/privacy">Firebase privacy information</a>.</p>
+<h2>Analytics and crash reports</h2>
+<p>The app does not include any analytics or crash-reporting library. (Ad measurement by Google AdMob is described under Advertising above.)</p>
 
 <h2>Platform-specific notes</h2>
 <ul>
@@ -54,7 +49,7 @@
 
 <h2>Your choices</h2>
 <ul>
-  <li>Review or change ad and data consent in <em>Settings → Ad privacy settings</em> (shown where it applies).</li>
+  <li>Review or change your ad consent in <em>Settings → Ad privacy settings</em> (shown where it applies).</li>
   <li>Reset your advertising identifier or limit ad tracking in your device settings.</li>
   <li>Uninstall the app to remove its locally stored settings (see the note on backups above).</li>
 </ul>
