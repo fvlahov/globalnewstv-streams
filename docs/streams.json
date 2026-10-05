@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T10:37:40.617Z",
+  "generatedAt": "2026-10-05T10:38:58.371Z",
   "streams": [
     {
       "videoId": "WNUrTFC4q7A",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/WNUrTFC4q7A/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 463,
+      "concurrentViewers": 457,
       "startedAt": "2026-10-05T09:02:40Z",
       "regionRestriction": {
         "blocked": [
@@ -52,7 +52,7 @@
           "url": "https://i.ytimg.com/vi/Cl3iGZfyJkQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 145,
+      "concurrentViewers": 135,
       "startedAt": "2026-10-05T08:36:00Z",
       "regionRestriction": null
     },
@@ -76,7 +76,7 @@
           "url": "https://i.ytimg.com/vi/6gOlJyTZHzw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1393,
+      "concurrentViewers": 1320,
       "startedAt": "2026-10-05T08:25:51Z",
       "regionRestriction": null
     },
@@ -100,7 +100,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 534,
+      "concurrentViewers": 523,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -124,7 +124,7 @@
           "url": "https://i.ytimg.com/vi/E25NzQmNlcM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 23,
       "startedAt": "2026-10-05T07:28:44Z",
       "regionRestriction": null
     },
@@ -148,7 +148,7 @@
           "url": "https://i.ytimg.com/vi/fBA1N_haXi0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-05T05:02:40Z",
       "regionRestriction": null
     },
@@ -172,7 +172,7 @@
           "url": "https://i.ytimg.com/vi/_sKZFIZvwP8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1462,
+      "concurrentViewers": 1499,
       "startedAt": "2026-10-02T21:58:14Z",
       "regionRestriction": null
     },
@@ -196,7 +196,7 @@
           "url": "https://i.ytimg.com/vi/D5fkCngw8zU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1067,
+      "concurrentViewers": 1110,
       "startedAt": "2026-10-05T09:58:36Z",
       "regionRestriction": null
     },
@@ -220,8 +220,128 @@
           "url": "https://i.ytimg.com/vi/z0nHA8i4j2M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 301,
+      "concurrentViewers": 300,
       "startedAt": "2026-10-04T06:36:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "N3GJ8o_qZHQ",
+      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
+      "title": "NEWSMAX2 LIVE | Real News for Real People",
+      "description": "Watch NEWSMAX2 LIVE for the latest news and analysis on today's top stories from your favorite NEWSMAX personalities.\n\nNEWSMAX2 WEEKDAY SCHEDULE: \n7 AM ET - First Edition\n9 AM ET - News Now\n10 AM ET - The Wendy Bell Show\n11 AM ET – National Update\nNoon ET - John Bachman Now\n2 PM ET - The National D…",
+      "channelTitle": "Newsmax",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 207,
+      "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QB5BNdBFujE",
+      "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+      "title": "Bloomberg Business News Live",
+      "description": "Programming schedule (EST):\n12:00 AM - 5:00 AM: Bloomberg Global Business News\n5:00 AM - 6:00 AM Bloomberg Brief\n6:00 AM - 9:00 AM: Bloomberg Surveillance\n9:00 AM - 10:00 AM: Bloomberg Open Interest\n10:00 AM - 12:00 PM: Bloomberg Intelligence\n12:00 PM - 2:00 PM: Balance of Power\n2:00 PM - 5:00 PM: …",
+      "channelTitle": "Bloomberg Television",
+      "country": "US",
+      "language": "en",
+      "category": "business",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 7310,
+      "startedAt": "2026-06-14T10:32:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "9NyxcX3rhQs",
+      "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "title": "LIVE: CNBC Marathon - Documentaries and deep dives 24/7",
+      "description": "From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focused on making you smarter about how you earn, save and spend your money and more.\n\n» Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n» Subscribe…",
+      "channelTitle": "CNBC",
+      "country": "US",
+      "language": "en",
+      "category": "business",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2022-11-07T15:56:41Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "LuKwFajn37U",
+      "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+      "title": "DW News livestream | Headline news from around the world",
+      "description": "DW News goes deep beneath the surface, providing the key stories from Europe and around the world.\nExciting reports and interviews from the worlds of politics, business, sports, culture and social media are presented by our DW anchors in 15-, 30- and 60-minute shows.\nCorrespondents on the ground an…",
+      "channelTitle": "DW News",
+      "country": "DE",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LuKwFajn37U/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LuKwFajn37U/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 328,
+      "startedAt": "2025-03-31T17:50:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "HvZt-nh9sGg",
+      "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "title": "FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream",
+      "description": "🔴 Watch FRANCE 24 live in English on YouTube for free: all the latest International News broadcasted from Paris, France. \r\n\r\n🔔 Subscribe to France 24 now: https://f24.my/YTen \r\n\r\n💬 Feel free to comment and react to the news in the #LiveF24 chat.\r\nHowever, this discussion thread must remain a pla…",
+      "channelTitle": "FRANCE 24 English",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1317,
+      "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
     {
@@ -244,7 +364,7 @@
           "url": "https://i.ytimg.com/vi/OhCm-BA1_30/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 87,
+      "concurrentViewers": 93,
       "startedAt": "2026-10-05T08:45:51Z",
       "regionRestriction": null
     },
@@ -316,7 +436,7 @@
           "url": "https://i.ytimg.com/vi/C-rKfYhw3YQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 54,
+      "concurrentViewers": 60,
       "startedAt": "2026-10-05T09:24:40Z",
       "regionRestriction": null
     },
@@ -340,7 +460,7 @@
           "url": "https://i.ytimg.com/vi/P0Z-IsTaABY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 54,
+      "concurrentViewers": 45,
       "startedAt": "2026-10-05T09:51:16Z",
       "regionRestriction": null
     },
@@ -364,7 +484,7 @@
           "url": "https://i.ytimg.com/vi/NHq1XlevJjA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 34,
       "startedAt": "2026-10-05T09:37:25Z",
       "regionRestriction": null
     },
@@ -412,7 +532,7 @@
           "url": "https://i.ytimg.com/vi/6W4bhjD8vgI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 194,
+      "concurrentViewers": 185,
       "startedAt": "2026-10-05T07:40:27Z",
       "regionRestriction": null
     },
@@ -436,7 +556,7 @@
           "url": "https://i.ytimg.com/vi/F2pdg2QD5AE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 44,
+      "concurrentViewers": 42,
       "startedAt": "2026-10-05T07:54:50Z",
       "regionRestriction": null
     },
@@ -460,7 +580,7 @@
           "url": "https://i.ytimg.com/vi/g8ccNsYS0q8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1734,
+      "concurrentViewers": 1618,
       "startedAt": "2026-10-05T09:46:55Z",
       "regionRestriction": null
     },
@@ -484,7 +604,7 @@
           "url": "https://i.ytimg.com/vi/eBt_R9CI1oM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 524,
+      "concurrentViewers": 554,
       "startedAt": "2026-10-05T07:33:29Z",
       "regionRestriction": null
     },
@@ -508,7 +628,7 @@
           "url": "https://i.ytimg.com/vi/DSaEsf9m1JY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 158,
       "startedAt": "2026-10-05T07:47:49Z",
       "regionRestriction": null
     }
