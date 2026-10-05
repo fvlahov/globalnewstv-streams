@@ -150,10 +150,10 @@ describe('resolveStreams', () => {
     assert.deepEqual(client.calls.videos, [], 'nothing to verify');
   });
 
-  it('uses search only for opted-in channels, within budget and retry interval', async () => {
-    const a = chan(1, { searchFallback: true });
-    const b = chan(2); // not opted in
-    const d = chan(3, { searchFallback: true }); // searched recently
+  it('uses search unless opted out, and not within the retry interval', async () => {
+    const a = chan(1);
+    const b = chan(2, { searchFallback: false }); // opted out
+    const d = chan(3); // searched recently
     const client = fakeClient({ videos: [video('found', a)], search: { [a.id]: ['found'] } });
     const previous = {
       streams: [],
@@ -166,7 +166,7 @@ describe('resolveStreams', () => {
   });
 
   it('respects the per-run search budget', async () => {
-    const chans = [1, 2, 3].map((n) => chan(n, { searchFallback: true }));
+    const chans = [1, 2, 3].map((n) => chan(n));
     const client = fakeClient({});
     await resolveStreams({ channels: chans, client, now: NOW, options: { searchBudget: 2 } });
     assert.equal(client.calls.search.length, 2);

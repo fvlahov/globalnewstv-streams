@@ -48,7 +48,7 @@ Edit [`channels.json`](channels.json) and push; the workflow re-runs on its own.
 | `country` | ISO 3166-1 alpha-2, or `INT` for international. |
 | `language` | ISO 639-1. |
 | `category` | Free text used by the app for filtering, e.g. `general`, `business`. |
-| `searchFallback` | Optional, `true` to use `search.list` (100 units) when the live stream can't be found in the channel's recent uploads. Use sparingly; capped at 2 searches per run and 1 per channel per day. |
+| `searchFallback` | Optional, set `false` to opt a channel out of `search.list` (100 units), which is used when no live stream is found in the channel's recent uploads. Capped at 6 searches per run and 1 per channel per day. |
 
 ## Output format
 
@@ -78,14 +78,18 @@ app's existing model keeps working. `regionRestriction` is YouTube's `allowed`/`
 
 ## How it saves quota
 
-Default quota is 10,000 units/day. `search.list` costs 100 units, so it is avoided. Instead each run:
+Default quota is 10,000 units/day. `search.list` costs 100 units, so it is a last resort. Each run:
 
 1. **Re-verifies** last run's live videos with `videos.list` (1 unit per 50 videos).
 2. **Scans a channel's uploads** (`playlistItems.list`, 1 unit) only when needed: when it just lost its stream,
    when it has been idle for 3 hours, or when it is live but hasn't been re-scanned for 12 hours.
+3. **Searches** (100 units) only for channels where nothing live turned up, at most once per channel per day.
+   24/7 streams are often older than a channel's 50 newest uploads, so search is how those are found.
+   Once found, a stream is re-verified for 1/50 of a unit per run, so searching stops.
 
-A typical run costs a handful of units; a full scan of every channel costs about 2 units per channel. Tune the
-intervals in `DEFAULTS` in [`scripts/lib.mjs`](scripts/lib.mjs). Each run prints the units it used.
+A typical run costs a handful of units; a full scan of every channel costs about 2 units per channel. A channel
+that is genuinely never live costs 100 units/day, so with a few hundred channels, opt dead ones out with
+`"searchFallback": false` or the daily quota will run out. Tune the intervals in `DEFAULTS` in [`scripts/lib.mjs`](scripts/lib.mjs). Each run prints the units it used.
 
 ## Policy notes
 

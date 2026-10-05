@@ -3,7 +3,8 @@
 // Quota (YouTube Data API v3, 10,000 free units/day):
 //   videos.list        1 unit per call, up to 50 ids
 //   playlistItems.list 1 unit per call
-//   search.list      100 units per call  -> opt-in per channel, tightly budgeted
+//   search.list      100 units per call  -> only for channels with no live stream found in their uploads,
+//                                           at most once a day per channel and a few per run
 
 const API = 'https://www.googleapis.com/youtube/v3';
 
@@ -14,7 +15,8 @@ export const DEFAULTS = {
   // A channel that is live is still re-scanned this often to discover extra/replacement streams.
   discoveryHours: 12,
   // search.list calls allowed per run, and per channel retry interval.
-  searchBudget: 2,
+  // 24/7 streams are often older than a channel's 50 most recent uploads, so search is how they are found.
+  searchBudget: 6,
   searchRetryHours: 24,
 };
 
@@ -231,11 +233,12 @@ export async function resolveStreams({
   await verify([...candidateChannelOf.keys()], candidateChannelOf);
   for (const channel of scanned) state[channel.id].checkedAt = now.toISOString();
 
-  // 4. Opt-in, budgeted search fallback for channels whose live stream is buried in their uploads.
+  // 4. Budgeted search fallback for channels whose live stream is buried in their uploads.
+  //    Set "searchFallback": false on a channel in channels.json to opt it out.
   let budget = o.searchBudget;
   const searchedChannelOf = new Map();
   for (const channel of scanned) {
-    if (!channel.searchFallback || live.get(channel.id).size > 0 || budget <= 0) continue;
+    if (channel.searchFallback === false || live.get(channel.id).size > 0 || budget <= 0) continue;
     if (minutesSince(state[channel.id].searchedAt) < o.searchRetryHours * 60) continue;
     budget--;
     state[channel.id].searchedAt = now.toISOString();
