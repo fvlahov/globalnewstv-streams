@@ -1,83 +1,53 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T10:38:58.371Z",
+  "generatedAt": "2026-10-05T19:11:26.280Z",
   "streams": [
     {
-      "videoId": "WNUrTFC4q7A",
+      "videoId": "H1sZWx3MxLI",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Southport Inquiry | Opening statements of phase two",
-      "description": "Opening statements begin in phase two of the independent public inquiry into the Southport killings, chaired by Sir Adrian Fulford. \n\nThe statutory inquiry considers the circumstances surrounding the attack, in which then-17-year-old Axel Rudakubana murdered Elsie Dot Stancombe, Bebe King, and Alic…",
+      "title": "US government explains decision to withdraw bombers from RAF Fairford | The UK Tonight",
+      "description": "Join Sarah-Jane Mee for the latest on the news across the country, as US Secretary of State Marco Rubio says the removal of US bombers from RAF Fairford is not directly connected to the arrests of five men near the base.\n\nUS Vice President JD Vance said the decision to remove the US bombers was tak…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WNUrTFC4q7A/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/H1sZWx3MxLI/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WNUrTFC4q7A/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/H1sZWx3MxLI/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WNUrTFC4q7A/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/H1sZWx3MxLI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 457,
-      "startedAt": "2026-10-05T09:02:40Z",
-      "regionRestriction": {
-        "blocked": [
-          "CU",
-          "KP",
-          "RU"
-        ]
-      }
-    },
-    {
-      "videoId": "Cl3iGZfyJkQ",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Conservative Party conference in Birmingham",
-      "description": "Full coverage of speeches in the main hall at the annual Conservative Party conference in Birmingham.\n\nFollow live ➡️ https://news.sky.com/story/politics-latest-burnham-labour-conference-social-care-12593360\n\n#Conservative #Conservatives #Birmingham #Politics #UKPolitics #KemiBadenoch #SkyNews #Liv…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Cl3iGZfyJkQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Cl3iGZfyJkQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Cl3iGZfyJkQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 135,
-      "startedAt": "2026-10-05T08:36:00Z",
+      "concurrentViewers": 340,
+      "startedAt": "2026-10-05T18:48:27Z",
       "regionRestriction": null
     },
     {
-      "videoId": "6gOlJyTZHzw",
+      "videoId": "4taFyUa9IsQ",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Britain's Newsroom | Monday 5th October",
-      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "title": "Jacob Rees-Mogg's State Of The Nation | Monday 5th October",
+      "description": "Join Jacob for his unique and unmissable take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6gOlJyTZHzw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4taFyUa9IsQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6gOlJyTZHzw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4taFyUa9IsQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6gOlJyTZHzw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4taFyUa9IsQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1320,
-      "startedAt": "2026-10-05T08:25:51Z",
+      "concurrentViewers": 258,
+      "startedAt": "2026-10-05T19:02:03Z",
       "regionRestriction": null
     },
     {
@@ -100,32 +70,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 523,
+      "concurrentViewers": 85,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "E25NzQmNlcM",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Students protest in Paris over school conditions and funding",
-      "description": "Protest outside Turgot high school in the 9th arrondissement of Paris during an ongoing protest movement against conditions and funding.\n \nThe student protest movement that has spread across France is now 'out of control,' the Paris police chief said on October 3, urging demonstrators to return to …",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E25NzQmNlcM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E25NzQmNlcM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E25NzQmNlcM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-05T07:28:44Z",
       "regionRestriction": null
     },
     {
@@ -148,14 +94,14 @@
           "url": "https://i.ytimg.com/vi/fBA1N_haXi0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2,
+      "concurrentViewers": 6,
       "startedAt": "2026-10-05T05:02:40Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_sKZFIZvwP8",
+      "videoId": "65o-WfaOkvQ",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 5",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -163,17 +109,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_sKZFIZvwP8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/65o-WfaOkvQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_sKZFIZvwP8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/65o-WfaOkvQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_sKZFIZvwP8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/65o-WfaOkvQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1499,
-      "startedAt": "2026-10-02T21:58:14Z",
+      "concurrentViewers": 3189,
+      "startedAt": "2026-10-05T10:58:14Z",
       "regionRestriction": null
     },
     {
@@ -196,8 +142,32 @@
           "url": "https://i.ytimg.com/vi/D5fkCngw8zU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1110,
+      "concurrentViewers": 1566,
       "startedAt": "2026-10-05T09:58:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GNImoRf-VyI",
+      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
+      "channelTitle": "CBS News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GNImoRf-VyI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GNImoRf-VyI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GNImoRf-VyI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 644,
+      "startedAt": "2026-10-05T11:00:00Z",
       "regionRestriction": null
     },
     {
@@ -220,7 +190,7 @@
           "url": "https://i.ytimg.com/vi/z0nHA8i4j2M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 300,
+      "concurrentViewers": 713,
       "startedAt": "2026-10-04T06:36:59Z",
       "regionRestriction": null
     },
@@ -244,8 +214,56 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 207,
+      "concurrentViewers": 1217,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Mth7O5qnYlk",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Former 'American Idol' singer Caleb Flynn sentencing for murder",
+      "description": "Watch live as Caleb Flynn, a former Ohio music pastor who once appeared on “American Idol,” is scheduled to be sentenced for murder. He has been convicted for the killing of his wife while he was having an affair. Flynn had said she was shot by a burglar.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mth7O5qnYlk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mth7O5qnYlk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mth7O5qnYlk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1213,
+      "startedAt": "2026-10-05T18:40:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_Yl73PhMtm8",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Former Anthropic researcher testifies on AI at New York City Council",
+      "description": "Watch live as former Anthropic researcher Jacob Coxon and others testify on AI at a New York City Council hearing.\n\n#anthropic #ai #newyork",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_Yl73PhMtm8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_Yl73PhMtm8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_Yl73PhMtm8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 281,
+      "startedAt": "2026-10-05T15:13:01Z",
       "regionRestriction": null
     },
     {
@@ -268,7 +286,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7310,
+      "concurrentViewers": 5389,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -292,7 +310,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 34,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -316,7 +334,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 328,
+      "concurrentViewers": 468,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -340,8 +358,104 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1317,
+      "concurrentViewers": 1323,
       "startedAt": "2026-05-27T10:26:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "a47ckXKZjxI",
+      "channelId": "UCCCPCZNChQdGa9EkATeye4g",
+      "title": "FRANCE 24 – EN DIRECT – Info et actualités internationales en continu 24h/24",
+      "description": "🔴 Regardez FRANCE 24 en français en direct gratuitement et en streaming sur YouTube. Suivez toutes les infos du monde en continu.\n\r\n🔔 Abonnez-vous à notre chaîne sur YouTube : https://f24.my/YTfr\r\n\r\n💬 Commentez l'actualité du jour sur le chat #DirectF24 !\r\nPartagez vos commentaires et réactions …",
+      "channelTitle": "FRANCE 24",
+      "country": "FR",
+      "language": "fr",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 6594,
+      "startedAt": "2026-05-27T20:56:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NiRIbKwAejk",
+      "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
+      "title": "Euronews français en direct",
+      "description": "Abonnez-vous à notre chaîne : https://bit.ly/SubscribeEuronewsFrançais\n\n▶︎ Regarder Euronews en direct sur Youtube dans d'autres langues:\n🇬🇧 Euronews live in English: https://www.youtube.com/c/euronews/live\n🇪🇸 Euronews en directo en Español: https://www.youtube.com/c/euronewses/live\n🇩🇪 Eurone…",
+      "channelTitle": "euronews (en français)",
+      "country": "FR",
+      "language": "fr",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 86,
+      "startedAt": "2022-09-19T16:38:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qBe59l6p_EU",
+      "channelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+      "title": "LIVE: Watch TRT World",
+      "description": "At TRT World we're building a global community focused around change. We’re looking beyond the headlines to drive meaningful conversations that empower. We want to connect people across the globe to issues that matter. We explore the reality behind the hashtags and the people behind the statistics.…",
+      "channelTitle": "TRT World",
+      "country": "TR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 177,
+      "startedAt": "2026-09-27T09:26:01Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NQjabLGdP5g",
+      "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
+      "title": "Africanews english Live",
+      "description": "Africanews on YouTube brings you a daily dose of news, produced by Africans for Africans.\nAfricanews is the first pan-African multilingual media outlet, unique in its concept and vision.\nSubscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the c…",
+      "channelTitle": "africanews",
+      "country": "INT",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 42,
+      "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
@@ -364,7 +478,7 @@
           "url": "https://i.ytimg.com/vi/OhCm-BA1_30/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 17,
       "startedAt": "2026-10-05T08:45:51Z",
       "regionRestriction": null
     },
@@ -388,159 +502,87 @@
           "url": "https://i.ytimg.com/vi/6hudtwQSJLw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 16,
       "startedAt": "2026-10-05T06:48:38Z",
       "regionRestriction": null
     },
     {
-      "videoId": "DeYDv9mE2WU",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War: Russian Drone Strikes Choke Kyiv, Bridges Hit In Overnight Attack | WION",
-      "description": "Russia-Ukraine War: Russian Drone Strikes Choke Kyiv, Bridges Hit In Overnight Attack | WION\n\nRussian drone strikes have targeted Kyiv amid a fresh escalation in the Russia-Ukraine war. Key bridges in and around the Ukrainian capital were reportedly hit, disrupting movement across the city. The str…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DeYDv9mE2WU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DeYDv9mE2WU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DeYDv9mE2WU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 31,
-      "startedAt": "2026-10-05T05:51:00Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "C-rKfYhw3YQ",
+      "videoId": "KYmyzrPOiTg",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: SC On Gyanesh Kumar Row | \"Need Poll Body's Response\": SC On Plea Against CEC Gyanesh Kumar",
-      "description": "The Supreme Court on Monday made it clear: it cannot pass an order based on a newspaper report, and will need a response from the Election Commission before deciding if the Chief Election Commissioner Gyanesh Kumar can single-handedly exercise powers constitutionally designated for the entire multi…",
+      "title": "France Protest LIVE: 440+ Detained As Education Anger Explodes | France Protest LIVE | Paris LIVE",
+      "description": "France is witnessing a growing wave of student unrest as demonstrations over education funding, overcrowded classrooms, teacher shortages and deteriorating school infrastructure spread across the country. What began in the Paris region has now expanded to multiple cities, with high-school and unive…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/C-rKfYhw3YQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/KYmyzrPOiTg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/C-rKfYhw3YQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KYmyzrPOiTg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/C-rKfYhw3YQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KYmyzrPOiTg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 60,
-      "startedAt": "2026-10-05T09:24:40Z",
+      "concurrentViewers": 47,
+      "startedAt": "2026-10-05T19:06:03Z",
       "regionRestriction": null
     },
     {
-      "videoId": "P0Z-IsTaABY",
+      "videoId": "yyH7zGotYoE",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: BJP Rajya Sabha List From Uttar Pradesh Announced | 8 Candidates Announced By BJP | RS Polls",
-      "description": "LIVE: BJP Rajya Sabha List From Uttar Pradesh Announced | 8 Candidates Announced By BJP | RS Polls  \n\n#UttarPradesh #BJP #RajyaSabha \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within I…",
+      "title": "Flydubai Cockpit Attack: How Many Hammamis On Duty? | India Matters With Shiv Aroor",
+      "description": "Flydubai Cockpit Attack: How Many Hammamis On Duty? | India Matters With Shiv Aroor\n\n#Flydubai #FlydubaiAttack #CaptainSmitMachchhar #CockpitAttack #AviationSecurity #AviationNews #FlightSafety #Oman #CoPilot #AircraftSecurity #Terrorism #Extremism #InternationalNews #NDTVWorld \n\nAbout NDTV (Englis…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/P0Z-IsTaABY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/yyH7zGotYoE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/P0Z-IsTaABY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/yyH7zGotYoE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/P0Z-IsTaABY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/yyH7zGotYoE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 45,
-      "startedAt": "2026-10-05T09:51:16Z",
+      "concurrentViewers": 17,
+      "startedAt": "2026-10-05T15:33:31Z",
       "regionRestriction": null
     },
     {
-      "videoId": "NHq1XlevJjA",
+      "videoId": "4M0yptEKSSE",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Russia Plague LIVE News | Russia Plague Outbreak | Russian Lab Worker Dies, Hundreds Quarantined",
-      "description": "At least five hospitals have been shut and hundreds quarantined after a 28-year-old laboratory technician reportedly died of plague in the remote Siberian region of Irkutsk in Russia.The incident occurred at the Anti-Plague Research Institute in Shelekhov and the technician, identified as Darya Shi…",
+      "title": "British Airways Flight | London-Chicago Flight Descends 28,000 ft Within Minutes, Declares Emergency",
+      "description": "British Airways flight BA295 from London to Chicago declared an emergency over Ireland and is diverting to London, according to flight tracking data.\n\nThe aircraft was squawking 7700, the code used to signal a general emergency. It descended to around 9,000 feet while over Ireland, the flight track…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4M0yptEKSSE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4M0yptEKSSE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NHq1XlevJjA/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4M0yptEKSSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-05T09:37:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cGKIIGuK8Zk",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "SC On Gyanesh Kumar Suspension LIVE: SC Big Order on Gyanesh Kumar Suspension In SIR Row | CEC | SC",
-      "description": "The Supreme Court has refused to pass an interim order suspending Chief Election Commissioner Gyanesh Kumar amid allegations that decisions linked to the Special Intensive Revision (SIR) were taken unilaterally without consensus among the three Election Commissioners.\n\n #SupremeCourt #ElectionCommi…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cGKIIGuK8Zk/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cGKIIGuK8Zk/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cGKIIGuK8Zk/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 787,
-      "startedAt": "2026-10-05T08:12:05Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "6W4bhjD8vgI",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Supreme Court Hearing on CEC LIVE: Gyanesh Kumar Resignation | SIR Row | CEC Protest | Elections",
-      "description": "The Supreme Court is hearing petitions challenging aspects of the Election Commission's functioning under CEC Gyanesh Kumar, including the Special Intensive Revision (SIR) of electoral rolls. The pleas question alleged decisions taken without full Commission concurrence and seek judicial interventi…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6W4bhjD8vgI/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6W4bhjD8vgI/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6W4bhjD8vgI/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 185,
-      "startedAt": "2026-10-05T07:40:27Z",
+      "concurrentViewers": 15,
+      "startedAt": "2026-10-05T14:48:03Z",
       "regionRestriction": null
     },
     {
       "videoId": "F2pdg2QD5AE",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: SC Issues Notice To EC | Gyanesh Kumar | Jantar Mantar Protest | Iran War",
-      "description": "India Today TV LIVE: SC Issues Notice To EC | Gyanesh Kumar | Jantar Mantar Protest | Iran War\n\nHamam Al-Hammami has been identified in reports as the Omani co-pilot accused of attacking Indian Captain Smit Machchhar aboard Flydubai Flight FZ1073. The UAE investigation is examining the circumstance…",
+      "title": "India Today TV LIVE: SC Issues Notice To EC | Gyanesh Kumar | Jantar Mantar Protest |BA295 Emergency",
+      "description": "India Today TV LIVE: SC Issues Notice To EC | Gyanesh Kumar | Jantar Mantar Protest |BA295 Emergency\nHamam Al-Hammami has been identified in reports as the Omani co-pilot accused of attacking Indian Captain Smit Machchhar aboard Flydubai Flight FZ1073. The UAE investigation is examining the circums…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -556,80 +598,80 @@
           "url": "https://i.ytimg.com/vi/F2pdg2QD5AE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-05T07:54:50Z",
       "regionRestriction": null
     },
     {
-      "videoId": "g8ccNsYS0q8",
+      "videoId": "gbn1PqKHcPE",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "BJP List For UP Rajya Sabha Election LIVE: बीजेपी की 8 उम्मीदवारों की लिस्ट जारी | UP Election 2027",
-      "description": "उत्तर प्रदेश से राज्यसभा चुनाव के लिए बीजेपी ने 8 उम्मीदवारों के नामों का ऐलान किया है. पार्टी ने धर्मपाल सिंह, राधाकांत ओझा, प्रकाश पाल, विद्यासागर सोनकर, गोपी कृष्ण पांडेय, प्रियंका सिंह रावत, राम प्रताप सिंह चौहान और श्रुति गंगवार को उम्मीदवार बनाया है.\n\n#uprajyasabhaelection #bjpcandidateslist …",
+      "title": "Supreme Court On Gyanesh Kumar News LIVE: सुनवाई के दौरान सुप्रीम कोर्ट ने क्या-क्या कहा? | SIR | EC",
+      "description": "सुप्रीम कोर्ट ने CEC ज्ञानेश कुमार के निलंबन की मांग को खारिज कर दिया है. याचिकाकर्ताओं ने चुनाव आयोग की प्रक्रियाओं पर सवाल उठाए हैं और आरोप लगाया है कि आयोग के फैसले कानून के मुताबिक नहीं लिए गए.\n\n#gyaneshkumar  #supremecourt #cec #sir #electioncommission #aajtakdigital \n\nSupreme Court,Chief Elec…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/g8ccNsYS0q8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/gbn1PqKHcPE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/g8ccNsYS0q8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/gbn1PqKHcPE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/g8ccNsYS0q8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/gbn1PqKHcPE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1618,
-      "startedAt": "2026-10-05T09:46:55Z",
+      "concurrentViewers": 165,
+      "startedAt": "2026-10-05T17:53:46Z",
       "regionRestriction": null
     },
     {
-      "videoId": "eBt_R9CI1oM",
+      "videoId": "PgXRQMCaUT0",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "CEC ज्ञानेश कुमार पर SC में सुनवाई LIVE | Gyanesh Kumar | Supreme Court | Election Commission | SIR",
-      "description": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार से जुड़ी याचिकाओं पर आज सुप्रीम कोर्ट में सुनवाई हो रही है। याचिकाओं में SIR से जुड़े कथित तौर पर एकतरफा फैसलों को चुनौती दी गई है और CEC ज्ञानेश कुमार के निलंबन समेत अन्य राहत की मांग की गई है।\n\n#GyaneshKumar #CEC #SupremeCourt #SupremeCourtLIVE #ElectionCommission…",
+      "title": "Hingoli Cracker Factory Fire News LIVE: पटाखा गोदाम में भीषण आग, 2 मौत, कई घायल | Maharashtra",
+      "description": "हिंगोली शहर के मारवाड़ी कपड़ गली इलाके में पटाखा गोदाम में भीषण आग लग गई. हादसे में दो लोगों की झुलसकर मौत हो गई, जबकि 7 से अधिक लोग गंभीर रूप से घायल हुए हैं. घायलों को अस्पताल में भर्ती कराया गया है. दमकल विभाग का एक कर्मचारी भी गंभीर रूप से घायल बताया जा रहा है. आग लगने की वजह स्पष्ट नहीं हुई है…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/eBt_R9CI1oM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/PgXRQMCaUT0/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/eBt_R9CI1oM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PgXRQMCaUT0/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/eBt_R9CI1oM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PgXRQMCaUT0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 554,
-      "startedAt": "2026-10-05T07:33:29Z",
+      "concurrentViewers": 57,
+      "startedAt": "2026-10-05T18:16:36Z",
       "regionRestriction": null
     },
     {
-      "videoId": "DSaEsf9m1JY",
+      "videoId": "SmMR-0AnYGM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Supreme Court Hearing on CEC Gyanesh Kumar : चुनाव आयोग को SC का नोटिस | Election Commission",
-      "description": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार से जुड़ी याचिकाओं पर आज सुप्रीम कोर्ट में सुनवाई हुई है । याचिकाओं में SIR से जुड़े फैसलों और चुनाव आयोग के कामकाज को चुनौती दी गई है। कुछ याचिकाओं में CEC ज्ञानेश कुमार के निलंबन, कथित एकतरफा फैसलों की जांच और SIR से जुड़े कदमों को रद्द करने की मांग की गई है। सुप्र…",
+      "title": "Opposition Protest Against Gyanesh Kumar News LIVE: 6 October से विपक्ष की असली चढ़ाई | SIR",
+      "description": "6 अक्टूबर यानी कल, कैसे विपक्ष के सभी सांसद, वोट चोरी के मुद्दे को लेकर, ज्ञानेश कुमार के खिलाफ चढ़ाई करने जा रहा है। आपको बता दें कि, पिछले 4 दिन से लगातार विपक्षी पार्टियां और उनकी छात्र विंग लगाकार CEC के खिलाफ विरोध प्रदर्शन कर रही हैं। और अब 6 अक्टूबर यानी कल INDIA गठबंधन, संसद से लेकर, चुनाव …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/DSaEsf9m1JY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/SmMR-0AnYGM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/DSaEsf9m1JY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/SmMR-0AnYGM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/DSaEsf9m1JY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/SmMR-0AnYGM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 158,
-      "startedAt": "2026-10-05T07:47:49Z",
+      "concurrentViewers": 57,
+      "startedAt": "2026-10-05T18:06:45Z",
       "regionRestriction": null
     }
   ]
