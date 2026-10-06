@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T07:15:56.899Z",
+  "generatedAt": "2026-10-06T14:23:51.174Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,32 +22,104 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7244,
+      "concurrentViewers": 5555,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "E1NPHnp5Lds",
+      "videoId": "fgASZeqF_cQ",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Thousands of French students storm streets over school conditions | Full Sky News coverage",
+      "description": "Increasingly violent student protests over school conditions have swept across France in recent weeks and are set to reach a peak today. \n\nHundreds of schools are shut or partially closed.\n\nFollow live ➡️ https://news.sky.com/story/france-school-protests-latest-boy-15-has-hand-blown-off-in-lens-loc…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fgASZeqF_cQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fgASZeqF_cQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fgASZeqF_cQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 409,
+      "startedAt": "2026-10-06T06:42:47Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ZV5E2qkP4oE",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Day three | Conservative Party conference in Birmingham",
+      "description": "Full coverage of speeches in the main hall at the annual Conservative Party conference in Birmingham.\n\nFollow live ➡️ https://news.sky.com/story/politics-latest-burnham-labour-conference-social-care-12593360\n\n#Conservative #Conservatives #Birmingham #Politics #UKPolitics #KemiBadenoch #SkyNews #Liv…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZV5E2qkP4oE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZV5E2qkP4oE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZV5E2qkP4oE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 134,
+      "startedAt": "2026-10-06T08:22:37Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NlkmeOgNFBM",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "LIVE: Protesters clash with police as school demonstration spread across France | BBC News",
+      "description": "High school and university students are demanding greater investment in French schools, which they say are underfunded.\n \nOne union says 1,800 high schools are blockaded or closed, with 90% of universities also blockaded. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news …",
+      "channelTitle": "BBC News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NlkmeOgNFBM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NlkmeOgNFBM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NlkmeOgNFBM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 306,
+      "startedAt": "2026-10-06T08:27:46Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GSOkP3uNB-A",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Breakfast with Stephen and Ellie | Tuesday 6th October",
-      "description": "Join Stephen Dixon and Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: h…",
+      "title": "Martin Daubney | Tuesday 6th October",
+      "description": "Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/E1NPHnp5Lds/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/GSOkP3uNB-A/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/E1NPHnp5Lds/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GSOkP3uNB-A/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/E1NPHnp5Lds/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GSOkP3uNB-A/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3091,
-      "startedAt": "2026-10-06T04:54:25Z",
+      "concurrentViewers": 262,
+      "startedAt": "2026-10-06T14:17:37Z",
       "regionRestriction": null
     },
     {
@@ -70,14 +142,86 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 765,
+      "concurrentViewers": 256,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "uMaWTttJTVc",
+      "videoId": "eVlNa-2kCsg",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Protests in Paris over school conditions",
+      "description": "High school students, teachers and labour unions join a big protest march in Paris, in the biggest day of action in a wave of demonstrations demanding the government tackle understaffed and dilapidated classrooms.\n\n#france #paris #schools #studentprotests #franceprotest #protest #live #Reuters #New…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eVlNa-2kCsg/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eVlNa-2kCsg/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eVlNa-2kCsg/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 110,
+      "startedAt": "2026-10-06T11:23:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "mXpEQUNE1vU",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Hot air balloons fill New Mexico's skies",
+      "description": "Hot air balloons fill the skies above New Mexico during the Albuquerque International Balloon Fiesta.\n\n#newmexico #albuquerque #balloonfiesta #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mXpEQUNE1vU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mXpEQUNE1vU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mXpEQUNE1vU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 22,
+      "startedAt": "2026-10-06T13:02:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "cT3peLGZ8F4",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Protest in Strasbourg, France, over school conditions",
+      "description": "High school students, teachers and labor unions join a protest march in Strasbourg, France, over school conditions.\n \n#france #strasbourg #schools #students #protest #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cT3peLGZ8F4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cT3peLGZ8F4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cT3peLGZ8F4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-10-06T09:45:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "cpFDLxCoK-g",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 6",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -85,21 +229,45 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/uMaWTttJTVc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/cpFDLxCoK-g/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/uMaWTttJTVc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cpFDLxCoK-g/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/uMaWTttJTVc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cpFDLxCoK-g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 543,
-      "startedAt": "2026-10-05T21:59:37Z",
+      "concurrentViewers": 4489,
+      "startedAt": "2026-10-06T10:59:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "wFv1SJ43g5s",
+      "videoId": "356iV1xhBag",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Tuesday, October 6",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/356iV1xhBag/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/356iV1xhBag/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/356iV1xhBag/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 2838,
+      "startedAt": "2026-10-06T09:59:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6uBMUj0jBsQ",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -109,41 +277,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wFv1SJ43g5s/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/6uBMUj0jBsQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wFv1SJ43g5s/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/6uBMUj0jBsQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wFv1SJ43g5s/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/6uBMUj0jBsQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 194,
-      "startedAt": "2026-10-05T23:00:03Z",
+      "concurrentViewers": 859,
+      "startedAt": "2026-10-06T10:59:43Z",
       "regionRestriction": null
     },
     {
-      "videoId": "z0nHA8i4j2M",
+      "videoId": "KAkTlz2VB9Q",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump visits Nebraska, Vance in Alaska, Midterm elections, Cornell rape case latest, more",
-      "description": "LiveNOW is watching the latest updates as President Donald Trump travels to Nebraska on Monday as he continues to do his best to boost Republicans ahead of what is likely to be a critical midterm election. Trump’s rally is part of an extended tour ahead of election day, which sees the president tra…",
+      "title": "LIVE: Rubio in Iceland, Trump approves execution for Ft. Hood mass shooter, Paris education protests",
+      "description": "BREAKING: President Donald Trump has approved the military execution by firing squad of former Army Maj. Nidal Malik Hasan, who carried out the 2009 mass shooting at Fort Hood that killed 13 people.\n\nNOW: U.S. Secretary of State Marco Rubio has begun a three-nation tour of NATO allies with a stop T…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/z0nHA8i4j2M/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/KAkTlz2VB9Q/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/z0nHA8i4j2M/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KAkTlz2VB9Q/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/z0nHA8i4j2M/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KAkTlz2VB9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 268,
-      "startedAt": "2026-10-04T06:36:59Z",
+      "concurrentViewers": 1269,
+      "startedAt": "2026-10-06T10:49:32Z",
       "regionRestriction": null
     },
     {
@@ -166,32 +334,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 187,
+      "concurrentViewers": 1321,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "5iXLWe-mNKY",
+      "videoId": "jwYJoLqVXMI",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Students protest in France",
-      "description": "Watch live as French students protest in Paris, expressing broad grievances — mainly, schools are under-resourced, with dilapidated facilities and insufficient staff. Read more here: https://bit.ly/3U9AH3C\n\n#paris #protest #live",
+      "title": "LIVE: School protests in France",
+      "description": "Watch live as French students protest in Lille and Paris, expressing broad grievances — mainly, schools are under-resourced, with dilapidated facilities and insufficient staff. Read more here: https://bit.ly/3U9AH3C",
       "channelTitle": "Associated Press",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5iXLWe-mNKY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/jwYJoLqVXMI/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5iXLWe-mNKY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/jwYJoLqVXMI/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5iXLWe-mNKY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/jwYJoLqVXMI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 235,
-      "startedAt": "2026-10-06T06:33:01Z",
+      "concurrentViewers": 1522,
+      "startedAt": "2026-10-06T09:38:35Z",
       "regionRestriction": null
     },
     {
@@ -214,7 +382,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4595,
+      "concurrentViewers": 9049,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -238,7 +406,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 31,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -262,7 +430,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 363,
+      "concurrentViewers": 496,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -286,7 +454,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1375,
+      "concurrentViewers": 1301,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -310,8 +478,32 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6532,
+      "concurrentViewers": 5865,
       "startedAt": "2026-05-27T20:56:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PjBY2aPNldo",
+      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+      "title": "LIVE: France school protests",
+      "description": "High school students in Paris and Lille protest against inadequate school resources and long school days, after organisers called for a day of demonstrations nationwide. Protests first erupted late September in the Paris region and spread across France.\n⬇️ Always stay informed ⬇️\n👉 Follow all the …",
+      "channelTitle": "euronews",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PjBY2aPNldo/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PjBY2aPNldo/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PjBY2aPNldo/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 84,
+      "startedAt": "2026-10-06T13:47:44Z",
       "regionRestriction": null
     },
     {
@@ -334,7 +526,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 98,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -358,7 +550,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 139,
+      "concurrentViewers": 175,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -382,7 +574,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 48,
+      "concurrentViewers": 44,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -406,8 +598,56 @@
           "url": "https://i.ytimg.com/vi/vru-kfwwSpE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 34,
       "startedAt": "2026-10-06T00:54:02Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kTUePRgXfr0",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "LIVE: Africa's Richest Man Refinery Expansion: What It Means for Africa's Fuel Market | WION",
+      "description": "LIVE: Africa's Richest Man Refinery Expansion: What It Means for Africa's Fuel Market | WION\n\nOn #WorldofAfrica with Eric Njoka\n\n- Do investments by Aliko Dangote mean progress for Africa or monopoly power?\n- African leaders call for continent to unlock capital at Egypt business summit\n- Oromo elde…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kTUePRgXfr0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kTUePRgXfr0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kTUePRgXfr0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 25,
+      "startedAt": "2026-10-06T14:00:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7NhMJQfJy_o",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "France Students Protest LIVE: Students Hold BIG Protest; School Funding Riots Turns Violent | WION",
+      "description": "France Students Protest LIVE: Students Hold BIG Protest; School Funding Riots Turns Violent | WION\n\nPARIS - High school students, teachers and labour unions join a big protest march in Paris, building on momentum from days of school blockades where students are demanding better conditions in school…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7NhMJQfJy_o/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7NhMJQfJy_o/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7NhMJQfJy_o/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 11,
+      "startedAt": "2026-10-06T13:00:30Z",
       "regionRestriction": null
     },
     {
@@ -430,200 +670,104 @@
           "url": "https://i.ytimg.com/vi/4FBHFCCQGE4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 60,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-06T05:42:27Z",
       "regionRestriction": null
     },
     {
-      "videoId": "-VmAFe7nc1g",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: INDIA Bloc March Against CEC Gyanesh Kumar | Rahul Gandhi LIVE | Election Commission SIR Row",
-      "description": "LIVE: INDIA Boc March Against CEC Gyanesh Kumar | Rahul Gandhi LIVE | Election Commission SIR Row \n\n#INDIA #INDIABloc #RahulGandhi #CEC #GyaneshKumar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much m…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-VmAFe7nc1g/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-VmAFe7nc1g/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-VmAFe7nc1g/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 50,
-      "startedAt": "2026-10-06T06:38:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7jOOpt9lOIs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest News LIVE | Rhea Khanolkar LIVE | Gen Z Vs CJP Ahead Of October 10 Protests? | ECI Row",
-      "description": "As the debate around the CJP protests intensifies ahead of the planned October 10 demonstration, a new voice has emerged on social media. Rhea Khanolkar, a Mumbai student associated with the Gen Next Mumbai counter-protest, has gone viral for challenging CJP's claims and questioning its credibility…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7jOOpt9lOIs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7jOOpt9lOIs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7jOOpt9lOIs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-06T06:44:55Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "VND5iR4Jcmw",
+      "videoId": "EbRfMX7a10Q",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Bloc Protest Live: Rahul Gandhi Leads Opposition Protest March | Demand Resignation Of CEC",
-      "description": "India Bloc Protest Live: Rahul Gandhi Leads Opposition Protest March | Demand Resignation Of CEC\nThe INDIA bloc is escalating its campaign over the Special Intensive Revision (SIR) of electoral rolls, with opposition MPs marching from Parliament to the Election Commission demanding CEC Gyanesh Kuma…",
+      "title": "LIVE Rahul Gandhi vs CEC Gyanesh Kumar | Who Will Blink First? | 'Vote Bachao' SIR Protest",
+      "description": "At an INDIA bloc meeting in Delhi, the opposition mounted a sharp attack against the Election Commission of India over alleged electoral discrepancies and the Special Intensive Revision process. Key issues highlighted included claims that 13.3 crore voters were removed from electoral rolls, demands…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VND5iR4Jcmw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EbRfMX7a10Q/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VND5iR4Jcmw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EbRfMX7a10Q/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VND5iR4Jcmw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EbRfMX7a10Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 410,
-      "startedAt": "2026-10-06T06:25:05Z",
+      "concurrentViewers": 326,
+      "startedAt": "2026-10-06T13:29:59Z",
       "regionRestriction": null
     },
     {
-      "videoId": "v0SRpbuvr8s",
+      "videoId": "dZa7Rqe4Prg",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "INDIA Bloc Protest Live: Rahul Gandhi & Priyanka Gandhi Detained Amid March | India Today News",
-      "description": "INDIA Bloc Protest Live: Rahul Gandhi & Priyanka Gandhi Detained Amid March | India Today News\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\n…",
+      "title": "LIVE: Rahul Gandhi On Dharna | INDIA Bloc 'Vote Bachao' Protest | CEC Gyanesh Kumar |BJP vs Congress",
+      "description": "At an INDIA bloc meeting in Delhi, the opposition mounted a sharp attack against the Election Commission of India over alleged electoral discrepancies and the Special Intensive Revision process. Key issues highlighted included claims that 13.3 crore voters were removed from electoral rolls, demands…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/v0SRpbuvr8s/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/dZa7Rqe4Prg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/v0SRpbuvr8s/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/dZa7Rqe4Prg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/v0SRpbuvr8s/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/dZa7Rqe4Prg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 224,
-      "startedAt": "2026-10-06T06:44:54Z",
+      "concurrentViewers": 92,
+      "startedAt": "2026-10-06T11:30:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "aq8q-xPEk-Y",
+      "videoId": "huz6IEaCoEQ",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: INDIA Bloc Protest Outside CEO's Office | Demand Resignation Of Gyanesh Kumar | Rahul Gandhi",
-      "description": "LIVE: INDIA Bloc Protest Outside CEO's Office | Demand Resignation Of Gyanesh Kumar | Rahul Gandhi\nThe INDIA bloc is escalating its campaign over the Special Intensive Revision (SIR) of electoral rolls, with opposition MPs marching from Parliament to the Election Commission demanding CEC Gyanesh Ku…",
+      "title": "LIVE: Rahul Gandhi Vote Bachao Protest | Election Commision Responds To Rahul Gandhi | Gyanesh Kumar",
+      "description": "At an INDIA bloc meeting in Delhi, the opposition mounted a sharp attack against the Election Commission of India over alleged electoral discrepancies and the Special Intensive Revision process. Key issues highlighted included claims that 13.3 crore voters were removed from electoral rolls, demands…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aq8q-xPEk-Y/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/huz6IEaCoEQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aq8q-xPEk-Y/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/huz6IEaCoEQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aq8q-xPEk-Y/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/huz6IEaCoEQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 89,
-      "startedAt": "2026-10-06T05:42:57Z",
+      "concurrentViewers": 62,
+      "startedAt": "2026-10-06T12:43:04Z",
       "regionRestriction": null
     },
     {
-      "videoId": "AqpySXtmLc8",
+      "videoId": "7IibX2Bfgko",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Akhilesh Yadav Detained LIVE Updates: अखिलेश यादव को हिरासत में लिया गया | INDIA Alliance March",
-      "description": "INDIA ब्लॉक के सांसद SIR और चुनाव आयोग के खिलाफ संसद से सड़क तक मार्च कर रहे हैं. लेकिन इसी बीच पुलिस ने सभी नेताओं को\nहिरासत में ले लिया है\n\n\n#indianalliance #indiaalliancemarch #parliament #gyaneshkumar #cec #aajtakdigital #rahulgandhi #congress #opposition #sir #sansadmarch #mamatabanerjee #priy…",
+      "title": "Rahul Gandhi LIVE: आकाशवाणी भवन से राहुल गांधी का बड़ा बयान, मार्च रोके जाने पर उठाए सवाल | Aaj Tak",
+      "description": "राहुल गांधी को आकाशवाणी भवन में घुसते वक्त रोक दिया गया. राहुल गांधी आकाशवाणी भवन के रास्ते से चुनाव आयोग के कार्यालय जाने की कोशिश कर रहे थे, लेकिन उन्हें गेट पर ही रोक दिया गया है. जानकारी के मुताबिक, राहुल गांधी, प्रियंका गांधी और के.सी. वेणुगोपाल चुनाव आयोग से लगभग 200 मीटर की दूरी पर धरने पर ब…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/AqpySXtmLc8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/7IibX2Bfgko/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/AqpySXtmLc8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/7IibX2Bfgko/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/AqpySXtmLc8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/7IibX2Bfgko/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5832,
-      "startedAt": "2026-10-06T06:45:05Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "nhHW-zcx84M",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Alliance March LIVE Updates: Gyanesh Kumar के खिलाफ मार्च, धरने पर बैठे Rahul-Priyanaka Gandhi",
-      "description": "मार्च के मद्देनजर सुरक्षा व्यवस्था कड़ी कर दी गई है. विपक्ष के इस विरोध मार्च में कई पार्टियां शामिल हुई हैं. हालांकि, AAP और DMK ने इससे दूरी बना ली है. TMC सांसद अभिषेक बनर्जी भी मार्च में शामिल होने के लिए रवाना हो गए हैं. वहीं, विपक्ष के प्रस्तावित विरोध मार्च से पहले निर्वाचन सदन के आसपास सुरक…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/nhHW-zcx84M/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/nhHW-zcx84M/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/nhHW-zcx84M/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1498,
-      "startedAt": "2026-10-06T05:37:13Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ADWnJWgi8Ok",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "India Alliance Parliament March LIVE: संसद से सड़क तक विपक्ष का संग्राम, भारी पुलिसबल तैनात",
-      "description": "विपक्ष के प्रस्तावित विरोध मार्च को लेकर निर्वाचन सदन के आसपास सुरक्षा व्यवस्था कड़ी कर दी गई है. RAF (रैपिड एक्शन फोर्स) के जवान भारी संख्या में मौजूद हैं. दिल्ली पुलिस ने मार्च के मद्देनजर ट्रैफिक एडवाइजरी भी जारी की है. कनॉट प्लेस, पटेल चौक- मुख्य डाक घर, विंडसर प्लेस- मुख्य डाक घर, अशोक रोड, जं…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ADWnJWgi8Ok/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ADWnJWgi8Ok/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ADWnJWgi8Ok/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1090,
-      "startedAt": "2026-10-06T06:22:49Z",
+      "concurrentViewers": 884,
+      "startedAt": "2026-10-06T09:09:46Z",
       "regionRestriction": null
     },
     {
@@ -646,7 +790,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 995,
+      "concurrentViewers": 810,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -661,16 +805,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WzGcyy-OhP8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/WzGcyy-OhP8/default.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WzGcyy-OhP8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/WzGcyy-OhP8/mqdefault.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WzGcyy-OhP8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/WzGcyy-OhP8/hqdefault.jpg"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": null,
       "startedAt": "2026-10-06T06:12:58Z",
       "regionRestriction": null
     },
@@ -694,7 +838,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1666,
+      "concurrentViewers": 586,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
