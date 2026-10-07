@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T04:49:09.542Z",
+  "generatedAt": "2026-10-07T11:35:14.537Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 France protests latest: Tear gas fired in Paris; half of French schools closed; thousands of students storm streets - https://news.sky.com/story/france-school-protests-la…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Christa Pike 'conscious and speaking at hospital' after failed execution in US - https://trib.al/v3RGUpn\n\n🔴 WATCH | How October 7 changed Israel's defence, politics and …",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3750,
+      "concurrentViewers": 7187,
       "startedAt": "2026-08-27T05:26:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "2M633PMLOUs",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Good Afternoon Britain | Wednesday 7th October",
+      "description": "Tackling the big stories from all angles and perspectives. Weekdays from midday, Tom Harwood and Nana Akua bring you the most compelling stories from across the United Kingdom.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2M633PMLOUs/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2M633PMLOUs/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2M633PMLOUs/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 648,
+      "startedAt": "2026-10-07T11:00:56Z",
       "regionRestriction": null
     },
     {
@@ -46,14 +70,110 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 611,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "6_f4r8tqdao",
+      "videoId": "KGI1MpYY7cM",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "Britain's Conservative Party leader Badenoch gives a speech – watch live",
+      "description": "British opposition Conservative party leader Kemi Badenoch delivers remarks during the party's annual conference in Birmingham.\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supp…",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KGI1MpYY7cM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KGI1MpYY7cM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KGI1MpYY7cM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 418,
+      "startedAt": "2026-10-07T10:13:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Hoiwvn1HhRc",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Protests in Paris over school conditions",
+      "description": "Students, teachers and officials in high schools across France are urged by the government to discuss conditions that have led to widespread protests and blockades. Demonstrations swept across France on October 6, the biggest day of what Prime Minister Sebastien Lecornu described as the most violen…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hoiwvn1HhRc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hoiwvn1HhRc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hoiwvn1HhRc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 126,
+      "startedAt": "2026-10-07T10:21:10Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "G--r29sBy_4",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Protesters in Madrid demand action on housing crisis",
+      "description": "Protesters camp out in Madrid's downtown square, Puerta del Sol, to demand political action to tackle a housing crisis.\n \n#spain #madrid #puertadelsol #housingcrisis #protest #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G--r29sBy_4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G--r29sBy_4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G--r29sBy_4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 17,
+      "startedAt": "2026-10-07T11:19:44Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8WdTZiXHDEQ",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Israel marks three years since October 7 Hamas attack",
+      "description": "Israelis paid respects at the Nova festival site in Reim where more than 360 people were killed and dozens taken hostage on October 7, 2023, to mark the third anniversary of the Hamas attack. Bereaved families are expected to hold ceremonies throughout the day.\n\n#israel #hamas #novafestival #reim #…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8WdTZiXHDEQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8WdTZiXHDEQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8WdTZiXHDEQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-10-07T10:30:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GgPKRZdFZ7s",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 7",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -61,21 +181,45 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6_f4r8tqdao/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/GgPKRZdFZ7s/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6_f4r8tqdao/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GgPKRZdFZ7s/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6_f4r8tqdao/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GgPKRZdFZ7s/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 736,
-      "startedAt": "2026-10-06T21:59:37Z",
+      "concurrentViewers": 3339,
+      "startedAt": "2026-10-07T09:56:18Z",
       "regionRestriction": null
     },
     {
-      "videoId": "GmE5Ie02NdI",
+      "videoId": "V0NSpYFg1dk",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Wednesday, October 7",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V0NSpYFg1dk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V0NSpYFg1dk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V0NSpYFg1dk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1619,
+      "startedAt": "2026-10-07T09:59:47Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "5fShan4Wmtk",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -85,41 +229,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GmE5Ie02NdI/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/5fShan4Wmtk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GmE5Ie02NdI/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/5fShan4Wmtk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GmE5Ie02NdI/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/5fShan4Wmtk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 202,
-      "startedAt": "2026-10-06T22:59:28Z",
+      "concurrentViewers": 305,
+      "startedAt": "2026-10-07T11:00:02Z",
       "regionRestriction": null
     },
     {
-      "videoId": "KAkTlz2VB9Q",
+      "videoId": "8rUpSK3o-Fc",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Rubio in Iceland, Trump approves execution for Ft. Hood mass shooter, Paris education protests",
-      "description": "BREAKING: President Donald Trump has approved the military execution by firing squad of former Army Maj. Nidal Malik Hasan, who carried out the 2009 mass shooting at Fort Hood that killed 13 people.\n\nNOW: U.S. Secretary of State Marco Rubio has begun a three-nation tour of NATO allies with a stop T…",
+      "title": "LIVE: Trump rallies in San Antonio, Rubio NATO tour, Tracking Isaias, US-Iran war, France protests",
+      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KAkTlz2VB9Q/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KAkTlz2VB9Q/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KAkTlz2VB9Q/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 415,
-      "startedAt": "2026-10-06T10:49:32Z",
+      "concurrentViewers": 818,
+      "startedAt": "2026-10-07T11:17:50Z",
       "regionRestriction": null
     },
     {
@@ -142,36 +286,12 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 291,
+      "concurrentViewers": 689,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ay9BsVDa-OM",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: View of Gaza City on 3rd anniversary of Oct. 7 attack",
-      "description": "Watch live from Gaza City three years after the Hamas-led Oct. 7, 2023, attack on Israel, which killed about 1,200 people and triggered the war in Gaza. More than 74,000 Palestinians have been killed in the war, according to Gaza’s Health Ministry, and much of the territory remains in ruins. Read m…",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ay9BsVDa-OM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ay9BsVDa-OM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ay9BsVDa-OM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 177,
-      "startedAt": "2026-10-07T03:18:45Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "u7RgOb9rbJU",
+      "videoId": "BlW363daiZ4",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "title": "LIVE: Memorial held at Nova festival site on Oct. 7 attack anniversary",
       "description": "Watch live as a memorial ceremony is held at the Nova festival site near Reim to commemorate victims of the Hamas-led Oct. 7, 2023, attack on Israel. Festivalgoers were among those targeted in the attack, in which nearly 1,200 people were killed and 251 were taken hostage. Read more: https://bit.ly…",
@@ -181,17 +301,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/u7RgOb9rbJU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/BlW363daiZ4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/u7RgOb9rbJU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/BlW363daiZ4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/u7RgOb9rbJU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/BlW363daiZ4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 120,
-      "startedAt": "2026-10-07T03:12:21Z",
+      "concurrentViewers": 157,
+      "startedAt": "2026-10-07T07:23:32Z",
       "regionRestriction": null
     },
     {
@@ -214,7 +334,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2413,
+      "concurrentViewers": 8518,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -238,7 +358,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 19,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -262,7 +382,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 325,
+      "concurrentViewers": 468,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -286,7 +406,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1133,
+      "concurrentViewers": 1307,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -310,7 +430,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4079,
+      "concurrentViewers": 6274,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -334,7 +454,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 68,
+      "concurrentViewers": 156,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -358,7 +478,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 126,
+      "concurrentViewers": 218,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -382,7 +502,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 54,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -406,7 +526,7 @@
           "url": "https://i.ytimg.com/vi/BrotSsBowds/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 225,
+      "concurrentViewers": 60,
       "startedAt": "2026-10-07T01:14:28Z",
       "regionRestriction": null
     },
@@ -430,63 +550,87 @@
           "url": "https://i.ytimg.com/vi/-tts0AphLZo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 15,
       "startedAt": "2026-10-07T02:20:50Z",
       "regionRestriction": null
     },
     {
-      "videoId": "iwpc7CLwAgE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "LIVE: PM Modi Participates In  Viksit Bharat Sankalp Sabha, Highlights India’s Development Vision",
-      "description": "LIVE: PM Modi Participates In  Viksit Bharat Sankalp Sabha, Highlights India’s Development Vision\n\n\nPrime Minister Narendra Modi participated in the Viksit Bharat Sankalp Sabha. The event focuses on India’s development journey and the vision of building a developed India. Modi is expected to highli…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iwpc7CLwAgE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iwpc7CLwAgE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iwpc7CLwAgE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 21,
-      "startedAt": "2026-10-07T04:40:42Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "GhO7wWHT8j0",
+      "videoId": "0AmYp9Llyp4",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Lionel Messi Farewell Match Scorecard Live | Argentina vs Benin | Messi’s Last Match For Arg",
-      "description": "Lionel Messi takes centre stage in an emotional farewell match as fans gather to celebrate one of football’s greatest-ever players. Follow the livescore on this YouTube stream.\n\n#messi #lionelmessi #argentina #benin #messi10   \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News …",
+      "title": "France Protest LIVE: Tear Gas Fired As France Protests Intensify | France Protest LIVE | Paris LIVE",
+      "description": "Police fired tear gas to control crowds in Paris and elsewhere in France on Tuesday as more than a quarter of a million people rallied nationwide to support high school students demanding more education funding, according to government figures. The protests increased pressure on the administration …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GhO7wWHT8j0/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/0AmYp9Llyp4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GhO7wWHT8j0/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/0AmYp9Llyp4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GhO7wWHT8j0/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/0AmYp9Llyp4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4,
-      "startedAt": "2026-10-06T18:34:12Z",
+      "concurrentViewers": 74,
+      "startedAt": "2026-10-07T09:12:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "AEecWlKUgIA",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Flydubai News LIVE | Israeli Singer Ben Raivitz Chants Hanuman Chalisa | Israel Hamas War LIVE",
+      "description": "Israeli singer Ben Raivitz, who has been practising Hindustani classical music for nearly a decade, tells NDTV how Captain Smit Machchhar's account of chanting the Hanuman Chalisa during the Flydubai cockpit crisis introduced him to the prayer. Moved by the captain's courage, Raivitz learned and sa…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AEecWlKUgIA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AEecWlKUgIA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AEecWlKUgIA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 34,
+      "startedAt": "2026-10-07T11:02:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "CjY4DiEL0ww",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "LIVE: 2026 Nobel Prize in Chemistry Announcement | Nobel Chemistry Prize 2026",
+      "description": "LIVE: Announcement of the 2026 Nobel Prize in Chemistry from the Royal Swedish Academy of Sciences in Stockholm, Sweden.\n\nWatch the official announcement of the 2026 Nobel Prize in Chemistry as this year's laureate or laureates are revealed. The Chemistry Nobel is the third Nobel Prize announcement…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CjY4DiEL0ww/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CjY4DiEL0ww/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CjY4DiEL0ww/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 15,
+      "startedAt": "2026-10-07T11:28:00Z",
       "regionRestriction": null
     },
     {
       "videoId": "aWtQyeyH8L0",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: INDIA Bloc Protest | Gyanesh Kumar | Trump | Flydubai | France School Protests",
-      "description": "#IndiaTodayLievStream  #topnews  #indiablocprotest  #rahulgandhi  #breakingnews \nIndia Today TV LIVE: INDIA Bloc Protest | Gyanesh Kumar | Trump | Flydubai | France School Protests\nCongress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where…",
+      "title": "India Today TV LIVE: Rahul Gandhi Jantar Mantar Protest | Delhi Building Collapse |CEC Gyanesh Kumar",
+      "description": "#IndiaTodayLievStream  #topnews  #indiablocprotest  #rahulgandhi  #breakingnews \nIndia Today TV LIVE: Rahul Gandhi Jantar Mantar Protest | Delhi Building Collapse |CEC Gyanesh Kumar\nCongress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan wher…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -502,39 +646,15 @@
           "url": "https://i.ytimg.com/vi/aWtQyeyH8L0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 227,
+      "concurrentViewers": 78,
       "startedAt": "2026-10-07T01:55:37Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ekHerwHmCOM",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai LIVE: Rahul Gandhi Detained After SIR Protest | Sudhanshu Trivedi vs Sachin Pilot",
-      "description": "Congress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where the Opposition leaders have been camping during their protest against Chief Election Commissioner Gyanesh Kumar.\nOther senior leaders like KC Venugopal and Deepender Singh Hooda we…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ekHerwHmCOM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ekHerwHmCOM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ekHerwHmCOM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 83,
-      "startedAt": "2026-10-07T02:53:47Z",
       "regionRestriction": null
     },
     {
       "videoId": "PGXILoB15hw",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: INDIA Bloc Protest | France School Protests| Rahul Gandhi | PM Modi | Live News",
-      "description": "#IndiaTodayLiveStream  #topnews  #breakingnews  \nIndia Today TV LIVE: INDIA Bloc Protest | France School Protests| Rahul Gandhi | PM Modi | Live News\nCongress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where the Opposition leaders have be…",
+      "title": "India Today TV LIVE: Rahul Gandhi Jantar Mantar Protest | Delhi Building Collapse |CEC Gyanesh Kumar",
+      "description": "#IndiaTodayLiveStream  #topnews  #breakingnews  \nIndia Today TV LIVE: Rahul Gandhi Jantar Mantar Protest | Delhi Building Collapse |CEC Gyanesh Kumar\nCongress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where the Opposition leaders have be…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -550,8 +670,80 @@
           "url": "https://i.ytimg.com/vi/PGXILoB15hw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 70,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-07T01:46:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "gxQyOW1VLfk",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Dangal With Sahil Joshi LIVE : अब राहुल चले जंतर- मंतर ! | Rahul Gandhi Protest at Jantar- Mantar",
+      "description": "कांग्रेस नेता राहुल गांधी ने कहा है कि वह और विपक्षी सांसद प्रदर्शन के लिए जंतर-मंतर जा रहे हैं. इससे पहले मुख्य चुनाव आयुक्त ज्ञानेश कुमार को लेकर कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के बुलावे पर INDIA ब्लॉक के सांसद दिल्ली के जनपथ स्थित सागर रत्ना रेस्टोरेंट में जुटे थे. रेस्टोरेंट जंतर-मंतर से क…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gxQyOW1VLfk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gxQyOW1VLfk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gxQyOW1VLfk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1702,
+      "startedAt": "2026-10-07T11:20:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xHaUOSPHEbc",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Rahul Gandhi Protest at Jantar- Mantar LIVE : जंतर- मंतर पर राहुल गांधी का प्रदर्शन | CEC | Gyanesh",
+      "description": "Rahul Gandhi Protest at Jantar- Mantar LIVE : जंतर- मंतर पर राहुल गांधी का प्रदर्शन | CEC | Gyanesh\n\nकांग्रेस नेता राहुल गांधी ने कहा है कि वह और विपक्षी सांसद प्रदर्शन के लिए जंतर-मंतर जा रहे हैं. इससे पहले मुख्य चुनाव आयुक्त ज्ञानेश कुमार को लेकर कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के बुलावे पर I…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xHaUOSPHEbc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xHaUOSPHEbc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xHaUOSPHEbc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1540,
+      "startedAt": "2026-10-07T10:18:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "iLmNTuStEkQ",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Congress Protest at Jantar Mantar LIVE : जंतर- मंतर पर कांग्रेस का प्रदर्शन | Rahul Gandhi | Gyanesh",
+      "description": "कांग्रेस नेता राहुल गांधी ने कहा है कि वह और विपक्षी सांसद प्रदर्शन के लिए जंतर-मंतर जा रहे हैं. इससे पहले मुख्य चुनाव आयुक्त ज्ञानेश कुमार को लेकर कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के बुलावे पर INDIA ब्लॉक के सांसद दिल्ली के जनपथ स्थित सागर रत्न रेस्टोरेंट में जुटे थे. रेस्टोरेंट जंतर-मंतर से कर…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iLmNTuStEkQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iLmNTuStEkQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iLmNTuStEkQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 250,
+      "startedAt": "2026-10-07T10:06:10Z",
       "regionRestriction": null
     },
     {
@@ -574,7 +766,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1441,
+      "concurrentViewers": 825,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -598,7 +790,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1489,
+      "concurrentViewers": 1020,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
