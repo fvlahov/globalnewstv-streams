@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T23:38:11.202Z",
+  "generatedAt": "2026-10-07T04:49:09.542Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2563,
+      "concurrentViewers": 3750,
       "startedAt": "2026-08-27T05:26:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "2qH5OW2IQOY",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Tuesday 6th October",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2qH5OW2IQOY/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2qH5OW2IQOY/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2qH5OW2IQOY/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 273,
-      "startedAt": "2026-10-06T22:55:28Z",
       "regionRestriction": null
     },
     {
@@ -70,14 +46,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 113,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "6_f4r8tqdao",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 6",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -94,32 +70,8 @@
           "url": "https://i.ytimg.com/vi/6_f4r8tqdao/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2579,
+      "concurrentViewers": 736,
       "startedAt": "2026-10-06T21:59:37Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "356iV1xhBag",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Tuesday, October 6",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/356iV1xhBag/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/356iV1xhBag/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/356iV1xhBag/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 909,
-      "startedAt": "2026-10-06T09:59:19Z",
       "regionRestriction": null
     },
     {
@@ -142,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/GmE5Ie02NdI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 187,
+      "concurrentViewers": 202,
       "startedAt": "2026-10-06T22:59:28Z",
       "regionRestriction": null
     },
@@ -166,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/KAkTlz2VB9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 574,
+      "concurrentViewers": 415,
       "startedAt": "2026-10-06T10:49:32Z",
       "regionRestriction": null
     },
@@ -190,8 +142,56 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1236,
+      "concurrentViewers": 291,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ay9BsVDa-OM",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: View of Gaza City on 3rd anniversary of Oct. 7 attack",
+      "description": "Watch live from Gaza City three years after the Hamas-led Oct. 7, 2023, attack on Israel, which killed about 1,200 people and triggered the war in Gaza. More than 74,000 Palestinians have been killed in the war, according to Gaza’s Health Ministry, and much of the territory remains in ruins. Read m…",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ay9BsVDa-OM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ay9BsVDa-OM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ay9BsVDa-OM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 177,
+      "startedAt": "2026-10-07T03:18:45Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "u7RgOb9rbJU",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Memorial held at Nova festival site on Oct. 7 attack anniversary",
+      "description": "Watch live as a memorial ceremony is held at the Nova festival site near Reim to commemorate victims of the Hamas-led Oct. 7, 2023, attack on Israel. Festivalgoers were among those targeted in the attack, in which nearly 1,200 people were killed and 251 were taken hostage. Read more: https://bit.ly…",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u7RgOb9rbJU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u7RgOb9rbJU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u7RgOb9rbJU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 120,
+      "startedAt": "2026-10-07T03:12:21Z",
       "regionRestriction": null
     },
     {
@@ -214,7 +214,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1485,
+      "concurrentViewers": 2413,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -238,7 +238,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 35,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -262,7 +262,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 290,
+      "concurrentViewers": 325,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -286,7 +286,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 880,
+      "concurrentViewers": 1133,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -310,7 +310,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4340,
+      "concurrentViewers": 4079,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -334,7 +334,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": 68,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -358,7 +358,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 126,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -382,56 +382,80 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 37,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "vru-kfwwSpE",
+      "videoId": "BrotSsBowds",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE: Iran’s New Weapon Threatens US Carrier, Gulf On High Alert | WION",
-      "description": "US-Iran War LIVE: Iran’s New Weapon Threatens US Carrier, Gulf On High Alert | WION\nIran claims it has tested a new domestically developed anti-ship missile against a U.S. Navy warship, with Iranian officials saying the weapon forced American vessels to retreat. The missile has reportedly been iden…",
+      "title": "Saudi Under Attack LIVE: Yemen’s Houthis Claim Massive Strike On Riyadh Airport, Blasts Shake Saudi",
+      "description": "Saudi Under Attack LIVE: Yemen’s Houthis Claim Massive Strike On Riyadh Airport, Blasts Shake Saudi \n\n\nHouthis claim they carried out strikes targeting an Aramco refinery and other strategic sites across Saudi Arabia, including locations in Riyadh and the southwestern region. Saudi authorities had …",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vru-kfwwSpE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/BrotSsBowds/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vru-kfwwSpE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/BrotSsBowds/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vru-kfwwSpE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/BrotSsBowds/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-06T00:54:02Z",
+      "concurrentViewers": 225,
+      "startedAt": "2026-10-07T01:14:28Z",
       "regionRestriction": null
     },
     {
-      "videoId": "7NhMJQfJy_o",
+      "videoId": "-tts0AphLZo",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "France Students Protest LIVE: Students Hold BIG Protest; School Funding Riots Turns Violent | WION",
-      "description": "France Students Protest LIVE: Students Hold BIG Protest; School Funding Riots Turns Violent | WION\n\nPARIS - High school students, teachers and labour unions join a big protest march in Paris, building on momentum from days of school blockades where students are demanding better conditions in school…",
+      "title": "US-Iran War LIVE: Why Trump's B-1 Bombers Could Be A Game Changer Against Iran | WION",
+      "description": "US-Iran War LIVE: Why Trump's B-1 Bombers Could Be A Game Changer Against Iran | WION\n\nThe United States has deployed a B-1 Lancer strategic bomber as military operations against Iran intensify. The latest strikes come amid rising tensions and an expanding air campaign targeting key Iranian militar…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7NhMJQfJy_o/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/-tts0AphLZo/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7NhMJQfJy_o/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-tts0AphLZo/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7NhMJQfJy_o/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-tts0AphLZo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-10-06T13:00:30Z",
+      "concurrentViewers": 43,
+      "startedAt": "2026-10-07T02:20:50Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "iwpc7CLwAgE",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "LIVE: PM Modi Participates In  Viksit Bharat Sankalp Sabha, Highlights India’s Development Vision",
+      "description": "LIVE: PM Modi Participates In  Viksit Bharat Sankalp Sabha, Highlights India’s Development Vision\n\n\nPrime Minister Narendra Modi participated in the Viksit Bharat Sankalp Sabha. The event focuses on India’s development journey and the vision of building a developed India. Modi is expected to highli…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iwpc7CLwAgE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iwpc7CLwAgE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iwpc7CLwAgE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 21,
+      "startedAt": "2026-10-07T04:40:42Z",
       "regionRestriction": null
     },
     {
@@ -454,86 +478,38 @@
           "url": "https://i.ytimg.com/vi/GhO7wWHT8j0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 133,
+      "concurrentViewers": 4,
       "startedAt": "2026-10-06T18:34:12Z",
       "regionRestriction": null
     },
     {
-      "videoId": "sG5i1qzeHUs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "France Protest LIVE: 440+ Detained As Education Anger Explodes | France Protest LIVE | Paris LIVE",
-      "description": "France is witnessing a growing wave of student unrest as demonstrations over education funding, overcrowded classrooms, teacher shortages and deteriorating school infrastructure spread across the country. What began in the Paris region has now expanded to multiple cities, with high-school and unive…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sG5i1qzeHUs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sG5i1qzeHUs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sG5i1qzeHUs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 39,
-      "startedAt": "2026-10-06T19:23:13Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "4FBHFCCQGE4",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: INDIA Bloc 'Save Democracy' March Against CEC Gyanesh Kumar | Rahul Gandhi LIVE | ECI SIR Row",
-      "description": "LIVE: INDIA Boc March Against CEC Gyanesh Kumar | Rahul Gandhi LIVE | Election Commission SIR Row \n\n#INDIA #INDIABloc #RahulGandhi #CEC #GyaneshKumar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much m…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4FBHFCCQGE4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4FBHFCCQGE4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4FBHFCCQGE4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 3,
-      "startedAt": "2026-10-06T05:42:27Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7j6dGzCxI1w",
+      "videoId": "aWtQyeyH8L0",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Rahul And Priyanka Gandhi Released From Delhi Police Detention | Gyanesh Kumar | BJP vs Cong",
-      "description": "LIVE: Rahul And Priyanka Gandhi Released From Delhi Police Detention | Gyanesh Kumar | BJP vs Cong\n\n#indiatoday #rahulgandhidharna  #rahulgandhiprotest #rahulgandhi #rahulgandhidetained #priyankagandhi #chiefelectioncommissioner #specialintensiverevision #bjpvscongress #indiavsnda #cjpprotest #jant…",
+      "title": "India Today TV LIVE: INDIA Bloc Protest | Gyanesh Kumar | Trump | Flydubai | France School Protests",
+      "description": "#IndiaTodayLievStream  #topnews  #indiablocprotest  #rahulgandhi  #breakingnews \nIndia Today TV LIVE: INDIA Bloc Protest | Gyanesh Kumar | Trump | Flydubai | France School Protests\nCongress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7j6dGzCxI1w/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/aWtQyeyH8L0/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7j6dGzCxI1w/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/aWtQyeyH8L0/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7j6dGzCxI1w/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/aWtQyeyH8L0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 18,
-      "startedAt": "2026-10-06T17:04:41Z",
+      "concurrentViewers": 227,
+      "startedAt": "2026-10-07T01:55:37Z",
       "regionRestriction": null
     },
     {
-      "videoId": "7x32pndrwC8",
+      "videoId": "ekHerwHmCOM",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Mahua Moitra Exclusive After Delhi Police Crackdown On Opposition SIR Protest | Gyanesh Kumar",
+      "title": "Rajdeep Sardesai LIVE: Rahul Gandhi Detained After SIR Protest | Sudhanshu Trivedi vs Sachin Pilot",
       "description": "Congress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where the Opposition leaders have been camping during their protest against Chief Election Commissioner Gyanesh Kumar.\nOther senior leaders like KC Venugopal and Deepender Singh Hooda we…",
       "channelTitle": "India Today",
       "country": "IN",
@@ -541,113 +517,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7x32pndrwC8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/ekHerwHmCOM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7x32pndrwC8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/ekHerwHmCOM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7x32pndrwC8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/ekHerwHmCOM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4,
-      "startedAt": "2026-10-06T15:49:40Z",
+      "concurrentViewers": 83,
+      "startedAt": "2026-10-07T02:53:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "HeMKHIK9aA4",
+      "videoId": "PGXILoB15hw",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Rahul Gandhi Detained | What Next In CEC vs Oppn SIR Battle? |Ravi Shankar Prasad|Harish Salve",
-      "description": "Congress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where the Opposition leaders have been camping during their protest against Chief Election Commissioner Gyanesh Kumar.\nOther senior leaders like KC Venugopal and Deepender Singh Hooda we…",
+      "title": "India Today TV LIVE: INDIA Bloc Protest | France School Protests| Rahul Gandhi | PM Modi | Live News",
+      "description": "#IndiaTodayLiveStream  #topnews  #breakingnews  \nIndia Today TV LIVE: INDIA Bloc Protest | France School Protests| Rahul Gandhi | PM Modi | Live News\nCongress MP Rahul Gandhi and several other party leaders were detained as police began clearing Akashvani Bhawan where the Opposition leaders have be…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HeMKHIK9aA4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/PGXILoB15hw/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HeMKHIK9aA4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PGXILoB15hw/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HeMKHIK9aA4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PGXILoB15hw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-10-06T16:38:12Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "igXp1u-9_vg",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul-Priyanka Gandhi Released News LIVE: रिहा होने के बाद कहां गए राहुल-प्रियंका? | EC | SIR",
-      "description": "दिल्ली में कांग्रेस सांसद राहुल गांधी और कांग्रेस नेता प्रियंका गांधी को हिरासत से रिहा कर दिया गया है. दोनों को प्रदर्शन के दौरान पुलिस ने हिरासत में लिया था. इससे पहले राहुल गांधी, प्रियंका गांधी और कुछ अन्य समर्थकों को आकाशवाणी भवन से डिटेन करके किंग्सवे कैंप की नई पुलिस लाइन लाया गया था. इस दौर…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/igXp1u-9_vg/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/igXp1u-9_vg/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/igXp1u-9_vg/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 109,
-      "startedAt": "2026-10-06T18:10:57Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-V9BDYuHfMA",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Delhi-NCR Earthquake News LIVE: दिल्ली समेत  उत्तर भारत में भूकंप के झटके, Uttarakhand रहा केंद्र",
-      "description": "दिल्ली-एनसीआर में भूकंप के झटके महसूस किए गए. उत्तराखंड के उत्तरकाशी में भी आज रात 10:23 बजे रिक्टर स्केल पर 4.4 तीव्रता का भूकंप दर्ज किया गया. भूकंप का केंद्र खाडून लागा गवाली से 22 किमी दूर था.इस भूकंप के झटके उत्तराखंड के सभी जिलों के अलावा हिमाचल प्रदेश, पंजाब, हरियाणा और राष्ट्रीय राजधानी दिल…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-V9BDYuHfMA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-V9BDYuHfMA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-V9BDYuHfMA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 59,
-      "startedAt": "2026-10-06T18:01:20Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Y-ozTR9JvcM",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul & Priyanka Gandhi Released LIVE: राहुल- प्रियंका रिहा हुए | Congress | EC | Delhi Police",
-      "description": "दिल्ली में कांग्रेस सांसद राहुल गांधी और कांग्रेस नेता प्रियंका गांधी को हिरासत से रिहा कर दिया गया है. दोनों को प्रदर्शन के दौरान पुलिस ने हिरासत में लिया था. इससे पहले राहुल गांधी, प्रियंका गांधी और कुछ अन्य समर्थकों को आकाशवाणी भवन से डिटेन करके किंग्सवे कैंप की नई पुलिस लाइन लाया गया था. इस दौर…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Y-ozTR9JvcM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Y-ozTR9JvcM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Y-ozTR9JvcM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 35,
-      "startedAt": "2026-10-06T16:44:13Z",
+      "concurrentViewers": 70,
+      "startedAt": "2026-10-07T01:46:54Z",
       "regionRestriction": null
     },
     {
@@ -670,7 +574,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1755,
+      "concurrentViewers": 1441,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -694,7 +598,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2639,
+      "concurrentViewers": 1489,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
