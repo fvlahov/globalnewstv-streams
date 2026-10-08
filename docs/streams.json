@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T02:52:00.064Z",
+  "generatedAt": "2026-10-08T10:09:15.659Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Christa Pike latest: First words of woman who survived botched execution revealed - as lawyer says she was 'brain dead' - https://trib.al/v3RGUpn\n\n🔴 Russia claims there …",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 British consulate in Jerusalem to become 'UK Mission' as Israel announces diplomats to leave - https://news.sky.com/story/israel-confirms-it-is-closing-the-british-consul…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2107,
+      "concurrentViewers": 7700,
       "startedAt": "2026-08-27T05:26:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "A534N9ZkHW0",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Britain's Newsroom | Thursday 8th October",
+      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A534N9ZkHW0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A534N9ZkHW0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A534N9ZkHW0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1105,
+      "startedAt": "2026-10-08T08:24:51Z",
       "regionRestriction": null
     },
     {
@@ -46,8 +70,56 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 475,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "MXYkF2TLEFA",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Protest in Paris demanding better school conditions",
+      "description": "High school students, joined by teachers’ unions, university students and other groups, protest in Paris demanding better school conditions. Protests show no sign of easing, with more than 500 schools closed after demonstrations swept across France. \n\n#france #paris #protests #studentprotests #scho…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MXYkF2TLEFA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MXYkF2TLEFA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MXYkF2TLEFA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-08T09:31:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_Cj7bRmac4A",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Protests over housing continue in Spain",
+      "description": "Protesters camp in Madrid demanding political action to stop evictions and address Spain's housing crisis. The 87-year-old Spanish woman, Maricarmen Abascal, whose dramatic eviction last month sparked mass housing protests that led to an early election announcement, died on October 8. Thousands dem…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_Cj7bRmac4A/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_Cj7bRmac4A/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_Cj7bRmac4A/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 17,
+      "startedAt": "2026-10-08T05:21:28Z",
       "regionRestriction": null
     },
     {
@@ -70,15 +142,15 @@
           "url": "https://i.ytimg.com/vi/h3YYphh4GRU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1213,
+      "concurrentViewers": 1259,
       "startedAt": "2026-10-07T22:02:18Z",
       "regionRestriction": null
     },
     {
       "videoId": "w7uPIMH2c3o",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: Tracking Tropical Storm Isaias as it heads toward Gulf Coast | NBC News",
-      "description": "Tropical Storm Isaias formed early Wednesday in the warm waters off eastern Mexico and forecasters said it was expected to strengthen into the first hurricane of the Atlantic season before hitting the U.S. Gulf Coast later in the week.\n\nEvery day, NBC News helps people understand what’s happening a…",
+      "title": "LIVE: Tracking Hurricane Isaias as it heads toward Gulf Coast | NBC News",
+      "description": "Hurricane Isaias formed early Wednesday in the warm waters off eastern Mexico and forecasters said it was expected to strengthen into the first hurricane of the Atlantic season before hitting the U.S. Gulf Coast later in the week.\n\nEvery day, NBC News helps people understand what’s happening and wh…",
       "channelTitle": "NBC News",
       "country": "US",
       "language": "en",
@@ -94,14 +166,14 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 237,
+      "concurrentViewers": 141,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
     {
-      "videoId": "V0NSpYFg1dk",
+      "videoId": "UNlabc4CzPE",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Wednesday, October 7",
+      "title": "LIVE: ABC News Live - Thursday, October 8",
       "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
       "channelTitle": "ABC News",
       "country": "US",
@@ -109,17 +181,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/V0NSpYFg1dk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/UNlabc4CzPE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/V0NSpYFg1dk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/UNlabc4CzPE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/V0NSpYFg1dk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 408,
-      "startedAt": "2026-10-07T09:59:47Z",
+      "concurrentViewers": 258,
+      "startedAt": "2026-10-08T09:59:23Z",
       "regionRestriction": null
     },
     {
@@ -142,7 +214,7 @@
           "url": "https://i.ytimg.com/vi/wBjxt4Osqoc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 267,
+      "concurrentViewers": 389,
       "startedAt": "2026-10-07T22:59:21Z",
       "regionRestriction": {
         "blocked": [
@@ -154,7 +226,7 @@
     {
       "videoId": "8rUpSK3o-Fc",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump rallies in Texas, Mall of America terror plot, Iran war, Tropical Storm Isaias, more",
+      "title": "LIVE: Trump rallies in Texas, Mall of America terror plot, Iran war, Isaias updates, top stories",
       "description": "President Donald Trump's latest stop as he makes a series of trips to battleground states before the Midterms is in Texas. President Trump was in Nebraska Monday night and Maryland Tuesday afternoon. Last week he was in Denton and Oklahoma. The event is taking place at Freeman Coliseum with remarks…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
@@ -171,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 507,
+      "concurrentViewers": 441,
       "startedAt": "2026-10-07T11:17:50Z",
       "regionRestriction": null
     },
@@ -195,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 346,
+      "concurrentViewers": 192,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -219,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1572,
+      "concurrentViewers": 6258,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -243,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 26,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -267,8 +339,32 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 300,
+      "concurrentViewers": 366,
       "startedAt": "2025-03-31T17:50:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Je7qZocoHIc",
+      "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+      "title": "What Maricarmen's death means ahead of snap elections | DW News",
+      "description": "An 87-year-old woman whose eviction sparked protests across Spain has died. María del Carmen Abascal, known as Maricarmen, became the face of the country's housing crisis after she was removed from the Madrid home where she had lived for 70 years. Her case sparked nationwide protests and a snap ele…",
+      "channelTitle": "DW News",
+      "country": "DE",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Je7qZocoHIc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Je7qZocoHIc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Je7qZocoHIc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 98,
+      "startedAt": "2026-10-08T09:52:09Z",
       "regionRestriction": null
     },
     {
@@ -291,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 835,
+      "concurrentViewers": 1209,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -315,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2562,
+      "concurrentViewers": 6039,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -339,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 59,
+      "concurrentViewers": 170,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -363,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 116,
+      "concurrentViewers": 202,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -387,7 +483,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 48,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -411,8 +507,56 @@
           "url": "https://i.ytimg.com/vi/BrotSsBowds/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 241,
+      "concurrentViewers": 84,
       "startedAt": "2026-10-07T01:14:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "mmPi6POln2M",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "CJP Protest LIVE: CJP Demands CEC Gyanesh Kumar’s Resignation, Prakash Raj Joins Anti SIR Row | WION",
+      "description": "CJP Protest LIVE: CJP Demands CEC Gyanesh Kumar’s Resignation, Prakash Raj Joins Anti SIR Row | WION\n\nThe Cockroach Janta Party (CJP) has launched protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar. The group has also called for greater transparency in the appointment o…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mmPi6POln2M/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mmPi6POln2M/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mmPi6POln2M/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 49,
+      "startedAt": "2026-10-08T09:29:53Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "inPBLYb6KRc",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "US-Iran War LIVE: Trump's ' Iran Could Take Out Los Angeles, San Diego' Remark Sparks Outburst In US",
+      "description": "US-Iran War LIVE: Trump's ' Iran Could Take Out Los Angeles, San Diego' Remark Sparks Outburst In US\n\nUS President Donald Trump made a joke about Iran bombing American cities during his remarks. His comment came amid heightened tensions between the US and Iran and ongoing concerns over the wider re…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/inPBLYb6KRc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/inPBLYb6KRc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/inPBLYb6KRc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 35,
+      "startedAt": "2026-10-08T06:24:58Z",
       "regionRestriction": null
     },
     {
@@ -435,7 +579,7 @@
           "url": "https://i.ytimg.com/vi/-0rYRiaM6Og/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 455,
+      "concurrentViewers": 139,
       "startedAt": "2026-10-08T01:28:08Z",
       "regionRestriction": null
     },
@@ -459,56 +603,80 @@
           "url": "https://i.ytimg.com/vi/YmsuFCTTKVc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 440,
+      "concurrentViewers": 8,
       "startedAt": "2026-10-08T01:49:31Z",
       "regionRestriction": null
     },
     {
-      "videoId": "9loxayWhVwM",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: Nana Patekar | Veteran Actor Nana Patekar No More | Nana Patekar Passes Away At 75",
-      "description": "Veteran actor Nana Patekar, one of Indian cinema's most celebrated performers, has passed away. Known for his powerful screen presence, intense performances, and iconic roles in films such as Krantiveer, Parinda, Prahaar, Welcome, and Natsamrat, Nana Patekar leaves behind an unforgettable legacy. \n…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9loxayWhVwM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9loxayWhVwM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9loxayWhVwM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 208,
-      "startedAt": "2026-10-08T02:03:29Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "z1txn72_m1g",
+      "videoId": "aNb42XyHacg",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Show Live: Modi@25 — Is Brand Modi Still Strong? Oppn’s Protest Over CEC Row Rocks Delhi",
-      "description": "As PM Modi marks 25 years in politics, a key question is whether Brand Modi remains as strong as ever. Meanwhile, the showdown over S.I.R. and street protests in Delhi raise questions over whether the Opposition is finding its voice. Watch the show.\n\n#ModiAt25 #SIR #INDIABloc #IndiaTodayLive\n\nSubsc…",
+      "title": "CEC Protest LIVE: Rahul Gandhi Walks Towards Rajghat Amid Opposition Protest | INDIA Bloc Protest",
+      "description": "Rahul Gandhi walks towards Rajghat in Delhi as Opposition leaders march amid the ongoing Election Commission row. The march comes amid the Opposition’s continuing protest over electoral issues.\n\n\n#RahulGandhi #JantarMantar #INDIAbloc #ElectionCommission #GyaneshKumar #DelhiPolice #IndiaToday #LiveU…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/z1txn72_m1g/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/aNb42XyHacg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/z1txn72_m1g/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/aNb42XyHacg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/z1txn72_m1g/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/aNb42XyHacg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-07T15:34:18Z",
+      "concurrentViewers": 1121,
+      "startedAt": "2026-10-08T09:37:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "rKrVD0YQBA4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "'INDIA' Block Lunch Meet Live: Oppn Vs Ec Showdown | Rahul Gandhi Caught On Cam Shoving Female Cop",
+      "description": "'INDIA' Block Lunch Meet Live: Oppn Vs Ec Showdown | Rahul Gandhi Caught On Cam Shoving Female Cop\nCongress MP Imran Masood defends Rahul Gandhi amid the row over visuals involving a woman police officer during the Delhi protest. Masood says Rahul was trying to protect a woman Congress worker and a…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rKrVD0YQBA4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rKrVD0YQBA4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rKrVD0YQBA4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 85,
+      "startedAt": "2026-10-08T07:00:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "g6lxm0-Yczc",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "CM Mann Predicts Over 92-Seat Record In Punjab Polls, Slams Congress Infighting And BJP-SAD Alliance",
+      "description": "In a media conclave interaction, Punjab Chief Minister Bhagwant Mann outlined the Aam Aadmi Party's agenda ahead of the assembly elections, asserting that the party will seek votes solely on governance milestones, such as 1,100 functional Aam Aadmi clinics, expanding canal irrigation from 21 percen…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g6lxm0-Yczc/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g6lxm0-Yczc/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g6lxm0-Yczc/hqdefault.jpg"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-10-08T10:03:19Z",
       "regionRestriction": null
     },
     {
@@ -531,56 +699,8 @@
           "url": "https://i.ytimg.com/vi/b1bgK7LDWZU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6718,
+      "concurrentViewers": 4249,
       "startedAt": "2026-10-08T02:12:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "z7IUs8HuhPU",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Nana Patekar Passes Away LIVE Updates: अभिनेता नाना पाटेकर नहीं रहे, 75 की उम्र में ली अंतिम सांस",
-      "description": "नाना पाटेकर का निधन हो गया है. जानकारी के मुताबिक नाना पाटेकर को सुबह 5:20 बजे गोवा के मणिपाल अस्पताल की मेडिकल टीम ने मृत घोषित किया गया.\n\n#nanapatekar #nanapatekardeath #mumbai #nanapatekarnews #aajtakdigital \n\n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़ी खबरें | Watch the latest Hindi …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/z7IUs8HuhPU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/z7IUs8HuhPU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/z7IUs8HuhPU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 2029,
-      "startedAt": "2026-10-08T02:26:55Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "SLCBCklgZcQ",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | Opposition Protest | Gyanesh Kumar | Rahul Gandhi",
-      "description": "चुनाव आयोग के खिलाफ आज भी विपक्ष का बड़ा मोर्चा, लोकतंत्र के लिए काला दिन बताकर आज कांग्रेस का देशभर में प्रदर्शन, INDIA ब्लॉक के सांसद करेंगे चुनाव आयोग कार्यालय का घेराव \n\nदिल्ली में हाई वोल्टेज सियासी ड्रामे के बीच हिरासत में लेने के बाद  छोड़े गए राहुल गांधी और प्रियंका गांधी- केंद्र सरकार पर ल…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SLCBCklgZcQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SLCBCklgZcQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SLCBCklgZcQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1427,
-      "startedAt": "2026-10-08T01:34:40Z",
       "regionRestriction": null
     },
     {
@@ -603,32 +723,8 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1498,
+      "concurrentViewers": 954,
       "startedAt": "2020-04-22T03:23:30Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "f68eiBa9j94",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: Stunning view of Cangshan Mountain from Dali Old Town – Ep. 6",
-      "description": "Located in southwest China's Yunnan Province between the majestic Cangshan Mountain and the serene Erhai Lake, Dali Old Town is a town rich in cultural heritage. Steeped in Bai culture, it draws visitors with its ancient streets, city gates, old towers and museums, as well as its vibrant mix of sho…",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/f68eiBa9j94/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/f68eiBa9j94/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/f68eiBa9j94/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 13,
-      "startedAt": "2026-10-08T01:59:58Z",
       "regionRestriction": null
     },
     {
@@ -651,7 +747,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1927,
+      "concurrentViewers": 1315,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
