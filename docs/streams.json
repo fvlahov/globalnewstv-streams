@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T10:09:15.659Z",
+  "generatedAt": "2026-10-08T17:31:49.098Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 British consulate in Jerusalem to become 'UK Mission' as Israel announces diplomats to leave - https://news.sky.com/story/israel-confirms-it-is-closing-the-british-consul…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Andrew Mountbatten-Windsor and Thames Valley Police agreed warrants to raid two properties were unlawful - https://news.sky.com/story/andrew-mountbatten-windsor-and-thame…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7700,
+      "concurrentViewers": 5226,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "A534N9ZkHW0",
+      "videoId": "Ourj8_LhvY8",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Britain's Newsroom | Thursday 8th October",
-      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "title": "Dewbs & Co | Thursday 8th October",
+      "description": "Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News …",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/A534N9ZkHW0/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Ourj8_LhvY8/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/A534N9ZkHW0/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Ourj8_LhvY8/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/A534N9ZkHW0/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Ourj8_LhvY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1105,
-      "startedAt": "2026-10-08T08:24:51Z",
+      "concurrentViewers": 1768,
+      "startedAt": "2026-10-08T16:58:01Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 475,
+      "concurrentViewers": 169,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -94,38 +94,14 @@
           "url": "https://i.ytimg.com/vi/MXYkF2TLEFA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 235,
       "startedAt": "2026-10-08T09:31:54Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_Cj7bRmac4A",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Protests over housing continue in Spain",
-      "description": "Protesters camp in Madrid demanding political action to stop evictions and address Spain's housing crisis. The 87-year-old Spanish woman, Maricarmen Abascal, whose dramatic eviction last month sparked mass housing protests that led to an early election announcement, died on October 8. Thousands dem…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_Cj7bRmac4A/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_Cj7bRmac4A/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_Cj7bRmac4A/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 17,
-      "startedAt": "2026-10-08T05:21:28Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "h3YYphh4GRU",
+      "videoId": "_qTps0Q2QtY",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 8",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -133,17 +109,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/h3YYphh4GRU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/_qTps0Q2QtY/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/h3YYphh4GRU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/_qTps0Q2QtY/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/h3YYphh4GRU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/_qTps0Q2QtY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1259,
-      "startedAt": "2026-10-07T22:02:18Z",
+      "concurrentViewers": 4078,
+      "startedAt": "2026-10-08T10:27:25Z",
       "regionRestriction": null
     },
     {
@@ -166,7 +142,7 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 141,
+      "concurrentViewers": 200,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
@@ -190,12 +166,12 @@
           "url": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 258,
+      "concurrentViewers": 1804,
       "startedAt": "2026-10-08T09:59:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "wBjxt4Osqoc",
+      "videoId": "GtNbBQGfNyI",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -205,17 +181,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wBjxt4Osqoc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/GtNbBQGfNyI/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wBjxt4Osqoc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GtNbBQGfNyI/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wBjxt4Osqoc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GtNbBQGfNyI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 389,
-      "startedAt": "2026-10-07T22:59:21Z",
+      "concurrentViewers": 707,
+      "startedAt": "2026-10-08T11:00:06Z",
       "regionRestriction": {
         "blocked": [
           "AU",
@@ -243,8 +219,32 @@
           "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 441,
+      "concurrentViewers": 863,
       "startedAt": "2026-10-07T11:17:50Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lJOXn1kKr6M",
+      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+      "title": "LIVE: Tracking Hurricane Isaias as it storms closer to the Gulf Coast",
+      "description": "Hurricane Isaias has rapidly intensified into a Category 1 storm in the Gulf of Mexico and is currently charting a dangerous path toward the U.S. Gulf Coast.\n\nSubscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox…",
+      "channelTitle": "LiveNOW from FOX",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 467,
+      "startedAt": "2026-10-08T16:00:07Z",
       "regionRestriction": null
     },
     {
@@ -267,8 +267,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 192,
+      "concurrentViewers": 1537,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NlOphlXM_XU",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: USS Abraham Lincoln returns to San Diego after Middle East deployment",
+      "description": "Watch live as the USS Abraham Lincoln returns to its homeport at Naval Air Station North Island in San Diego, California, following a 10-month deployment to the Middle East. The Lincoln supported the U.S. war against Iran, and its deployment included a stretch of more than 250 uninterrupted days at…",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NlOphlXM_XU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NlOphlXM_XU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NlOphlXM_XU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 415,
+      "startedAt": "2026-10-08T14:58:27Z",
       "regionRestriction": null
     },
     {
@@ -291,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6258,
+      "concurrentViewers": 6988,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -315,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 33,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -339,32 +363,8 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 366,
+      "concurrentViewers": 460,
       "startedAt": "2025-03-31T17:50:08Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Je7qZocoHIc",
-      "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
-      "title": "What Maricarmen's death means ahead of snap elections | DW News",
-      "description": "An 87-year-old woman whose eviction sparked protests across Spain has died. María del Carmen Abascal, known as Maricarmen, became the face of the country's housing crisis after she was removed from the Madrid home where she had lived for 70 years. Her case sparked nationwide protests and a snap ele…",
-      "channelTitle": "DW News",
-      "country": "DE",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Je7qZocoHIc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Je7qZocoHIc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Je7qZocoHIc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 98,
-      "startedAt": "2026-10-08T09:52:09Z",
       "regionRestriction": null
     },
     {
@@ -387,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1209,
+      "concurrentViewers": 1559,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -411,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6039,
+      "concurrentViewers": 6042,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -435,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 170,
+      "concurrentViewers": 102,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -459,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 202,
+      "concurrentViewers": 195,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -483,7 +483,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 48,
+      "concurrentViewers": 46,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -507,56 +507,56 @@
           "url": "https://i.ytimg.com/vi/BrotSsBowds/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 84,
+      "concurrentViewers": 96,
       "startedAt": "2026-10-07T01:14:28Z",
       "regionRestriction": null
     },
     {
-      "videoId": "mmPi6POln2M",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "CJP Protest LIVE: CJP Demands CEC Gyanesh Kumar’s Resignation, Prakash Raj Joins Anti SIR Row | WION",
-      "description": "CJP Protest LIVE: CJP Demands CEC Gyanesh Kumar’s Resignation, Prakash Raj Joins Anti SIR Row | WION\n\nThe Cockroach Janta Party (CJP) has launched protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar. The group has also called for greater transparency in the appointment o…",
-      "channelTitle": "WION",
+      "videoId": "S-6kes6MA6k",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Nana Patekar Funeral LIVE | Nana Patekar Cremation LIVE | Nana Patekar Last Rites LIVE | Cremation",
+      "description": "Nana Patekar Funeral LIVE | Nana Patekar Cremation LIVE | Nana Patekar Last Rites LIVE | Cremation \n\nVeteran actor and filmmaker Nana Patekar died after suffering a severe cardiac arrest at his home in Goa. He was 75.\n\nAccording to hospital sources, the actor was declared dead at 5:20 am.\n\nThe doct…",
+      "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/mmPi6POln2M/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/S-6kes6MA6k/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/mmPi6POln2M/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/S-6kes6MA6k/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/mmPi6POln2M/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/S-6kes6MA6k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 49,
-      "startedAt": "2026-10-08T09:29:53Z",
+      "concurrentViewers": 1948,
+      "startedAt": "2026-10-08T15:42:56Z",
       "regionRestriction": null
     },
     {
-      "videoId": "inPBLYb6KRc",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE: Trump's ' Iran Could Take Out Los Angeles, San Diego' Remark Sparks Outburst In US",
-      "description": "US-Iran War LIVE: Trump's ' Iran Could Take Out Los Angeles, San Diego' Remark Sparks Outburst In US\n\nUS President Donald Trump made a joke about Iran bombing American cities during his remarks. His comment came amid heightened tensions between the US and Iran and ongoing concerns over the wider re…",
-      "channelTitle": "WION",
+      "videoId": "jWncWZu7ges",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "NANA PATEKAR FUNERAL | NANA PATEKAR FUNERAL LIVE | NANA PATEKAR LAST RITES LIVE | NANA PATEKAR NEWS",
+      "description": "Veteran actor and filmmaker Nana Patekar died after suffering a severe cardiac arrest at his home in Goa. He was 75.\n\nAccording to hospital sources, the actor was declared dead at 5:20 am.\n\nThe doctors tried to revive him for almost 45 minutes after he was brought in, but there was no response, the…",
+      "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/inPBLYb6KRc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/jWncWZu7ges/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/inPBLYb6KRc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/jWncWZu7ges/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/inPBLYb6KRc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/jWncWZu7ges/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
-      "startedAt": "2026-10-08T06:24:58Z",
+      "concurrentViewers": 332,
+      "startedAt": "2026-10-08T14:14:48Z",
       "regionRestriction": null
     },
     {
@@ -579,128 +579,152 @@
           "url": "https://i.ytimg.com/vi/-0rYRiaM6Og/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 139,
+      "concurrentViewers": 79,
       "startedAt": "2026-10-08T01:28:08Z",
       "regionRestriction": null
     },
     {
-      "videoId": "YmsuFCTTKVc",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: Veteran Actor Nana Patekar No More | India Mourns Cinema Legend | Nana Patekar Dies At 75",
-      "description": "NDTV LIVE | Veteran Actor Nana Patekar No More | India Mourns Cinema Legend\n\n#NanaPatekar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch big politi…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YmsuFCTTKVc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YmsuFCTTKVc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YmsuFCTTKVc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-08T01:49:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "aNb42XyHacg",
+      "videoId": "XnikSsXAuMY",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CEC Protest LIVE: Rahul Gandhi Walks Towards Rajghat Amid Opposition Protest | INDIA Bloc Protest",
-      "description": "Rahul Gandhi walks towards Rajghat in Delhi as Opposition leaders march amid the ongoing Election Commission row. The march comes amid the Opposition’s continuing protest over electoral issues.\n\n\n#RahulGandhi #JantarMantar #INDIAbloc #ElectionCommission #GyaneshKumar #DelhiPolice #IndiaToday #LiveU…",
+      "title": "Rajdeep Show Live: Day 3 Of Oppn-led Protest Against CEC Gyanesh Kumar | Rahul Gandhi | Congress",
+      "description": "CEC Row: Opposition’s protest against CEC Gyanesh Kumar enters Day 3, with street demonstrations intensifying the political confrontation. The Rajdeep Show examines whether guerrilla-style street agitations can influence political battles and public opinion. \n\n#CECRow #GyaneshKumar #OppositionProte…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aNb42XyHacg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/XnikSsXAuMY/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aNb42XyHacg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/XnikSsXAuMY/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aNb42XyHacg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/XnikSsXAuMY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1121,
-      "startedAt": "2026-10-08T09:37:30Z",
+      "concurrentViewers": 256,
+      "startedAt": "2026-10-08T15:36:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "rKrVD0YQBA4",
+      "videoId": "cYOei-9M8FU",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "'INDIA' Block Lunch Meet Live: Oppn Vs Ec Showdown | Rahul Gandhi Caught On Cam Shoving Female Cop",
-      "description": "'INDIA' Block Lunch Meet Live: Oppn Vs Ec Showdown | Rahul Gandhi Caught On Cam Shoving Female Cop\nCongress MP Imran Masood defends Rahul Gandhi amid the row over visuals involving a woman police officer during the Delhi protest. Masood says Rahul was trying to protect a woman Congress worker and a…",
+      "title": "CEC Row Live: Oppn Intensifies Protest At Raj Ghat On Day 3 Against Gyanesh Kumar | Rahul Gandhi",
+      "description": "Opposition’s protest against CEC Gyanesh Kumar enters Day 3, with Rahul Gandhi and INDIA bloc leaders at Raj Ghat. The protest intensifies as the Opposition steps up its campaign, while CEC Gyanesh Kumar remains silent.\n\n#CECRow #GyaneshKumar #RahulGandhi #IndiaTodayLive\n\n\nSubscribe to India Today …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rKrVD0YQBA4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rKrVD0YQBA4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rKrVD0YQBA4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 85,
-      "startedAt": "2026-10-08T07:00:30Z",
+      "concurrentViewers": 71,
+      "startedAt": "2026-10-08T16:29:06Z",
       "regionRestriction": null
     },
     {
-      "videoId": "g6lxm0-Yczc",
+      "videoId": "_gsr52Zc17Y",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CM Mann Predicts Over 92-Seat Record In Punjab Polls, Slams Congress Infighting And BJP-SAD Alliance",
-      "description": "In a media conclave interaction, Punjab Chief Minister Bhagwant Mann outlined the Aam Aadmi Party's agenda ahead of the assembly elections, asserting that the party will seek votes solely on governance milestones, such as 1,100 functional Aam Aadmi clinics, expanding canal irrigation from 21 percen…",
+      "title": "Protest Against CEC Gyanesh LIVE: Day 3 Of Congress-Led Protest In Delhi | Rahul & Priyanka",
+      "description": "Congress-led Opposition protest against CEC Gyanesh Kumar enters Day 3 in Delhi. Rahul Gandhi, Priyanka Gandhi and other Opposition leaders continue the protest, with the Election Commission row remaining at the centre of the political confrontation. Watch live updates and visuals from the protest.…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/g6lxm0-Yczc/default.jpg"
+          "url": "https://i.ytimg.com/vi/_gsr52Zc17Y/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/g6lxm0-Yczc/mqdefault.jpg"
+          "url": "https://i.ytimg.com/vi/_gsr52Zc17Y/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/g6lxm0-Yczc/hqdefault.jpg"
+          "url": "https://i.ytimg.com/vi/_gsr52Zc17Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-10-08T10:03:19Z",
+      "concurrentViewers": 64,
+      "startedAt": "2026-10-08T15:52:12Z",
       "regionRestriction": null
     },
     {
-      "videoId": "b1bgK7LDWZU",
+      "videoId": "JH_y_lIKnsY",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Nana Patekar Passes Away LIVE Updates: मशहूर एक्टर नाना पाटेकर का निधन | Mumbai | Aaj Tak",
-      "description": "दिग्गज अभिनेता नाना पाटेकर का निधन हो गया है- इस खबर से फिल्म इंडस्ट्री में शोक की लहर दौड़ गई। उनके निधन की खबर से प्रशंसकों और साथी कलाकारों में मायूसी छा गई है\n\n\n#nanapatekar #nanapatekardeath #mumbai #nanapatekarnews #aajtakdigital \n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़ी खबरें |…",
+      "title": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai |",
+      "description": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai | \n\nदिग्गज अभिनेता नाना पाटेकर का गुरुवार, 8 अक्टूबर को 75 साल की उम्र में निधन हो गया. गोवा स्थित अपने फ्लैट में सीने में तेज दर्द के बाद वह बेहोश मिले थे. उनके बेटे मल्हार पाटेकर के मुताबिक, सीने में तेज दर्…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/b1bgK7LDWZU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/b1bgK7LDWZU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/b1bgK7LDWZU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4249,
-      "startedAt": "2026-10-08T02:12:48Z",
+      "concurrentViewers": 3281,
+      "startedAt": "2026-10-08T11:57:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "h7nGcsJAa2s",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Black and White with Anjana Om Kashyap LIVE: Congress Protest |Rahul | Gyanesh Kumar | Nana Patekar",
+      "description": "Black and White with Anjana Om Kashyap LIVE: Gyanesh Kumar | Congress | SIR Protest | Nana Patekar\n\nराहुल गांधी, मल्लिकार्जुन खड़गे और प्रियंका गांधी समेत विपक्षी नेताओं ने गुरुवार को लगातार तीसरे दिन चुनाव आयोग के खिलाफ प्रदर्शन किया. विपक्ष के राजघाट जाने के ऐलान के बाद दिल्ली पुलिस ने इलाके में …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h7nGcsJAa2s/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h7nGcsJAa2s/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h7nGcsJAa2s/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1955,
+      "startedAt": "2026-10-08T15:22:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "9j8DYuzC1uE",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Nana Patekar Last Ritest LIVE : अलविदा नाना पाटेकर | Pune | Mumbai | Bollywood | Aaj Tak",
+      "description": "हिंदी और मराठी सिनेमा के महान एक्टर नाना पाटेकर का 75 वर्ष की आयु में गोवा स्थित उनके निवास पर निधन हो गया है. उनके जाने से सिनेमा जगत और उनके प्रशंसकों में गहरा शोक है. हालांकि, अपनी मृत्यु से महज चार दिन पहले वे गोवा में एक सार्वजनिक कार्यक्रम में नजर आए थे, जहां उन्होंने न केवल स्थानीय कलाकारों …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9j8DYuzC1uE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9j8DYuzC1uE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9j8DYuzC1uE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1107,
+      "startedAt": "2026-10-08T17:14:42Z",
       "regionRestriction": null
     },
     {
@@ -723,7 +747,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 954,
+      "concurrentViewers": 385,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -747,7 +771,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1315,
+      "concurrentViewers": 528,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
