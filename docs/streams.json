@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T17:31:49.098Z",
+  "generatedAt": "2026-10-08T23:02:10.882Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Andrew Mountbatten-Windsor and Thames Valley Police agreed warrants to raid two properties were unlawful - https://news.sky.com/story/andrew-mountbatten-windsor-and-thame…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Politics: Greens 'wrong' to pass 'Zionism is racism' policy, says PM - as polls close in Holborn and St Pancras - https://news.sky.com/story/politics-latest-burnha…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,56 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5226,
+      "concurrentViewers": 2868,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Ourj8_LhvY8",
+      "videoId": "cMymRkxOx5k",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Holborn and St Pancras by-election result and analysis | Full Sky News coverage",
+      "description": "Voting has finished in the Holborn and St Pancras by-election - stick with Sky News all night for all the latest from the count!\n\nThe vote in the London seat was triggered by the resignation of former Prime Minister Sir Keir Starmer on 1 September.\n\nThere are just over 75,000 eligible voters across…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cMymRkxOx5k/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cMymRkxOx5k/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cMymRkxOx5k/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 121,
+      "startedAt": "2026-10-08T22:59:31Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "nxuORgya2zg",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Dewbs & Co | Thursday 8th October",
-      "description": "Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News …",
+      "title": "Vote 2026: The People Decide | Thursday 8th August",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Ourj8_LhvY8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/nxuORgya2zg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Ourj8_LhvY8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/nxuORgya2zg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Ourj8_LhvY8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/nxuORgya2zg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1768,
-      "startedAt": "2026-10-08T16:58:01Z",
+      "concurrentViewers": 172,
+      "startedAt": "2026-10-08T22:55:08Z",
       "regionRestriction": null
     },
     {
@@ -70,56 +94,56 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 169,
+      "concurrentViewers": 72,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "MXYkF2TLEFA",
+      "videoId": "EZeyeNA9w1g",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Protest in Paris demanding better school conditions",
-      "description": "High school students, joined by teachers’ unions, university students and other groups, protest in Paris demanding better school conditions. Protests show no sign of easing, with more than 500 schools closed after demonstrations swept across France. \n\n#france #paris #protests #studentprotests #scho…",
+      "title": "LIVE: USS Abraham Lincoln returns to San Diego",
+      "description": "The aircraft carrier USS Abraham Lincoln returns to San Diego, California, after a 10-month deployment across the Pacific, South China Sea and Middle East.\n \n#ussabrahamlincoln #ship #aircraft #usa #california #defense\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/MXYkF2TLEFA/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EZeyeNA9w1g/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/MXYkF2TLEFA/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EZeyeNA9w1g/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/MXYkF2TLEFA/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EZeyeNA9w1g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 235,
-      "startedAt": "2026-10-08T09:31:54Z",
+      "concurrentViewers": 141,
+      "startedAt": "2026-10-08T17:10:27Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_qTps0Q2QtY",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 8",
-      "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
-      "channelTitle": "NBC News",
-      "country": "US",
+      "videoId": "GHkvqW64MQQ",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Protesters camp in Madrid square over housing crisis",
+      "description": "Protesters camp out in Madrid's Puerta del Sol square over housing shortages and surging rents. An 87-year-old Spanish woman, whose eviction sparked the protests, died after being hospitalized for severe anxiety and exhaustion.\n\n#protest #spain #madrid #housing #eviction #rent #camp\n\nKeep up with t…",
+      "channelTitle": "Reuters",
+      "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_qTps0Q2QtY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_qTps0Q2QtY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_qTps0Q2QtY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4078,
-      "startedAt": "2026-10-08T10:27:25Z",
+      "concurrentViewers": 5,
+      "startedAt": "2026-10-08T15:32:12Z",
       "regionRestriction": null
     },
     {
@@ -142,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 200,
+      "concurrentViewers": 104,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
@@ -166,12 +190,12 @@
           "url": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1804,
+      "concurrentViewers": 813,
       "startedAt": "2026-10-08T09:59:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "GtNbBQGfNyI",
+      "videoId": "Q9GprU4Hi-Q",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -181,47 +205,23 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GtNbBQGfNyI/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GtNbBQGfNyI/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GtNbBQGfNyI/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 707,
-      "startedAt": "2026-10-08T11:00:06Z",
+      "concurrentViewers": 562,
+      "startedAt": "2026-10-08T22:59:17Z",
       "regionRestriction": {
         "blocked": [
           "AU",
           "CA"
         ]
       }
-    },
-    {
-      "videoId": "8rUpSK3o-Fc",
-      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump rallies in Texas, Mall of America terror plot, Iran war, Isaias updates, top stories",
-      "description": "President Donald Trump's latest stop as he makes a series of trips to battleground states before the Midterms is in Texas. President Trump was in Nebraska Monday night and Maryland Tuesday afternoon. Last week he was in Denton and Oklahoma. The event is taking place at Freeman Coliseum with remarks…",
-      "channelTitle": "LiveNOW from FOX",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 863,
-      "startedAt": "2026-10-07T11:17:50Z",
-      "regionRestriction": null
     },
     {
       "videoId": "lJOXn1kKr6M",
@@ -243,8 +243,32 @@
           "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 467,
+      "concurrentViewers": 532,
       "startedAt": "2026-10-08T16:00:07Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8rUpSK3o-Fc",
+      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+      "title": "LIVE: Trump rallies in Texas, Mall of America terror plot, Iran war, Isaias updates, top stories",
+      "description": "President Donald Trump's latest stop as he makes a series of trips to battleground states before the Midterms is in Texas. President Trump was in Nebraska Monday night and Maryland Tuesday afternoon. Last week he was in Denton and Oklahoma. The event is taking place at Freeman Coliseum with remarks…",
+      "channelTitle": "LiveNOW from FOX",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 463,
+      "startedAt": "2026-10-07T11:17:50Z",
       "regionRestriction": null
     },
     {
@@ -267,32 +291,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1537,
+      "concurrentViewers": 1141,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "NlOphlXM_XU",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: USS Abraham Lincoln returns to San Diego after Middle East deployment",
-      "description": "Watch live as the USS Abraham Lincoln returns to its homeport at Naval Air Station North Island in San Diego, California, following a 10-month deployment to the Middle East. The Lincoln supported the U.S. war against Iran, and its deployment included a stretch of more than 250 uninterrupted days at…",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NlOphlXM_XU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NlOphlXM_XU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NlOphlXM_XU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 415,
-      "startedAt": "2026-10-08T14:58:27Z",
       "regionRestriction": null
     },
     {
@@ -315,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6988,
+      "concurrentViewers": 1575,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -339,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 34,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -363,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 460,
+      "concurrentViewers": 342,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -387,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1559,
+      "concurrentViewers": 809,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -411,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6042,
+      "concurrentViewers": 4933,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -435,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 102,
+      "concurrentViewers": 76,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -459,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 195,
+      "concurrentViewers": 137,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -483,7 +483,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 30,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -507,8 +507,56 @@
           "url": "https://i.ytimg.com/vi/BrotSsBowds/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 96,
+      "concurrentViewers": 48,
       "startedAt": "2026-10-07T01:14:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qn3yKBk_QfY",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Trump LIVE: US President Delivers Remarks at Science and Technology Summit In Washington | WION",
+      "description": "Trump LIVE: US President Delivers Remarks at Science and Technology Summit In Washington | WION \n\n#trumplive #donaldtrump #science #techsummit #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qn3yKBk_QfY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qn3yKBk_QfY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qn3yKBk_QfY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 9,
+      "startedAt": "2026-10-08T17:40:18Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "j3I-qjov3Po",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "NASA SpaceX Crew-12 LIVE: Astronauts Return After 8 Months In Space | WION",
+      "description": "NASA SpaceX Crew-12 LIVE: Astronauts Return After 8 Months In Space | WION \n\nNASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev are scheduled to splash down off the coast of California \n\n#nasa #spacex #esa #Cal…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j3I-qjov3Po/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j3I-qjov3Po/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j3I-qjov3Po/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1,
+      "startedAt": "2026-10-08T16:46:37Z",
       "regionRestriction": null
     },
     {
@@ -531,32 +579,8 @@
           "url": "https://i.ytimg.com/vi/S-6kes6MA6k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1948,
+      "concurrentViewers": 49,
       "startedAt": "2026-10-08T15:42:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "jWncWZu7ges",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NANA PATEKAR FUNERAL | NANA PATEKAR FUNERAL LIVE | NANA PATEKAR LAST RITES LIVE | NANA PATEKAR NEWS",
-      "description": "Veteran actor and filmmaker Nana Patekar died after suffering a severe cardiac arrest at his home in Goa. He was 75.\n\nAccording to hospital sources, the actor was declared dead at 5:20 am.\n\nThe doctors tried to revive him for almost 45 minutes after he was brought in, but there was no response, the…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jWncWZu7ges/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jWncWZu7ges/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jWncWZu7ges/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 332,
-      "startedAt": "2026-10-08T14:14:48Z",
       "regionRestriction": null
     },
     {
@@ -579,8 +603,32 @@
           "url": "https://i.ytimg.com/vi/-0rYRiaM6Og/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 16,
       "startedAt": "2026-10-08T01:28:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "jWncWZu7ges",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "NANA PATEKAR FUNERAL | NANA PATEKAR FUNERAL LIVE | NANA PATEKAR LAST RITES LIVE | NANA PATEKAR NEWS",
+      "description": "Veteran actor and filmmaker Nana Patekar died after suffering a severe cardiac arrest at his home in Goa. He was 75.\n\nAccording to hospital sources, the actor was declared dead at 5:20 am.\n\nThe doctors tried to revive him for almost 45 minutes after he was brought in, but there was no response, the…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jWncWZu7ges/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jWncWZu7ges/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jWncWZu7ges/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-10-08T14:14:48Z",
       "regionRestriction": null
     },
     {
@@ -603,32 +651,8 @@
           "url": "https://i.ytimg.com/vi/XnikSsXAuMY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 256,
+      "concurrentViewers": 23,
       "startedAt": "2026-10-08T15:36:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cYOei-9M8FU",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CEC Row Live: Oppn Intensifies Protest At Raj Ghat On Day 3 Against Gyanesh Kumar | Rahul Gandhi",
-      "description": "Opposition’s protest against CEC Gyanesh Kumar enters Day 3, with Rahul Gandhi and INDIA bloc leaders at Raj Ghat. The protest intensifies as the Opposition steps up its campaign, while CEC Gyanesh Kumar remains silent.\n\n#CECRow #GyaneshKumar #RahulGandhi #IndiaTodayLive\n\n\nSubscribe to India Today …",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 71,
-      "startedAt": "2026-10-08T16:29:06Z",
       "regionRestriction": null
     },
     {
@@ -651,32 +675,32 @@
           "url": "https://i.ytimg.com/vi/_gsr52Zc17Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 64,
+      "concurrentViewers": 10,
       "startedAt": "2026-10-08T15:52:12Z",
       "regionRestriction": null
     },
     {
-      "videoId": "JH_y_lIKnsY",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai |",
-      "description": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai | \n\nदिग्गज अभिनेता नाना पाटेकर का गुरुवार, 8 अक्टूबर को 75 साल की उम्र में निधन हो गया. गोवा स्थित अपने फ्लैट में सीने में तेज दर्द के बाद वह बेहोश मिले थे. उनके बेटे मल्हार पाटेकर के मुताबिक, सीने में तेज दर्…",
-      "channelTitle": "Aaj Tak",
+      "videoId": "cYOei-9M8FU",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "CEC Row Live: Oppn Intensifies Protest At Raj Ghat On Day 3 Against Gyanesh Kumar | Rahul Gandhi",
+      "description": "Opposition’s protest against CEC Gyanesh Kumar enters Day 3, with Rahul Gandhi and INDIA bloc leaders at Raj Ghat. The protest intensifies as the Opposition steps up its campaign, while CEC Gyanesh Kumar remains silent.\n\n#CECRow #GyaneshKumar #RahulGandhi #IndiaTodayLive\n\n\nSubscribe to India Today …",
+      "channelTitle": "India Today",
       "country": "IN",
-      "language": "hi",
+      "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3281,
-      "startedAt": "2026-10-08T11:57:35Z",
+      "concurrentViewers": 3,
+      "startedAt": "2026-10-08T16:29:06Z",
       "regionRestriction": null
     },
     {
@@ -699,8 +723,32 @@
           "url": "https://i.ytimg.com/vi/h7nGcsJAa2s/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1955,
+      "concurrentViewers": 206,
       "startedAt": "2026-10-08T15:22:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "JH_y_lIKnsY",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai |",
+      "description": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai | \n\nदिग्गज अभिनेता नाना पाटेकर का गुरुवार, 8 अक्टूबर को 75 साल की उम्र में निधन हो गया. गोवा स्थित अपने फ्लैट में सीने में तेज दर्द के बाद वह बेहोश मिले थे. उनके बेटे मल्हार पाटेकर के मुताबिक, सीने में तेज दर्…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 48,
+      "startedAt": "2026-10-08T11:57:35Z",
       "regionRestriction": null
     },
     {
@@ -723,7 +771,7 @@
           "url": "https://i.ytimg.com/vi/9j8DYuzC1uE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1107,
+      "concurrentViewers": 35,
       "startedAt": "2026-10-08T17:14:42Z",
       "regionRestriction": null
     },
@@ -747,7 +795,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 385,
+      "concurrentViewers": 1224,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -771,7 +819,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 528,
+      "concurrentViewers": 2677,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
