@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T03:01:43.236Z",
+  "generatedAt": "2026-10-09T10:49:46.460Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Politics: Greens 'wrong' to pass 'Zionism is racism' policy, says PM - as polls close in Holborn and St Pancras - https://news.sky.com/story/politics-latest-burnha…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Man City latest: Enzo Maresca asked about relegation in first news conference since verdict in 'sham contracts' case - https://news.sky.com/story/manchester-city-latest-p…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,56 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2061,
+      "concurrentViewers": 6843,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "cMymRkxOx5k",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Holborn and St Pancras by-election result and analysis | Full Sky News coverage",
-      "description": "Voting has finished in the Holborn and St Pancras by-election - stick with Sky News all night for all the latest from the count!\n\nThe vote in the London seat was triggered by the resignation of former Prime Minister Sir Keir Starmer on 1 September.\n\nThere are just over 75,000 eligible voters across…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cMymRkxOx5k/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cMymRkxOx5k/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cMymRkxOx5k/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 464,
-      "startedAt": "2026-10-08T22:59:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "nxuORgya2zg",
+      "videoId": "4fm8mC4OIWk",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Vote 2026: The People Decide | Thursday 8th August",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "title": "Britain's Newsroom | Friday 9th October",
+      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/nxuORgya2zg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4fm8mC4OIWk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/nxuORgya2zg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4fm8mC4OIWk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/nxuORgya2zg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4fm8mC4OIWk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 373,
-      "startedAt": "2026-10-08T22:55:08Z",
+      "concurrentViewers": 1083,
+      "startedAt": "2026-10-09T08:27:40Z",
       "regionRestriction": null
     },
     {
@@ -94,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 489,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -118,8 +94,32 @@
           "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-08T15:32:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_ITi5v9zlnY",
+      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+      "title": "LIVE: NBC News NOW - Oct. 9",
+      "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
+      "channelTitle": "NBC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_ITi5v9zlnY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_ITi5v9zlnY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_ITi5v9zlnY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 654,
+      "startedAt": "2026-10-09T10:29:47Z",
       "regionRestriction": null
     },
     {
@@ -142,8 +142,32 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 78,
+      "concurrentViewers": 92,
       "startedAt": "2026-10-07T16:46:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "YDzkB29E3kU",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Friday, October 9",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YDzkB29E3kU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YDzkB29E3kU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YDzkB29E3kU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 971,
+      "startedAt": "2026-10-09T09:59:35Z",
       "regionRestriction": null
     },
     {
@@ -166,7 +190,7 @@
           "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 237,
+      "concurrentViewers": 439,
       "startedAt": "2026-10-08T22:59:17Z",
       "regionRestriction": {
         "blocked": [
@@ -176,51 +200,27 @@
       }
     },
     {
-      "videoId": "8rUpSK3o-Fc",
+      "videoId": "LtbWwrCHNtU",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump rallies in Texas, Mall of America terror plot, Iran war, Isaias updates, top stories",
-      "description": "President Donald Trump's latest stop as he makes a series of trips to battleground states before the Midterms is in Texas. President Trump was in Nebraska Monday night and Maryland Tuesday afternoon. Last week he was in Denton and Oklahoma. The event is taking place at Freeman Coliseum with remarks…",
+      "title": "LIVE NEWS: Violent protests in France, Tracking Hurricane Isaias, New York ICE shooting & more",
+      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/LtbWwrCHNtU/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LtbWwrCHNtU/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LtbWwrCHNtU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 319,
-      "startedAt": "2026-10-07T11:17:50Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "lJOXn1kKr6M",
-      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Tracking Hurricane Isaias as it storms closer to the Gulf Coast",
-      "description": "Hurricane Isaias has rapidly intensified into a Category 1 storm in the Gulf of Mexico and is currently charting a dangerous path toward the U.S. Gulf Coast.\n\nSubscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox…",
-      "channelTitle": "LiveNOW from FOX",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 247,
-      "startedAt": "2026-10-08T16:00:07Z",
+      "concurrentViewers": 570,
+      "startedAt": "2026-10-09T10:01:53Z",
       "regionRestriction": null
     },
     {
@@ -243,32 +243,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 327,
+      "concurrentViewers": 289,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "niG_LWZnzUg",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: NYC Mayor Mamdani speaks after ICE officer shoots man",
-      "description": "Watch live as New York City Mayor Zohran Mamdani speaks after an ICE officer shot a man during an arrest. The man is being treated at a hospital. Read more: https://bit.ly/3WfhPki \n\n#newyorkcity #mamdani #live",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/niG_LWZnzUg/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/niG_LWZnzUg/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/niG_LWZnzUg/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 865,
-      "startedAt": "2026-10-09T02:30:40Z",
       "regionRestriction": null
     },
     {
@@ -291,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1488,
+      "concurrentViewers": 6291,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -315,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 18,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -339,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 371,
+      "concurrentViewers": 387,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -363,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 778,
+      "concurrentViewers": 1239,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -387,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2776,
+      "concurrentViewers": 5686,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -411,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 53,
+      "concurrentViewers": 136,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -435,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 166,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -459,32 +435,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 47,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "xSfKbs3AXmE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Riyadh Airport Targeted, Aircraft Severely Damaged | WION",
-      "description": "Saudi Under Attack LIVE: Riyadh Airport Targeted, Aircraft Severely Damaged | WION \n\nRiyadh airport has reportedly been targeted in an attack, with an aircraft suffering severe damage. The incident raises fresh security concerns in Saudi Arabia amid escalating regional tensions. Further details abo…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 178,
-      "startedAt": "2026-10-09T02:24:13Z",
       "regionRestriction": null
     },
     {
@@ -507,8 +459,32 @@
           "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 161,
+      "concurrentViewers": 62,
       "startedAt": "2026-10-09T01:30:42Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xSfKbs3AXmE",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Riyadh Airport Targeted, Aircraft Severely Damaged | WION",
+      "description": "Saudi Under Attack LIVE: Riyadh Airport Targeted, Aircraft Severely Damaged | WION \n\nRiyadh airport has reportedly been targeted in an attack, with an aircraft suffering severe damage. The incident raises fresh security concerns in Saudi Arabia amid escalating regional tensions. Further details abo…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 52,
+      "startedAt": "2026-10-09T02:24:13Z",
       "regionRestriction": null
     },
     {
@@ -531,8 +507,32 @@
           "url": "https://i.ytimg.com/vi/AjeOm5igdMU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 95,
+      "concurrentViewers": 30,
       "startedAt": "2026-10-09T01:21:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hYJ9a0nSF6E",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP Oct. 10 Protest LIVE: SC Reviews Curbs Ahead Of CJP Protest | Delhi Under Massive Security Cover",
+      "description": "The Supreme Court has examined a plea challenging restrictions imposed ahead of the proposed October 10 CJP protest in Delhi, observing that while the right to protest is fundamental, it must be exercised in accordance with the law. The court noted that denial of permission does not automatically e…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 369,
+      "startedAt": "2026-10-09T10:24:39Z",
       "regionRestriction": null
     },
     {
@@ -555,39 +555,39 @@
           "url": "https://i.ytimg.com/vi/S-6kes6MA6k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 44,
       "startedAt": "2026-10-08T15:42:56Z",
       "regionRestriction": null
     },
     {
-      "videoId": "jWncWZu7ges",
+      "videoId": "2qlAQ77sIZs",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NANA PATEKAR FUNERAL | NANA PATEKAR FUNERAL LIVE | NANA PATEKAR LAST RITES LIVE | NANA PATEKAR NEWS",
-      "description": "Veteran actor and filmmaker Nana Patekar died after suffering a severe cardiac arrest at his home in Goa. He was 75.\n\nAccording to hospital sources, the actor was declared dead at 5:20 am.\n\nThe doctors tried to revive him for almost 45 minutes after he was brought in, but there was no response, the…",
+      "title": "CJP Oct 10 Protest LIVE: CJP Denied Protest Permission; Delhi Police Cite Jantar Mantar Violations",
+      "description": "The proposed October 10 protest at Jantar Mantar has hit a major hurdle after Delhi Police denied permission for the demonstration. According to Delhi Police, the decision was taken due to alleged violations of conditions agreed upon during an earlier protest. Officials stated that organisers had f…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jWncWZu7ges/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/2qlAQ77sIZs/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jWncWZu7ges/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2qlAQ77sIZs/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jWncWZu7ges/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2qlAQ77sIZs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 13,
-      "startedAt": "2026-10-08T14:14:48Z",
+      "concurrentViewers": 14,
+      "startedAt": "2026-10-09T07:28:47Z",
       "regionRestriction": null
     },
     {
       "videoId": "07YB1hbC_58",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
       "title": "India Today TV LIVE: Rahul Gandhi | India Bloc Protest Day 4 | IT Giants Hit By US | Trump | US News",
-      "description": "Opposition Protest Live Updates: Opposition MPs and Congress workers headed towards Rajghat after a lunch meeting at Connaught Place as part of their ongoing protest. Samajwadi Party MP Rajiv Rai said MPs would proceed to the venue for a peaceful sit-in. Congress president Mallikarjun Kharge said t…",
+      "description": "The US Labour Department suspended major IT and outsourcing firms, including Infosys, TCS, Wipro and HCL, from a programme used by employers to sponsor foreign workers for permanent residency, alleging abuse of the system. Microsoft and Adobe were also suspended amid federal investigations, while n…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -603,32 +603,8 @@
           "url": "https://i.ytimg.com/vi/07YB1hbC_58/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 430,
+      "concurrentViewers": 206,
       "startedAt": "2026-10-09T01:40:28Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "XtWbjWLMkrg",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Nana Patekar Last Rites LIVE: Nana Patekar Cremated With Full State Honours| Nana Patekar Death News",
-      "description": "Veteran actor Nana Patekar passed away at the age of 75 on October 8 after suffering a cardiac arrest in Goa. He was found unresponsive at his residence and was declared dead at Manipal Hospital. His last rites were held in Pune with full state honours.\n\n#NanaPatekar #NanaPatekarDeath #Bollywood #I…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XtWbjWLMkrg/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XtWbjWLMkrg/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XtWbjWLMkrg/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 127,
-      "startedAt": "2026-10-09T01:42:39Z",
       "regionRestriction": null
     },
     {
@@ -651,8 +627,80 @@
           "url": "https://i.ytimg.com/vi/G8uQlz4A-F4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 96,
+      "concurrentViewers": 61,
       "startedAt": "2026-10-09T01:26:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "s3m2nBJT0yk",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "SC Hearing On Delhi Metro Station Close LIVE:  'आम जनता की आवाजाही ठप न हो' | CJP Protest | Aaj Tak",
+      "description": "दिल्ली मेेट्रो के 57 स्टेश बंद करने, और ट्रेन रद्द करने को लेकर सुनवाई.. सुप्रीम कोर्ट ने कहा कि ... यह सुनिश्चित करें कि आम जनता की आवाजाही ठप न हो... क कोर्ट ने दिल्लीपुलिससेपूछाकि क्या प्रदर्शनके लिए बड़ी जगह दी जा सकती है CJI ने कहा हमारी चिंता उन यात्रियों, छात्रों और कामगारों पर पड़ने वाले अस…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s3m2nBJT0yk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s3m2nBJT0yk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s3m2nBJT0yk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1003,
+      "startedAt": "2026-10-09T10:08:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "p4gItwiSoXQ",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Abhijeet Dipke On CJP Protest LIVE: दिल्ली में पुलिस की सख्ती पर Dipke का बड़ा बयान | Aaj Tak",
+      "description": "दिल्ली में 10 अक्टूबर को जंतर-मंतर पर प्रस्तावित प्रदर्शन के मद्देनजर दिल्ली पुलिस अलर्ट पर है. भीड़ बढ़ने की आशंका को देखते हुए पुलिस ने DMRC को पत्र लिखकर 57 मेट्रो स्टेशनों के एंट्री और एग्जिट गेट बंद करने का अनुरोध किया है.\n\n#cjp #cockroachjantaparty #abhijeetdipke #jantarmantar #gyaneshkumar #…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p4gItwiSoXQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p4gItwiSoXQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p4gItwiSoXQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 945,
+      "startedAt": "2026-10-09T08:31:45Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lHKRdcfYKsI",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "AAJTAK 2 LIVE | UP POLITICS | यूपी में चुनाव से पहले अखिलेश यादव को बड़ा झटका! | AT2 LIVE",
+      "description": "2027 के विधानसभा चुनाव से पहले समाजवादी पार्टी को बड़े झटके की खबर है. समाजवादी पार्टी से बागी हुए 3 विधायक विनोद चतुर्वेदी, राकेश प्रताप सिंह और अभय सिंह बीजेपी में शामिल होने वाले हैं। खबरों के मुताबिक 14 अक्टूबर को अमेठी के गौरीगंज में बीजेपी बड़ा आयोजन तय हुआ है . प्रदेश अध्यक्ष पंकज चौधरी और ब…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lHKRdcfYKsI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lHKRdcfYKsI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lHKRdcfYKsI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 717,
+      "startedAt": "2026-10-09T10:34:52Z",
       "regionRestriction": null
     },
     {
@@ -675,7 +723,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1548,
+      "concurrentViewers": 850,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -699,7 +747,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1747,
+      "concurrentViewers": 900,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
