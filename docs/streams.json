@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T10:49:46.460Z",
+  "generatedAt": "2026-10-09T17:21:59.924Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,32 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6843,
+      "concurrentViewers": 5342,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4fm8mC4OIWk",
+      "videoId": "sgGG64JVa2w",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Britain's Newsroom | Friday 9th October",
-      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "title": "Dewbs & Co | Friday 9th October",
+      "description": "Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News …",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4fm8mC4OIWk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/sgGG64JVa2w/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4fm8mC4OIWk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/sgGG64JVa2w/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4fm8mC4OIWk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/sgGG64JVa2w/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1083,
-      "startedAt": "2026-10-09T08:27:40Z",
+      "concurrentViewers": 854,
+      "startedAt": "2026-10-09T17:07:24Z",
       "regionRestriction": null
     },
     {
@@ -70,32 +70,80 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 489,
+      "concurrentViewers": 132,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "GHkvqW64MQQ",
+      "videoId": "LJwhHhP6Nlc",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Protesters camp in Madrid square over housing crisis",
-      "description": "Protesters camp out in Madrid's Puerta del Sol square over housing shortages and surging rents. An 87-year-old Spanish woman, whose eviction sparked the protests, died after being hospitalized for severe anxiety and exhaustion.\n\n#protest #spain #madrid #housing #eviction #rent #camp\n\nKeep up with t…",
+      "title": "LIVE: Housing activists in Barcelona protest in tribute to Maricarmen Abascal",
+      "description": "Housing activists in Barcelona stage a protest in tribute to Maricarmen Abascal, the 87-year-old woman whose eviction sparked housing protests in Spain. Abascal died this week, Madrid's tenants' union said, and news of her passing sparked a renewed wave of demonstrations demanding action on the hou…",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/LJwhHhP6Nlc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LJwhHhP6Nlc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LJwhHhP6Nlc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-08T15:32:12Z",
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-09T17:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zI9iO9hkwWE",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Florida's Miramar Beach as Hurricane Isaias bears down on US Gulf",
+      "description": "A view of Miramar Beach in Destin, Florida, as Hurricane Isaias bears down on the Florida Gulf Coast. This live feed is courtesy of Ocean Reef Resorts.\n\n#HurricaneIsaias #miramarbeach #florida #weather #naoo\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zI9iO9hkwWE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zI9iO9hkwWE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zI9iO9hkwWE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-10-09T17:18:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vKXCJq5I7GE",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Northrop Grumman Cygnus XL spacecraft departs International Space Station",
+      "description": "After delivering supplies and other cargo, the Northrop Grumman Cygnus XL spacecraft departs the International Space Station.\n\n#iss #space #cygnus #northropgrumman #science\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vKXCJq5I7GE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vKXCJq5I7GE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vKXCJq5I7GE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 8,
+      "startedAt": "2026-10-09T16:58:23Z",
       "regionRestriction": null
     },
     {
@@ -118,15 +166,15 @@
           "url": "https://i.ytimg.com/vi/_ITi5v9zlnY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 654,
+      "concurrentViewers": 3539,
       "startedAt": "2026-10-09T10:29:47Z",
       "regionRestriction": null
     },
     {
       "videoId": "w7uPIMH2c3o",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: Tracking Hurricane Isaias as it heads toward Gulf Coast | NBC News",
-      "description": "Hurricane Isaias formed early Wednesday in the warm waters off eastern Mexico and forecasters said it was expected to strengthen into the first hurricane of the Atlantic season before hitting the U.S. Gulf Coast later in the week.\n\nEvery day, NBC News helps people understand what’s happening and wh…",
+      "title": "LIVE: Tracking Hurricane Isaias as it approaches Gulf Coast | NBC News",
+      "description": "Isaias became a major Category 3 hurricane on Friday morning, with evacuation orders in effect across Alabama and the Florida Panhandle. It is the first hurricane of the Atlantic season.\n\nEvery day, NBC News helps people understand what’s happening and why it matters — through fact-based reporting,…",
       "channelTitle": "NBC News",
       "country": "US",
       "language": "en",
@@ -142,15 +190,15 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 92,
+      "concurrentViewers": 110,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
     {
       "videoId": "YDzkB29E3kU",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, October 9",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "title": "LIVE: Hurricane Isaias targets Florida Panhandle - ABC News Live",
+      "description": "Tracking Hurricane Isaias as it closes in on the Florida Panhandle. Latest forecast: https://abcnews.com/US/hurricane-isaias-takes-aim-florida-panhandle/story?id=137122880\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and …",
       "channelTitle": "ABC News",
       "country": "US",
       "language": "en",
@@ -166,12 +214,12 @@
           "url": "https://i.ytimg.com/vi/YDzkB29E3kU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 971,
+      "concurrentViewers": 1092,
       "startedAt": "2026-10-09T09:59:35Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Q9GprU4Hi-Q",
+      "videoId": "yCmYjE_7iSs",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -181,17 +229,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/yCmYjE_7iSs/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/yCmYjE_7iSs/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/yCmYjE_7iSs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 439,
-      "startedAt": "2026-10-08T22:59:17Z",
+      "concurrentViewers": 741,
+      "startedAt": "2026-10-09T11:03:09Z",
       "regionRestriction": {
         "blocked": [
           "AU",
@@ -203,7 +251,7 @@
       "videoId": "LtbWwrCHNtU",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
       "title": "LIVE NEWS: Violent protests in France, Tracking Hurricane Isaias, New York ICE shooting & more",
-      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
+      "description": "More than 30 million people are expected to feel the impact of Isaias as the storm comes ashore Friday evening into Saturday morning. Hurricane warnings are in effect for coastal communities from Mississippi to the Florida panhandle. \n\nStudents continue to protest in France amid proposed education …",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -219,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/LtbWwrCHNtU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 570,
+      "concurrentViewers": 913,
       "startedAt": "2026-10-09T10:01:53Z",
       "regionRestriction": null
     },
@@ -243,8 +291,80 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 289,
+      "concurrentViewers": 1508,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "KXubJK39LrA",
+      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
+      "title": "The Rob Carson Show LIVE (10/9/2026) | NEWSMAX Podcasts",
+      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
+      "channelTitle": "Newsmax",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KXubJK39LrA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KXubJK39LrA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KXubJK39LrA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 61,
+      "startedAt": "2026-10-09T16:05:42Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qScgCSMyvtI",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: View of Panama City Beach as Hurricane Isaias reaches the Florida coast",
+      "description": "Watch live from Panama City Beach as Hurricane Isaias bears down on the Florida coast, bringing heavy winds and rains.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qScgCSMyvtI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qScgCSMyvtI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qScgCSMyvtI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 2111,
+      "startedAt": "2026-10-09T15:25:53Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7BpkmT6PLfc",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Fleet Week Parade of Ships passes beneath San Francisco’s Golden Gate Bridge",
+      "description": "Watch live as the annual Fleet Week Parade of Ships, the largest on the West Coast, passes beneath San Francisco’s Golden Gate Bridge.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7BpkmT6PLfc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7BpkmT6PLfc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7BpkmT6PLfc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 142,
+      "startedAt": "2026-10-09T17:15:24Z",
       "regionRestriction": null
     },
     {
@@ -267,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6291,
+      "concurrentViewers": 5647,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -291,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 28,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -315,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 387,
+      "concurrentViewers": 449,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -339,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1239,
+      "concurrentViewers": 1435,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -363,7 +483,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5686,
+      "concurrentViewers": 5399,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -387,7 +507,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 136,
+      "concurrentViewers": 69,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -411,7 +531,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 166,
+      "concurrentViewers": 176,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -440,30 +560,6 @@
       "regionRestriction": null
     },
     {
-      "videoId": "Dfdeon5IYZc",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION",
-      "description": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION\n\nThick black smoke and intense flames have been reported rising near King Khalid International Airport in Saudi Arabia’s capital, Riyadh, following reports that a Saudi Aramco fuel tank caught fire. …",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 62,
-      "startedAt": "2026-10-09T01:30:42Z",
-      "regionRestriction": null
-    },
-    {
       "videoId": "xSfKbs3AXmE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
       "title": "Saudi Under Attack LIVE: Riyadh Airport Targeted, Aircraft Severely Damaged | WION",
@@ -483,8 +579,32 @@
           "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 62,
       "startedAt": "2026-10-09T02:24:13Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Dfdeon5IYZc",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION",
+      "description": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION\n\nThick black smoke and intense flames have been reported rising near King Khalid International Airport in Saudi Arabia’s capital, Riyadh, following reports that a Saudi Aramco fuel tank caught fire. …",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 51,
+      "startedAt": "2026-10-09T01:30:42Z",
       "regionRestriction": null
     },
     {
@@ -507,7 +627,7 @@
           "url": "https://i.ytimg.com/vi/AjeOm5igdMU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 23,
       "startedAt": "2026-10-09T01:21:25Z",
       "regionRestriction": null
     },
@@ -531,32 +651,8 @@
           "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 369,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-09T10:24:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "S-6kes6MA6k",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Nana Patekar Funeral LIVE | Nana Patekar Cremation LIVE | Nana Patekar Last Rites LIVE | Cremation",
-      "description": "Nana Patekar Funeral LIVE | Nana Patekar Cremation LIVE | Nana Patekar Last Rites LIVE | Cremation \n\nVeteran actor and filmmaker Nana Patekar died after suffering a severe cardiac arrest at his home in Goa. He was 75.\n\nAccording to hospital sources, the actor was declared dead at 5:20 am.\n\nThe doct…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/S-6kes6MA6k/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/S-6kes6MA6k/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/S-6kes6MA6k/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 44,
-      "startedAt": "2026-10-08T15:42:56Z",
       "regionRestriction": null
     },
     {
@@ -579,15 +675,63 @@
           "url": "https://i.ytimg.com/vi/2qlAQ77sIZs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 4,
       "startedAt": "2026-10-09T07:28:47Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_oZFl_xEEwo",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Delhi On High Alert Ahead Of CJP Protest Against CEC Gyanesh; Right To protest Curbed?",
+      "description": "Delhi sees heightened security ahead of the Cockroach Janta Party (CJP) protest, with restrictions and preparations drawing attention. Is the right to protest being curtailed? Meanwhile, questions emerge over the political contest between the Congress and CJP. Watch LIVE updates from Delhi.\n\n#CJPPr…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_oZFl_xEEwo/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_oZFl_xEEwo/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_oZFl_xEEwo/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 331,
+      "startedAt": "2026-10-09T15:29:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GOgmvAV9Nu4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "SIR Storm LIVE: Opposition's INDIA Bloc MPs March To Rashtrapati Bhawan Over CEC Gyanesh Kumar",
+      "description": "SIR Storm LIVE: Opposition's INDIA Bloc MPs March To Rashtrapati Bhawan Over CEC Gyanesh Kumar\n\nOpposition INDIA bloc MPs march towards Rashtrapati Bhawan over the row involving Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision (SIR) of electoral rolls. Watch the latest v…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 98,
+      "startedAt": "2026-10-09T14:34:37Z",
       "regionRestriction": null
     },
     {
       "videoId": "07YB1hbC_58",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Rahul Gandhi | India Bloc Protest Day 4 | IT Giants Hit By US | Trump | US News",
-      "description": "The US Labour Department suspended major IT and outsourcing firms, including Infosys, TCS, Wipro and HCL, from a programme used by employers to sponsor foreign workers for permanent residency, alleging abuse of the system. Microsoft and Adobe were also suspended amid federal investigations, while n…",
+      "title": "India Today TV LIVE: Oppn's Big Meet | CJP Delhi Protest 2.0 | IT Giants Hit By US | Trump | US News",
+      "description": "India Today TV LIVE: Oppn's Big Meet | CJP Delhi Protest 2.0 | IT Giants Hit By US | Trump | US News\n\nThe US Labour Department suspended major IT and outsourcing firms, including Infosys, TCS, Wipro and HCL, from a programme used by employers to sponsor foreign workers for permanent residency, alle…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -603,104 +747,80 @@
           "url": "https://i.ytimg.com/vi/07YB1hbC_58/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 206,
+      "concurrentViewers": 90,
       "startedAt": "2026-10-09T01:40:28Z",
       "regionRestriction": null
     },
     {
-      "videoId": "G8uQlz4A-F4",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Opposition Protest | Rahul Gandhi | US News | PM Modi | US News | Elon Musk",
-      "description": "The US Labour Department suspended major IT and outsourcing firms, including Infosys, TCS, Wipro and HCL, from a programme used by employers to sponsor foreign workers for permanent residency, alleging abuse of the system. Microsoft and Adobe were also suspended amid federal investigations, while n…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/G8uQlz4A-F4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/G8uQlz4A-F4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/G8uQlz4A-F4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 61,
-      "startedAt": "2026-10-09T01:26:54Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "s3m2nBJT0yk",
+      "videoId": "EyXV03FUuSk",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "SC Hearing On Delhi Metro Station Close LIVE:  'आम जनता की आवाजाही ठप न हो' | CJP Protest | Aaj Tak",
-      "description": "दिल्ली मेेट्रो के 57 स्टेश बंद करने, और ट्रेन रद्द करने को लेकर सुनवाई.. सुप्रीम कोर्ट ने कहा कि ... यह सुनिश्चित करें कि आम जनता की आवाजाही ठप न हो... क कोर्ट ने दिल्लीपुलिससेपूछाकि क्या प्रदर्शनके लिए बड़ी जगह दी जा सकती है CJI ने कहा हमारी चिंता उन यात्रियों, छात्रों और कामगारों पर पड़ने वाले अस…",
+      "title": "Rahul Gandhi LIVE: राष्ट्रपति से विपक्षी नेताओं की मुलाकात खत्म | INDIA Alliance | CEC Gyanesh kumar",
+      "description": "वोट चोरी के आरोपों और वोटर लिस्ट के विशेष गहन पुनरीक्षण को लेकर विपक्ष का विरोध जारी है. इसी कड़ी में शुक्रवार को विपक्षी दलों के सांसद संसद के सेंट्रल हॉल में जुटे. यहां से सभी मार्च करते हुए विजय चौक तक पहुंचे और धरने पर बैठ गए. वहीं राहुल गांधी के नेतृत्व में 10 विपक्षी नेताओं ने राष्ट्रपति द्रौ…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/s3m2nBJT0yk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/s3m2nBJT0yk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/s3m2nBJT0yk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1003,
-      "startedAt": "2026-10-09T10:08:27Z",
+      "concurrentViewers": 3373,
+      "startedAt": "2026-10-09T15:28:01Z",
       "regionRestriction": null
     },
     {
-      "videoId": "p4gItwiSoXQ",
+      "videoId": "wtGSxwax5ek",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Abhijeet Dipke On CJP Protest LIVE: दिल्ली में पुलिस की सख्ती पर Dipke का बड़ा बयान | Aaj Tak",
-      "description": "दिल्ली में 10 अक्टूबर को जंतर-मंतर पर प्रस्तावित प्रदर्शन के मद्देनजर दिल्ली पुलिस अलर्ट पर है. भीड़ बढ़ने की आशंका को देखते हुए पुलिस ने DMRC को पत्र लिखकर 57 मेट्रो स्टेशनों के एंट्री और एग्जिट गेट बंद करने का अनुरोध किया है.\n\n#cjp #cockroachjantaparty #abhijeetdipke #jantarmantar #gyaneshkumar #…",
+      "title": "Black And White With Anjana Om Kashyap LIVE: CJP Protest Delhi | EC | INDIA Alliance | BY-Election",
+      "description": "कल यानी 10 अक्टूबर को होने वाले कॉकरोच जनता पार्टी के आंदोलन से ठीक पहले दिल्ली पुलिस ने पूरी राजधानी को एक अभेद्य किले में बदल दिया है। सुरक्षा इतनी सख्त है कि दिल्ली के सभी बॉर्डर सील हैं, 57 मेट्रो स्टेशनों पर ताले लटक गए हैं और कई ट्रेनों में तलाशी चल रही है। पूरी दिल्ली थम सी गई है।\n\nवोट चोरी …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/p4gItwiSoXQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/wtGSxwax5ek/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/p4gItwiSoXQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/wtGSxwax5ek/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/p4gItwiSoXQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/wtGSxwax5ek/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 945,
-      "startedAt": "2026-10-09T08:31:45Z",
+      "concurrentViewers": 2684,
+      "startedAt": "2026-10-09T15:29:55Z",
       "regionRestriction": null
     },
     {
-      "videoId": "lHKRdcfYKsI",
+      "videoId": "GXpqVizZ5ps",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "AAJTAK 2 LIVE | UP POLITICS | यूपी में चुनाव से पहले अखिलेश यादव को बड़ा झटका! | AT2 LIVE",
-      "description": "2027 के विधानसभा चुनाव से पहले समाजवादी पार्टी को बड़े झटके की खबर है. समाजवादी पार्टी से बागी हुए 3 विधायक विनोद चतुर्वेदी, राकेश प्रताप सिंह और अभय सिंह बीजेपी में शामिल होने वाले हैं। खबरों के मुताबिक 14 अक्टूबर को अमेठी के गौरीगंज में बीजेपी बड़ा आयोजन तय हुआ है . प्रदेश अध्यक्ष पंकज चौधरी और ब…",
+      "title": "INDIA Alliance Protest News LIVE: Gyanesh Kumar पर संग्राम, Delhi मे चक्का जाम! | EC | Rahul",
+      "description": "ज्ञानेश कुमार के खिलाफ लगातार चौथे दिन, राहुल गांधी और INDIA गठबंधन के नेताओं ने विरोध प्रदर्शन किया। आज INDIA गठबंधन के 10 नेता राष्ट्रपति द्रौपदी मुर्मू से मिले, और ज्ञानेश कुमार के इस्तीफे की मांग को लेकर अपना ज्ञापन सौंपा। आपको बता दें जब INDIA गठबंधन के 10 नेता राष्ट्रपति मिलने राष्ट्रपति भवन …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lHKRdcfYKsI/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/GXpqVizZ5ps/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lHKRdcfYKsI/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GXpqVizZ5ps/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lHKRdcfYKsI/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GXpqVizZ5ps/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 717,
-      "startedAt": "2026-10-09T10:34:52Z",
+      "concurrentViewers": 1072,
+      "startedAt": "2026-10-09T16:31:25Z",
       "regionRestriction": null
     },
     {
@@ -723,7 +843,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 850,
+      "concurrentViewers": 362,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -747,7 +867,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 900,
+      "concurrentViewers": 475,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
