@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T23:02:10.882Z",
+  "generatedAt": "2026-10-09T03:01:43.236Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2868,
+      "concurrentViewers": 2061,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/cMymRkxOx5k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 121,
+      "concurrentViewers": 464,
       "startedAt": "2026-10-08T22:59:31Z",
       "regionRestriction": null
     },
@@ -70,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/nxuORgya2zg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 172,
+      "concurrentViewers": 373,
       "startedAt": "2026-10-08T22:55:08Z",
       "regionRestriction": null
     },
@@ -94,32 +94,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 45,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "EZeyeNA9w1g",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: USS Abraham Lincoln returns to San Diego",
-      "description": "The aircraft carrier USS Abraham Lincoln returns to San Diego, California, after a 10-month deployment across the Pacific, South China Sea and Middle East.\n \n#ussabrahamlincoln #ship #aircraft #usa #california #defense\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EZeyeNA9w1g/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EZeyeNA9w1g/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EZeyeNA9w1g/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 141,
-      "startedAt": "2026-10-08T17:10:27Z",
       "regionRestriction": null
     },
     {
@@ -142,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/GHkvqW64MQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": 4,
       "startedAt": "2026-10-08T15:32:12Z",
       "regionRestriction": null
     },
@@ -166,32 +142,8 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 78,
       "startedAt": "2026-10-07T16:46:08Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "UNlabc4CzPE",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Thursday, October 8",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UNlabc4CzPE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UNlabc4CzPE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 813,
-      "startedAt": "2026-10-08T09:59:23Z",
       "regionRestriction": null
     },
     {
@@ -214,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 562,
+      "concurrentViewers": 237,
       "startedAt": "2026-10-08T22:59:17Z",
       "regionRestriction": {
         "blocked": [
@@ -222,30 +174,6 @@
           "CA"
         ]
       }
-    },
-    {
-      "videoId": "lJOXn1kKr6M",
-      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Tracking Hurricane Isaias as it storms closer to the Gulf Coast",
-      "description": "Hurricane Isaias has rapidly intensified into a Category 1 storm in the Gulf of Mexico and is currently charting a dangerous path toward the U.S. Gulf Coast.\n\nSubscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox…",
-      "channelTitle": "LiveNOW from FOX",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 532,
-      "startedAt": "2026-10-08T16:00:07Z",
-      "regionRestriction": null
     },
     {
       "videoId": "8rUpSK3o-Fc",
@@ -267,8 +195,32 @@
           "url": "https://i.ytimg.com/vi/8rUpSK3o-Fc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 463,
+      "concurrentViewers": 319,
       "startedAt": "2026-10-07T11:17:50Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lJOXn1kKr6M",
+      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+      "title": "LIVE: Tracking Hurricane Isaias as it storms closer to the Gulf Coast",
+      "description": "Hurricane Isaias has rapidly intensified into a Category 1 storm in the Gulf of Mexico and is currently charting a dangerous path toward the U.S. Gulf Coast.\n\nSubscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox…",
+      "channelTitle": "LiveNOW from FOX",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lJOXn1kKr6M/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 247,
+      "startedAt": "2026-10-08T16:00:07Z",
       "regionRestriction": null
     },
     {
@@ -291,8 +243,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1141,
+      "concurrentViewers": 327,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "niG_LWZnzUg",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: NYC Mayor Mamdani speaks after ICE officer shoots man",
+      "description": "Watch live as New York City Mayor Zohran Mamdani speaks after an ICE officer shot a man during an arrest. The man is being treated at a hospital. Read more: https://bit.ly/3WfhPki \n\n#newyorkcity #mamdani #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/niG_LWZnzUg/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/niG_LWZnzUg/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/niG_LWZnzUg/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 865,
+      "startedAt": "2026-10-09T02:30:40Z",
       "regionRestriction": null
     },
     {
@@ -315,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1575,
+      "concurrentViewers": 1488,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -339,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -363,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 342,
+      "concurrentViewers": 371,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -387,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 809,
+      "concurrentViewers": 778,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -411,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4933,
+      "concurrentViewers": 2776,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -435,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 53,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -459,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 137,
+      "concurrentViewers": 104,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -483,80 +459,80 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 27,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "BrotSsBowds",
+      "videoId": "xSfKbs3AXmE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Yemen’s Houthis Claim Massive Strike On Riyadh Airport, Blasts Shake Saudi",
-      "description": "Saudi Under Attack LIVE: Yemen’s Houthis Claim Massive Strike On Riyadh Airport, Blasts Shake Saudi \n\n\nHouthis claim they carried out strikes targeting an Aramco refinery and other strategic sites across Saudi Arabia, including locations in Riyadh and the southwestern region. Saudi authorities had …",
+      "title": "Saudi Under Attack LIVE: Riyadh Airport Targeted, Aircraft Severely Damaged | WION",
+      "description": "Saudi Under Attack LIVE: Riyadh Airport Targeted, Aircraft Severely Damaged | WION \n\nRiyadh airport has reportedly been targeted in an attack, with an aircraft suffering severe damage. The incident raises fresh security concerns in Saudi Arabia amid escalating regional tensions. Further details abo…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/BrotSsBowds/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/BrotSsBowds/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/BrotSsBowds/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 48,
-      "startedAt": "2026-10-07T01:14:28Z",
+      "concurrentViewers": 178,
+      "startedAt": "2026-10-09T02:24:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "qn3yKBk_QfY",
+      "videoId": "Dfdeon5IYZc",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Trump LIVE: US President Delivers Remarks at Science and Technology Summit In Washington | WION",
-      "description": "Trump LIVE: US President Delivers Remarks at Science and Technology Summit In Washington | WION \n\n#trumplive #donaldtrump #science #techsummit #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is…",
+      "title": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION",
+      "description": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION\n\nThick black smoke and intense flames have been reported rising near King Khalid International Airport in Saudi Arabia’s capital, Riyadh, following reports that a Saudi Aramco fuel tank caught fire. …",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qn3yKBk_QfY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qn3yKBk_QfY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qn3yKBk_QfY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 9,
-      "startedAt": "2026-10-08T17:40:18Z",
+      "concurrentViewers": 161,
+      "startedAt": "2026-10-09T01:30:42Z",
       "regionRestriction": null
     },
     {
-      "videoId": "j3I-qjov3Po",
+      "videoId": "AjeOm5igdMU",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "NASA SpaceX Crew-12 LIVE: Astronauts Return After 8 Months In Space | WION",
-      "description": "NASA SpaceX Crew-12 LIVE: Astronauts Return After 8 Months In Space | WION \n\nNASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev are scheduled to splash down off the coast of California \n\n#nasa #spacex #esa #Cal…",
+      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
+      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/j3I-qjov3Po/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/AjeOm5igdMU/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/j3I-qjov3Po/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/AjeOm5igdMU/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/j3I-qjov3Po/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/AjeOm5igdMU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-10-08T16:46:37Z",
+      "concurrentViewers": 95,
+      "startedAt": "2026-10-09T01:21:25Z",
       "regionRestriction": null
     },
     {
@@ -579,32 +555,8 @@
           "url": "https://i.ytimg.com/vi/S-6kes6MA6k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 49,
+      "concurrentViewers": 52,
       "startedAt": "2026-10-08T15:42:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-0rYRiaM6Og",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: Jantar Mantar | ECI Row | CEC Gyanesh Kumar | Nana Patekar | Smit Machchhar Health Update",
-      "description": "The key leaders of the INDIA Bloc -- including Rahul and Priyanka Gandhi -- were detained as they led a massive protest over the voter list revision and demanded the dismissal of Chief Election Commissioner Gyanesh Kumar for the second consecutive day, Congress sources have claimed. Other protester…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-0rYRiaM6Og/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-0rYRiaM6Og/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-0rYRiaM6Og/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 16,
-      "startedAt": "2026-10-08T01:28:08Z",
       "regionRestriction": null
     },
     {
@@ -632,147 +584,75 @@
       "regionRestriction": null
     },
     {
-      "videoId": "XnikSsXAuMY",
+      "videoId": "07YB1hbC_58",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Show Live: Day 3 Of Oppn-led Protest Against CEC Gyanesh Kumar | Rahul Gandhi | Congress",
-      "description": "CEC Row: Opposition’s protest against CEC Gyanesh Kumar enters Day 3, with street demonstrations intensifying the political confrontation. The Rajdeep Show examines whether guerrilla-style street agitations can influence political battles and public opinion. \n\n#CECRow #GyaneshKumar #OppositionProte…",
+      "title": "India Today TV LIVE: Rahul Gandhi | India Bloc Protest Day 4 | IT Giants Hit By US | Trump | US News",
+      "description": "Opposition Protest Live Updates: Opposition MPs and Congress workers headed towards Rajghat after a lunch meeting at Connaught Place as part of their ongoing protest. Samajwadi Party MP Rajiv Rai said MPs would proceed to the venue for a peaceful sit-in. Congress president Mallikarjun Kharge said t…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XnikSsXAuMY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/07YB1hbC_58/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XnikSsXAuMY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/07YB1hbC_58/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XnikSsXAuMY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/07YB1hbC_58/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-08T15:36:23Z",
+      "concurrentViewers": 430,
+      "startedAt": "2026-10-09T01:40:28Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_gsr52Zc17Y",
+      "videoId": "XtWbjWLMkrg",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Protest Against CEC Gyanesh LIVE: Day 3 Of Congress-Led Protest In Delhi | Rahul & Priyanka",
-      "description": "Congress-led Opposition protest against CEC Gyanesh Kumar enters Day 3 in Delhi. Rahul Gandhi, Priyanka Gandhi and other Opposition leaders continue the protest, with the Election Commission row remaining at the centre of the political confrontation. Watch live updates and visuals from the protest.…",
+      "title": "Nana Patekar Last Rites LIVE: Nana Patekar Cremated With Full State Honours| Nana Patekar Death News",
+      "description": "Veteran actor Nana Patekar passed away at the age of 75 on October 8 after suffering a cardiac arrest in Goa. He was found unresponsive at his residence and was declared dead at Manipal Hospital. His last rites were held in Pune with full state honours.\n\n#NanaPatekar #NanaPatekarDeath #Bollywood #I…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_gsr52Zc17Y/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/XtWbjWLMkrg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_gsr52Zc17Y/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/XtWbjWLMkrg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_gsr52Zc17Y/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/XtWbjWLMkrg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 10,
-      "startedAt": "2026-10-08T15:52:12Z",
+      "concurrentViewers": 127,
+      "startedAt": "2026-10-09T01:42:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "cYOei-9M8FU",
+      "videoId": "G8uQlz4A-F4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CEC Row Live: Oppn Intensifies Protest At Raj Ghat On Day 3 Against Gyanesh Kumar | Rahul Gandhi",
-      "description": "Opposition’s protest against CEC Gyanesh Kumar enters Day 3, with Rahul Gandhi and INDIA bloc leaders at Raj Ghat. The protest intensifies as the Opposition steps up its campaign, while CEC Gyanesh Kumar remains silent.\n\n#CECRow #GyaneshKumar #RahulGandhi #IndiaTodayLive\n\n\nSubscribe to India Today …",
+      "title": "India Today TV LIVE: Opposition Protest | Rahul Gandhi | US News | PM Modi | US News | Elon Musk",
+      "description": "The US Labour Department suspended major IT and outsourcing firms, including Infosys, TCS, Wipro and HCL, from a programme used by employers to sponsor foreign workers for permanent residency, alleging abuse of the system. Microsoft and Adobe were also suspended amid federal investigations, while n…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/G8uQlz4A-F4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/G8uQlz4A-F4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/cYOei-9M8FU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/G8uQlz4A-F4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3,
-      "startedAt": "2026-10-08T16:29:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "h7nGcsJAa2s",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Black and White with Anjana Om Kashyap LIVE: Congress Protest |Rahul | Gyanesh Kumar | Nana Patekar",
-      "description": "Black and White with Anjana Om Kashyap LIVE: Gyanesh Kumar | Congress | SIR Protest | Nana Patekar\n\nराहुल गांधी, मल्लिकार्जुन खड़गे और प्रियंका गांधी समेत विपक्षी नेताओं ने गुरुवार को लगातार तीसरे दिन चुनाव आयोग के खिलाफ प्रदर्शन किया. विपक्ष के राजघाट जाने के ऐलान के बाद दिल्ली पुलिस ने इलाके में …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/h7nGcsJAa2s/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/h7nGcsJAa2s/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/h7nGcsJAa2s/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 206,
-      "startedAt": "2026-10-08T15:22:54Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "JH_y_lIKnsY",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai |",
-      "description": "Nana Patekar Last Rites LIVE : Puna में नाना पाटेकर का अंतिम संस्कार | Bollywood | Mumbai | \n\nदिग्गज अभिनेता नाना पाटेकर का गुरुवार, 8 अक्टूबर को 75 साल की उम्र में निधन हो गया. गोवा स्थित अपने फ्लैट में सीने में तेज दर्द के बाद वह बेहोश मिले थे. उनके बेटे मल्हार पाटेकर के मुताबिक, सीने में तेज दर्…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JH_y_lIKnsY/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 48,
-      "startedAt": "2026-10-08T11:57:35Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "9j8DYuzC1uE",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Nana Patekar Last Ritest LIVE : अलविदा नाना पाटेकर | Pune | Mumbai | Bollywood | Aaj Tak",
-      "description": "हिंदी और मराठी सिनेमा के महान एक्टर नाना पाटेकर का 75 वर्ष की आयु में गोवा स्थित उनके निवास पर निधन हो गया है. उनके जाने से सिनेमा जगत और उनके प्रशंसकों में गहरा शोक है. हालांकि, अपनी मृत्यु से महज चार दिन पहले वे गोवा में एक सार्वजनिक कार्यक्रम में नजर आए थे, जहां उन्होंने न केवल स्थानीय कलाकारों …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9j8DYuzC1uE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9j8DYuzC1uE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9j8DYuzC1uE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 35,
-      "startedAt": "2026-10-08T17:14:42Z",
+      "concurrentViewers": 96,
+      "startedAt": "2026-10-09T01:26:54Z",
       "regionRestriction": null
     },
     {
@@ -795,7 +675,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1224,
+      "concurrentViewers": 1548,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -819,7 +699,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2677,
+      "concurrentViewers": 1747,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
