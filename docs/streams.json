@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T17:21:59.924Z",
+  "generatedAt": "2026-10-09T21:49:53.805Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,32 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5342,
+      "concurrentViewers": 3280,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "sgGG64JVa2w",
+      "videoId": "FGsmat_7NGA",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Dewbs & Co | Friday 9th October",
-      "description": "Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News …",
+      "title": "Patrick Christys Tonight | Friday 9th October",
+      "description": "Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/sgGG64JVa2w/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/FGsmat_7NGA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/sgGG64JVa2w/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/FGsmat_7NGA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/sgGG64JVa2w/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/FGsmat_7NGA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 854,
-      "startedAt": "2026-10-09T17:07:24Z",
+      "concurrentViewers": 2515,
+      "startedAt": "2026-10-09T20:00:27Z",
       "regionRestriction": null
     },
     {
@@ -70,32 +70,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 57,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "LJwhHhP6Nlc",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Housing activists in Barcelona protest in tribute to Maricarmen Abascal",
-      "description": "Housing activists in Barcelona stage a protest in tribute to Maricarmen Abascal, the 87-year-old woman whose eviction sparked housing protests in Spain. Abascal died this week, Madrid's tenants' union said, and news of her passing sparked a renewed wave of demonstrations demanding action on the hou…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LJwhHhP6Nlc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LJwhHhP6Nlc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LJwhHhP6Nlc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 20,
-      "startedAt": "2026-10-09T17:07:39Z",
       "regionRestriction": null
     },
     {
@@ -118,32 +94,8 @@
           "url": "https://i.ytimg.com/vi/zI9iO9hkwWE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 73,
       "startedAt": "2026-10-09T17:18:33Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "vKXCJq5I7GE",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Northrop Grumman Cygnus XL spacecraft departs International Space Station",
-      "description": "After delivering supplies and other cargo, the Northrop Grumman Cygnus XL spacecraft departs the International Space Station.\n\n#iss #space #cygnus #northropgrumman #science\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vKXCJq5I7GE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vKXCJq5I7GE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vKXCJq5I7GE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-09T16:58:23Z",
       "regionRestriction": null
     },
     {
@@ -166,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/_ITi5v9zlnY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3539,
+      "concurrentViewers": 2589,
       "startedAt": "2026-10-09T10:29:47Z",
       "regionRestriction": null
     },
@@ -190,14 +142,14 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 63,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
     {
       "videoId": "YDzkB29E3kU",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: Hurricane Isaias targets Florida Panhandle - ABC News Live",
+      "title": "LIVE: ABC News Live - Friday, October 9",
       "description": "Tracking Hurricane Isaias as it closes in on the Florida Panhandle. Latest forecast: https://abcnews.com/US/hurricane-isaias-takes-aim-florida-panhandle/story?id=137122880\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and …",
       "channelTitle": "ABC News",
       "country": "US",
@@ -214,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/YDzkB29E3kU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1092,
+      "concurrentViewers": 428,
       "startedAt": "2026-10-09T09:59:35Z",
       "regionRestriction": null
     },
@@ -238,7 +190,7 @@
           "url": "https://i.ytimg.com/vi/yCmYjE_7iSs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 741,
+      "concurrentViewers": 404,
       "startedAt": "2026-10-09T11:03:09Z",
       "regionRestriction": {
         "blocked": [
@@ -267,7 +219,7 @@
           "url": "https://i.ytimg.com/vi/LtbWwrCHNtU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 913,
+      "concurrentViewers": 773,
       "startedAt": "2026-10-09T10:01:53Z",
       "regionRestriction": null
     },
@@ -291,39 +243,15 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1508,
+      "concurrentViewers": 1150,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "KXubJK39LrA",
-      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-      "title": "The Rob Carson Show LIVE (10/9/2026) | NEWSMAX Podcasts",
-      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
-      "channelTitle": "Newsmax",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KXubJK39LrA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KXubJK39LrA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KXubJK39LrA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 61,
-      "startedAt": "2026-10-09T16:05:42Z",
       "regionRestriction": null
     },
     {
       "videoId": "qScgCSMyvtI",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: View of Panama City Beach as Hurricane Isaias reaches the Florida coast",
-      "description": "Watch live from Panama City Beach as Hurricane Isaias bears down on the Florida coast, bringing heavy winds and rains.",
+      "title": "LIVE: View of Panama City Beach in Florida ahead of Hurricane Isaias",
+      "description": "Live from Panama City Beach as Hurricane Isaias bears down on the Florida coast, bringing heavy winds and rains.",
       "channelTitle": "Associated Press",
       "country": "US",
       "language": "en",
@@ -339,32 +267,8 @@
           "url": "https://i.ytimg.com/vi/qScgCSMyvtI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2111,
+      "concurrentViewers": 4531,
       "startedAt": "2026-10-09T15:25:53Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7BpkmT6PLfc",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Fleet Week Parade of Ships passes beneath San Francisco’s Golden Gate Bridge",
-      "description": "Watch live as the annual Fleet Week Parade of Ships, the largest on the West Coast, passes beneath San Francisco’s Golden Gate Bridge.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7BpkmT6PLfc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7BpkmT6PLfc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7BpkmT6PLfc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 142,
-      "startedAt": "2026-10-09T17:15:24Z",
       "regionRestriction": null
     },
     {
@@ -387,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5647,
+      "concurrentViewers": 2363,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -411,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 15,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -435,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 449,
+      "concurrentViewers": 332,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -459,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1435,
+      "concurrentViewers": 950,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -483,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5399,
+      "concurrentViewers": 4824,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -507,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 69,
+      "concurrentViewers": 85,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -531,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 176,
+      "concurrentViewers": 123,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -555,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 34,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -579,7 +483,7 @@
           "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 65,
       "startedAt": "2026-10-09T02:24:13Z",
       "regionRestriction": null
     },
@@ -603,7 +507,7 @@
           "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 32,
       "startedAt": "2026-10-09T01:30:42Z",
       "regionRestriction": null
     },
@@ -627,7 +531,7 @@
           "url": "https://i.ytimg.com/vi/AjeOm5igdMU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 22,
       "startedAt": "2026-10-09T01:21:25Z",
       "regionRestriction": null
     },
@@ -651,32 +555,8 @@
           "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-09T10:24:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "2qlAQ77sIZs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Oct 10 Protest LIVE: CJP Denied Protest Permission; Delhi Police Cite Jantar Mantar Violations",
-      "description": "The proposed October 10 protest at Jantar Mantar has hit a major hurdle after Delhi Police denied permission for the demonstration. According to Delhi Police, the decision was taken due to alleged violations of conditions agreed upon during an earlier protest. Officials stated that organisers had f…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2qlAQ77sIZs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2qlAQ77sIZs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2qlAQ77sIZs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 4,
-      "startedAt": "2026-10-09T07:28:47Z",
       "regionRestriction": null
     },
     {
@@ -699,32 +579,8 @@
           "url": "https://i.ytimg.com/vi/_oZFl_xEEwo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 331,
+      "concurrentViewers": 42,
       "startedAt": "2026-10-09T15:29:03Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "GOgmvAV9Nu4",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "SIR Storm LIVE: Opposition's INDIA Bloc MPs March To Rashtrapati Bhawan Over CEC Gyanesh Kumar",
-      "description": "SIR Storm LIVE: Opposition's INDIA Bloc MPs March To Rashtrapati Bhawan Over CEC Gyanesh Kumar\n\nOpposition INDIA bloc MPs march towards Rashtrapati Bhawan over the row involving Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision (SIR) of electoral rolls. Watch the latest v…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 98,
-      "startedAt": "2026-10-09T14:34:37Z",
       "regionRestriction": null
     },
     {
@@ -747,32 +603,32 @@
           "url": "https://i.ytimg.com/vi/07YB1hbC_58/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 90,
+      "concurrentViewers": 16,
       "startedAt": "2026-10-09T01:40:28Z",
       "regionRestriction": null
     },
     {
-      "videoId": "EyXV03FUuSk",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul Gandhi LIVE: राष्ट्रपति से विपक्षी नेताओं की मुलाकात खत्म | INDIA Alliance | CEC Gyanesh kumar",
-      "description": "वोट चोरी के आरोपों और वोटर लिस्ट के विशेष गहन पुनरीक्षण को लेकर विपक्ष का विरोध जारी है. इसी कड़ी में शुक्रवार को विपक्षी दलों के सांसद संसद के सेंट्रल हॉल में जुटे. यहां से सभी मार्च करते हुए विजय चौक तक पहुंचे और धरने पर बैठ गए. वहीं राहुल गांधी के नेतृत्व में 10 विपक्षी नेताओं ने राष्ट्रपति द्रौ…",
-      "channelTitle": "Aaj Tak",
+      "videoId": "GOgmvAV9Nu4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "SIR Storm LIVE: Opposition's INDIA Bloc MPs March To Rashtrapati Bhawan Over CEC Gyanesh Kumar",
+      "description": "SIR Storm LIVE: Opposition's INDIA Bloc MPs March To Rashtrapati Bhawan Over CEC Gyanesh Kumar\n\nOpposition INDIA bloc MPs march towards Rashtrapati Bhawan over the row involving Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision (SIR) of electoral rolls. Watch the latest v…",
+      "channelTitle": "India Today",
       "country": "IN",
-      "language": "hi",
+      "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GOgmvAV9Nu4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3373,
-      "startedAt": "2026-10-09T15:28:01Z",
+      "concurrentViewers": 9,
+      "startedAt": "2026-10-09T14:34:37Z",
       "regionRestriction": null
     },
     {
@@ -795,32 +651,32 @@
           "url": "https://i.ytimg.com/vi/wtGSxwax5ek/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2684,
+      "concurrentViewers": 241,
       "startedAt": "2026-10-09T15:29:55Z",
       "regionRestriction": null
     },
     {
-      "videoId": "GXpqVizZ5ps",
+      "videoId": "EyXV03FUuSk",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Alliance Protest News LIVE: Gyanesh Kumar पर संग्राम, Delhi मे चक्का जाम! | EC | Rahul",
-      "description": "ज्ञानेश कुमार के खिलाफ लगातार चौथे दिन, राहुल गांधी और INDIA गठबंधन के नेताओं ने विरोध प्रदर्शन किया। आज INDIA गठबंधन के 10 नेता राष्ट्रपति द्रौपदी मुर्मू से मिले, और ज्ञानेश कुमार के इस्तीफे की मांग को लेकर अपना ज्ञापन सौंपा। आपको बता दें जब INDIA गठबंधन के 10 नेता राष्ट्रपति मिलने राष्ट्रपति भवन …",
+      "title": "Rahul Gandhi LIVE: राष्ट्रपति से विपक्षी नेताओं की मुलाकात खत्म | INDIA Alliance | CEC Gyanesh kumar",
+      "description": "वोट चोरी के आरोपों और वोटर लिस्ट के विशेष गहन पुनरीक्षण को लेकर विपक्ष का विरोध जारी है. इसी कड़ी में शुक्रवार को विपक्षी दलों के सांसद संसद के सेंट्रल हॉल में जुटे. यहां से सभी मार्च करते हुए विजय चौक तक पहुंचे और धरने पर बैठ गए. वहीं राहुल गांधी के नेतृत्व में 10 विपक्षी नेताओं ने राष्ट्रपति द्रौ…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GXpqVizZ5ps/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GXpqVizZ5ps/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GXpqVizZ5ps/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1072,
-      "startedAt": "2026-10-09T16:31:25Z",
+      "concurrentViewers": 112,
+      "startedAt": "2026-10-09T15:28:01Z",
       "regionRestriction": null
     },
     {
@@ -843,7 +699,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 362,
+      "concurrentViewers": 324,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -867,7 +723,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 475,
+      "concurrentViewers": 1910,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
