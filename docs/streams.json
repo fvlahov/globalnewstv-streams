@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-10T14:36:29.923Z",
+  "generatedAt": "2026-10-10T19:08:58.045Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Zelenskyy slams Trump's diesel deal as a 'gift to Putin' as Russian attack kills seven - https://news.sky.com/story/ukraine-war-latest-live-russia-att…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Zelenskyy brands Trump's diesel deal a 'gift to Putin' as Russian attack kills 17 - https://news.sky.com/story/ukraine-war-latest-live-russia-attack-b…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3804,
+      "concurrentViewers": 3517,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "aw93MVnqIzo",
+      "videoId": "H6K0N66ndk8",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Nana Akua | Saturday 10th October",
-      "description": "Join Nana for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB N…",
+      "title": "Saturday Five Extra | Saturday 10th October",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aw93MVnqIzo/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/H6K0N66ndk8/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aw93MVnqIzo/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/H6K0N66ndk8/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aw93MVnqIzo/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/H6K0N66ndk8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 375,
-      "startedAt": "2026-10-10T14:05:32Z",
+      "concurrentViewers": 99,
+      "startedAt": "2026-10-10T19:01:21Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 151,
+      "concurrentViewers": 57,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -94,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1135,
+      "concurrentViewers": 869,
       "startedAt": "2026-10-09T22:00:12Z",
       "regionRestriction": null
     },
@@ -118,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 57,
+      "concurrentViewers": 33,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
@@ -142,7 +142,7 @@
           "url": "https://i.ytimg.com/vi/Qek9Hh5_2zQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1462,
+      "concurrentViewers": 754,
       "startedAt": "2026-10-10T11:58:46Z",
       "regionRestriction": null
     },
@@ -166,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/yCmYjE_7iSs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 361,
+      "concurrentViewers": 253,
       "startedAt": "2026-10-09T11:03:09Z",
       "regionRestriction": {
         "blocked": [
@@ -195,7 +195,7 @@
           "url": "https://i.ytimg.com/vi/YPkbu-ELE0M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1546,
+      "concurrentViewers": 769,
       "startedAt": "2026-10-10T10:02:30Z",
       "regionRestriction": null
     },
@@ -219,7 +219,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 980,
+      "concurrentViewers": 650,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -243,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1339,
+      "concurrentViewers": 952,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -267,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 21,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -291,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 331,
+      "concurrentViewers": 357,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -315,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1011,
+      "concurrentViewers": 1113,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -339,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4307,
+      "concurrentViewers": 5787,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -363,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 68,
+      "concurrentViewers": 66,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -387,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 150,
+      "concurrentViewers": 131,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -411,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 41,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -435,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/ZJk3V1q9LD8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-10T07:42:57Z",
       "regionRestriction": null
     },
@@ -459,32 +459,8 @@
           "url": "https://i.ytimg.com/vi/98mp_ujQHkk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 227,
+      "concurrentViewers": 42,
       "startedAt": "2026-10-10T01:19:38Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "atgoww7El3c",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE: BJP's Sambit Patra Slams Rahul Gandhi, Calls Delhi Protests A 'Flop Show'",
-      "description": "BJP MP Sambit Patra has attacked Rahul Gandhi and Opposition parties over protests against the Special Intensive Revision (SIR) of electoral rolls, calling the demonstrations an \"anarchists' flop show\". Patra accused the Opposition of attempting to disrupt public order and alleged that Congress and…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/atgoww7El3c/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/atgoww7El3c/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/atgoww7El3c/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 227,
-      "startedAt": "2026-10-10T13:08:13Z",
       "regionRestriction": null
     },
     {
@@ -507,39 +483,111 @@
           "url": "https://i.ytimg.com/vi/6knNY51iHSo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-10T01:08:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "LNeyx95CPao",
+      "videoId": "atgoww7El3c",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP Protest LIVE: BJP's Sambit Patra Slams Rahul Gandhi, Calls Delhi Protests A 'Flop Show'",
+      "description": "BJP MP Sambit Patra has attacked Rahul Gandhi and Opposition parties over protests against the Special Intensive Revision (SIR) of electoral rolls, calling the demonstrations an \"anarchists' flop show\". Patra accused the Opposition of attempting to disrupt public order and alleged that Congress and…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/atgoww7El3c/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/atgoww7El3c/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/atgoww7El3c/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-10-10T13:08:13Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "j9yd_uky33Y",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP Protest Delhi LIVE: Cockroach Janta Party Protests Against CEC Gyanesh Kumar In Delhi",
-      "description": "Cockroach Janta Party (CJP) holds a protest against Chief Election Commissioner Gyanesh Kumar at Jantar Mantar in Delhi. Watch LIVE visuals from the protest.\n\n#CJPProtest #GyaneshKumar #JantarMantar #IndiaTodayLive #CEC #ElectionCommission #DelhiProtest\n\nSubscribe to India Today for NEW VIDEOS EVER…",
+      "title": "CJP Protest LIVE Updates: Delhi Police Crackdown On Protesters Justified? | Jantar Manter Protest",
+      "description": "CJP Protest LIVE Updates: Delhi Police Crackdown On Protesters Justified? | Jantar Manter Protest\n#cjpprotest #indiabloc #delhiprotest #abhijeetdipke #rahulgandhi #priyankagandhi #supremecourt #indiavsnda #bjpvscongress #electioncommissionofindia #jantarmantarprotest  #gyaneshkumar #sirrow #jantarm…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LNeyx95CPao/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/j9yd_uky33Y/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LNeyx95CPao/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/j9yd_uky33Y/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LNeyx95CPao/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/j9yd_uky33Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 227,
-      "startedAt": "2026-10-10T07:55:08Z",
+      "concurrentViewers": 184,
+      "startedAt": "2026-10-10T15:53:18Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ADDMg2HMF_4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: CJP Protest | Supreme Court To Hear Petiton On Delhi Police Action Against Protesters",
+      "description": "LIVE: CJP Protest | Supreme Court To Hear Petiton On Delhi Police Action Against Protesters\n#cjpprotest #indiabloc #delhiprotest #abhijeetdipke #rahulgandhi #priyankagandhi #supremecourt #indiavsnda #bjpvscongress #electioncommissionofindia #jantarmantarprotest  #gyaneshkumar #sirrow #jantarmantar …",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ADDMg2HMF_4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ADDMg2HMF_4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ADDMg2HMF_4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 64,
+      "startedAt": "2026-10-10T16:13:01Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "c-lUSKhP8g8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Live: CJP Announces Another Protest On October 11 | Delhi Police On High Alert | Jantar Mantar",
+      "description": "Live: CJP Announces Another Protest On October 11 | Delhi Police On High Alert | Jantar Mantar \n#cjpprotest #indiabloc #delhiprotest #abhijeetdipke #rahulgandhi #priyankagandhi #supremecourt #indiavsnda #bjpvscongress #electioncommissionofindia #jantarmantarprotest  #gyaneshkumar #sirrow #jantarman…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c-lUSKhP8g8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c-lUSKhP8g8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c-lUSKhP8g8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 22,
+      "startedAt": "2026-10-10T18:01:43Z",
       "regionRestriction": null
     },
     {
       "videoId": "wfV_hu1KuIc",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Arvind Kejriwal Detained LIVE: अरविंद केजरीवाल को हिरासत में लिया गया | CJP Protest | Jantar Mantar",
-      "description": "Arvind Kejriwal Detained LIVE: अरविंद केजरीवाल को हिरासत में लिया गया | CJP Protest | Jantar Mantar\n\n\n#cjpprotest #arvindkejriwal  #jantarmantar #10octoberprotest #delhiprotestlive #delhipolice #abhijeetdipke #cjp #cockroachjantaparty #cjpdelhimarch #savedemocracy #voterrights #sirrow #delhinewsliv…",
+      "title": "Arvind Kejriwal Released LIVE: केजरीवाल को दिल्ली पुलिस ने रिहा किया | CJP Protest | Jantar Mantar",
+      "description": "आम आदमी पार्टी (AAP) के संयोजक अरविंद केजरीवाल समेत पार्टी के नेताओं को दिल्ली पुलिस ने हिरासत से रिहा कर दिया है. केजरीवाल को लोधी एस्टेट से हिरासत में लिया गया था और जाफरपुर कलां पुलिस स्टेशन में रखा गया था. अरविंद केजरीवाल, संजय सिंह और दुर्गेश पाठक को CJP के विरोध प्रदर्शन के आह्वान के समर्थन म…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -555,7 +603,7 @@
           "url": "https://i.ytimg.com/vi/wfV_hu1KuIc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3885,
+      "concurrentViewers": 491,
       "startedAt": "2026-10-10T09:32:38Z",
       "regionRestriction": null
     },
@@ -579,7 +627,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 490,
+      "concurrentViewers": 293,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -603,7 +651,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 546,
+      "concurrentViewers": 512,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
