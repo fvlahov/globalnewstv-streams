@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-10T01:33:25.271Z",
+  "generatedAt": "2026-10-10T08:11:26.842Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Man City latest: Enzo Maresca asked about relegation in first news conference since verdict in 'sham contracts' case - https://news.sky.com/story/manchester-city-latest-p…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Zelenskyy slams Trump's diesel deal as a 'gift to Putin' as Russian attack kills seven - https://news.sky.com/story/ukraine-war-latest-live-russia-att…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,56 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2048,
+      "concurrentViewers": 5691,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "9K2yaxzx4Gw",
+      "videoId": "ggDnLyfRXJA",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Trump agrees deal with Putin for diesel | Mornings",
+      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\nAlongside the live show, there wi…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ggDnLyfRXJA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ggDnLyfRXJA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ggDnLyfRXJA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 880,
+      "startedAt": "2026-10-10T04:58:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Yqjr2RsU3YI",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Friday 9th October",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "title": "Breakfast with Stephen and Anne | Saturday 10th October",
+      "description": "Join Stephen Dixon and Anne Diamond to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9K2yaxzx4Gw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Yqjr2RsU3YI/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9K2yaxzx4Gw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Yqjr2RsU3YI/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9K2yaxzx4Gw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Yqjr2RsU3YI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 255,
-      "startedAt": "2026-10-09T22:55:21Z",
+      "concurrentViewers": 2572,
+      "startedAt": "2026-10-10T04:58:05Z",
       "regionRestriction": null
     },
     {
@@ -70,38 +94,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 362,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zI9iO9hkwWE",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Florida's Miramar Beach as Hurricane Isaias bears down on US Gulf",
-      "description": "A view of Miramar Beach in Destin, Florida, as Hurricane Isaias bears down on the Florida Gulf Coast. This live feed is courtesy of Ocean Reef Resorts.\n\n#HurricaneIsaias #miramarbeach #florida #weather #naoo\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zI9iO9hkwWE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zI9iO9hkwWE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zI9iO9hkwWE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 138,
-      "startedAt": "2026-10-09T17:18:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "a0I_VkZHHIU",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 9",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -118,15 +118,15 @@
           "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1885,
+      "concurrentViewers": 565,
       "startedAt": "2026-10-09T22:00:12Z",
       "regionRestriction": null
     },
     {
       "videoId": "w7uPIMH2c3o",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: Tracking Hurricane Isaias as it approaches Gulf Coast | NBC News",
-      "description": "Isaias became a major Category 3 hurricane on Friday morning, with evacuation orders in effect across Alabama and the Florida Panhandle. It is the first hurricane of the Atlantic season.\n\nEvery day, NBC News helps people understand what’s happening and why it matters — through fact-based reporting,…",
+      "title": "LIVE: Tracking Hurricane Isaias as it moves across the southern U.S. | NBC News",
+      "description": "Isaias made landfall on the Florida Panhandle Friday evening, bringing heavy rains and strong winds and is now moving inland. It is the first hurricane of the Atlantic season.\n\nEvery day, NBC News helps people understand what’s happening and why it matters — through fact-based reporting, meaningful…",
       "channelTitle": "NBC News",
       "country": "US",
       "language": "en",
@@ -142,56 +142,8 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 87,
+      "concurrentViewers": 59,
       "startedAt": "2026-10-07T16:46:08Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "HUisniEygUs",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "Live view of Pensacola Beach in Florida ahead of Hurricane Isaias",
-      "description": "WATCH LIVE: See a live view of the coastline in Pensacola Beach, Florida, as Hurricane Isaias approaches. Follow live updates: https://abcnews.link/SaTNSZv\n–––\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch 24/7 coverage of breaking news and live events on ABC News Li…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HUisniEygUs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HUisniEygUs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HUisniEygUs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 547,
-      "startedAt": "2026-10-09T15:21:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "YDzkB29E3kU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, October 9",
-      "description": "Tracking Hurricane Isaias as it closes in on the Florida Panhandle. Latest forecast: https://abcnews.com/US/hurricane-isaias-takes-aim-florida-panhandle/story?id=137122880\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and …",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YDzkB29E3kU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YDzkB29E3kU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YDzkB29E3kU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 368,
-      "startedAt": "2026-10-09T09:59:35Z",
       "regionRestriction": null
     },
     {
@@ -214,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/gLdSQ0OE52A/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 89,
       "startedAt": "2026-10-09T15:29:17Z",
       "regionRestriction": null
     },
@@ -238,7 +190,7 @@
           "url": "https://i.ytimg.com/vi/yCmYjE_7iSs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 244,
+      "concurrentViewers": 170,
       "startedAt": "2026-10-09T11:03:09Z",
       "regionRestriction": {
         "blocked": [
@@ -250,8 +202,8 @@
     {
       "videoId": "LtbWwrCHNtU",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Violent protests in France, Tracking Hurricane Isaias, New York ICE shooting & more",
-      "description": "More than 30 million people are expected to feel the impact of Isaias as the storm comes ashore Friday evening into Saturday morning. Hurricane warnings are in effect for coastal communities from Mississippi to the Florida panhandle. \n\nStudents continue to protest in France amid proposed education …",
+      "title": "LIVE COVERAGE: Hurricane Isaias makes landfall in Florida Panhandle",
+      "description": "Hurricane Isaias made landfall Friday night as a Category 2 storm near Destin, Florida, packing winds of more than 100 miles per hour. The National Hurricane Center said life-threatening storm surge was impacting the Gulf Coast as dangerous conditions and flash flooding spread inland.\n\nSubscribe to…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -267,7 +219,7 @@
           "url": "https://i.ytimg.com/vi/LtbWwrCHNtU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 639,
+      "concurrentViewers": 477,
       "startedAt": "2026-10-09T10:01:53Z",
       "regionRestriction": null
     },
@@ -291,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 845,
+      "concurrentViewers": 183,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -315,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1031,
+      "concurrentViewers": 1150,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -339,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 23,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -363,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 264,
+      "concurrentViewers": 389,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -387,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 782,
+      "concurrentViewers": 1311,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -411,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2684,
+      "concurrentViewers": 5421,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -435,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 49,
+      "concurrentViewers": 88,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -459,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 117,
+      "concurrentViewers": 173,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -483,8 +435,32 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 34,
       "startedAt": "2020-11-18T09:26:34Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ZJk3V1q9LD8",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "CJP Protest LIVE: Massive Ruckus At Jantar Mantar As Delhi Police Detain CJP Leaders, Protesters",
+      "description": "CJP Protest LIVE: Massive Ruckus At Jantar Mantar As Delhi Police Detain CJP Leaders, Protesters\n\nMassive drama unfolded at Jantar Mantar in Delhi during the Cockroach Janta Party (CJP) protest, as Delhi Police detained CJP leaders and protesters amid heightened tensions. Police personnel were depl…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZJk3V1q9LD8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZJk3V1q9LD8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZJk3V1q9LD8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 330,
+      "startedAt": "2026-10-10T07:42:57Z",
       "regionRestriction": null
     },
     {
@@ -507,56 +483,32 @@
           "url": "https://i.ytimg.com/vi/xSfKbs3AXmE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 59,
+      "concurrentViewers": 40,
       "startedAt": "2026-10-09T02:24:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Dfdeon5IYZc",
+      "videoId": "zyGjVJYb58s",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION",
-      "description": "Saudi Under Attack LIVE: Monster Missiles Target Riyadh & Aden, Middle East Tensions Explode | WION\n\nThick black smoke and intense flames have been reported rising near King Khalid International Airport in Saudi Arabia’s capital, Riyadh, following reports that a Saudi Aramco fuel tank caught fire. …",
+      "title": "CJP Protest LIVE: Delhi Braces for Massive Showdown as CJP Targets CEC Over SIR Row | WION",
+      "description": "CJP Protest LIVE: Delhi Braces for Massive Showdown as CJP Targets CEC Over SIR Row | WION\n\nDelhi is on high alert as security is tightened ahead of the CJP protest against Chief Election Commissioner Gyanesh Kumar over the Special Intensive Revision (SIR) of electoral rolls. Police have stepped up…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/zyGjVJYb58s/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zyGjVJYb58s/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Dfdeon5IYZc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zyGjVJYb58s/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 49,
-      "startedAt": "2026-10-09T01:30:42Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "6knNY51iHSo",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE Updates: Jantar Mantar | Delhi Protest | Delhi Gears Up For CJP's Jantar Mantar 2.0",
-      "description": "Security personnel: 20,000. Protester count: Unknown.\n\nThe stage has been set for a mega protest against Chief Election Commissioner Gyanesh Kumar in the heart of Delhi, with the Cockroach Janta Party mobilising supporters to join it at Jantar Mantar and the Centre planning to deploy over 20,000 pe…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6knNY51iHSo/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6knNY51iHSo/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6knNY51iHSo/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 935,
-      "startedAt": "2026-10-10T01:08:21Z",
+      "concurrentViewers": 9,
+      "startedAt": "2026-10-10T05:13:54Z",
       "regionRestriction": null
     },
     {
@@ -579,104 +531,176 @@
           "url": "https://i.ytimg.com/vi/98mp_ujQHkk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 234,
+      "concurrentViewers": 288,
       "startedAt": "2026-10-10T01:19:38Z",
       "regionRestriction": null
     },
     {
-      "videoId": "hYJ9a0nSF6E",
+      "videoId": "6knNY51iHSo",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Oct. 10 Protest LIVE: SC Reviews Curbs Ahead Of CJP Protest | Delhi Under Massive Security Cover",
-      "description": "The Supreme Court has examined a plea challenging restrictions imposed ahead of the proposed October 10 CJP protest in Delhi, observing that while the right to protest is fundamental, it must be exercised in accordance with the law. The court noted that denial of permission does not automatically e…",
+      "title": "CJP Protest LIVE Updates: Jantar Mantar | Delhi Protest | Delhi Gears Up For CJP's Jantar Mantar 2.0",
+      "description": "Security personnel: 20,000. Protester count: Unknown.\n\nThe stage has been set for a mega protest against Chief Election Commissioner Gyanesh Kumar in the heart of Delhi, with the Cockroach Janta Party mobilising supporters to join it at Jantar Mantar and the Centre planning to deploy over 20,000 pe…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/6knNY51iHSo/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/6knNY51iHSo/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hYJ9a0nSF6E/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/6knNY51iHSo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-09T10:24:39Z",
+      "concurrentViewers": 78,
+      "startedAt": "2026-10-10T01:08:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_oZFl_xEEwo",
+      "videoId": "LNeyx95CPao",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Delhi On High Alert Ahead Of CJP Protest Against CEC Gyanesh; Right To protest Curbed?",
-      "description": "Delhi sees heightened security ahead of the Cockroach Janta Party (CJP) protest, with restrictions and preparations drawing attention. Is the right to protest being curtailed? Meanwhile, questions emerge over the political contest between the Congress and CJP. Watch LIVE updates from Delhi.\n\n#CJPPr…",
+      "title": "CJP Protest Delhi LIVE: Cockroach Janta Party Protests Against CEC Gyanesh Kumar In Delhi",
+      "description": "Cockroach Janta Party (CJP) holds a protest against Chief Election Commissioner Gyanesh Kumar at Jantar Mantar in Delhi. Watch LIVE visuals from the protest.\n\n#CJPProtest #GyaneshKumar #JantarMantar #IndiaTodayLive #CEC #ElectionCommission #DelhiProtest\n\nSubscribe to India Today for NEW VIDEOS EVER…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_oZFl_xEEwo/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/LNeyx95CPao/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_oZFl_xEEwo/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LNeyx95CPao/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_oZFl_xEEwo/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LNeyx95CPao/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 89,
-      "startedAt": "2026-10-09T15:29:03Z",
+      "concurrentViewers": 2120,
+      "startedAt": "2026-10-10T07:55:08Z",
       "regionRestriction": null
     },
     {
-      "videoId": "07YB1hbC_58",
+      "videoId": "KYNtmGXFVO4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Oppn's Big Meet | CJP Delhi Protest 2.0 | IT Giants Hit By US | Trump | US News",
-      "description": "India Today TV LIVE: Oppn's Big Meet | CJP Delhi Protest 2.0 | IT Giants Hit By US | Trump | US News\n\nThe US Labour Department suspended major IT and outsourcing firms, including Infosys, TCS, Wipro and HCL, from a programme used by employers to sponsor foreign workers for permanent residency, alle…",
+      "title": "CJP Protest LIVE Updates: Protestors Getting Detained Amidst huge ruckus at Jantar Mantar LIVE",
+      "description": "CJP Protest LIVE Updates: Protestors Getting Detained Amidst huge ruckus at Jantar Mantar LIVE  \n\n#cjpprotest #abhijeetdipke #sauravdas #ashutoshranka #jantarmantar #delhipolice #gyaneshkumar #sirrow #delhiprotest #breakingnews #latestnews #indiatodaylivestream \n\nSubscribe to India Today for NEW VI…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/07YB1hbC_58/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/KYNtmGXFVO4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/07YB1hbC_58/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KYNtmGXFVO4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/07YB1hbC_58/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KYNtmGXFVO4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 62,
-      "startedAt": "2026-10-09T01:40:28Z",
+      "concurrentViewers": 1534,
+      "startedAt": "2026-10-10T07:15:58Z",
       "regionRestriction": null
     },
     {
-      "videoId": "EyXV03FUuSk",
+      "videoId": "oX2a_UqZ1eo",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Abhijeet Dipke’s First Message After Detention | CJP Protest | Delhi Protest",
+      "description": "LIVE: Abhijeet Dipke’s First Message After Detention | CJP Protest | Delhi Protest \n\n#abhijeetdipke #cjpprotest #jantarmantar #delhipolice #gyaneshkumar #sirrow #delhiprotest #breakingnews #latestnews #indiatodaylivestream  \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oX2a_UqZ1eo/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oX2a_UqZ1eo/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oX2a_UqZ1eo/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1112,
+      "startedAt": "2026-10-10T07:47:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vr0vlqW-22o",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul Gandhi LIVE: राष्ट्रपति से विपक्षी नेताओं की मुलाकात खत्म | INDIA Alliance | CEC Gyanesh kumar",
-      "description": "वोट चोरी के आरोपों और वोटर लिस्ट के विशेष गहन पुनरीक्षण को लेकर विपक्ष का विरोध जारी है. इसी कड़ी में शुक्रवार को विपक्षी दलों के सांसद संसद के सेंट्रल हॉल में जुटे. यहां से सभी मार्च करते हुए विजय चौक तक पहुंचे और धरने पर बैठ गए. वहीं राहुल गांधी के नेतृत्व में 10 विपक्षी नेताओं ने राष्ट्रपति द्रौ…",
+      "title": "Stone Pelting On Delhi Police LIVE: दिल्ली में प्रदर्शन के दौरान पुलिस पर पत्थरबाजी | CJP Protest",
+      "description": "जंतर मंतर पर सीजेपी के बुलाए गए प्रदर्शन को लेकर पुलिस प्रशासन पहले से ही अलर्ट पर था, लिहाजा किसी भी प्रदर्शनकारी को जंतर मंतर पर जुटने नहीं दिया गया है. पुलिस ने करीब 400 से अधिक प्रदर्शनकारियों को हिरासत में लिया है. जंतर मंतर पर पुलिस का पहरा है. मौके से सामने आए एक विजुअल में जंतर मंतर पर पसरा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/vr0vlqW-22o/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/vr0vlqW-22o/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EyXV03FUuSk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/vr0vlqW-22o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 265,
-      "startedAt": "2026-10-09T15:28:01Z",
+      "concurrentViewers": 9262,
+      "startedAt": "2026-10-10T07:37:29Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "oJS0_Sjez2c",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "CJP Protest In Delhi LIVE Updates: दिल्ली में प्रदर्शनकारियों का घमासान, पुलिस ने हिरासत में लिया",
+      "description": "दिल्ली पुलिस ने जंतर-मंतर पर प्रदर्शन से पहले कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके और CJP लीडर्स सौरव दास, आशुतोष रांका को हिरासत में लिया है. पार्टी ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के तत्काल इस्तीफे की मांग को लेकर देशभर में विरोध प्रदर्शन जारी रखने का ऐलान किया है.\n\n #cjpprotest #abhij…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oJS0_Sjez2c/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oJS0_Sjez2c/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oJS0_Sjez2c/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 3273,
+      "startedAt": "2026-10-10T07:06:29Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "sMDl9oX9zn0",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Delhi Police Action On Protestors: बंगला साहिब गुरुद्वारे में घुसे प्रदर्शनकारी | CJP Protest",
+      "description": "CJP ने इस कार्रवाई की कड़ी निंदा करते हुए इसे सत्तावादी कदम बताया है. पार्टी ने आरोप लगाया कि दिल्ली पुलिस ने पहले से तय योजना के तहत उसके नेताओं को एयरपोर्ट पर ही रोक लिया, ताकि वे प्रदर्शन स्थल तक न पहुंच सकें और शांतिपूर्ण प्रदर्शन का नेतृत्व न कर सकें.\n\n\n#cjpprotest #jantarmantar #10octoberprot…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sMDl9oX9zn0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sMDl9oX9zn0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sMDl9oX9zn0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 2458,
+      "startedAt": "2026-10-10T06:19:44Z",
       "regionRestriction": null
     },
     {
@@ -699,8 +723,32 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1109,
+      "concurrentViewers": 528,
       "startedAt": "2020-04-22T03:23:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "OkklsK-JNGY",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: Hurricane Isaias hits US with fierce wind and rain",
+      "description": "#Hurricane #Isaias has weakened to a Category 1 hurricane after making landfall near Destin, Florida, US, as a Category 2. It is expected to weaken further overnight, but damaging wind gusts and rain will spread inland through Saturday. Tornadoes and flooding are possible in parts of Florida and so…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OkklsK-JNGY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OkklsK-JNGY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OkklsK-JNGY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-10-10T05:22:22Z",
       "regionRestriction": null
     },
     {
@@ -723,7 +771,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1613,
+      "concurrentViewers": 1281,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
