@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T15:01:11.362Z",
+  "generatedAt": "2026-10-11T19:38:59.348Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,56 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4112,
+      "concurrentViewers": 3329,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "NF2dwE1fgfw",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
-      "description": "US President Donald Trump says Russia and Ukraine have reached an agreement on an 'energy ceasefire' \n\nPosting on Truth Social, he said: \"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!\n\nLatest updates: https://ne…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NF2dwE1fgfw/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NF2dwE1fgfw/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NF2dwE1fgfw/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 314,
-      "startedAt": "2026-10-11T14:25:37Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5f1GDZTvHhw",
+      "videoId": "OCJmIcqK4Ic",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Nana Akua | Sunday 11th October",
-      "description": "Join Nana for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB N…",
+      "title": "Free Speech Nation | Sunday 11th October",
+      "description": "Keep up to date with GB News at gbnews.com or on X @GBNEWS\n\nBecome a Friend of GB News: gbnews.com/friend",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5f1GDZTvHhw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/OCJmIcqK4Ic/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5f1GDZTvHhw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/OCJmIcqK4Ic/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5f1GDZTvHhw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/OCJmIcqK4Ic/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 481,
-      "startedAt": "2026-10-11T14:00:06Z",
+      "concurrentViewers": 395,
+      "startedAt": "2026-10-11T17:58:19Z",
       "regionRestriction": null
     },
     {
@@ -94,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 24,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -118,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 818,
+      "concurrentViewers": 691,
       "startedAt": "2026-10-09T22:00:12Z",
       "regionRestriction": null
     },
@@ -142,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 13,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
@@ -166,7 +142,7 @@
           "url": "https://i.ytimg.com/vi/dNIvmhbEK4Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1269,
+      "concurrentViewers": 682,
       "startedAt": "2026-10-11T11:58:06Z",
       "regionRestriction": null
     },
@@ -190,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 777,
+      "concurrentViewers": 498,
       "startedAt": "2026-10-11T09:40:20Z",
       "regionRestriction": null
     },
@@ -214,7 +190,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 762,
+      "concurrentViewers": 641,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -238,7 +214,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1153,
+      "concurrentViewers": 920,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -262,7 +238,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 17,
+      "concurrentViewers": 20,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -286,7 +262,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 349,
+      "concurrentViewers": 408,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -310,7 +286,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 965,
+      "concurrentViewers": 1153,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -334,7 +310,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5012,
+      "concurrentViewers": 6040,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -358,7 +334,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 53,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -382,7 +358,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 193,
+      "concurrentViewers": 146,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -406,32 +382,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 34,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-5Qktc60JDE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Nepal Floods LIVE: Massive Flood Hits Budhigandaki River, Homes, Bridges Swept Away | WION",
-      "description": "Nepal Floods LIVE: Massive Flood Hits Budhigandaki River, Homes, Bridges Swept Away | WION\n\nNepal is on alert as a massive flood surge hits the Budhi Gandaki River in Gorkha, sweeping away homes and bridges and damaging nearby settlements. The sudden surge, linked to a landslide blocking the river,…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-5Qktc60JDE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-5Qktc60JDE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-5Qktc60JDE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 15,
-      "startedAt": "2026-10-11T03:34:57Z",
       "regionRestriction": null
     },
     {
@@ -454,7 +406,7 @@
           "url": "https://i.ytimg.com/vi/zTcAt5afl3M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-11T05:42:24Z",
       "regionRestriction": null
     },
@@ -478,7 +430,7 @@
           "url": "https://i.ytimg.com/vi/5_dsQn9-O3w/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 12,
       "startedAt": "2026-10-11T04:52:20Z",
       "regionRestriction": null
     },
@@ -502,7 +454,7 @@
           "url": "https://i.ytimg.com/vi/hjOyJj5kx8k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 125,
+      "concurrentViewers": 36,
       "startedAt": "2026-10-11T08:01:47Z",
       "regionRestriction": null
     },
@@ -526,56 +478,8 @@
           "url": "https://i.ytimg.com/vi/77YVoctRPbg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1041,
+      "concurrentViewers": 74,
       "startedAt": "2026-10-11T14:49:26Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "vxHkgyfKQG4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "UP Election 2027 News LIVE: Ayodhya में युद्ध का कुरुक्षेत्र तैयार! | Yogi | Akhilesh | Sweta Singh",
-      "description": "उत्तर प्रदेश की राजनीति में जुबानी जंग काफी तेज हो गई है. समाजवादी पार्टी के प्रमुख अखिलेश यादव ने मुख्यमंत्री योगी आदित्यनाथ को अयोध्या से चुनाव लड़ने की सियासी सलाह दी थी, जिस पर सीएम योगी ने तीखा पलटवार करते हुए उन्हें खुली चुनौती दे दी है. बलरामपुर में एक जनसभा को संबोधित करते हुए मुख्यमंत्री य…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vxHkgyfKQG4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vxHkgyfKQG4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vxHkgyfKQG4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 655,
-      "startedAt": "2026-10-11T14:25:09Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Vt9-x7o60F8",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "CJP Protest In Delhi LIVE Updates: Connaught Place पर प्रदर्शनकारियों को हिरासत में लिया | Aaj Tak",
-      "description": "कॉकरोच जनता पार्टी ने ऐलान किया है कि जब तक मुख्य चुनाव आयुक्त का इस्तीफा नहीं हो जाता उनका आंदोलन जारी रहेगा। CEC के इस्तीफे की मांग को लेकर आज भी CJP ने जंतर-मंतर पर विरोध का ऐलान किया है, जिसके बीच कुछ प्रदर्शनकारी कनॉट प्लेस तक पहुंचे, जहां पुलिस ने उन्हें हिरासत में ले लिया।\n\n #cjpprotest #abh…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Vt9-x7o60F8/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Vt9-x7o60F8/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Vt9-x7o60F8/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 557,
-      "startedAt": "2026-10-11T13:38:09Z",
       "regionRestriction": null
     },
     {
@@ -598,7 +502,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 531,
+      "concurrentViewers": 258,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -622,7 +526,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 492,
+      "concurrentViewers": 1473,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
