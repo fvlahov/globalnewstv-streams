@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T08:23:53.835Z",
+  "generatedAt": "2026-10-11T15:01:11.362Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Middle East latest: At least 12 killed and over 300 injured in Riyadh airport attack - as Trump says US to 'look at' joining Saudi strikes on Houthis - https://news.sky.c…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Russia and Ukraine have agreed 'energy ceasefire', says Trump - https://news.sky.com/story/ukraine-war-latest-live-russia-attack-buses-kramatorsk-1254…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,56 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5993,
+      "concurrentViewers": 4112,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xHuCeq43xcM",
+      "videoId": "NF2dwE1fgfw",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+      "description": "US President Donald Trump says Russia and Ukraine have reached an agreement on an 'energy ceasefire' \n\nPosting on Truth Social, he said: \"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!\n\nLatest updates: https://ne…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NF2dwE1fgfw/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NF2dwE1fgfw/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NF2dwE1fgfw/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 314,
+      "startedAt": "2026-10-11T14:25:37Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "5f1GDZTvHhw",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Breakfast with Stephen and Anne | Saturday 10th October",
-      "description": "Join Stephen Dixon and Anne Diamond to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
+      "title": "Nana Akua | Sunday 11th October",
+      "description": "Join Nana for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB N…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xHuCeq43xcM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/5f1GDZTvHhw/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xHuCeq43xcM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/5f1GDZTvHhw/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xHuCeq43xcM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/5f1GDZTvHhw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1925,
-      "startedAt": "2026-10-11T05:01:22Z",
+      "concurrentViewers": 481,
+      "startedAt": "2026-10-11T14:00:06Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 278,
+      "concurrentViewers": 127,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -94,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 437,
+      "concurrentViewers": 818,
       "startedAt": "2026-10-09T22:00:12Z",
       "regionRestriction": null
     },
@@ -118,32 +142,56 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 17,
+      "concurrentViewers": 18,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
     {
-      "videoId": "YPkbu-ELE0M",
+      "videoId": "dNIvmhbEK4Y",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Sunday, October 11",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dNIvmhbEK4Y/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dNIvmhbEK4Y/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dNIvmhbEK4Y/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1269,
+      "startedAt": "2026-10-11T11:58:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8ufvKsnGIFg",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Tracking Isaias, Trump heads to Tennessee, US-Iran war talks, College football kickoff",
-      "description": "Hurricane Isaias made landfall near Destin, Florida, last night as a Category 2 storm before weakening to Category 1. The storm is expected to weaken further as it moves inland this weekend, tracking through Alabama toward Tennessee, though gusty winds remain possible. Heavy rain and flooding threa…",
+      "title": "TOP STORIES: Hurricane Isaias aftermath, Russia plague concerns, Gaza strikes",
+      "description": "As the remnants of Hurricane Isaias move farther inland Sunday, millions of people across the Northeast and Mid-Atlantic are bracing for a soggy end to the weekend, with heavy rain, flooding and even severe thunderstorms possible. Meanwhile, Hurricane Simon strengthened into a powerful Category 4 s…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/YPkbu-ELE0M/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/YPkbu-ELE0M/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/YPkbu-ELE0M/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 372,
-      "startedAt": "2026-10-10T10:02:30Z",
+      "concurrentViewers": 777,
+      "startedAt": "2026-10-11T09:40:20Z",
       "regionRestriction": null
     },
     {
@@ -166,7 +214,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 145,
+      "concurrentViewers": 762,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -190,7 +238,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1065,
+      "concurrentViewers": 1153,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -214,7 +262,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 17,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -238,7 +286,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 337,
+      "concurrentViewers": 349,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -262,7 +310,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1153,
+      "concurrentViewers": 965,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -286,7 +334,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4413,
+      "concurrentViewers": 5012,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -310,7 +358,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 66,
+      "concurrentViewers": 62,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -334,7 +382,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 197,
+      "concurrentViewers": 193,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -358,32 +406,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 24,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zTcAt5afl3M",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "CJP Protests LIVE: Delhi Tightens Security as Stir Against CEC Gyanesh Kumar Resumes | WION",
-      "description": "CJP Protests LIVE: Delhi Tightens Security as Stir Against CEC Gyanesh Kumar Resumes | WION\n\nDelhi is on heightened security alert as the Cockroach Janta Party (CJP) renews its protest against Chief Election Commissioner Gyanesh Kumar over the Special Intensive Revision (SIR) controversy. Security …",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 55,
-      "startedAt": "2026-10-11T05:42:24Z",
       "regionRestriction": null
     },
     {
@@ -406,32 +430,32 @@
           "url": "https://i.ytimg.com/vi/-5Qktc60JDE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 15,
       "startedAt": "2026-10-11T03:34:57Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xGp-iKJhmow",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "PM Modi LIVE | Vijay LIVE | PM Modi In Chennai LIVE | PM Modi Roadshow In Chennai With CM Vijay",
-      "description": "Prime Minister Narendra Modi is in Chennai on October 11 to launch development projects worth over ₹13,000 crore. He will ride the Chennai Metro between Porur Bypass and Poonamallee Bypass stations, visit the Jalakandeswarar Temple and attend the Golden Jubilee celebrations of Jaigopal Garodia Hind…",
-      "channelTitle": "NDTV",
+      "videoId": "zTcAt5afl3M",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "CJP Protests LIVE: Delhi Tightens Security as Stir Against CEC Gyanesh Kumar Resumes | WION",
+      "description": "CJP Protests LIVE: Delhi Tightens Security as Stir Against CEC Gyanesh Kumar Resumes | WION\n\nDelhi is on heightened security alert as the Cockroach Janta Party (CJP) renews its protest against Chief Election Commissioner Gyanesh Kumar over the Special Intensive Revision (SIR) controversy. Security …",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xGp-iKJhmow/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xGp-iKJhmow/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xGp-iKJhmow/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 425,
-      "startedAt": "2026-10-11T08:01:31Z",
+      "concurrentViewers": 13,
+      "startedAt": "2026-10-11T05:42:24Z",
       "regionRestriction": null
     },
     {
@@ -454,32 +478,8 @@
           "url": "https://i.ytimg.com/vi/5_dsQn9-O3w/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 317,
+      "concurrentViewers": 26,
       "startedAt": "2026-10-11T04:52:20Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Lqlw0WNixW8",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Vijay LIVE | PM Modi LIVE | PM Modi Meets CM Vijay In Chennai | PM Modi-Vijay Meet | Tamil Nadu",
-      "description": "Prime Minister Narendra Modi is in Chennai on October 11 to launch development projects worth over ₹13,000 crore. He will ride the Chennai Metro between Porur Bypass and Poonamallee Bypass stations, visit the Jalakandeswarar Temple and attend the Golden Jubilee celebrations of Jaigopal Garodia Hind…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Lqlw0WNixW8/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Lqlw0WNixW8/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Lqlw0WNixW8/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 282,
-      "startedAt": "2026-10-11T07:33:15Z",
       "regionRestriction": null
     },
     {
@@ -502,80 +502,80 @@
           "url": "https://i.ytimg.com/vi/hjOyJj5kx8k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2088,
+      "concurrentViewers": 125,
       "startedAt": "2026-10-11T08:01:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "j9yd_uky33Y",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP Protest LIVE Updates: Delhi Police Crackdown On Protesters Justified? | Jantar Manter Protest",
-      "description": "CJP Protest LIVE Updates: Delhi Police Crackdown On Protesters Justified? | Jantar Manter Protest\n#cjpprotest #indiabloc #delhiprotest #abhijeetdipke #rahulgandhi #priyankagandhi #supremecourt #indiavsnda #bjpvscongress #electioncommissionofindia #jantarmantarprotest  #gyaneshkumar #sirrow #jantarm…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/j9yd_uky33Y/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/j9yd_uky33Y/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/j9yd_uky33Y/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-10T15:53:18Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "80xhGba5v2o",
+      "videoId": "77YVoctRPbg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Delhi CJP Jantar Manatr Protest LIVE Updates:फिर प्रदर्शन की तैयारी | Abhijeet Dipke | Gyanesh Kumar",
-      "description": "Cockroach Janta Party (CJP) ने 11 अक्टूबर को एक बार फिर जंतर-मंतर की ओर कूच का ऐलान किया है। पार्टी मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग कर रही है। CJP के संस्थापक अभिजीत दीपके और अन्य नेताओं को हिरासत में लिए जाने के बाद अजिंक्य शिंदे ने प्रदर्शन की कमान संभाली है। दिल्ली में भारी स…",
+      "title": "Abhijeet Dipke On CJP Protest News LIVE: अभिजीत दिपके ने प्रदर्शन जारी रखने का ऐलान किया | EC",
+      "description": "CJP नेता अभिजीत दिपके ने प्रदर्शन जारी रखने का ऐलान करते हुए कहा कि उन्होंने प्रदर्शन नहीं करने का कोई बॉन्ड साइन नहीं किया है और वे फिर सड़कों पर उतरेंगे. दिपके, आशुतोष रांका और सौरव दास को दिल्ली कैंट स्थित कार्यकारी मजिस्ट्रेट की अदालत में पेश किए जाने के बाद रिहा कर दिया गया था.\n\n #cjpprotest #…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/80xhGba5v2o/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/77YVoctRPbg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/80xhGba5v2o/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/77YVoctRPbg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/80xhGba5v2o/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/77YVoctRPbg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3033,
-      "startedAt": "2026-10-11T03:19:36Z",
+      "concurrentViewers": 1041,
+      "startedAt": "2026-10-11T14:49:26Z",
       "regionRestriction": null
     },
     {
-      "videoId": "S596uEDAgQM",
+      "videoId": "vxHkgyfKQG4",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "CJP Protest in Delhi: Dipke- Abhijeet Dipke और सौरव दास और Ashutosh Ranka की रिहाई | Aaj Tak",
-      "description": "कॉकरोच जनता पार्टी (CJP) के अभिजीत दिपके, सौरव दास और आशुतोष रांका को दिल्ली कैंट की ACM कोर्ट में पेश किया गया था. तीनों को रिहा कर दिया गया है. कॉकरोच जनता पार्टी की लीगल हेड रत्ना सिंह ने बताया कि तीनों को रिहा कर दिया गया है.\n\n\n#cjp #abhijeetdipke #sauravdas #ashutoshranka #cockroachjantaparty …",
+      "title": "UP Election 2027 News LIVE: Ayodhya में युद्ध का कुरुक्षेत्र तैयार! | Yogi | Akhilesh | Sweta Singh",
+      "description": "उत्तर प्रदेश की राजनीति में जुबानी जंग काफी तेज हो गई है. समाजवादी पार्टी के प्रमुख अखिलेश यादव ने मुख्यमंत्री योगी आदित्यनाथ को अयोध्या से चुनाव लड़ने की सियासी सलाह दी थी, जिस पर सीएम योगी ने तीखा पलटवार करते हुए उन्हें खुली चुनौती दे दी है. बलरामपुर में एक जनसभा को संबोधित करते हुए मुख्यमंत्री य…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/S596uEDAgQM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/vxHkgyfKQG4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/S596uEDAgQM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/vxHkgyfKQG4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/S596uEDAgQM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/vxHkgyfKQG4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1455,
-      "startedAt": "2026-10-11T04:54:08Z",
+      "concurrentViewers": 655,
+      "startedAt": "2026-10-11T14:25:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Vt9-x7o60F8",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "CJP Protest In Delhi LIVE Updates: Connaught Place पर प्रदर्शनकारियों को हिरासत में लिया | Aaj Tak",
+      "description": "कॉकरोच जनता पार्टी ने ऐलान किया है कि जब तक मुख्य चुनाव आयुक्त का इस्तीफा नहीं हो जाता उनका आंदोलन जारी रहेगा। CEC के इस्तीफे की मांग को लेकर आज भी CJP ने जंतर-मंतर पर विरोध का ऐलान किया है, जिसके बीच कुछ प्रदर्शनकारी कनॉट प्लेस तक पहुंचे, जहां पुलिस ने उन्हें हिरासत में ले लिया।\n\n #cjpprotest #abh…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vt9-x7o60F8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vt9-x7o60F8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vt9-x7o60F8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 557,
+      "startedAt": "2026-10-11T13:38:09Z",
       "regionRestriction": null
     },
     {
@@ -598,7 +598,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 505,
+      "concurrentViewers": 531,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -622,7 +622,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1546,
+      "concurrentViewers": 492,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
