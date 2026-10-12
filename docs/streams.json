@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T02:36:54.276Z",
+  "generatedAt": "2026-10-12T10:23:16.666Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Putin has already broken Trump's 'energy ceasefire', says Zelenskyy https://news.sky.com/story/ukraine-war-latest-live-russia-attack-buses-kramatorsk-…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Zelenskyy accuses Putin of breaking Trump's 'energy ceasefire' - as Moscow remains silent https://news.sky.com/story/ukraine-war-latest-live-russia-at…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,80 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2312,
+      "concurrentViewers": 7751,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "wTRf5N2YJdw",
+      "videoId": "VhO12X3IRSs",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Farage makes ‘immigration announcement’ in Kent",
+      "description": "The Reform UK leader holds a news conference alongside the Reform Home Affairs spokesperson Zia Yusuf in Hythe, Kent where  he is expected to make a ‘'major immigration announcement'.\n\nPolitics latest | https://news.sky.com/story/politics-latest-burnham-labour-man-city-badenoch-farage-polanski-1259…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VhO12X3IRSs/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VhO12X3IRSs/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VhO12X3IRSs/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 448,
+      "startedAt": "2026-10-12T09:52:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7SWT93aQ7MA",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "AI minister lays out govt plans to reduce AI risks",
+      "description": "AI Minister Kanishka Narayan delivers a speech in London setting out further steps the government is taking to strengthen the UK’s resilience to AI risks. \n\nPolitics latest | https://news.sky.com/story/politics-latest-burnham-labour-man-city-badenoch-farage-polanski-12593360\n\n#AI #Tech #UK \n\nSUBSCR…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7SWT93aQ7MA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7SWT93aQ7MA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7SWT93aQ7MA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 52,
+      "startedAt": "2026-10-12T09:52:44Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "C1jykj1HgmA",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Sunday 11th October",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "title": "Britain's Newsroom | Monday 12th October",
+      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wTRf5N2YJdw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/C1jykj1HgmA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wTRf5N2YJdw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/C1jykj1HgmA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wTRf5N2YJdw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/C1jykj1HgmA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 227,
-      "startedAt": "2026-10-11T22:57:06Z",
+      "concurrentViewers": 1470,
+      "startedAt": "2026-10-12T08:27:29Z",
       "regionRestriction": null
     },
     {
@@ -70,8 +118,56 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 518,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fgh8eTBBZ08",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "The winner of the 2026 Nobel prize in economics is announced – watch live",
+      "description": "The winner of the 2026 Nobel prize in economics is announced by the Royal Swedish Academy of Sciences.\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The…",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fgh8eTBBZ08/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fgh8eTBBZ08/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fgh8eTBBZ08/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 26,
+      "startedAt": "2026-10-12T09:32:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xyHuDPIThKo",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: India's opposition leader Rahul Gandhi leads protest march in Delhi",
+      "description": "India’s Leader of Opposition Rahul Gandhi leads a march towards the Supreme Court, along with other opposition groups and civic society bodies, demanding action over election irregularities.\n \nOpposition parties and supporters of the \"cockroach\" youth movement have taken to the streets almost daily…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xyHuDPIThKo/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xyHuDPIThKo/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xyHuDPIThKo/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 19,
+      "startedAt": "2026-10-12T10:20:45Z",
       "regionRestriction": null
     },
     {
@@ -94,7 +190,7 @@
           "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 687,
+      "concurrentViewers": 936,
       "startedAt": "2026-10-09T22:00:12Z",
       "regionRestriction": null
     },
@@ -118,8 +214,32 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-07T16:46:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "KrRZuVZXUDI",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Monday, October 12",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KrRZuVZXUDI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KrRZuVZXUDI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KrRZuVZXUDI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 391,
+      "startedAt": "2026-10-12T10:05:50Z",
       "regionRestriction": null
     },
     {
@@ -142,7 +262,7 @@
           "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 349,
+      "concurrentViewers": 315,
       "startedAt": "2026-10-11T09:40:20Z",
       "regionRestriction": null
     },
@@ -166,8 +286,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 356,
+      "concurrentViewers": 199,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "M-7oOYrpxjI",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "Paris Motor Show 2026 LIVE: Automakers unveil new cars",
+      "description": "Watch live as major automakers unveil their latest models at the 2026 Paris Motor Show, with European and Chinese brands showcasing new cars and technology.\n\n#parismotorshow #automobile #technology #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M-7oOYrpxjI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M-7oOYrpxjI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M-7oOYrpxjI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 236,
+      "startedAt": "2026-10-12T08:31:52Z",
       "regionRestriction": null
     },
     {
@@ -190,7 +334,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1661,
+      "concurrentViewers": 6200,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -214,7 +358,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 24,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -238,7 +382,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 253,
+      "concurrentViewers": 340,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -262,7 +406,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 770,
+      "concurrentViewers": 1112,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -286,8 +430,32 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2529,
+      "concurrentViewers": 5993,
       "startedAt": "2026-05-27T20:56:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7TECxuolHck",
+      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+      "title": "Watch Live: Spain's National Day military parade",
+      "description": "Live coverage of Spain's National Day military parade through central Madrid, presided over by King Felipe VI. \n\n⬇️ Always stay informed ⬇️\n👉 Follow all the news on 📲  https://euronews.com\n👉 Subscribe ► https://www.youtube.com/@euronews \n👉 Watch our LIVE here: https://www.youtube.com/c/euronews…",
+      "channelTitle": "euronews",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7TECxuolHck/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7TECxuolHck/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7TECxuolHck/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 90,
+      "startedAt": "2026-10-12T08:57:27Z",
       "regionRestriction": null
     },
     {
@@ -310,7 +478,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 173,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -334,7 +502,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 139,
+      "concurrentViewers": 231,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -358,56 +526,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 54,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "UdT4d6yUm8c",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: DEADLIEST Attack On Saudi's Riyadh Airport, Over 300 Injured | WION",
-      "description": "Saudi Under Attack LIVE: DEADLIEST Attack On Saudi's Riyadh Airport, Over 300 Injured | WION \n\nAn Indian national was killed in an attack at King Khalid International Airport in Riyadh, Saudi Arabia. More than 300 people were injured, including 10 other Indian nationals. The Indian Embassy is assis…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UdT4d6yUm8c/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UdT4d6yUm8c/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UdT4d6yUm8c/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 205,
-      "startedAt": "2026-10-12T01:38:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "pLG6qBZD4PQ",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
-      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 153,
-      "startedAt": "2026-10-12T01:32:51Z",
       "regionRestriction": null
     },
     {
@@ -430,8 +550,32 @@
           "url": "https://i.ytimg.com/vi/NBcVksK31Lo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 122,
+      "concurrentViewers": 95,
       "startedAt": "2026-10-12T02:25:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "pLG6qBZD4PQ",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
+      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 38,
+      "startedAt": "2026-10-12T01:32:51Z",
       "regionRestriction": null
     },
     {
@@ -454,104 +598,152 @@
           "url": "https://i.ytimg.com/vi/bxW_W27OUYo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 77,
       "startedAt": "2026-10-11T15:20:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "hjOyJj5kx8k",
+      "videoId": "egLS1rGMe54",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP Fresh Protest In Delhi LIVE: Supreme Court On Delhi Shutdown | SC Notice To Authorities | Live",
-      "description": "CJP Fresh Protest In Delhi LIVE: Supreme Court On Delhi Shutdown | SC Notice To Authorities \nRahul Gandhi Jantar Mantar protest live updates, INDIA bloc flash protest Delhi Jantar Mantar, CEC Gyanesh Kumar resignation demand opposition, Special Intensive Revision SIR voter list controversy, Delhi P…",
+      "title": "Rahul Gandhi LIVE: Chalo Delhi March By Rahul & INDIA Bloc | Save Democracy | India Today LIVE",
+      "description": "Rahul Gandhi LIVE: Chalo Delhi March By Rahul & INDIA Bloc | Save Democracy | India Today LIVE\n#RahulGandhi #ChaloDelhi #INDIAAlliance #SaveDemocracy #SIRControversy #GyaneshKumar #congress #delhiprotest  #IndiaTodayLive\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Pus…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hjOyJj5kx8k/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/egLS1rGMe54/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hjOyJj5kx8k/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/egLS1rGMe54/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hjOyJj5kx8k/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/egLS1rGMe54/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 71,
-      "startedAt": "2026-10-11T08:01:47Z",
+      "concurrentViewers": 2404,
+      "startedAt": "2026-10-12T09:05:45Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ueKv2qUCNzs",
+      "videoId": "0c277mk82jo",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Jantar Mantar Protest LIVE: Jantar Mantar No Longer A Protest Site | BREAKING NEWS | CJP | CEC Row",
+      "description": "Delhi Police has de-notified Jantar Mantar as a designated protest venue, according to a circular issued on Monday. Three alternative locations have been listed for demonstrations: Ramlila Ground, Burari Ground and CBD Ground in East Delhi. What does this change mean for protests in the national ca…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0c277mk82jo/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0c277mk82jo/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0c277mk82jo/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 438,
+      "startedAt": "2026-10-12T08:09:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "J8wkRziHoSo",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Ground Report: INDIA Bloc March To Supreme Court Amid Heavy Security Deployment | India Today",
+      "description": "Opposition leaders from the INDIA bloc, accompanied by Congress and NSUI cadre as well as a large contingent of lawyers carrying copies of the Constitution, carried out a massive protest march towards the Supreme Court in New Delhi. Heavy security forces, including the Delhi Police, Rapid Action Fo…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J8wkRziHoSo/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J8wkRziHoSo/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J8wkRziHoSo/hqdefault.jpg"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-10-12T10:20:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zfocauijE5g",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | Rahul Gandhi | India Alliance Protest | CJP",
-      "description": "CEC ज्ञानेश कुमार और सरकार के खिलाफ राहुल गांधी का मोर्चा, 'चलो दिल्ली' के नारे के साथ आज दोपहर डेढ़ बजे बाराखंभा रोड से कूच करेगा इंडिया गठबंधन \n\nशांति बनाए रखने की शर्त पर CJP नेता रिहा, दिल्ली पुलिस का दावा-भरा गया बॉन्ड, अभिजीत दीपके का पलटवार- प्रदर्शन रोकने वाला कोई बांड साइन नहीं किया\n\nसऊदी …",
+      "title": "INDIA Bloc Protest Live Updates: राहुल गांधी का 'सुप्रीम' मार्च | Rahul Gandhi | India Alliance",
+      "description": "राष्ट्रीय राजधानी दिल्ली में सोमवार को INDIA ब्लॉक के नेता सुप्रीम कोर्ट तक मार्च करेंगे. हालांकि, मुख्य न्यायाधीश सूर्यकांत ने INDIA ब्लॉक के सांसदों के आवेदन को अस्वीकार कर दिया है. सूत्रों के मुताबिक, विपक्ष जिन मुद्दों को उठाना चाहता है, वे पहले से ही सुप्रीम कोर्ट में विचाराधीन हैं. ऐसे में CJ…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ueKv2qUCNzs/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/zfocauijE5g/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ueKv2qUCNzs/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zfocauijE5g/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ueKv2qUCNzs/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zfocauijE5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 941,
-      "startedAt": "2026-10-12T01:31:27Z",
+      "concurrentViewers": 3976,
+      "startedAt": "2026-10-12T09:30:15Z",
       "regionRestriction": null
     },
     {
-      "videoId": "bIulhhps_hk",
+      "videoId": "VCbNfGWBuAM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Abhijeet Dipke On CJP Protest News LIVE: CJP प्रदर्शन पर बड़े अपडेट | Gyanesh Kumar | Aaj Tak Hindi",
-      "description": "CJP नेता अभिजीत दिपके ने प्रदर्शन जारी रखने का ऐलान करते हुए कहा कि उन्होंने प्रदर्शन नहीं करने का कोई बॉन्ड साइन नहीं किया है और वे फिर सड़कों पर उतरेंगे. दिपके, आशुतोष रांका और सौरव दास को दिल्ली कैंट स्थित कार्यकारी मजिस्ट्रेट की अदालत में पेश किए जाने के बाद रिहा कर दिया गया था.\n\n #cjpprotest #…",
+      "title": "INDIA Alliance Chalo Delhi March LIVE : विपक्ष का सुप्रीम कोर्ट मार्च | Rahul Gandhi | Congress",
+      "description": "INDIA ब्लॉक के नेताओं का सुप्रीम कोर्ट तक मार्च शुरू हो गया है. राहुल गांधी ने बताया कि वे और INDIA ब्लॉक के अन्य नेता सुप्रीम कोर्ट में याचिका दायर करेंगे. वहीं, कॉकरोच जनता पार्टी ने पुलिस से जंतर-मंतर पर प्रदर्शन की तारीख मांगी है.\n\n #ChaloDelhiMarch #rahulgandhi #indiaalliance #priyankagandhi #…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/bIulhhps_hk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/VCbNfGWBuAM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/bIulhhps_hk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/VCbNfGWBuAM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/bIulhhps_hk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/VCbNfGWBuAM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 514,
-      "startedAt": "2026-10-12T01:23:57Z",
+      "concurrentViewers": 3902,
+      "startedAt": "2026-10-12T10:05:26Z",
       "regionRestriction": null
     },
     {
-      "videoId": "h9cuRhi3aG0",
+      "videoId": "oPN_8mrQS94",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Alliance Protests: 5 राज्यों के चुनाव से पहले हो रहे प्रदर्शन की क्या है? वजह? | CJP Protest",
-      "description": "इस प्रदर्शन की पूरी तस्वीर में विपक्ष की चार प्रमुख मांगें हैं, मुख्य चुनाव आयुक्त ज्ञानेश कुमार को हटाना, मतदाता सूची के विशेष गहन पुनरीक्षण यानी एसआईआर पर रोक, बैलेट पेपर से चुनाव कराने की मांग और पिछले दो सालों की चुनावों की समीक्षा। उधर बीजेपी ने विपक्ष के आरोपों को खारिज किया है. बीजेपी इसे लो…",
+      "title": "Rahul Gandhi 'Chalo Delhi' March LIVE: राहुल गांधी का ‘चलो दिल्ली’ मार्च LIVE | EC | INDIA Alliance",
+      "description": "दिल्ली में शनिवार को हुए प्रदर्शन पर लाठीचार्ज के आरोपों के बाद कांग्रेस ने सोमवार को सुप्रीम कोर्ट तक मार्च निकालने का ऐलान किया है. राहुल गांधी ने इस मार्च को किसी एक पार्टी का प्रदर्शन बनाने के बजाय देश के नागरिकों की आवाज बनाने की अपील की है. उनका कहना है कि पार्टी, जाति, धर्म, लिंग और राज्य की…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/h9cuRhi3aG0/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/oPN_8mrQS94/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/h9cuRhi3aG0/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/oPN_8mrQS94/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/h9cuRhi3aG0/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/oPN_8mrQS94/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 287,
-      "startedAt": "2026-10-12T01:51:48Z",
+      "concurrentViewers": 2041,
+      "startedAt": "2026-10-12T08:15:58Z",
       "regionRestriction": null
     },
     {
@@ -574,56 +766,8 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1438,
+      "concurrentViewers": 974,
       "startedAt": "2020-04-22T03:23:30Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "2uRgQy_ei5Q",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: Panama declares state of emergency after powerful earthquake",
-      "description": "A magnitude-7.6 earthquake struck Panama on Friday, followed by a series of strong aftershocks. The quake damaged buildings and roads, disrupted water supplies and temporarily halted flights. Panama has declared a state of emergency as authorities coordinate relief efforts. Join CGTN reporter's liv…",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2uRgQy_ei5Q/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2uRgQy_ei5Q/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2uRgQy_ei5Q/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 13,
-      "startedAt": "2026-10-12T02:20:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Fa5QY2OLAqk",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: The natural beauty of China's Sanjiangyuan National Park",
-      "description": "Marking the fifth anniversary of the establishment of China's first batch of national parks, CGTN takes you to #Sanjiangyuan National Park, home to the sources of the Yangtze, Yellow and Lancang rivers. Located on the Qinghai-Xizang Plateau, the park covers 123,100 square kilometers, making it the …",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Fa5QY2OLAqk/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Fa5QY2OLAqk/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Fa5QY2OLAqk/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 6,
-      "startedAt": "2026-10-12T02:00:22Z",
       "regionRestriction": null
     },
     {
@@ -646,7 +790,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2015,
+      "concurrentViewers": 1234,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
