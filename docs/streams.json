@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T10:23:16.666Z",
+  "generatedAt": "2026-10-12T19:57:20.470Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Zelenskyy accuses Putin of breaking Trump's 'energy ceasefire' - as Moscow remains silent https://news.sky.com/story/ukraine-war-latest-live-russia-at…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: NATO general warns 'we'd be ready to fight tonight' amid Russia threat\n https://news.sky.com/story/ukraine-war-latest-live-russia-attack-buses-kramato…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,80 +22,56 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7751,
+      "concurrentViewers": 3658,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "VhO12X3IRSs",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Farage makes ‘immigration announcement’ in Kent",
-      "description": "The Reform UK leader holds a news conference alongside the Reform Home Affairs spokesperson Zia Yusuf in Hythe, Kent where  he is expected to make a ‘'major immigration announcement'.\n\nPolitics latest | https://news.sky.com/story/politics-latest-burnham-labour-man-city-badenoch-farage-polanski-1259…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VhO12X3IRSs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VhO12X3IRSs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VhO12X3IRSs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 448,
-      "startedAt": "2026-10-12T09:52:49Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7SWT93aQ7MA",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "AI minister lays out govt plans to reduce AI risks",
-      "description": "AI Minister Kanishka Narayan delivers a speech in London setting out further steps the government is taking to strengthen the UK’s resilience to AI risks. \n\nPolitics latest | https://news.sky.com/story/politics-latest-burnham-labour-man-city-badenoch-farage-polanski-12593360\n\n#AI #Tech #UK \n\nSUBSCR…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7SWT93aQ7MA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7SWT93aQ7MA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7SWT93aQ7MA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 52,
-      "startedAt": "2026-10-12T09:52:44Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "C1jykj1HgmA",
+      "videoId": "EDbWwVR7i9Q",
       "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Britain's Newsroom | Monday 12th October",
-      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "title": "GB News Live: Watch GB News 24/7",
+      "description": "Keep up to date with GB News at gbnews.com or on X @GBNEWS\n\nBecome a Friend of GB News: gbnews.com/friend",
       "channelTitle": "GBNews",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/C1jykj1HgmA/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/C1jykj1HgmA/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/C1jykj1HgmA/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1470,
-      "startedAt": "2026-10-12T08:27:29Z",
+      "concurrentViewers": 1997,
+      "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "pnpfJcNfIwI",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Patrick Christys Tonight | Monday 12th October",
+      "description": "Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pnpfJcNfIwI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pnpfJcNfIwI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pnpfJcNfIwI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 50,
+      "startedAt": "2026-10-12T19:56:33Z",
       "regionRestriction": null
     },
     {
@@ -118,62 +94,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 518,
+      "concurrentViewers": 90,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "fgh8eTBBZ08",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "The winner of the 2026 Nobel prize in economics is announced – watch live",
-      "description": "The winner of the 2026 Nobel prize in economics is announced by the Royal Swedish Academy of Sciences.\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The…",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fgh8eTBBZ08/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fgh8eTBBZ08/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fgh8eTBBZ08/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 26,
-      "startedAt": "2026-10-12T09:32:27Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "xyHuDPIThKo",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: India's opposition leader Rahul Gandhi leads protest march in Delhi",
-      "description": "India’s Leader of Opposition Rahul Gandhi leads a march towards the Supreme Court, along with other opposition groups and civic society bodies, demanding action over election irregularities.\n \nOpposition parties and supporters of the \"cockroach\" youth movement have taken to the streets almost daily…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xyHuDPIThKo/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xyHuDPIThKo/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xyHuDPIThKo/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 19,
-      "startedAt": "2026-10-12T10:20:45Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "a0I_VkZHHIU",
+      "videoId": "jeJ4kdpSCJk",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 12",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -181,45 +109,21 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/jeJ4kdpSCJk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/jeJ4kdpSCJk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/jeJ4kdpSCJk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 936,
-      "startedAt": "2026-10-09T22:00:12Z",
+      "concurrentViewers": 2868,
+      "startedAt": "2026-10-12T10:30:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "w7uPIMH2c3o",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: Tracking post-tropical cyclone Isaias as it moves across the southern U.S. | NBC News",
-      "description": "Isaias made landfall on the Florida Panhandle Friday evening, bringing heavy rains and strong winds and is now moving inland. It is the first hurricane of the Atlantic season.\n\nEvery day, NBC News helps people understand what’s happening and why it matters — through fact-based reporting, meaningful…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 7,
-      "startedAt": "2026-10-07T16:46:08Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "KrRZuVZXUDI",
+      "videoId": "p2kCBRSS8Lc",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "title": "LIVE: ABC News Live - Monday, October 12",
       "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
@@ -229,41 +133,65 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KrRZuVZXUDI/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/p2kCBRSS8Lc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KrRZuVZXUDI/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/p2kCBRSS8Lc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KrRZuVZXUDI/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/p2kCBRSS8Lc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 391,
-      "startedAt": "2026-10-12T10:05:50Z",
+      "concurrentViewers": 772,
+      "startedAt": "2026-10-12T17:58:07Z",
       "regionRestriction": null
     },
     {
-      "videoId": "8ufvKsnGIFg",
+      "videoId": "SGGJBg6wBDc",
+      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
+      "channelTitle": "CBS News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SGGJBg6wBDc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SGGJBg6wBDc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SGGJBg6wBDc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 515,
+      "startedAt": "2026-10-12T10:59:29Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PUfWupzOZxA",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump White House latest, Russia-Ukraine war, Midterm elections, Iran war, more top stories",
-      "description": "President Donald Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" though he did not provide details about the agreement. Trump’s brief social media post said only that the ceasefire took effect immediately and that both sides had agreed to it. \"Do not break it!\" he wro…",
+      "title": "LIVE: Trump campaign rally, Russian diesel deal, Saudi Arabia latest, Midterm elections, top stories",
+      "description": "President Trump returns to Youngstown, Ohio for midterm rally for Senator Jon Husted.\n\nPresident Donald Trump announced a deal with Russian President Vladimir Putin to import millions of tons of Russian diesel into the U.S. and global markets to help lower fuel prices ahead of the November midterm …",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/PUfWupzOZxA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PUfWupzOZxA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PUfWupzOZxA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 315,
-      "startedAt": "2026-10-11T09:40:20Z",
+      "concurrentViewers": 1020,
+      "startedAt": "2026-10-12T10:42:08Z",
       "regionRestriction": null
     },
     {
@@ -286,32 +214,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 199,
+      "concurrentViewers": 1345,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "M-7oOYrpxjI",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "Paris Motor Show 2026 LIVE: Automakers unveil new cars",
-      "description": "Watch live as major automakers unveil their latest models at the 2026 Paris Motor Show, with European and Chinese brands showcasing new cars and technology.\n\n#parismotorshow #automobile #technology #live",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/M-7oOYrpxjI/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/M-7oOYrpxjI/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/M-7oOYrpxjI/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 236,
-      "startedAt": "2026-10-12T08:31:52Z",
       "regionRestriction": null
     },
     {
@@ -334,7 +238,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6200,
+      "concurrentViewers": 4522,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -358,7 +262,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 34,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -382,7 +286,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 340,
+      "concurrentViewers": 338,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -406,7 +310,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1112,
+      "concurrentViewers": 1191,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -430,32 +334,8 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5993,
+      "concurrentViewers": 7053,
       "startedAt": "2026-05-27T20:56:27Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7TECxuolHck",
-      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
-      "title": "Watch Live: Spain's National Day military parade",
-      "description": "Live coverage of Spain's National Day military parade through central Madrid, presided over by King Felipe VI. \n\n⬇️ Always stay informed ⬇️\n👉 Follow all the news on 📲  https://euronews.com\n👉 Subscribe ► https://www.youtube.com/@euronews \n👉 Watch our LIVE here: https://www.youtube.com/c/euronews…",
-      "channelTitle": "euronews",
-      "country": "FR",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7TECxuolHck/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7TECxuolHck/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7TECxuolHck/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 90,
-      "startedAt": "2026-10-12T08:57:27Z",
       "regionRestriction": null
     },
     {
@@ -478,7 +358,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 173,
+      "concurrentViewers": 85,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -502,7 +382,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 231,
+      "concurrentViewers": 171,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -526,7 +406,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 54,
+      "concurrentViewers": 29,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -550,7 +430,7 @@
           "url": "https://i.ytimg.com/vi/NBcVksK31Lo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 95,
+      "concurrentViewers": 50,
       "startedAt": "2026-10-12T02:25:33Z",
       "regionRestriction": null
     },
@@ -574,8 +454,32 @@
           "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 27,
       "startedAt": "2026-10-12T01:32:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4ZHSinWDq1A",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Rahul Gandhi News | Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit",
+      "description": "Thousands of people gathered in central Delhi on Monday as opposition leaders began their march to the Supreme Court to challenge Chief Election Commissioner Gyanesh Kumar over allegations of electoral irregularities. While the INDIA bloc leaders marched, their legal team filed a petition against t…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4ZHSinWDq1A/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4ZHSinWDq1A/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4ZHSinWDq1A/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 29,
+      "startedAt": "2026-10-12T15:52:09Z",
       "regionRestriction": null
     },
     {
@@ -598,104 +502,80 @@
           "url": "https://i.ytimg.com/vi/bxW_W27OUYo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 77,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-11T15:20:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "egLS1rGMe54",
+      "videoId": "_SOGWDYtpBc",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Congress Protest Today | CJP Protest LIVE | Supreme Court | Rahul Gandhi | India Matters",
+      "description": "The united Opposition's campaign against Chief Election Commissioner Gyanesh Kumar will move on parallel platforms starting today. While the Opposition will continue the battle onto streets -- boosted by the the Supreme Court's direction to restore normalcy and bar illegal detentions -- it is also …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_SOGWDYtpBc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_SOGWDYtpBc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_SOGWDYtpBc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 7,
+      "startedAt": "2026-10-12T15:35:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "3Zb97ySoW98",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rahul Gandhi LIVE: Chalo Delhi March By Rahul & INDIA Bloc | Save Democracy | India Today LIVE",
-      "description": "Rahul Gandhi LIVE: Chalo Delhi March By Rahul & INDIA Bloc | Save Democracy | India Today LIVE\n#RahulGandhi #ChaloDelhi #INDIAAlliance #SaveDemocracy #SIRControversy #GyaneshKumar #congress #delhiprotest  #IndiaTodayLive\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Pus…",
+      "title": "LIVE: Supreme Court Flags Several Errors In Rahul Gandhi's Plea On SIR & CEC Gyanesh Kumar",
+      "description": "The Supreme Court registry has flagged 14 defects in the INDIA bloc’s petition over alleged voter deletions and irregularities in the Special Intensive Revision (SIR) of electoral rolls. The plea has not yet been cleared for listing for a hearing.\n\nThe defects include missing or unsigned lawyer aut…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/egLS1rGMe54/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/3Zb97ySoW98/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/egLS1rGMe54/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/3Zb97ySoW98/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/egLS1rGMe54/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/3Zb97ySoW98/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2404,
-      "startedAt": "2026-10-12T09:05:45Z",
+      "concurrentViewers": 73,
+      "startedAt": "2026-10-12T17:56:49Z",
       "regionRestriction": null
     },
     {
-      "videoId": "0c277mk82jo",
+      "videoId": "xjd0lGx5aUM",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Jantar Mantar Protest LIVE: Jantar Mantar No Longer A Protest Site | BREAKING NEWS | CJP | CEC Row",
-      "description": "Delhi Police has de-notified Jantar Mantar as a designated protest venue, according to a circular issued on Monday. Three alternative locations have been listed for demonstrations: Ramlila Ground, Burari Ground and CBD Ground in East Delhi. What does this change mean for protests in the national ca…",
+      "title": "LIVE: BJP vs Congress SIR Showdown In Delhi | CEC Gyanesh Kumar Protest | NDA vs INDIA | NewsTrack",
+      "description": "Rahul Gandhi’s petition has been officially registered on the Supreme Court’s website as the Congress leader leads an INDIA bloc march towards the apex court under the banner “Chalo Delhi – March for Democracy”. The petition comes amid the Opposition’s demand for Chief Election Commissioner Gyanesh…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/0c277mk82jo/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/xjd0lGx5aUM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/0c277mk82jo/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/xjd0lGx5aUM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/0c277mk82jo/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/xjd0lGx5aUM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 438,
-      "startedAt": "2026-10-12T08:09:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "J8wkRziHoSo",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Ground Report: INDIA Bloc March To Supreme Court Amid Heavy Security Deployment | India Today",
-      "description": "Opposition leaders from the INDIA bloc, accompanied by Congress and NSUI cadre as well as a large contingent of lawyers carrying copies of the Constitution, carried out a massive protest march towards the Supreme Court in New Delhi. Heavy security forces, including the Delhi Police, Rapid Action Fo…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/J8wkRziHoSo/default.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/J8wkRziHoSo/mqdefault.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/J8wkRziHoSo/hqdefault.jpg"
-        }
-      },
-      "concurrentViewers": null,
-      "startedAt": "2026-10-12T10:20:16Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zfocauijE5g",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Bloc Protest Live Updates: राहुल गांधी का 'सुप्रीम' मार्च | Rahul Gandhi | India Alliance",
-      "description": "राष्ट्रीय राजधानी दिल्ली में सोमवार को INDIA ब्लॉक के नेता सुप्रीम कोर्ट तक मार्च करेंगे. हालांकि, मुख्य न्यायाधीश सूर्यकांत ने INDIA ब्लॉक के सांसदों के आवेदन को अस्वीकार कर दिया है. सूत्रों के मुताबिक, विपक्ष जिन मुद्दों को उठाना चाहता है, वे पहले से ही सुप्रीम कोर्ट में विचाराधीन हैं. ऐसे में CJ…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zfocauijE5g/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zfocauijE5g/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zfocauijE5g/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 3976,
-      "startedAt": "2026-10-12T09:30:15Z",
+      "concurrentViewers": 27,
+      "startedAt": "2026-10-12T16:30:57Z",
       "regionRestriction": null
     },
     {
@@ -718,32 +598,8 @@
           "url": "https://i.ytimg.com/vi/VCbNfGWBuAM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3902,
+      "concurrentViewers": 199,
       "startedAt": "2026-10-12T10:05:26Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "oPN_8mrQS94",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul Gandhi 'Chalo Delhi' March LIVE: राहुल गांधी का ‘चलो दिल्ली’ मार्च LIVE | EC | INDIA Alliance",
-      "description": "दिल्ली में शनिवार को हुए प्रदर्शन पर लाठीचार्ज के आरोपों के बाद कांग्रेस ने सोमवार को सुप्रीम कोर्ट तक मार्च निकालने का ऐलान किया है. राहुल गांधी ने इस मार्च को किसी एक पार्टी का प्रदर्शन बनाने के बजाय देश के नागरिकों की आवाज बनाने की अपील की है. उनका कहना है कि पार्टी, जाति, धर्म, लिंग और राज्य की…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/oPN_8mrQS94/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/oPN_8mrQS94/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/oPN_8mrQS94/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 2041,
-      "startedAt": "2026-10-12T08:15:58Z",
       "regionRestriction": null
     },
     {
@@ -766,7 +622,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 974,
+      "concurrentViewers": 325,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -790,7 +646,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1234,
+      "concurrentViewers": 1798,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
