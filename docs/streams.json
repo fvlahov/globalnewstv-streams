@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T23:28:52.215Z",
+  "generatedAt": "2026-10-12T02:36:54.276Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2423,
+      "concurrentViewers": 2312,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/wTRf5N2YJdw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 313,
+      "concurrentViewers": 227,
       "startedAt": "2026-10-11T22:57:06Z",
       "regionRestriction": null
     },
@@ -70,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 33,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -94,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 629,
+      "concurrentViewers": 687,
       "startedAt": "2026-10-09T22:00:12Z",
       "regionRestriction": null
     },
@@ -118,15 +118,15 @@
           "url": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 11,
       "startedAt": "2026-10-07T16:46:08Z",
       "regionRestriction": null
     },
     {
       "videoId": "8ufvKsnGIFg",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "TOP STORIES: Hurricane Isaias aftermath, Russia plague concerns, Gaza strikes",
-      "description": "As the remnants of Hurricane Isaias move farther inland Sunday, millions of people across the Northeast and Mid-Atlantic are bracing for a soggy end to the weekend, with heavy rain, flooding and even severe thunderstorms possible. Meanwhile, Hurricane Simon strengthened into a powerful Category 4 s…",
+      "title": "LIVE: Trump White House latest, Russia-Ukraine war, Midterm elections, Iran war, more top stories",
+      "description": "President Donald Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" though he did not provide details about the agreement. Trump’s brief social media post said only that the ceasefire took effect immediately and that both sides had agreed to it. \"Do not break it!\" he wro…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -142,7 +142,7 @@
           "url": "https://i.ytimg.com/vi/8ufvKsnGIFg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 378,
+      "concurrentViewers": 349,
       "startedAt": "2026-10-11T09:40:20Z",
       "regionRestriction": null
     },
@@ -166,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 549,
+      "concurrentViewers": 356,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -190,7 +190,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1148,
+      "concurrentViewers": 1661,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -214,7 +214,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 37,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -238,7 +238,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 286,
+      "concurrentViewers": 253,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -262,7 +262,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 718,
+      "concurrentViewers": 770,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -286,7 +286,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3889,
+      "concurrentViewers": 2529,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -310,7 +310,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 33,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -334,7 +334,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 134,
+      "concurrentViewers": 139,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -358,80 +358,80 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 20,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "OMPC_mSbxNI",
+      "videoId": "UdT4d6yUm8c",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Nepal Floods LIVE: Nepal DROWNS As Budhigandaki River EXPLODES, Homes, Bridges Swept Away | WION",
-      "description": "Nepal Floods LIVE: Nepal DROWNS As Budhigandaki River EXPLODES, Homes, Bridges Swept Away | WION\n\nNepal is on alert as a massive flood surge hits the Budhi Gandaki River in Gorkha, sweeping away homes and bridges and damaging nearby settlements. The sudden surge, linked to a landslide blocking the …",
+      "title": "Saudi Under Attack LIVE: DEADLIEST Attack On Saudi's Riyadh Airport, Over 300 Injured | WION",
+      "description": "Saudi Under Attack LIVE: DEADLIEST Attack On Saudi's Riyadh Airport, Over 300 Injured | WION \n\nAn Indian national was killed in an attack at King Khalid International Airport in Riyadh, Saudi Arabia. More than 300 people were injured, including 10 other Indian nationals. The Indian Embassy is assis…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/OMPC_mSbxNI/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/UdT4d6yUm8c/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/OMPC_mSbxNI/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/UdT4d6yUm8c/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/OMPC_mSbxNI/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/UdT4d6yUm8c/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 39,
-      "startedAt": "2026-10-11T17:45:22Z",
+      "concurrentViewers": 205,
+      "startedAt": "2026-10-12T01:38:31Z",
       "regionRestriction": null
     },
     {
-      "videoId": "zTcAt5afl3M",
+      "videoId": "pLG6qBZD4PQ",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "CJP Protests LIVE: Delhi Tightens Security as Stir Against CEC Gyanesh Kumar Resumes | WION",
-      "description": "CJP Protests LIVE: Delhi Tightens Security as Stir Against CEC Gyanesh Kumar Resumes | WION\n\nDelhi is on heightened security alert as the Cockroach Janta Party (CJP) renews its protest against Chief Election Commissioner Gyanesh Kumar over the Special Intensive Revision (SIR) controversy. Security …",
+      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
+      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zTcAt5afl3M/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-11T05:42:24Z",
+      "concurrentViewers": 153,
+      "startedAt": "2026-10-12T01:32:51Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Ck_tyzDJuqI",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest News LIVE | Delhi Police Release Video Of Telling Dipke About His Grandmother's Death",
-      "description": "Delhi Police have released a video purportedly showing CJP founder Abhijeet Dipke in detention, claiming he was informed about his grandmother's death while in custody. According to police, Dipke chose not to leave despite being told about the family emergency, a claim likely to add a new dimension…",
-      "channelTitle": "NDTV",
+      "videoId": "NBcVksK31Lo",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
+      "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. involv…",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Ck_tyzDJuqI/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/NBcVksK31Lo/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Ck_tyzDJuqI/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/NBcVksK31Lo/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Ck_tyzDJuqI/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/NBcVksK31Lo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 22,
-      "startedAt": "2026-10-11T19:16:25Z",
+      "concurrentViewers": 122,
+      "startedAt": "2026-10-12T02:25:33Z",
       "regionRestriction": null
     },
     {
@@ -454,32 +454,8 @@
           "url": "https://i.ytimg.com/vi/bxW_W27OUYo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 22,
+      "concurrentViewers": 40,
       "startedAt": "2026-10-11T15:20:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5_dsQn9-O3w",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Leaders Released LIVE | Jantar Mantar 2.0 LIVE | Delhi CJP Protest LIVE | CEC Protest In Delhi",
-      "description": "The detained leadership of the Cockroach Janta Party (CJP), including Abhijeet Dipke, Ashutosh Ranka, and Saurav Das, has been released following court proceedings in Delhi. The leaders had earlier been detained amid the controversy surrounding the proposed protest mobilisation in the national capi…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5_dsQn9-O3w/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5_dsQn9-O3w/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5_dsQn9-O3w/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 4,
-      "startedAt": "2026-10-11T04:52:20Z",
       "regionRestriction": null
     },
     {
@@ -502,38 +478,38 @@
           "url": "https://i.ytimg.com/vi/hjOyJj5kx8k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 71,
       "startedAt": "2026-10-11T08:01:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "8ET_V-T8vHw",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Trump Announces Russia-Ukraine 'Energy Ceasefire' Ahead of Upcoming Midterm Polls | Putin",
-      "description": "In a massive geopolitical and economic shift, US President Donald Trump has announced an immediate \"energy ceasefire\" between Russia and Ukraine, halting all cross-border strikes targeting oil refineries, power plants, and critical infrastructure.\n\nThe high-stakes announcement comes on the heels of…",
-      "channelTitle": "India Today",
+      "videoId": "ueKv2qUCNzs",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | Rahul Gandhi | India Alliance Protest | CJP",
+      "description": "CEC ज्ञानेश कुमार और सरकार के खिलाफ राहुल गांधी का मोर्चा, 'चलो दिल्ली' के नारे के साथ आज दोपहर डेढ़ बजे बाराखंभा रोड से कूच करेगा इंडिया गठबंधन \n\nशांति बनाए रखने की शर्त पर CJP नेता रिहा, दिल्ली पुलिस का दावा-भरा गया बॉन्ड, अभिजीत दीपके का पलटवार- प्रदर्शन रोकने वाला कोई बांड साइन नहीं किया\n\nसऊदी …",
+      "channelTitle": "Aaj Tak",
       "country": "IN",
-      "language": "en",
+      "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8ET_V-T8vHw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/ueKv2qUCNzs/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8ET_V-T8vHw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/ueKv2qUCNzs/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8ET_V-T8vHw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/ueKv2qUCNzs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7,
-      "startedAt": "2026-10-11T18:02:44Z",
+      "concurrentViewers": 941,
+      "startedAt": "2026-10-12T01:31:27Z",
       "regionRestriction": null
     },
     {
-      "videoId": "77YVoctRPbg",
+      "videoId": "bIulhhps_hk",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Abhijeet Dipke On CJP Protest News LIVE: अभिजीत दिपके ने प्रदर्शन जारी रखने का ऐलान किया | EC",
+      "title": "Abhijeet Dipke On CJP Protest News LIVE: CJP प्रदर्शन पर बड़े अपडेट | Gyanesh Kumar | Aaj Tak Hindi",
       "description": "CJP नेता अभिजीत दिपके ने प्रदर्शन जारी रखने का ऐलान करते हुए कहा कि उन्होंने प्रदर्शन नहीं करने का कोई बॉन्ड साइन नहीं किया है और वे फिर सड़कों पर उतरेंगे. दिपके, आशुतोष रांका और सौरव दास को दिल्ली कैंट स्थित कार्यकारी मजिस्ट्रेट की अदालत में पेश किए जाने के बाद रिहा कर दिया गया था.\n\n #cjpprotest #…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -541,17 +517,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/77YVoctRPbg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/bIulhhps_hk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/77YVoctRPbg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/bIulhhps_hk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/77YVoctRPbg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/bIulhhps_hk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
-      "startedAt": "2026-10-11T14:49:26Z",
+      "concurrentViewers": 514,
+      "startedAt": "2026-10-12T01:23:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "h9cuRhi3aG0",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "INDIA Alliance Protests: 5 राज्यों के चुनाव से पहले हो रहे प्रदर्शन की क्या है? वजह? | CJP Protest",
+      "description": "इस प्रदर्शन की पूरी तस्वीर में विपक्ष की चार प्रमुख मांगें हैं, मुख्य चुनाव आयुक्त ज्ञानेश कुमार को हटाना, मतदाता सूची के विशेष गहन पुनरीक्षण यानी एसआईआर पर रोक, बैलेट पेपर से चुनाव कराने की मांग और पिछले दो सालों की चुनावों की समीक्षा। उधर बीजेपी ने विपक्ष के आरोपों को खारिज किया है. बीजेपी इसे लो…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h9cuRhi3aG0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h9cuRhi3aG0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h9cuRhi3aG0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 287,
+      "startedAt": "2026-10-12T01:51:48Z",
       "regionRestriction": null
     },
     {
@@ -574,8 +574,56 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1679,
+      "concurrentViewers": 1438,
       "startedAt": "2020-04-22T03:23:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "2uRgQy_ei5Q",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: Panama declares state of emergency after powerful earthquake",
+      "description": "A magnitude-7.6 earthquake struck Panama on Friday, followed by a series of strong aftershocks. The quake damaged buildings and roads, disrupted water supplies and temporarily halted flights. Panama has declared a state of emergency as authorities coordinate relief efforts. Join CGTN reporter's liv…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2uRgQy_ei5Q/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2uRgQy_ei5Q/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2uRgQy_ei5Q/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-10-12T02:20:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Fa5QY2OLAqk",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: The natural beauty of China's Sanjiangyuan National Park",
+      "description": "Marking the fifth anniversary of the establishment of China's first batch of national parks, CGTN takes you to #Sanjiangyuan National Park, home to the sources of the Yangtze, Yellow and Lancang rivers. Located on the Qinghai-Xizang Plateau, the park covers 123,100 square kilometers, making it the …",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Fa5QY2OLAqk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Fa5QY2OLAqk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Fa5QY2OLAqk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 6,
+      "startedAt": "2026-10-12T02:00:22Z",
       "regionRestriction": null
     },
     {
@@ -598,7 +646,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2826,
+      "concurrentViewers": 2015,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
