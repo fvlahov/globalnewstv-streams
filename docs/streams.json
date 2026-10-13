@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T01:56:53.365Z",
+  "generatedAt": "2026-10-13T09:12:31.771Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | Are Iran and Russia pushing Burnham closer to Europe? | Beth Rigby - https://news.sky.com/video/are-iran-and-russia-pushing-burnham-closer-to-europe-beth-rigby-13…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: UK tech 'found in Russian missile' - as top NATO general warns 'we're ready' - https://news.sky.com/story/ukraine-war-live-trump-putin-zelenskyy-energ…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2068,
+      "concurrentViewers": 7111,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,8 +46,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1024,
+      "concurrentViewers": 3253,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "MoYjh-1luOs",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Britain's Newsroom | Tuesday 13th October",
+      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MoYjh-1luOs/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MoYjh-1luOs/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MoYjh-1luOs/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1055,
+      "startedAt": "2026-10-13T08:25:38Z",
       "regionRestriction": null
     },
     {
@@ -70,14 +94,86 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 574,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "JagaGH2u_44",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "Foreign ministers debate Europe’s security at Warsaw forum – watch live",
+      "description": "The second day of the Warsaw Security Forum, with foreign ministers from Europe and other leaders discussing power politics in Europe, what follows the liberal international order, a new European security architecture, EU enlargement and peace in the Middle East.",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JagaGH2u_44/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JagaGH2u_44/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JagaGH2u_44/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 53,
+      "startedAt": "2026-10-13T08:23:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "YhE3d4G6w50",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Activist Greta Thunberg joins a student protest in France",
+      "description": "Activist Greta Thunberg joins a student protest at a high school outside Paris, France, ahead of a big march.\n \n#france #protest #gretathunberg #education #blockade #highschoolers #students #Paris #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YhE3d4G6w50/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YhE3d4G6w50/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YhE3d4G6w50/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 42,
+      "startedAt": "2026-10-13T08:39:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "d9tGQKzznOs",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Foreign ministers debate Europe’s security at Warsaw forum",
+      "description": "Foreign ministers from Europe and other leaders discuss power politics in the continent, what follows the liberal international order, a new European security architecture, EU enlargement and peace in the Middle East on the second day of the Warsaw Security Forum.\n\n#poland #warsawsecurityforum #eur…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d9tGQKzznOs/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d9tGQKzznOs/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d9tGQKzznOs/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 16,
+      "startedAt": "2026-10-13T08:27:56Z",
       "regionRestriction": null
     },
     {
       "videoId": "FXDEt2omKmA",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 12",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -94,32 +190,8 @@
           "url": "https://i.ytimg.com/vi/FXDEt2omKmA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1066,
+      "concurrentViewers": 536,
       "startedAt": "2026-10-12T21:58:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "p2kCBRSS8Lc",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Monday, October 12",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/p2kCBRSS8Lc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/p2kCBRSS8Lc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/p2kCBRSS8Lc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 624,
-      "startedAt": "2026-10-12T17:58:07Z",
       "regionRestriction": null
     },
     {
@@ -142,7 +214,7 @@
           "url": "https://i.ytimg.com/vi/CmR2-LqwYw4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 346,
+      "concurrentViewers": 301,
       "startedAt": "2026-10-12T22:59:18Z",
       "regionRestriction": {
         "blocked": [
@@ -171,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/PUfWupzOZxA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 612,
+      "concurrentViewers": 386,
       "startedAt": "2026-10-12T10:42:08Z",
       "regionRestriction": null
     },
@@ -195,8 +267,56 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 512,
+      "concurrentViewers": 187,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "dN-prxP1rPE",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Pope Leo XIV heads to Rome hospital for lung surgery",
+      "description": "Watch live as Pope Leo XIV is expected to leave the Vatican for Rome’s Gemelli Hospital, where he will undergo surgery to remove a lung nodule. He is expected to remain in the hospital for about a week. Read more: https://bit.ly/4yLhW5A\n\n#popeleoxiv #rome #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dN-prxP1rPE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dN-prxP1rPE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dN-prxP1rPE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 507,
+      "startedAt": "2026-10-13T05:08:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "sRt_dQZZce8",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Student protests in France",
+      "description": "Live from Paris as French students continue their protests to demand better-resourced schools in demonstrations that have been shaking France for several weeks.\n\n#france #protest #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sRt_dQZZce8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sRt_dQZZce8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sRt_dQZZce8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 453,
+      "startedAt": "2026-10-13T08:46:08Z",
       "regionRestriction": null
     },
     {
@@ -219,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1394,
+      "concurrentViewers": 4798,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -243,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 20,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -267,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 307,
+      "concurrentViewers": 399,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -291,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 792,
+      "concurrentViewers": 1186,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -315,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3291,
+      "concurrentViewers": 6307,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -339,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 142,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -363,7 +483,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 200,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -387,12 +507,12 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 43,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "NBcVksK31Lo",
+      "videoId": "YLTN-0K8CzU",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
       "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
       "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. involv…",
@@ -402,71 +522,143 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NBcVksK31Lo/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/YLTN-0K8CzU/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NBcVksK31Lo/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/YLTN-0K8CzU/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NBcVksK31Lo/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/YLTN-0K8CzU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 81,
-      "startedAt": "2026-10-12T02:25:33Z",
+      "concurrentViewers": 125,
+      "startedAt": "2026-10-13T08:00:54Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4ZHSinWDq1A",
+      "videoId": "qgm6RZY4UZA",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
+      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 112,
+      "startedAt": "2026-10-13T07:49:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xtgNSYr8b8U",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Nepal Floods LIVE: Massive Flood Hits Budhigandaki River, Homes, Bridges Swept Away | WION",
+      "description": "Nepal Floods LIVE: Massive Flood Hits Budhigandaki River, Homes, Bridges Swept Away | WION\n\nNepal is on alert as a massive flood surge hits the Budhi Gandaki River in Gorkha, sweeping away homes and bridges and damaging nearby settlements. The sudden surge, linked to a landslide blocking the river,…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xtgNSYr8b8U/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xtgNSYr8b8U/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xtgNSYr8b8U/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 61,
+      "startedAt": "2026-10-13T07:04:41Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fdjWjOkwQA0",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi News | Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit",
-      "description": "Thousands of people gathered in central Delhi on Monday as opposition leaders began their march to the Supreme Court to challenge Chief Election Commissioner Gyanesh Kumar over allegations of electoral irregularities. While the INDIA bloc leaders marched, their legal team filed a petition against t…",
+      "title": "Saudi Airport Attack LIVE News | Trump Warns Houthis LIVE | Riyadh On High Alert After Houthi Attack",
+      "description": "Saudi Arabia is on high alert after a series of Houthi missile and drone attacks targeted airports and threatened critical infrastructure. Riyadh’s King Khalid International Airport has extended its flight suspension, while airlines have halted services amid mounting security concerns. At least 12 …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4ZHSinWDq1A/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/fdjWjOkwQA0/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4ZHSinWDq1A/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/fdjWjOkwQA0/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4ZHSinWDq1A/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/fdjWjOkwQA0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 22,
-      "startedAt": "2026-10-12T15:52:09Z",
+      "concurrentViewers": 130,
+      "startedAt": "2026-10-13T08:51:00Z",
       "regionRestriction": null
     },
     {
-      "videoId": "3Zb97ySoW98",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Supreme Court Flags Several Errors In Rahul Gandhi's Plea On SIR & CEC Gyanesh Kumar",
-      "description": "The Supreme Court registry has flagged 14 defects in the INDIA bloc’s petition over alleged voter deletions and irregularities in the Special Intensive Revision (SIR) of electoral rolls. The plea has not yet been cleared for listing for a hearing.\n\nThe defects include missing or unsigned lawyer aut…",
-      "channelTitle": "India Today",
+      "videoId": "2aQoMSnz_QU",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "SIR-ECI Row LIVE | Rahul Gandhi, John Brittas Move SC Over Protest Curbs | Delhi Protest Row LIVE",
+      "description": "Congress leader Rahul Gandhi and Rajya Sabha MP John Brittas have filed intervention applications before the Supreme Court in connection with the ongoing case concerning restrictions imposed during the October 10 protest in Delhi. The applications have been filed in proceedings related to allegatio…",
+      "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3Zb97ySoW98/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/2aQoMSnz_QU/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3Zb97ySoW98/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2aQoMSnz_QU/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3Zb97ySoW98/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2aQoMSnz_QU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 45,
-      "startedAt": "2026-10-12T17:56:49Z",
+      "concurrentViewers": 33,
+      "startedAt": "2026-10-13T06:39:17Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xjd0lGx5aUM",
+      "videoId": "m8btUiyvwU4",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP Vs Delhi Police LIVE: Gate Jump, Slogans, Detentions As Jantar Mantar Showdown Continues",
+      "description": "The confrontation between the Cockroach Janta Party (CJP) and Delhi Police intensified after a group of CJP volunteers led by Ashutosh Ranka and Saurav Das staged a surprise protest at Jantar Mantar. Videos shared by CJP founder Abhijeet Dipke showed protesters scaling an iron gate and crossing pol…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m8btUiyvwU4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m8btUiyvwU4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m8btUiyvwU4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 27,
+      "startedAt": "2026-10-13T07:05:05Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0haPl9xVZLc",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: BJP vs Congress SIR Showdown In Delhi | CEC Gyanesh Kumar Protest | NDA vs INDIA | NewsTrack",
+      "title": "Rajdeep Sardesai LIVE: Protest Against Gyanesh Kumar | Right To Protest Curbed? | Abhishek Singhvi",
       "description": "Rahul Gandhi’s petition has been officially registered on the Supreme Court’s website as the Congress leader leads an INDIA bloc march towards the apex court under the banner “Chalo Delhi – March for Democracy”. The petition comes amid the Opposition’s demand for Chief Election Commissioner Gyanesh…",
       "channelTitle": "India Today",
       "country": "IN",
@@ -474,89 +666,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xjd0lGx5aUM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/0haPl9xVZLc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xjd0lGx5aUM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/0haPl9xVZLc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xjd0lGx5aUM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/0haPl9xVZLc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 15,
-      "startedAt": "2026-10-12T16:30:57Z",
+      "concurrentViewers": 223,
+      "startedAt": "2026-10-13T07:31:31Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Gs3r1-EWvkM",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Alliance Chalo Delhi March Updates: Gyanesh Kumar के खिलाफ कांग्रेस ने खोला मोर्चा | Aaj Tak",
-      "description": "CEC के इस्तीफे तक लड़ाई जारी रहेगी तो वहीं बीजेपी ने राहुल के आरोपों को निराधार बताते हुए देश विरोधी ताकतों का साथ देने का आरोप लगाया।\n\n #ChaloDelhiMarch #rahulgandhi #indiaalliance #priyankagandhi #aajtakdigital #gyaneshkumar #supremecourt \n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़ी खब…",
-      "channelTitle": "Aaj Tak",
+      "videoId": "lZ5eQnPulMc",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "UPI MDR Fee News Live Updates: UPI MDR Fee After Diwali | Will Customers Have To Pay More?| UPI News",
+      "description": "UPI MDR Fee News Live Updates: UPI MDR Fee After Diwali | Will Customers Have To Pay More?| UPI News\nUPI MDR charges on select person-to-merchant transactions are expected to be implemented after Diwali, with the effective date yet to be notified. Business Today’s Sakshi Batra explains the proposed…",
+      "channelTitle": "India Today",
       "country": "IN",
-      "language": "hi",
+      "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Gs3r1-EWvkM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/lZ5eQnPulMc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Gs3r1-EWvkM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lZ5eQnPulMc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Gs3r1-EWvkM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lZ5eQnPulMc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 652,
-      "startedAt": "2026-10-13T01:04:05Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "XAzTr4M2QA4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | INDIA Alliance Protest | Gyanesh Kumar | Breaking",
-      "description": "लगातार धरना प्रदर्शन के बाद राहुल गांधी की नई रणनीति, आज इंडिया गठबंधन के नेताओं को चाय पर बुलाया, उससे पहले साझा प्रेस कॉन्फ्रेंस का भी प्लान \n\n11 याचिकाकर्ताओं के साथ ECI के खिलाफ राहुल गांधी की याचिका अबतक सुनवाई के लिए लिस्ट नहीं, रजिस्ट्री ने बताई 14 खामियां, गलती सुधार के लिए 90 दिनों का वक्त…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XAzTr4M2QA4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XAzTr4M2QA4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XAzTr4M2QA4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 446,
-      "startedAt": "2026-10-13T01:41:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "0zAabq_6NpY",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Akhilesh Yadav in Delhi Protest: दिल्ली में प्रदर्शन में पहुंचे अखिलेश, CM Yogi ने साधा निशाना",
-      "description": "समाजवादी पार्टी के प्रमुख अखिलेश यादव भगवान दास रोड पर चल रहे प्रदर्शन में शामिल हुए. इस दौरान उन्होंने कहा कि सपा का विपक्ष का संघर्ष जारी रहेगा.अखिलेश यादव ने कहा कि बीजेपी को इसे स्वीकार करना चाहिए. उन्होंने मुख्य चुनाव आयुक्त ज्ञानेश कुमार से इस्तीफा देने की मांग की.\n\n#akhileshyadav #congresspr…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0zAabq_6NpY/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0zAabq_6NpY/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0zAabq_6NpY/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 384,
-      "startedAt": "2026-10-13T01:51:49Z",
+      "concurrentViewers": 52,
+      "startedAt": "2026-10-13T08:42:25Z",
       "regionRestriction": null
     },
     {
@@ -579,7 +723,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1848,
+      "concurrentViewers": 755,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -603,7 +747,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2207,
+      "concurrentViewers": 1604,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
