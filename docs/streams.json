@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T19:57:20.470Z",
+  "generatedAt": "2026-10-13T01:56:53.365Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: NATO general warns 'we'd be ready to fight tonight' amid Russia threat\n https://news.sky.com/story/ukraine-war-latest-live-russia-attack-buses-kramato…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | Are Iran and Russia pushing Burnham closer to Europe? | Beth Rigby - https://news.sky.com/video/are-iran-and-russia-pushing-burnham-closer-to-europe-beth-rigby-13…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3658,
+      "concurrentViewers": 2068,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,32 +46,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1997,
+      "concurrentViewers": 1024,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "pnpfJcNfIwI",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Patrick Christys Tonight | Monday 12th October",
-      "description": "Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pnpfJcNfIwI/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pnpfJcNfIwI/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pnpfJcNfIwI/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 50,
-      "startedAt": "2026-10-12T19:56:33Z",
       "regionRestriction": null
     },
     {
@@ -94,12 +70,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 90,
+      "concurrentViewers": 25,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "jeJ4kdpSCJk",
+      "videoId": "FXDEt2omKmA",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 12",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -109,17 +85,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jeJ4kdpSCJk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/FXDEt2omKmA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jeJ4kdpSCJk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/FXDEt2omKmA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jeJ4kdpSCJk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/FXDEt2omKmA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2868,
-      "startedAt": "2026-10-12T10:30:47Z",
+      "concurrentViewers": 1066,
+      "startedAt": "2026-10-12T21:58:31Z",
       "regionRestriction": null
     },
     {
@@ -142,12 +118,12 @@
           "url": "https://i.ytimg.com/vi/p2kCBRSS8Lc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 772,
+      "concurrentViewers": 624,
       "startedAt": "2026-10-12T17:58:07Z",
       "regionRestriction": null
     },
     {
-      "videoId": "SGGJBg6wBDc",
+      "videoId": "CmR2-LqwYw4",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -157,18 +133,23 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/SGGJBg6wBDc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/CmR2-LqwYw4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/SGGJBg6wBDc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/CmR2-LqwYw4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/SGGJBg6wBDc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/CmR2-LqwYw4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 515,
-      "startedAt": "2026-10-12T10:59:29Z",
-      "regionRestriction": null
+      "concurrentViewers": 346,
+      "startedAt": "2026-10-12T22:59:18Z",
+      "regionRestriction": {
+        "blocked": [
+          "AU",
+          "CA"
+        ]
+      }
     },
     {
       "videoId": "PUfWupzOZxA",
@@ -190,7 +171,7 @@
           "url": "https://i.ytimg.com/vi/PUfWupzOZxA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1020,
+      "concurrentViewers": 612,
       "startedAt": "2026-10-12T10:42:08Z",
       "regionRestriction": null
     },
@@ -214,7 +195,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1345,
+      "concurrentViewers": 512,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -238,7 +219,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4522,
+      "concurrentViewers": 1394,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -262,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 29,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -286,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 338,
+      "concurrentViewers": 307,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -310,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1191,
+      "concurrentViewers": 792,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -334,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7053,
+      "concurrentViewers": 3291,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -358,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 85,
+      "concurrentViewers": 47,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -382,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 171,
+      "concurrentViewers": 131,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -406,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 30,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -430,32 +411,8 @@
           "url": "https://i.ytimg.com/vi/NBcVksK31Lo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 81,
       "startedAt": "2026-10-12T02:25:33Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "pLG6qBZD4PQ",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
-      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pLG6qBZD4PQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 27,
-      "startedAt": "2026-10-12T01:32:51Z",
       "regionRestriction": null
     },
     {
@@ -478,56 +435,8 @@
           "url": "https://i.ytimg.com/vi/4ZHSinWDq1A/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 22,
       "startedAt": "2026-10-12T15:52:09Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "bxW_W27OUYo",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest News LIVE | 'Fight Has Just Begun': CJP Vows Nationwide Protest After Delhi Crackdown",
-      "description": "Cockroach Janta Party (CJP) leaders have vowed to expand their protests nationwide after being released from Delhi Police custody. Hundreds were detained on Saturday while attempting to gather near Jantar Mantar to demand Chief Election Commissioner Gyanesh Kumar’s resignation over alleged electora…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bxW_W27OUYo/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bxW_W27OUYo/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bxW_W27OUYo/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 7,
-      "startedAt": "2026-10-11T15:20:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_SOGWDYtpBc",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Congress Protest Today | CJP Protest LIVE | Supreme Court | Rahul Gandhi | India Matters",
-      "description": "The united Opposition's campaign against Chief Election Commissioner Gyanesh Kumar will move on parallel platforms starting today. While the Opposition will continue the battle onto streets -- boosted by the the Supreme Court's direction to restore normalcy and bar illegal detentions -- it is also …",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_SOGWDYtpBc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_SOGWDYtpBc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_SOGWDYtpBc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 7,
-      "startedAt": "2026-10-12T15:35:54Z",
       "regionRestriction": null
     },
     {
@@ -550,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/3Zb97ySoW98/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 73,
+      "concurrentViewers": 45,
       "startedAt": "2026-10-12T17:56:49Z",
       "regionRestriction": null
     },
@@ -574,32 +483,80 @@
           "url": "https://i.ytimg.com/vi/xjd0lGx5aUM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 15,
       "startedAt": "2026-10-12T16:30:57Z",
       "regionRestriction": null
     },
     {
-      "videoId": "VCbNfGWBuAM",
+      "videoId": "Gs3r1-EWvkM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Alliance Chalo Delhi March LIVE : विपक्ष का सुप्रीम कोर्ट मार्च | Rahul Gandhi | Congress",
-      "description": "INDIA ब्लॉक के नेताओं का सुप्रीम कोर्ट तक मार्च शुरू हो गया है. राहुल गांधी ने बताया कि वे और INDIA ब्लॉक के अन्य नेता सुप्रीम कोर्ट में याचिका दायर करेंगे. वहीं, कॉकरोच जनता पार्टी ने पुलिस से जंतर-मंतर पर प्रदर्शन की तारीख मांगी है.\n\n #ChaloDelhiMarch #rahulgandhi #indiaalliance #priyankagandhi #…",
+      "title": "INDIA Alliance Chalo Delhi March Updates: Gyanesh Kumar के खिलाफ कांग्रेस ने खोला मोर्चा | Aaj Tak",
+      "description": "CEC के इस्तीफे तक लड़ाई जारी रहेगी तो वहीं बीजेपी ने राहुल के आरोपों को निराधार बताते हुए देश विरोधी ताकतों का साथ देने का आरोप लगाया।\n\n #ChaloDelhiMarch #rahulgandhi #indiaalliance #priyankagandhi #aajtakdigital #gyaneshkumar #supremecourt \n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़ी खब…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VCbNfGWBuAM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Gs3r1-EWvkM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VCbNfGWBuAM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Gs3r1-EWvkM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VCbNfGWBuAM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Gs3r1-EWvkM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 199,
-      "startedAt": "2026-10-12T10:05:26Z",
+      "concurrentViewers": 652,
+      "startedAt": "2026-10-13T01:04:05Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "XAzTr4M2QA4",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | INDIA Alliance Protest | Gyanesh Kumar | Breaking",
+      "description": "लगातार धरना प्रदर्शन के बाद राहुल गांधी की नई रणनीति, आज इंडिया गठबंधन के नेताओं को चाय पर बुलाया, उससे पहले साझा प्रेस कॉन्फ्रेंस का भी प्लान \n\n11 याचिकाकर्ताओं के साथ ECI के खिलाफ राहुल गांधी की याचिका अबतक सुनवाई के लिए लिस्ट नहीं, रजिस्ट्री ने बताई 14 खामियां, गलती सुधार के लिए 90 दिनों का वक्त…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XAzTr4M2QA4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XAzTr4M2QA4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XAzTr4M2QA4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 446,
+      "startedAt": "2026-10-13T01:41:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0zAabq_6NpY",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Akhilesh Yadav in Delhi Protest: दिल्ली में प्रदर्शन में पहुंचे अखिलेश, CM Yogi ने साधा निशाना",
+      "description": "समाजवादी पार्टी के प्रमुख अखिलेश यादव भगवान दास रोड पर चल रहे प्रदर्शन में शामिल हुए. इस दौरान उन्होंने कहा कि सपा का विपक्ष का संघर्ष जारी रहेगा.अखिलेश यादव ने कहा कि बीजेपी को इसे स्वीकार करना चाहिए. उन्होंने मुख्य चुनाव आयुक्त ज्ञानेश कुमार से इस्तीफा देने की मांग की.\n\n#akhileshyadav #congresspr…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0zAabq_6NpY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0zAabq_6NpY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0zAabq_6NpY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 384,
+      "startedAt": "2026-10-13T01:51:49Z",
       "regionRestriction": null
     },
     {
@@ -622,7 +579,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 325,
+      "concurrentViewers": 1848,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -646,7 +603,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1798,
+      "concurrentViewers": 2207,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
