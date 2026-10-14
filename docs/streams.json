@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T11:41:26.121Z",
+  "generatedAt": "2026-10-14T16:43:26.906Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Trump responds to Ukraine intel sharing question - after his new media secretary dodged query - https://news.sky.com/story/ukraine-war-live-trump-puti…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Russell Brand trial live: Comedian said he 'may have gone a bit too far' with woman, witness tells court - https://trib.al/SMZq5Cy\n\n🔴 Ukraine war latest: Putin faces 'un…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6817,
+      "concurrentViewers": 5962,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,32 +46,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3691,
+      "concurrentViewers": 2769,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "hKo4JzvxlMM",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "PMQs Live | Wednesday 14th October",
-      "description": "Prime Minister's Questions as Sir Keir Starmer and Andy Burnham go head to head in the House of Commons.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB N…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hKo4JzvxlMM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hKo4JzvxlMM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hKo4JzvxlMM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1164,
-      "startedAt": "2026-10-14T10:56:59Z",
       "regionRestriction": null
     },
     {
@@ -94,104 +70,32 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 679,
+      "concurrentViewers": 210,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "DP2Z-UUlSWs",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "Andy Burnham takes questions in parliament – watch live",
-      "description": "British Prime Minister Andy Burnham takes questions in parliament.\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://support.th…",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DP2Z-UUlSWs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DP2Z-UUlSWs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DP2Z-UUlSWs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1594,
-      "startedAt": "2026-10-14T10:47:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "i_x9QLmN4og",
+      "videoId": "Crsx9tAy3Zg",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Albanian students protest over education costs",
-      "description": "Albanian students gather outside the Education Ministry in Tirana to protest university conditions, tuition fees, financial support and job prospects after graduation.\n \n#albania #tirana #education #protest #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuter…",
+      "title": "LIVE: Colombian unions protest De La Espriella government in Bogota",
+      "description": "Colombian unions march against the government of President Abelardo de la Espriella in Bogota.\n\n#bogota #colombia #protest #march #DeLaEspriella\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/i_x9QLmN4og/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Crsx9tAy3Zg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/i_x9QLmN4og/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Crsx9tAy3Zg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/i_x9QLmN4og/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Crsx9tAy3Zg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 588,
-      "startedAt": "2026-10-14T10:13:27Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "eQjLvggAdjE",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: UK Prime Minister Andy Burnham takes questions in parliament",
-      "description": "British Prime Minister Andy Burnham takes questions in parliament.\n \n#andyburnham #uk #britain #pmqs #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/eQjLvggAdjE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/eQjLvggAdjE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/eQjLvggAdjE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 40,
-      "startedAt": "2026-10-14T10:51:00Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "MFKm5BrssCE",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: NATO’s Rutte speaks at university in Estonia",
-      "description": "NATO Secretary General Mark Rutte gives a speech at Tallinn University of Technology.\n\n#nato #markrutte #estonia #tallinnuniversityoftechnology #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MFKm5BrssCE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MFKm5BrssCE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MFKm5BrssCE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 20,
-      "startedAt": "2026-10-14T11:23:50Z",
+      "concurrentViewers": 30,
+      "startedAt": "2026-10-14T16:10:31Z",
       "regionRestriction": null
     },
     {
@@ -214,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/GKOAmJ9uuSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2718,
+      "concurrentViewers": 4606,
       "startedAt": "2026-10-14T11:06:26Z",
       "regionRestriction": null
     },
@@ -238,7 +142,7 @@
           "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2101,
+      "concurrentViewers": 2278,
       "startedAt": "2026-10-14T10:00:13Z",
       "regionRestriction": null
     },
@@ -262,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/lLtdBrhYJuI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 650,
+      "concurrentViewers": 921,
       "startedAt": "2026-10-14T10:59:14Z",
       "regionRestriction": {
         "blocked": [
@@ -291,7 +195,7 @@
           "url": "https://i.ytimg.com/vi/ioZy1ZVbqSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 530,
+      "concurrentViewers": 847,
       "startedAt": "2026-10-13T10:02:00Z",
       "regionRestriction": null
     },
@@ -315,8 +219,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 675,
+      "concurrentViewers": 1717,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "TkdviKYsOs4",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Press conference held by the family of a man hit by an ICE vehicle",
+      "description": "Watch live from Houston as the family of a Mexican national who was struck by a vehicle driven by an Immigration and Customs Enforcement agent holds a press conference. Prosecutors in Houston say they believe it may have been intentional. Miguel Parra Hernandez broke a leg and will need surgery.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TkdviKYsOs4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TkdviKYsOs4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TkdviKYsOs4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 192,
+      "startedAt": "2026-10-14T15:50:11Z",
       "regionRestriction": null
     },
     {
@@ -339,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8711,
+      "concurrentViewers": 7370,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -363,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 28,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -387,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 426,
+      "concurrentViewers": 502,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -411,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1276,
+      "concurrentViewers": 1354,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -435,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6710,
+      "concurrentViewers": 5570,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -459,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 130,
+      "concurrentViewers": 101,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -483,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 240,
+      "concurrentViewers": 220,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -507,32 +435,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 38,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qgm6RZY4UZA",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
-      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 78,
-      "startedAt": "2026-10-13T07:49:56Z",
       "regionRestriction": null
     },
     {
@@ -555,8 +459,32 @@
           "url": "https://i.ytimg.com/vi/RvzIXzXCs68/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 78,
+      "concurrentViewers": 53,
       "startedAt": "2026-10-14T09:14:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qgm6RZY4UZA",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
+      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 43,
+      "startedAt": "2026-10-13T07:49:56Z",
       "regionRestriction": null
     },
     {
@@ -579,14 +507,14 @@
           "url": "https://i.ytimg.com/vi/GCcDByu5FWU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 9,
       "startedAt": "2026-10-14T09:16:34Z",
       "regionRestriction": null
     },
     {
       "videoId": "WukEQYuapc8",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: CJP Jantar Mantar Protest | INDIA Bloc | Rahul Gandhi | Bihar News | CEC | West Bengal",
+      "title": "NDTV LIVE: Blue Drum Case Verdict | CJP Jantar Mantar Protest | INDIA Bloc | Rahul Gandhi",
       "description": "A woman tried to attack Mamata Banerjee with a knife as the former West Bengal chief minister stepped out of her house in Kolkata on Tuesday evening, the Mamata All India Trinamool Congress has alleged.\n\nThe police, however, made no mention of an attack or a sharp object and said the woman has been…",
       "channelTitle": "NDTV",
       "country": "IN",
@@ -603,15 +531,15 @@
           "url": "https://i.ytimg.com/vi/WukEQYuapc8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 85,
+      "concurrentViewers": 47,
       "startedAt": "2026-10-14T01:23:30Z",
       "regionRestriction": null
     },
     {
       "videoId": "1ub3q3oA24c",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Rahul Gandhi | Blue Drum Murder Case | CJP Leaders Sent To Tihar | Ukraine War",
-      "description": "India Today TV LIVE: Rahul Gandhi | Blue Drum Murder Case | CJP Leaders Sent To Tihar | Ukraine War\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recent…",
+      "title": "India Today TV LIVE: Rahul Gandhi Meets Ankita Bhandari's Parents | New CJP Protest | Ukraine War",
+      "description": "India Today TV LIVE: Rahul Gandhi Meets Ankita Bhandari's Parents | New CJP Protest | Ukraine War\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recently…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -627,32 +555,8 @@
           "url": "https://i.ytimg.com/vi/1ub3q3oA24c/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 75,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-14T04:04:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "9A5iTYtOeZw",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: CJP Leaders Saurav Das, Ashutosh Ranka Sent To Tihar Jail | Jantar Mantar | CJP Protest",
-      "description": "LIVE: CJP Leaders Saurav Das, Ashutosh Ranka Sent To Tihar Jail | Jantar Mantar | CJP Protest \n\n#cjpprotestlive #sauravdas #ashutoshranka #jantarmantar #judicialcustody #delhipolice #delhicourt #tiharjail #abhijeetdipke  #cjpnews #delhinews #protest #breakingnews #indiatodaylivestream \n\nSubscribe t…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9A5iTYtOeZw/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9A5iTYtOeZw/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9A5iTYtOeZw/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 68,
-      "startedAt": "2026-10-14T03:34:10Z",
       "regionRestriction": null
     },
     {
@@ -675,7 +579,7 @@
           "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 285,
+      "concurrentViewers": 452,
       "startedAt": "2026-10-14T05:27:40Z",
       "regionRestriction": null
     },
@@ -699,7 +603,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": 284,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -723,7 +627,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 856,
+      "concurrentViewers": 524,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
