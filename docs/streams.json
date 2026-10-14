@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T05:59:49.335Z",
+  "generatedAt": "2026-10-14T11:41:26.121Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4828,
+      "concurrentViewers": 6817,
       "startedAt": "2026-08-27T05:26:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "OSzaw9eQ3E8",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Andy Burnham will welcome Volodymyr Zelenskyy to Downing Street today | Mornings with Ridge & Frost",
-      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/OSzaw9eQ3E8/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/OSzaw9eQ3E8/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/OSzaw9eQ3E8/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 606,
-      "startedAt": "2026-10-14T04:59:43Z",
       "regionRestriction": null
     },
     {
@@ -70,8 +46,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2435,
+      "concurrentViewers": 3691,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hKo4JzvxlMM",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "PMQs Live | Wednesday 14th October",
+      "description": "Prime Minister's Questions as Sir Keir Starmer and Andy Burnham go head to head in the House of Commons.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB N…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hKo4JzvxlMM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hKo4JzvxlMM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hKo4JzvxlMM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1164,
+      "startedAt": "2026-10-14T10:56:59Z",
       "regionRestriction": null
     },
     {
@@ -94,14 +94,110 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 366,
+      "concurrentViewers": 679,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "F4VWVQ5j1rY",
+      "videoId": "DP2Z-UUlSWs",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "Andy Burnham takes questions in parliament – watch live",
+      "description": "British Prime Minister Andy Burnham takes questions in parliament.\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://support.th…",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DP2Z-UUlSWs/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DP2Z-UUlSWs/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DP2Z-UUlSWs/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1594,
+      "startedAt": "2026-10-14T10:47:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "i_x9QLmN4og",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Albanian students protest over education costs",
+      "description": "Albanian students gather outside the Education Ministry in Tirana to protest university conditions, tuition fees, financial support and job prospects after graduation.\n \n#albania #tirana #education #protest #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuter…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i_x9QLmN4og/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i_x9QLmN4og/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i_x9QLmN4og/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 588,
+      "startedAt": "2026-10-14T10:13:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "eQjLvggAdjE",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: UK Prime Minister Andy Burnham takes questions in parliament",
+      "description": "British Prime Minister Andy Burnham takes questions in parliament.\n \n#andyburnham #uk #britain #pmqs #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eQjLvggAdjE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eQjLvggAdjE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eQjLvggAdjE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 40,
+      "startedAt": "2026-10-14T10:51:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "MFKm5BrssCE",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: NATO’s Rutte speaks at university in Estonia",
+      "description": "NATO Secretary General Mark Rutte gives a speech at Tallinn University of Technology.\n\n#nato #markrutte #estonia #tallinnuniversityoftechnology #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MFKm5BrssCE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MFKm5BrssCE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MFKm5BrssCE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-14T11:23:50Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GKOAmJ9uuSE",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 14",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -109,21 +205,45 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/F4VWVQ5j1rY/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/GKOAmJ9uuSE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/F4VWVQ5j1rY/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GKOAmJ9uuSE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/F4VWVQ5j1rY/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/GKOAmJ9uuSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 457,
-      "startedAt": "2026-10-13T22:00:12Z",
+      "concurrentViewers": 2718,
+      "startedAt": "2026-10-14T11:06:26Z",
       "regionRestriction": null
     },
     {
-      "videoId": "eFCQVCpcX1U",
+      "videoId": "E_FYkY7-8uc",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Wednesday, October 14",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 2101,
+      "startedAt": "2026-10-14T10:00:13Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lLtdBrhYJuI",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -133,17 +253,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/eFCQVCpcX1U/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/lLtdBrhYJuI/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/eFCQVCpcX1U/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lLtdBrhYJuI/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/eFCQVCpcX1U/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lLtdBrhYJuI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 216,
-      "startedAt": "2026-10-13T22:59:15Z",
+      "concurrentViewers": 650,
+      "startedAt": "2026-10-14T10:59:14Z",
       "regionRestriction": {
         "blocked": [
           "AU",
@@ -171,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/ioZy1ZVbqSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 411,
+      "concurrentViewers": 530,
       "startedAt": "2026-10-13T10:02:00Z",
       "regionRestriction": null
     },
@@ -195,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 303,
+      "concurrentViewers": 675,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -219,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3269,
+      "concurrentViewers": 8711,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -243,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -267,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 416,
+      "concurrentViewers": 426,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -291,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1312,
+      "concurrentViewers": 1276,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -315,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5317,
+      "concurrentViewers": 6710,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -339,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 109,
+      "concurrentViewers": 130,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -363,7 +483,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 183,
+      "concurrentViewers": 240,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -387,7 +507,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 43,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -411,8 +531,56 @@
           "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 78,
       "startedAt": "2026-10-13T07:49:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "RvzIXzXCs68",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Houthis Launch Ballistic Missile At Riyadh As Explosions Rock Capital| WION",
+      "description": "Saudi Under Attack LIVE: Houthis Launch Ballistic Missile At Riyadh As Explosions Rock Capital\n\nAn Indian national was killed in an attack at King Khalid International Airport in Riyadh, Saudi Arabia. More than 300 people were injured, including 10 other Indian nationals. The Indian Embassy is assi…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RvzIXzXCs68/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RvzIXzXCs68/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RvzIXzXCs68/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 78,
+      "startedAt": "2026-10-14T09:14:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GCcDByu5FWU",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "US-Iran War LIVE:  Iran Claims Strike On Supertanker In Strait Of Hormuz | WION",
+      "description": "Iran has claimed responsibility for a strike on a supertanker in the Strait of Hormuz, a critical global shipping route. The reported incident comes amid heightened tensions in the region and growing concerns over maritime security.\n\n\n\n#usiranwar #westasiaconflict #straitofhormuz  #iran #usa #middl…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GCcDByu5FWU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GCcDByu5FWU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GCcDByu5FWU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 23,
+      "startedAt": "2026-10-14T09:16:34Z",
       "regionRestriction": null
     },
     {
@@ -435,56 +603,32 @@
           "url": "https://i.ytimg.com/vi/WukEQYuapc8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 245,
+      "concurrentViewers": 85,
       "startedAt": "2026-10-14T01:23:30Z",
       "regionRestriction": null
     },
     {
-      "videoId": "CdWy7U8Cus4",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Flydubai Case Updates: New Arrests, Shocking Passenger Testimony | Flydubai Incident",
-      "description": "The alleged Flydubai terror plot takes a disturbing turn as two more Maldivian pilots are arrested in the UAE over suspected links to a plot targeting a Dubai–Tel Aviv flight. Meanwhile, a passenger's testimony raises troubling questions about the cabin crew's conduct, including allegations that cr…",
-      "channelTitle": "NDTV",
+      "videoId": "1ub3q3oA24c",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today TV LIVE: Rahul Gandhi | Blue Drum Murder Case | CJP Leaders Sent To Tihar | Ukraine War",
+      "description": "India Today TV LIVE: Rahul Gandhi | Blue Drum Murder Case | CJP Leaders Sent To Tihar | Ukraine War\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recent…",
+      "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/CdWy7U8Cus4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/CdWy7U8Cus4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/CdWy7U8Cus4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 26,
-      "startedAt": "2026-10-14T01:22:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "35sNpwXQi5Y",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: CJP’s Saurav Das, Ashutosh Ranka Sent to 5 Days’ Judicial Custody | Delhi Police",
-      "description": "Cockroach Janata Party (CJP) leaders Saurav Das and Ashutosh Ranka, who were placed under preventive arrest for trespassing at Jantar Mantar, have been sent to five-day judicial custody. The two, along with Ajinkya Shinde, were booked on charges including bond violation and disruption of a public o…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/35sNpwXQi5Y/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/35sNpwXQi5Y/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/35sNpwXQi5Y/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 25,
-      "startedAt": "2026-10-14T04:25:59Z",
+      "concurrentViewers": 75,
+      "startedAt": "2026-10-14T04:04:32Z",
       "regionRestriction": null
     },
     {
@@ -507,56 +651,8 @@
           "url": "https://i.ytimg.com/vi/9A5iTYtOeZw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 351,
+      "concurrentViewers": 68,
       "startedAt": "2026-10-14T03:34:10Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "DAEwxKj_atA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Delhi Police Breaks Silence On CJP Leaders | Saurav & Ranka Sent To Tihar Jail | India Today",
-      "description": "LIVE: Delhi Police Breaks Silence On CJP Leaders | Saurav & Ranka Sent To Tihar Jail | India Today \n\n#cjpprotestlive  #sauravdas #ashutoshranka #delhipolice #abhijeetdipke  #jantarmantar #tiharjail #judicialcustody #cjpProtest #delhinews #breakingnews #indiatodaylive \n\nSubscribe to India Today for …",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DAEwxKj_atA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DAEwxKj_atA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DAEwxKj_atA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 227,
-      "startedAt": "2026-10-14T05:19:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "1ub3q3oA24c",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: CJP Leaders Sent To Tihar Jail | Congress Vs BJP | Rahul Gandhi | PM Modi",
-      "description": "India Today TV LIVE: CJP Leaders Sent To Tihar Jail | Congress Vs BJP | Rahul Gandhi | PM Modi\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recently de…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 83,
-      "startedAt": "2026-10-14T04:04:32Z",
       "regionRestriction": null
     },
     {
@@ -579,62 +675,14 @@
           "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1075,
+      "concurrentViewers": 285,
       "startedAt": "2026-10-14T05:27:40Z",
       "regionRestriction": null
     },
     {
-      "videoId": "lZS6BEYGRP0",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Big Action On CJP Leaders LIVE: CJP को Rahul Gandhi का साथ, रांका-सौरभ की गिरफ्तारी पर उठाए सवाल",
-      "description": "सौरव दास और आशुतोष रांका की गिरफ्तारी के बाद दिल्ली पुलिस ने बयान जारी किया है. दिल्ली पुलिस ने बताया कि 'कॉकरोच जनता पार्टी' के सदस्य एक निजी जगह से होते हुए जंतर-मंतर पहुंचे थे. पुलिसकर्मियों ने उन्हें रोकने की कोशिश की. आरोप है कि प्रदर्शनकारियों ने पुलिसकर्मियों को उनकी ड्यूटी करने से रोका, जिस…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lZS6BEYGRP0/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lZS6BEYGRP0/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lZS6BEYGRP0/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 778,
-      "startedAt": "2026-10-14T05:54:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "YHrmy-fSz40",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Action On CJP Leaders LIVE: CJP नेता सौरव दास-आशुतोष रांका की गिरफ्तारी पर भड़के Abhijeet Dipke",
-      "description": "दिल्ली के जंतर-मंतर पर तिरंगा फहराने के मामले में अब CJP के 2 प्रवक्ताओं सौरव दास और आशुतोष रांका को 5 दिन के लिए तिहाड़ जेल भेज दिया गया..। दोनों पर बॉन्ड की शर्तों के उल्लंघन का आरोप है। BNSS की धारा 163 के दोबारा उल्लंघन का भी इल्जाम है..\n\n#cjpprotest #jantarmantar #sauravdas #ashutoshranka #del…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YHrmy-fSz40/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YHrmy-fSz40/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YHrmy-fSz40/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 724,
-      "startedAt": "2026-10-14T04:37:04Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "XWq5kBlakcQ",
+      "videoId": "-PWMxjBgr0k",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "title": "CNA 24/7 LIVE: Breaking news on Asia and award-winning documentaries and shows",
       "description": "Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional stories and pressing issues through our thought-provoking documentaries and features. Based in Singapore and broadcasting across the world, CNA d…",
       "channelTitle": "CNA",
       "country": "SG",
@@ -642,17 +690,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1123,
-      "startedAt": "2020-04-22T03:23:30Z",
+      "concurrentViewers": 1,
+      "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
     {
@@ -675,7 +723,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1401,
+      "concurrentViewers": 856,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
