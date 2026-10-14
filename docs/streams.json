@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T21:55:43.840Z",
+  "generatedAt": "2026-10-14T00:57:34.480Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3121,
+      "concurrentViewers": 2133,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2116,
+      "concurrentViewers": 1135,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -70,12 +70,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 57,
+      "concurrentViewers": 28,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "rUkUQrosskw",
+      "videoId": "F4VWVQ5j1rY",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 13",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -85,17 +85,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rUkUQrosskw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/F4VWVQ5j1rY/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rUkUQrosskw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/F4VWVQ5j1rY/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rUkUQrosskw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/F4VWVQ5j1rY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2520,
-      "startedAt": "2026-10-13T10:24:43Z",
+      "concurrentViewers": 1701,
+      "startedAt": "2026-10-13T22:00:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kcOJbYTQKIQ",
+      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 13",
+      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
+      "channelTitle": "NBC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kcOJbYTQKIQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kcOJbYTQKIQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kcOJbYTQKIQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 75,
+      "startedAt": "2026-10-13T23:43:27Z",
       "regionRestriction": null
     },
     {
@@ -118,12 +142,12 @@
           "url": "https://i.ytimg.com/vi/KOTdMiRUbng/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 775,
+      "concurrentViewers": 517,
       "startedAt": "2026-10-13T09:59:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "cKsksEjZY64",
+      "videoId": "eFCQVCpcX1U",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -133,17 +157,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/cKsksEjZY64/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/eFCQVCpcX1U/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/cKsksEjZY64/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/eFCQVCpcX1U/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/cKsksEjZY64/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/eFCQVCpcX1U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 504,
-      "startedAt": "2026-10-13T10:59:24Z",
+      "concurrentViewers": 378,
+      "startedAt": "2026-10-13T22:59:15Z",
       "regionRestriction": {
         "blocked": [
           "AU",
@@ -171,7 +195,7 @@
           "url": "https://i.ytimg.com/vi/ioZy1ZVbqSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 976,
+      "concurrentViewers": 939,
       "startedAt": "2026-10-13T10:02:00Z",
       "regionRestriction": null
     },
@@ -195,7 +219,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1188,
+      "concurrentViewers": 925,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -219,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2747,
+      "concurrentViewers": 1378,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -243,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 38,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -267,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 389,
+      "concurrentViewers": 318,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -291,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 935,
+      "concurrentViewers": 679,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -315,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5394,
+      "concurrentViewers": 3023,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -339,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 47,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -363,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 161,
+      "concurrentViewers": 137,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -387,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -411,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 90,
       "startedAt": "2026-10-13T07:49:56Z",
       "regionRestriction": null
     },
@@ -435,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/YLTN-0K8CzU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 30,
       "startedAt": "2026-10-13T08:00:54Z",
       "regionRestriction": null
     },
@@ -483,7 +507,7 @@
           "url": "https://i.ytimg.com/vi/EDsG8gbnrBE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2,
+      "concurrentViewers": 8,
       "startedAt": "2026-10-13T14:45:04Z",
       "regionRestriction": null
     },
@@ -507,7 +531,7 @@
           "url": "https://i.ytimg.com/vi/ByVZCsUkYs0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-13T14:20:00Z",
       "regionRestriction": null
     },
@@ -531,7 +555,7 @@
           "url": "https://i.ytimg.com/vi/niymd3_BKWE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-13T15:30:23Z",
       "regionRestriction": null
     },
@@ -555,7 +579,7 @@
           "url": "https://i.ytimg.com/vi/_HLDhvHiQOE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 30,
       "startedAt": "2026-10-13T15:31:33Z",
       "regionRestriction": null
     },
@@ -579,7 +603,7 @@
           "url": "https://i.ytimg.com/vi/vMOdi7W6bJs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 22,
+      "concurrentViewers": 9,
       "startedAt": "2026-10-13T16:34:21Z",
       "regionRestriction": null
     },
@@ -603,7 +627,7 @@
           "url": "https://i.ytimg.com/vi/QGLVFRostfg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 380,
+      "concurrentViewers": 260,
       "startedAt": "2026-10-13T15:21:23Z",
       "regionRestriction": null
     },
@@ -627,7 +651,7 @@
           "url": "https://i.ytimg.com/vi/PFRDgkq6Xrk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-13T16:27:01Z",
       "regionRestriction": null
     },
@@ -651,7 +675,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 421,
+      "concurrentViewers": 1975,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -675,7 +699,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2687,
+      "concurrentViewers": 2159,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
