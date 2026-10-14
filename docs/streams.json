@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T00:57:34.480Z",
+  "generatedAt": "2026-10-14T05:59:49.335Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2133,
+      "concurrentViewers": 4828,
       "startedAt": "2026-08-27T05:26:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "OSzaw9eQ3E8",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Andy Burnham will welcome Volodymyr Zelenskyy to Downing Street today | Mornings with Ridge & Frost",
+      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OSzaw9eQ3E8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OSzaw9eQ3E8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OSzaw9eQ3E8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 606,
+      "startedAt": "2026-10-14T04:59:43Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1135,
+      "concurrentViewers": 2435,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -70,14 +94,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 366,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "F4VWVQ5j1rY",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 13",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -94,56 +118,8 @@
           "url": "https://i.ytimg.com/vi/F4VWVQ5j1rY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1701,
+      "concurrentViewers": 457,
       "startedAt": "2026-10-13T22:00:12Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "kcOJbYTQKIQ",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 13",
-      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kcOJbYTQKIQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kcOJbYTQKIQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kcOJbYTQKIQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 75,
-      "startedAt": "2026-10-13T23:43:27Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "KOTdMiRUbng",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Tuesday, October 13",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KOTdMiRUbng/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KOTdMiRUbng/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KOTdMiRUbng/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 517,
-      "startedAt": "2026-10-13T09:59:47Z",
       "regionRestriction": null
     },
     {
@@ -166,7 +142,7 @@
           "url": "https://i.ytimg.com/vi/eFCQVCpcX1U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 378,
+      "concurrentViewers": 216,
       "startedAt": "2026-10-13T22:59:15Z",
       "regionRestriction": {
         "blocked": [
@@ -195,7 +171,7 @@
           "url": "https://i.ytimg.com/vi/ioZy1ZVbqSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 939,
+      "concurrentViewers": 411,
       "startedAt": "2026-10-13T10:02:00Z",
       "regionRestriction": null
     },
@@ -219,7 +195,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 925,
+      "concurrentViewers": 303,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -243,7 +219,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1378,
+      "concurrentViewers": 3269,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -267,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 31,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -291,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 318,
+      "concurrentViewers": 416,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -315,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 679,
+      "concurrentViewers": 1312,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -339,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3023,
+      "concurrentViewers": 5317,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -363,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 109,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -387,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 137,
+      "concurrentViewers": 183,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -411,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 33,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -435,224 +411,224 @@
           "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 90,
+      "concurrentViewers": 76,
       "startedAt": "2026-10-13T07:49:56Z",
       "regionRestriction": null
     },
     {
-      "videoId": "YLTN-0K8CzU",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
-      "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. involv…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YLTN-0K8CzU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YLTN-0K8CzU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YLTN-0K8CzU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 30,
-      "startedAt": "2026-10-13T08:00:54Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "xtgNSYr8b8U",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Nepal Floods LIVE: Massive Flood Hits Budhigandaki River, Homes, Bridges Swept Away | WION",
-      "description": "Nepal Floods LIVE: Massive Flood Hits Budhigandaki River, Homes, Bridges Swept Away | WION\n\nNepal is on alert as a massive flood surge hits the Budhi Gandaki River in Gorkha, sweeping away homes and bridges and damaging nearby settlements. The sudden surge, linked to a landslide blocking the river,…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xtgNSYr8b8U/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xtgNSYr8b8U/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xtgNSYr8b8U/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 9,
-      "startedAt": "2026-10-13T07:04:41Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "EDsG8gbnrBE",
+      "videoId": "WukEQYuapc8",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi News LIVE | NDTV Questions Journalist's Claim That Rahul Pushed Her During Protest",
-      "description": "A three-month pregnant journalist has alleged that Congress MP Rahul Gandhi pushed and pulled her hand aggressively on the Supreme Court premises yesterday during the Opposition protest over the SIR exercise. The Congress has denied such an incident had ever happened, and called it a propaganda coo…",
+      "title": "NDTV LIVE: CJP Jantar Mantar Protest | INDIA Bloc | Rahul Gandhi | Bihar News | CEC | West Bengal",
+      "description": "A woman tried to attack Mamata Banerjee with a knife as the former West Bengal chief minister stepped out of her house in Kolkata on Tuesday evening, the Mamata All India Trinamool Congress has alleged.\n\nThe police, however, made no mention of an attack or a sharp object and said the woman has been…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EDsG8gbnrBE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/WukEQYuapc8/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EDsG8gbnrBE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/WukEQYuapc8/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EDsG8gbnrBE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/WukEQYuapc8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-13T14:45:04Z",
+      "concurrentViewers": 245,
+      "startedAt": "2026-10-14T01:23:30Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ByVZCsUkYs0",
+      "videoId": "CdWy7U8Cus4",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Congress Protest News | Streets To Supreme Court: Opposition's Next Battle Begins | India Matters",
-      "description": "With Congress, the CJP and the BJP all taking to the streets, Delhi has become the epicentre of a high-stakes political showdown over the Election Commission and the SIR process. As Rahul Gandhi's petition challenging the CEC's legal immunity comes up before the Supreme Court tomorrow, the battle i…",
+      "title": "Flydubai Case Updates: New Arrests, Shocking Passenger Testimony | Flydubai Incident",
+      "description": "The alleged Flydubai terror plot takes a disturbing turn as two more Maldivian pilots are arrested in the UAE over suspected links to a plot targeting a Dubai–Tel Aviv flight. Meanwhile, a passenger's testimony raises troubling questions about the cabin crew's conduct, including allegations that cr…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ByVZCsUkYs0/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/CdWy7U8Cus4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ByVZCsUkYs0/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/CdWy7U8Cus4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ByVZCsUkYs0/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/CdWy7U8Cus4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-13T14:20:00Z",
+      "concurrentViewers": 26,
+      "startedAt": "2026-10-14T01:22:48Z",
       "regionRestriction": null
     },
     {
-      "videoId": "niymd3_BKWE",
+      "videoId": "35sNpwXQi5Y",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "AMIT SHAH LIVE | Amit Shah Slams Congress | Amit Shah Responds To LoP Rahul Gandhi",
-      "description": "AMIT SHAH LIVE | Amit Shah Slams Congress | Amit Shah Responds To LoP Rahul Gandhi\n\n#AmitShah #RahulGandhi #Congress #DelhiProtest #JantarMantar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more f…",
+      "title": "NDTV LIVE: CJP’s Saurav Das, Ashutosh Ranka Sent to 5 Days’ Judicial Custody | Delhi Police",
+      "description": "Cockroach Janata Party (CJP) leaders Saurav Das and Ashutosh Ranka, who were placed under preventive arrest for trespassing at Jantar Mantar, have been sent to five-day judicial custody. The two, along with Ajinkya Shinde, were booked on charges including bond violation and disruption of a public o…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/niymd3_BKWE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/35sNpwXQi5Y/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/niymd3_BKWE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/35sNpwXQi5Y/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/niymd3_BKWE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/35sNpwXQi5Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-13T15:30:23Z",
+      "concurrentViewers": 25,
+      "startedAt": "2026-10-14T04:25:59Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_HLDhvHiQOE",
+      "videoId": "9A5iTYtOeZw",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai LIVE: INDIA vs NDA SIR Showdown | Rahul Gandhi | Gyanesh Kumar | Neha Bora Excl",
-      "description": "Congress MP Rahul Gandhi and INDIA bloc leaders said that the protests against CEC's removal will continue and warned that they are closing in around Prime Minister Narendra Modi and Home Minister Amit Shah following a High Tea at his residence while the civil society members and questioned the urg…",
+      "title": "LIVE: CJP Leaders Saurav Das, Ashutosh Ranka Sent To Tihar Jail | Jantar Mantar | CJP Protest",
+      "description": "LIVE: CJP Leaders Saurav Das, Ashutosh Ranka Sent To Tihar Jail | Jantar Mantar | CJP Protest \n\n#cjpprotestlive #sauravdas #ashutoshranka #jantarmantar #judicialcustody #delhipolice #delhicourt #tiharjail #abhijeetdipke  #cjpnews #delhinews #protest #breakingnews #indiatodaylivestream \n\nSubscribe t…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_HLDhvHiQOE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/9A5iTYtOeZw/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_HLDhvHiQOE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/9A5iTYtOeZw/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_HLDhvHiQOE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/9A5iTYtOeZw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
-      "startedAt": "2026-10-13T15:31:33Z",
+      "concurrentViewers": 351,
+      "startedAt": "2026-10-14T03:34:10Z",
       "regionRestriction": null
     },
     {
-      "videoId": "vMOdi7W6bJs",
+      "videoId": "DAEwxKj_atA",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai LIVE: Bimol Akoijam Excl | JNU Allegations & BJP’s Demand for Cong MP's Expulsion",
-      "description": "Rajdeep Sardesai LIVE: Bimol Akoijam Excl | JNU Allegations & BJP’s Demand for Cong MP's Expulsion\n#RajdeepSardesai #BimolAkoijam #ExclusiveInterview #Congress #JNU #BJP #SexualHarassmentAllegations #IndiaPolitics #BreakingNews #IndiaToday #indiatodaylive \nRajdeep Sardesai, Bimol Akoijam, Rajdeep S…",
+      "title": "LIVE: Delhi Police Breaks Silence On CJP Leaders | Saurav & Ranka Sent To Tihar Jail | India Today",
+      "description": "LIVE: Delhi Police Breaks Silence On CJP Leaders | Saurav & Ranka Sent To Tihar Jail | India Today \n\n#cjpprotestlive  #sauravdas #ashutoshranka #delhipolice #abhijeetdipke  #jantarmantar #tiharjail #judicialcustody #cjpProtest #delhinews #breakingnews #indiatodaylive \n\nSubscribe to India Today for …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vMOdi7W6bJs/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/DAEwxKj_atA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vMOdi7W6bJs/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/DAEwxKj_atA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vMOdi7W6bJs/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/DAEwxKj_atA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 9,
-      "startedAt": "2026-10-13T16:34:21Z",
+      "concurrentViewers": 227,
+      "startedAt": "2026-10-14T05:19:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "QGLVFRostfg",
+      "videoId": "1ub3q3oA24c",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today TV LIVE: CJP Leaders Sent To Tihar Jail | Congress Vs BJP | Rahul Gandhi | PM Modi",
+      "description": "India Today TV LIVE: CJP Leaders Sent To Tihar Jail | Congress Vs BJP | Rahul Gandhi | PM Modi\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recently de…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 83,
+      "startedAt": "2026-10-14T04:04:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4VUFCBPHH5M",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Black & White with Anjana Om Kashyap LIVE | INDIA Alliance | Congress | Rahul Gandhi | PM Modi | JNU",
-      "description": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने इंडिया ब्लॉक के गठबंधन नेताओं के साथ SIR के खिलाफ लड़ाई और वोट चोरी को लेकर रणनीति पर चर्चा की. बैठक में कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे, तेजस्वी यादव, संजय राउत, सुप्रिया सुले सहित अन्य नेता शामिल हुए.\n\nCEC के खिलाफ राहुल गांधी की चाय की चर्चा खत्म हो ग…",
+      "title": "Abhijeet Dipke On Saurav Das, Ranka Arrest: अभिजीत दिपके ने पूछा- उनका गुनाह क्या था तिरंगा फहराना?",
+      "description": "CJP के सौरव दास और आशुतोष रांका को पांच दिन की न्यायिक हिरासत में तिहाड़ जेल भेजा गया है. पार्टी के संस्थापक अभिजीत दिपके ने इस कार्रवाई पर सवाल उठाए हैं और इसे गलत बताया है. उन्होंने कहा कि जंतर-मंतर पर तिरंगा फहराना गुनाह नहीं है.\n\n#cjpprotest #jantarmantar #saurabhdas #ashutoshranka #delhipolice…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/QGLVFRostfg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/QGLVFRostfg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/QGLVFRostfg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 260,
-      "startedAt": "2026-10-13T15:21:23Z",
+      "concurrentViewers": 1075,
+      "startedAt": "2026-10-14T05:27:40Z",
       "regionRestriction": null
     },
     {
-      "videoId": "PFRDgkq6Xrk",
+      "videoId": "lZS6BEYGRP0",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Alliance Meeting News LIVE : Gyanesh Kumar  पर I.N.D.I.A. का नया प्लान |Rahul Gandhi |Congress",
-      "description": "राहुल गांधी ने दिल्ली में विपक्षी दलों, सिविल सोसाइटी और युवा प्रतिनिधियों के साथ हाई टी मीटिंग की. इस बैठक में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ आंदोलन के अगले चरण की रणनीति तैयार की गई. बैठक में राजनीतिक एकजुटता, जंतर-मंतर को वापस पाने और विरोध प्रदर्शनों को बढ़ाने पर चर्चा हुई.\n\n#Indiaal…",
+      "title": "Big Action On CJP Leaders LIVE: CJP को Rahul Gandhi का साथ, रांका-सौरभ की गिरफ्तारी पर उठाए सवाल",
+      "description": "सौरव दास और आशुतोष रांका की गिरफ्तारी के बाद दिल्ली पुलिस ने बयान जारी किया है. दिल्ली पुलिस ने बताया कि 'कॉकरोच जनता पार्टी' के सदस्य एक निजी जगह से होते हुए जंतर-मंतर पहुंचे थे. पुलिसकर्मियों ने उन्हें रोकने की कोशिश की. आरोप है कि प्रदर्शनकारियों ने पुलिसकर्मियों को उनकी ड्यूटी करने से रोका, जिस…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/PFRDgkq6Xrk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/lZS6BEYGRP0/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/PFRDgkq6Xrk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lZS6BEYGRP0/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/PFRDgkq6Xrk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lZS6BEYGRP0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 14,
-      "startedAt": "2026-10-13T16:27:01Z",
+      "concurrentViewers": 778,
+      "startedAt": "2026-10-14T05:54:46Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "YHrmy-fSz40",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Action On CJP Leaders LIVE: CJP नेता सौरव दास-आशुतोष रांका की गिरफ्तारी पर भड़के Abhijeet Dipke",
+      "description": "दिल्ली के जंतर-मंतर पर तिरंगा फहराने के मामले में अब CJP के 2 प्रवक्ताओं सौरव दास और आशुतोष रांका को 5 दिन के लिए तिहाड़ जेल भेज दिया गया..। दोनों पर बॉन्ड की शर्तों के उल्लंघन का आरोप है। BNSS की धारा 163 के दोबारा उल्लंघन का भी इल्जाम है..\n\n#cjpprotest #jantarmantar #sauravdas #ashutoshranka #del…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YHrmy-fSz40/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YHrmy-fSz40/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YHrmy-fSz40/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 724,
+      "startedAt": "2026-10-14T04:37:04Z",
       "regionRestriction": null
     },
     {
@@ -675,7 +651,7 @@
           "url": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1975,
+      "concurrentViewers": 1123,
       "startedAt": "2020-04-22T03:23:30Z",
       "regionRestriction": null
     },
@@ -699,7 +675,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2159,
+      "concurrentViewers": 1401,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
