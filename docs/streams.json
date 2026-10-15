@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T23:23:34.781Z",
+  "generatedAt": "2026-10-15T01:41:18.075Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2437,
+      "concurrentViewers": 2106,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,8 +46,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1486,
+      "concurrentViewers": 1097,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "BjXSn4THrJo",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Wednesday 14th October",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BjXSn4THrJo/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BjXSn4THrJo/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BjXSn4THrJo/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 219,
+      "startedAt": "2026-10-14T22:56:57Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 31,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -94,7 +118,7 @@
           "url": "https://i.ytimg.com/vi/vFDaUmllLE8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1757,
+      "concurrentViewers": 1584,
       "startedAt": "2026-10-14T21:58:19Z",
       "regionRestriction": null
     },
@@ -118,7 +142,7 @@
           "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 890,
+      "concurrentViewers": 567,
       "startedAt": "2026-10-14T10:00:13Z",
       "regionRestriction": null
     },
@@ -142,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/RqbFX-USalc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 435,
+      "concurrentViewers": 398,
       "startedAt": "2026-10-14T22:59:18Z",
       "regionRestriction": {
         "blocked": [
@@ -154,8 +178,8 @@
     {
       "videoId": "ioZy1ZVbqSE",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump rallies in Bullhead, AZ, Six Flags roller coaster death investigation, and more",
-      "description": "President Donald Trump delivered remarks in Bullhead City, Arizona, as part of his Western tour. He is now heading to Kalispell, Montana, where he is scheduled to hold a midterm campaign rally.\n\nOn Tuesday, federal authorities announced the arrest of a Saudi national and former OpenAI engineer who …",
+      "title": "LIVE: Trump rally in Montana, Midterm elections, Six Flags roller coaster death, Iran war, more",
+      "description": "We watched this Wednesday as President Donald Trump visited Arizona to campaign for local Republicans in Bullhead City as the November midterm elections continue to draw closer. Trump headlined a political rally at the Laughlin Bullhead International Airport in Mohave County, a strong Republican ar…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -171,7 +195,7 @@
           "url": "https://i.ytimg.com/vi/ioZy1ZVbqSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 635,
+      "concurrentViewers": 602,
       "startedAt": "2026-10-13T10:02:00Z",
       "regionRestriction": null
     },
@@ -195,7 +219,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1229,
+      "concurrentViewers": 595,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -219,7 +243,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1573,
+      "concurrentViewers": 1462,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -243,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 36,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -267,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 327,
+      "concurrentViewers": 332,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -291,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 731,
+      "concurrentViewers": 678,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -315,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4334,
+      "concurrentViewers": 3037,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -339,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": 47,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -363,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 138,
+      "concurrentViewers": 132,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -387,8 +411,32 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 30,
       "startedAt": "2020-11-18T09:26:34Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "VIad-rMx0rQ",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Houthis Rain DEADLY BOMBS On Aramco HQ, Middle East Tensions Explode | WION",
+      "description": "Saudi Under Attack LIVE: Houthis Rain DEADLY BOMBS On Aramco HQ, Middle East Tensions Explode | WION\n\nThick black smoke and intense flames have been reported rising near King Khalid International Airport in Saudi Arabia’s capital, Riyadh, following reports that a Saudi Aramco fuel tank caught fire.…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VIad-rMx0rQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VIad-rMx0rQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VIad-rMx0rQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 243,
+      "startedAt": "2026-10-15T01:24:24Z",
       "regionRestriction": null
     },
     {
@@ -411,56 +459,32 @@
           "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 56,
+      "concurrentViewers": 72,
       "startedAt": "2026-10-13T07:49:56Z",
       "regionRestriction": null
     },
     {
-      "videoId": "RvzIXzXCs68",
+      "videoId": "u5WJ36cOSHM",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Launch Ballistic Missile At Riyadh As Explosions Rock Capital| WION",
-      "description": "Saudi Under Attack LIVE: Houthis Launch Ballistic Missile At Riyadh As Explosions Rock Capital\n\nAn Indian national was killed in an attack at King Khalid International Airport in Riyadh, Saudi Arabia. More than 300 people were injured, including 10 other Indian nationals. The Indian Embassy is assi…",
+      "title": "US Midterm Election LIVE: Trump Holds Midterm Campaign Rally In Kalispell, Montana | WION",
+      "description": "US Midterm Election LIVE: Trump Holds Midterm Campaign Rally In Kalispell, Montana | WION \n\nUS President Donald Trump hosts a political rally in Kalispell, Montana, as Republicans campaign ahead of the 2026 midterm elections. The rally aims to boost Republican congressional candidate Aaron Flint, w…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/RvzIXzXCs68/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/u5WJ36cOSHM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/RvzIXzXCs68/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/u5WJ36cOSHM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/RvzIXzXCs68/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/u5WJ36cOSHM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 27,
-      "startedAt": "2026-10-14T09:14:35Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "GCcDByu5FWU",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE:  Iran Claims Strike On Supertanker In Strait Of Hormuz | WION",
-      "description": "Iran has claimed responsibility for a strike on a supertanker in the Strait of Hormuz, a critical global shipping route. The reported incident comes amid heightened tensions in the region and growing concerns over maritime security.\n\n\n\n#usiranwar #westasiaconflict #straitofhormuz  #iran #usa #middl…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GCcDByu5FWU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GCcDByu5FWU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GCcDByu5FWU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 11,
-      "startedAt": "2026-10-14T09:16:34Z",
+      "concurrentViewers": 68,
+      "startedAt": "2026-10-15T01:36:15Z",
       "regionRestriction": null
     },
     {
@@ -483,32 +507,8 @@
           "url": "https://i.ytimg.com/vi/TUBko97mEoM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 15,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-14T19:42:57Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "WukEQYuapc8",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: Blue Drum Case Verdict | CJP Jantar Mantar Protest | INDIA Bloc | Rahul Gandhi",
-      "description": "A woman tried to attack Mamata Banerjee with a knife as the former West Bengal chief minister stepped out of her house in Kolkata on Tuesday evening, the Mamata All India Trinamool Congress has alleged.\n\nThe police, however, made no mention of an attack or a sharp object and said the woman has been…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WukEQYuapc8/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WukEQYuapc8/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WukEQYuapc8/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 13,
-      "startedAt": "2026-10-14T01:23:30Z",
       "regionRestriction": null
     },
     {
@@ -531,80 +531,128 @@
           "url": "https://i.ytimg.com/vi/uT7_obd_Agw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": 6,
       "startedAt": "2026-10-14T17:09:11Z",
       "regionRestriction": null
     },
     {
-      "videoId": "MbLE4yZZmvc",
+      "videoId": "z6UM36cT4f8",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Live: Punjab Drug Activist’s Killing Sparks Unrest, Accused’s House Razed | Bhagwant Mann | AAP",
-      "description": "The house of Ashwani Kumar, the chemist arrested for shooting dead anti-drug activist Parvinder Singh Jhota in Punjab's Mansa, has been demolished. Kumar was arrested in Rajasthan's Salasar on Wednesday after the shooting, which was captured on camera. The killing triggered a political row and spar…",
+      "title": "India Today TV LIVE: CJP Protest 2.0 | Ankita Bhandari Murder | Rahul Gandhi News | US-Iran War",
+      "description": "India Today TV LIVE: CJP Protest 2.0 | Ankita Bhandari Murder | Rahul Gandhi News | US-Iran War\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recently d…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/MbLE4yZZmvc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/z6UM36cT4f8/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/MbLE4yZZmvc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/z6UM36cT4f8/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/MbLE4yZZmvc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/z6UM36cT4f8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 10,
-      "startedAt": "2026-10-14T16:34:33Z",
+      "concurrentViewers": 279,
+      "startedAt": "2026-10-15T01:29:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "1ub3q3oA24c",
+      "videoId": "Sz6tShpuI08",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Rahul Gandhi Meets Ankita Bhandari's Parents | New CJP Protest | Ukraine War",
-      "description": "India Today TV LIVE: Rahul Gandhi Meets Ankita Bhandari's Parents | New CJP Protest | Ukraine War\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recently…",
+      "title": "LIVE: Ankita Bhandari Murder | Parents Detained In Delhi | Uttarakhand Murder Case | LIVE UPDATES",
+      "description": "LIVE updates as Ankita Bhandari’s parents are detained during a protest in Delhi, demanding justice in the 2022 Uttarakhand murder case and a probe into the alleged VIP angle.\n\n #AnkitaBhandari #AnkitaBhandariCase #Uttarakhand #DelhiPolice #IndiaGate #JusticeForAnkita #BreakingNews #IndiaToday #Liv…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Sz6tShpuI08/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Sz6tShpuI08/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/1ub3q3oA24c/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Sz6tShpuI08/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-14T04:04:32Z",
+      "concurrentViewers": 33,
+      "startedAt": "2026-10-15T01:38:49Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4VUFCBPHH5M",
+      "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Abhijeet Dipke On Saurav Das, Ranka Arrest: अभिजीत दिपके ने पूछा- उनका गुनाह क्या था तिरंगा फहराना?",
-      "description": "CJP के सौरव दास और आशुतोष रांका को पांच दिन की न्यायिक हिरासत में तिहाड़ जेल भेजा गया है. पार्टी के संस्थापक अभिजीत दिपके ने इस कार्रवाई पर सवाल उठाए हैं और इसे गलत बताया है. उन्होंने कहा कि जंतर-मंतर पर तिरंगा फहराना गुनाह नहीं है.\n\n#cjpprotest #jantarmantar #saurabhdas #ashutoshranka #delhipolice…",
+      "title": "Aaj Tak LIVE TV: Ankita Bhandari Case | Rahul Gandhi | PM Modi | Congress | CJP | Hindi News",
+      "description": "इंडिया गेट पर धरना दे रहे अंकिता भंडारी के माता-पिता और कई विपक्षी नेता हिरासत में लिए गए, राहुल बोले, चार साल से नहीं मिला इंसाफ, धामी सरकार का बयान- कराई निष्पक्ष जांच\n\nNSUI छात्रों का दिल्ली पुलिस पर मारपीट का आरोप- FIR दर्ज करने की मांग, जवाब में पुलिस ने जारी किया प्रदर्शनकारियों की बदसलूकी का…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4VUFCBPHH5M/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
-      "startedAt": "2026-10-14T05:27:40Z",
+      "concurrentViewers": 2478,
+      "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zRiLX81bntQ",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Rahul-Priyanka Gandhi AT India Gate: देर रात इंडिया गेट पहुंचे राहुल-प्रियंका गांधी | Congress",
+      "description": "अंकिता भंडारी हत्याकांड में न्याय की मांग को लेकर दिल्ली के इंडिया गेट पर जारी प्रदर्शन के बाद दिल्ली पुलिस ने अंकिता के माता-पिता, कांग्रेस नेता पवन खेड़ा समेत कई विपक्षी नेताओं और प्रदर्शनकारियों को हिरासत में ले लिया. हालांकि पुलिस ने बाद में अंकिता के माता-पिता को छोड़ दिया. प्रदर्शनकारी रातभर …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zRiLX81bntQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zRiLX81bntQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zRiLX81bntQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 571,
+      "startedAt": "2026-10-15T01:05:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "HQLgxxm99CY",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | Rahul Gandhi | Opposition | Supreme Court | AajTak",
+      "description": "ECI के खिलाफ दायर राहुल गांधी समेत 13 नेताओं की याचिका पर आज सुप्रीम कोर्ट में अहम सुनवाई, विपक्ष ने उठाए हैं SIR, फॉर्म 6 को लेकर सवाल, चुनाव आयोग में असहमति की खबरों का ब्योरा भी मांगा गया \n\nइंडिया गेट से डिटेन किए गए अंकिता भंडारी के माता-पिता को पुलिस ने छोड़ा, विपक्षी नेता और अन्य प्रदर्शनकारी…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HQLgxxm99CY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HQLgxxm99CY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HQLgxxm99CY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 347,
+      "startedAt": "2026-10-15T01:21:11Z",
       "regionRestriction": null
     },
     {
@@ -627,7 +675,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1426,
+      "concurrentViewers": 1822,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -651,8 +699,32 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2827,
+      "concurrentViewers": 2043,
       "startedAt": "2022-02-20T00:57:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "C5E6AAUNxuU",
+      "channelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+      "title": "LIVE: Anika Wells speaks about digital duty of care laws at National Press Club | ABC NEWS",
+      "description": "Minister for Communications Anika Wells addresses the National Press Club on “A global reckoning: Why Australia needs a Digital Duty of Care”.\n\nSubscribe: http://ab.co/1svxLVE\nRead more here: https://www.abc.net.au/news/2026-10-15/federal-politics-live-blog-october-15/107267398\n\nNote: In most cases…",
+      "channelTitle": "ABC News (Australia)",
+      "country": "AU",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C5E6AAUNxuU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C5E6AAUNxuU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C5E6AAUNxuU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 151,
+      "startedAt": "2026-10-15T01:30:14Z",
       "regionRestriction": null
     }
   ]
