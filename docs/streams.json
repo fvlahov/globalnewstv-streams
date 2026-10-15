@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-15T01:41:18.075Z",
+  "generatedAt": "2026-10-15T07:05:20.028Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Russell Brand trial live: Comedian said he 'may have gone a bit too far' with woman, witness tells court - https://trib.al/SMZq5Cy\n\n🔴 Ukraine war latest: Zelenskyy gives…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | One of UK's poorest areas 'struggling to cope' with number of asylum seekers - https://news.sky.com/video/why-are-poorer-areas-taking-more-asylum-seekers-13599248…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2106,
+      "concurrentViewers": 6258,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,32 +46,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1097,
+      "concurrentViewers": 3276,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "BjXSn4THrJo",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Wednesday 14th October",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BjXSn4THrJo/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BjXSn4THrJo/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BjXSn4THrJo/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 219,
-      "startedAt": "2026-10-14T22:56:57Z",
       "regionRestriction": null
     },
     {
@@ -94,14 +70,62 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 613,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ZD0OMjRA04U",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: EU leaders arrive for a two-day summit in Brussels",
+      "description": "European Union leaders convene in Brussels for a packed summit to debate how best to curb surging exports from China blamed by industry groups for factory closures, how to cope with high energy prices and how to bridge wide differences over the future EU budget.\n\n#EU #Europe #China #Ukraine #energy…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZD0OMjRA04U/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZD0OMjRA04U/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZD0OMjRA04U/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-10-15T06:30:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "uv87prh4n4o",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Day 4 of IMF-World Bank Annual Meetings 2026",
+      "description": "World financial leaders gather for the IMF-World Bank Annual Meetings in Bangkok, Thailand.\n\n#IMF #WorldBank #annualmeeting #Bangkok #Thailand #InternationalMonetaryFund #economy #live #Reuters #news\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uv87prh4n4o/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uv87prh4n4o/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uv87prh4n4o/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 5,
+      "startedAt": "2026-10-15T02:10:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "vFDaUmllLE8",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 14",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -118,32 +142,8 @@
           "url": "https://i.ytimg.com/vi/vFDaUmllLE8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1584,
+      "concurrentViewers": 522,
       "startedAt": "2026-10-14T21:58:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "E_FYkY7-8uc",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Wednesday, October 14",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E_FYkY7-8uc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 567,
-      "startedAt": "2026-10-14T10:00:13Z",
       "regionRestriction": null
     },
     {
@@ -166,7 +166,7 @@
           "url": "https://i.ytimg.com/vi/RqbFX-USalc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 398,
+      "concurrentViewers": 243,
       "startedAt": "2026-10-14T22:59:18Z",
       "regionRestriction": {
         "blocked": [
@@ -195,7 +195,7 @@
           "url": "https://i.ytimg.com/vi/ioZy1ZVbqSE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 602,
+      "concurrentViewers": 310,
       "startedAt": "2026-10-13T10:02:00Z",
       "regionRestriction": null
     },
@@ -219,8 +219,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 595,
+      "concurrentViewers": 214,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "N9TTL5zws_c",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: EU leaders arrive for a summit in Brussels",
+      "description": "Watch live as European Union leaders arrive for a two-day summit in Brussels, Belgium, where Ukrainian President Volodymyr Zelenskyy is expected to address them.\n\n#europe #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N9TTL5zws_c/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N9TTL5zws_c/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N9TTL5zws_c/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 72,
+      "startedAt": "2026-10-15T06:26:31Z",
       "regionRestriction": null
     },
     {
@@ -243,7 +267,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1462,
+      "concurrentViewers": 4718,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -267,7 +291,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 28,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -291,7 +315,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 332,
+      "concurrentViewers": 383,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -315,7 +339,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 678,
+      "concurrentViewers": 1325,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -339,7 +363,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3037,
+      "concurrentViewers": 6713,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -363,7 +387,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 100,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -387,7 +411,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 182,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -411,7 +435,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 43,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -435,7 +459,7 @@
           "url": "https://i.ytimg.com/vi/VIad-rMx0rQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 243,
+      "concurrentViewers": 72,
       "startedAt": "2026-10-15T01:24:24Z",
       "regionRestriction": null
     },
@@ -459,87 +483,87 @@
           "url": "https://i.ytimg.com/vi/qgm6RZY4UZA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 54,
       "startedAt": "2026-10-13T07:49:56Z",
       "regionRestriction": null
     },
     {
-      "videoId": "u5WJ36cOSHM",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Midterm Election LIVE: Trump Holds Midterm Campaign Rally In Kalispell, Montana | WION",
-      "description": "US Midterm Election LIVE: Trump Holds Midterm Campaign Rally In Kalispell, Montana | WION \n\nUS President Donald Trump hosts a political rally in Kalispell, Montana, as Republicans campaign ahead of the 2026 midterm elections. The rally aims to boost Republican congressional candidate Aaron Flint, w…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/u5WJ36cOSHM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/u5WJ36cOSHM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/u5WJ36cOSHM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 68,
-      "startedAt": "2026-10-15T01:36:15Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "TUBko97mEoM",
+      "videoId": "utxxA9B9BRg",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi Press Conference LIVE | Rahul Gandhi On CJP | CJP Leaders Arrested | CJP Arrest",
-      "description": "Cockroach Janata Party (CJP) leaders Saurav Das and Ashutosh Ranka, who were placed under preventive arrest for trespassing at Jantar Mantar, have been sent to five-day judicial custody. The two, along with Ajinkya Shinde, were booked on charges including bond violation and disruption of a public o…",
+      "title": "CJP Protest LIVE | Has The Crackdown Given CJP A Bigger Cause?",
+      "description": "Jantar Mantar became the defining address of the Cockroach Janta Party’s protest movement. Now, with the site denotified and two CJP leaders arrested after attempting to enter it, the movement faces a crucial test: can it find a new stage without losing sight of its original demand against Chief El…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/TUBko97mEoM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/utxxA9B9BRg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/TUBko97mEoM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/utxxA9B9BRg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/TUBko97mEoM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/utxxA9B9BRg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
-      "startedAt": "2026-10-14T19:42:57Z",
+      "concurrentViewers": 99,
+      "startedAt": "2026-10-15T06:23:46Z",
       "regionRestriction": null
     },
     {
-      "videoId": "uT7_obd_Agw",
+      "videoId": "MyPVDjcnW1w",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP News LIVE | \"Why Are You Ruining The Nation?\": Abhijeet Dipke Heckled At Delhi Airport",
-      "description": "CJP founder Abhijeet Dipke was heckled at Delhi's Indira Gandhi International Airport after arriving from Nagpur. Videos show an angry individual confronting him and asking, \"Why are you ruining the nation?\", while other people recorded the incident.\n\n#AbhijeetDipke #CJPF​​ounder #DelhiAirport #IGI…",
+      "title": "Imran Khan Deportation | Imran Khan Asked To Leave India Days After Participating In CJP Protest",
+      "description": "The Mumbai Police have asked actor Imran Khan, nephew of Bollywood superstar Aamir Khan, to leave India days after he joined a protest called by the satirical political group Cockroach Janta Party (CJP) in Mumbai.\n\n#ImranKhan #ImranKhannews #CJPProtest #CJP \n\nAbout NDTV (English news channel):\n\nNDT…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/uT7_obd_Agw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/MyPVDjcnW1w/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/uT7_obd_Agw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/MyPVDjcnW1w/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/uT7_obd_Agw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/MyPVDjcnW1w/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6,
-      "startedAt": "2026-10-14T17:09:11Z",
+      "concurrentViewers": 60,
+      "startedAt": "2026-10-15T05:23:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "q0EOQPlrgt0",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "US News LIVE | US Teen Plans Mass Shooting' At Hindu Temple In US, Jammed Rifle Stops Him",
+      "description": "A 19-year-old man has been arrested in the United States for plotting an attack to \"potentially target\" a Hindu place of worship in the Aurora area in Illinois, Chicago. According to authorities, Alexandros Paporakis of Palatine was arrested after a manifesto expressing white supremacist ideologies…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q0EOQPlrgt0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q0EOQPlrgt0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q0EOQPlrgt0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 36,
+      "startedAt": "2026-10-15T03:07:53Z",
       "regionRestriction": null
     },
     {
       "videoId": "z6UM36cT4f8",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: CJP Protest 2.0 | Ankita Bhandari Murder | Rahul Gandhi News | US-Iran War",
-      "description": "India Today TV LIVE: CJP Protest 2.0 | Ankita Bhandari Murder | Rahul Gandhi News | US-Iran War\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was recently d…",
+      "title": "India Today TV LIVE: Imran Khan Deportation | SC S.I.R Hearing News | Rahul Gandhi News |US-Iran War",
+      "description": "India Today TV LIVE: Imran Khan Deportation | SC S.I.R Hearing News | Rahul Gandhi News |US-Iran War\n\n\nCockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka were sent to Tihar Jail for five days for allegedly violating their peace bonds and trespassing into Jantar Mantar, which was rece…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -555,38 +579,14 @@
           "url": "https://i.ytimg.com/vi/z6UM36cT4f8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 279,
+      "concurrentViewers": 181,
       "startedAt": "2026-10-15T01:29:47Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Sz6tShpuI08",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Ankita Bhandari Murder | Parents Detained In Delhi | Uttarakhand Murder Case | LIVE UPDATES",
-      "description": "LIVE updates as Ankita Bhandari’s parents are detained during a protest in Delhi, demanding justice in the 2022 Uttarakhand murder case and a probe into the alleged VIP angle.\n\n #AnkitaBhandari #AnkitaBhandariCase #Uttarakhand #DelhiPolice #IndiaGate #JusticeForAnkita #BreakingNews #IndiaToday #Liv…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Sz6tShpuI08/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Sz6tShpuI08/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Sz6tShpuI08/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 33,
-      "startedAt": "2026-10-15T01:38:49Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Ankita Bhandari Case | Rahul Gandhi | PM Modi | Congress | CJP | Hindi News",
+      "title": "Aaj Tak LIVE TV: Rahul Gandhi | Supreme Court | ECI | Ankita Bhandari | PM Modi | CJP | Hindi News",
       "description": "इंडिया गेट पर धरना दे रहे अंकिता भंडारी के माता-पिता और कई विपक्षी नेता हिरासत में लिए गए, राहुल बोले, चार साल से नहीं मिला इंसाफ, धामी सरकार का बयान- कराई निष्पक्ष जांच\n\nNSUI छात्रों का दिल्ली पुलिस पर मारपीट का आरोप- FIR दर्ज करने की मांग, जवाब में पुलिस ने जारी किया प्रदर्शनकारियों की बदसलूकी का…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -603,32 +603,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2478,
+      "concurrentViewers": 5299,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zRiLX81bntQ",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul-Priyanka Gandhi AT India Gate: देर रात इंडिया गेट पहुंचे राहुल-प्रियंका गांधी | Congress",
-      "description": "अंकिता भंडारी हत्याकांड में न्याय की मांग को लेकर दिल्ली के इंडिया गेट पर जारी प्रदर्शन के बाद दिल्ली पुलिस ने अंकिता के माता-पिता, कांग्रेस नेता पवन खेड़ा समेत कई विपक्षी नेताओं और प्रदर्शनकारियों को हिरासत में ले लिया. हालांकि पुलिस ने बाद में अंकिता के माता-पिता को छोड़ दिया. प्रदर्शनकारी रातभर …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zRiLX81bntQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zRiLX81bntQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zRiLX81bntQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 571,
-      "startedAt": "2026-10-15T01:05:51Z",
       "regionRestriction": null
     },
     {
@@ -651,7 +627,7 @@
           "url": "https://i.ytimg.com/vi/HQLgxxm99CY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 347,
+      "concurrentViewers": 292,
       "startedAt": "2026-10-15T01:21:11Z",
       "regionRestriction": null
     },
@@ -675,7 +651,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1822,
+      "concurrentViewers": 957,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -699,32 +675,8 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2043,
+      "concurrentViewers": 1581,
       "startedAt": "2022-02-20T00:57:03Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "C5E6AAUNxuU",
-      "channelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
-      "title": "LIVE: Anika Wells speaks about digital duty of care laws at National Press Club | ABC NEWS",
-      "description": "Minister for Communications Anika Wells addresses the National Press Club on “A global reckoning: Why Australia needs a Digital Duty of Care”.\n\nSubscribe: http://ab.co/1svxLVE\nRead more here: https://www.abc.net.au/news/2026-10-15/federal-politics-live-blog-october-15/107267398\n\nNote: In most cases…",
-      "channelTitle": "ABC News (Australia)",
-      "country": "AU",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/C5E6AAUNxuU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/C5E6AAUNxuU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/C5E6AAUNxuU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 151,
-      "startedAt": "2026-10-15T01:30:14Z",
       "regionRestriction": null
     }
   ]
