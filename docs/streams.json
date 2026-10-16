@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T03:33:39.040Z",
+  "generatedAt": "2026-10-16T08:48:36.620Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | 'This is the frontline of Trump's war': Sky News on board US warship - https://news.sky.com/video/this-is-the-frontline-of-trumps-war-sky-news-on-board-us-warship…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Teenager kills three children and teacher at primary school in Oregon - https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2364,
+      "concurrentViewers": 6500,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 256,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1226,
+      "concurrentViewers": 2802,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "FWBNVSHKkP0",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Britain's Newsroom | Friday 16th October",
+      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FWBNVSHKkP0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FWBNVSHKkP0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FWBNVSHKkP0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 652,
+      "startedAt": "2026-10-16T08:27:11Z",
       "regionRestriction": null
     },
     {
@@ -98,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 512,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "oxffI52p6Vc",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Georgieva and Warsh fireside chat on reshaping global economy",
-      "description": "International Monetary Fund Managing Director Kristalina Georgieva joins US Federal Reserve Chairman Kevin Warsh for a conversation on the forces reshaping the global economy in Bangkok, Thailand.\n\n#IMF #KristalinaGeorgieva #FederalReserve #KevinWarsh #InternationalMonetaryFund #Fed #economy #Bangk…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/oxffI52p6Vc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/oxffI52p6Vc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/oxffI52p6Vc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1230,
-      "startedAt": "2026-10-16T02:38:43Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/DLnAwi5wQwk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1047,
+      "concurrentViewers": 505,
       "startedAt": "2026-10-15T22:00:13Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/E4Z4v3qzd9A/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 290,
+      "concurrentViewers": 313,
       "startedAt": "2026-10-15T22:59:20Z",
       "regionRestriction": {
         "blocked": [
@@ -199,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/X_89_w_7xtg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 369,
+      "concurrentViewers": 309,
       "startedAt": "2026-10-15T14:12:12Z",
       "regionRestriction": null
     },
@@ -223,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 355,
+      "concurrentViewers": 224,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1687,
+      "concurrentViewers": 4528,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 19,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 294,
+      "concurrentViewers": 343,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 801,
+      "concurrentViewers": 1285,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2981,
+      "concurrentViewers": 5669,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 49,
+      "concurrentViewers": 155,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -391,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 129,
+      "concurrentViewers": 217,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -415,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 49,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -439,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/uIc8g-G1poA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 148,
+      "concurrentViewers": 72,
       "startedAt": "2026-10-16T01:46:10Z",
       "regionRestriction": null
     },
@@ -463,56 +463,8 @@
           "url": "https://i.ytimg.com/vi/iebG-bdcHfA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 89,
+      "concurrentViewers": 47,
       "startedAt": "2026-10-16T02:16:52Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "HR5jXWMmCGs",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Powerful Houthi Missiles Target Saudi Airports, Blasts Shake Riyadh & Aden",
-      "description": "Saudi Under Attack LIVE: Powerful Houthi Missiles Target Saudi Airports, Blasts Shake Riyadh & Aden\n\n\nHouthis claim they carried out strikes targeting an Aramco refinery and other strategic sites across Saudi Arabia, including locations in Riyadh and the southwestern region. Saudi authorities had n…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HR5jXWMmCGs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HR5jXWMmCGs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HR5jXWMmCGs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 78,
-      "startedAt": "2026-10-16T01:39:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "C5XWQF6nG1k",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE | Delhi Police Barricades Delhi | Tiranga March Faces Curbs at Connaught Place",
-      "description": "Heavy security and extensive barricading have been put in place across parts of Delhi ahead of the Cockroach Janta Party's (CJP) proposed Tiranga March. Delhi Police has urged the public not to join the protest and said only a limited group would be allowed to carry the national flag and sing the n…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/C5XWQF6nG1k/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/C5XWQF6nG1k/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/C5XWQF6nG1k/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 461,
-      "startedAt": "2026-10-16T02:05:58Z",
       "regionRestriction": null
     },
     {
@@ -535,63 +487,111 @@
           "url": "https://i.ytimg.com/vi/Qm1FVofssjQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 303,
+      "concurrentViewers": 189,
       "startedAt": "2026-10-16T01:26:41Z",
       "regionRestriction": null
     },
     {
-      "videoId": "H-coXmhTKRg",
+      "videoId": "C5XWQF6nG1k",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Illinois Hindu Temple LIVE | US Temple Shooting | Illinois Hindu Temple Shooting Plot Foiled LIVE",
-      "description": "A suspected mass shooting plot targeting a Hindu temple in Aurora, Illinois, has raised fresh concerns over anti-Indian hate, white supremacist extremism and the safety of the Indian-American community in the United States. \n\n#RajaKrishnamoorthi #Illinois #HinduTemple #AntiIndiaHate #IndianAmerican…",
+      "title": "CJP Protest LIVE | Delhi Police Barricades Delhi | Tiranga March Faces Curbs at Connaught Place",
+      "description": "Heavy security and extensive barricading have been put in place across parts of Delhi ahead of the Cockroach Janta Party's (CJP) proposed Tiranga March. Delhi Police has urged the public not to join the protest and said only a limited group would be allowed to carry the national flag and sing the n…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/H-coXmhTKRg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/C5XWQF6nG1k/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/H-coXmhTKRg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/C5XWQF6nG1k/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/H-coXmhTKRg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/C5XWQF6nG1k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 11,
-      "startedAt": "2026-10-15T19:34:40Z",
+      "concurrentViewers": 50,
+      "startedAt": "2026-10-16T02:05:58Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4917A1uBack",
+      "videoId": "PHZQMCj3zfo",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Live: Rahul Gandhi's Stir Politics Under Supreme Court Lens | CEC Gyanesh Kumar | SIR | EC | Cong",
-      "description": "Live: Rahul Gandhi's Stir Politics Under Supreme Court Lens | CEC Gyanesh Kumar | SIR | EC | Cong\n\n#RahulGandhi #SIR #SupremeCourt #indiatodaylivestream  #GyaneshKumar #CEC #ElectionCommission #Congress #SIRProtest #ElectoralRolls #IndianPolitics #PoliticalNews #IndiaToday #IndiaTodayNews \n\n\nSubscr…",
+      "title": "CJP'S Tiranga Protest LIVE: Delhi Police Reached Abhijit Dipke Residence | CJP'S Tiranga March In CP",
+      "description": "CJP'S Tiranga Protest LIVE: Delhi Police Reached Abhijit Dipke Residence | CJP'S Tiranga March In CP\n\nDelhi is bracing for a potential flashpoint as the Cockroach Janata Party (CJP) plans a Tiranga march at Connaught Place on October 16. NDMC has announced Central Park’s closure for two days, while…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4917A1uBack/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/PHZQMCj3zfo/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4917A1uBack/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PHZQMCj3zfo/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4917A1uBack/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PHZQMCj3zfo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-15T16:47:42Z",
+      "concurrentViewers": 2215,
+      "startedAt": "2026-10-16T08:29:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "-Ju12KKrzAA",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai LIVE: S.I.R Showdown In Supreme Court |Attempt To Quell SIR Protest? |Gyanesh Kumar",
+      "description": "Rajdeep Sardesai Show:S.I.R Showdown In Supreme Court | Attempt To Quell SIR Protest? |Gyanesh Kumar\n\n#RajdeepSardesai #SIR #SupremeCourt #GyaneshKumar #CEC #ElectionCommission #SIRProtest #PoliticalDebate #ElectoralRolls #RightToProtest #IndianPolitics #IndiaToday #IndiaTodayNews \n\nSubscribe to In…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-Ju12KKrzAA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-Ju12KKrzAA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-Ju12KKrzAA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 268,
+      "startedAt": "2026-10-16T08:20:37Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Mq_yT-3hGgA",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Jantar Mantar Denotification Live: Who Decides Where Dissent Belongs? Democratic Newsroom | Rajdeep",
+      "description": "Jantar Mantar Denotification Row Live: Who Decides Where Dissent Belongs? Democratic Newsroom | Rajdeep \n\n#JantarMantar #JantarMantarProtest #RightToProtest #indiatodaylivestream  #FreedomOfExpression #Dissent #Democracy #DemocraticNewsroom #RajdeepSardesai #DelhiNews #PoliticalProtest #CivilLibert…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mq_yT-3hGgA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mq_yT-3hGgA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mq_yT-3hGgA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 38,
+      "startedAt": "2026-10-16T07:12:42Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: CJP Tiranga Yatra | Abhijeet Dipke | Rahul Gandhi | PM Modi | Hindi News",
-      "description": "दिल्ली के कनाट प्लेस में आज तिरंगा यात्रा की तैयारी में CJP, AAP भी मार्च में होगी शामिल, NDMC ने सेंट्रल पार्क बंद किया, दिल्ली पुलिस ने इलाके में लगाई धारा 163\n\nदिल्ली पुलिस पर मारपीट के आरोपों पर तनाव, आरोपी पुलिसवालों पर FIR दर्ज नहीं किए जाने को लेकर NSUI का प्रदर्शन, कई कार्यकर्ता पुलिस हिरास…",
+      "title": "Aaj Tak LIVE TV: CJP Tiranga Yatra | Rajnath Singh | Abhijeet Dipke | Rahul Gandhi | PM Modi",
+      "description": "रिजीम चेंज के बयान पर ज़बरदस्त घमासान..राजनाथ ने कहा-तख्तापलट कराना चाहता है विपक्ष- बीजेपी के बड़े मंत्री मैदान में...कांग्रेस का पलटवार..चुनाव के ज़रिए सत्ता परिवर्तन में क्या गलत\n\nदिल्ली के कनॉट प्लेस में शाम 5 CJP की तिरंगा यात्रा से पहले कानूनी लड़ाई..सेंट्रल पार्क बंद करने के खिलाफ हाईकोर्ट क…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -607,32 +607,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4865,
+      "concurrentViewers": 4023,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Z_Z6ohII3J4",
+      "videoId": "KAv1H5Nb528",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Meerut Blue Drum Case LIVE : मुस्कुराता हुआ मृत्युदंड ! | Muskan | Sahil | Crime | UP Police",
-      "description": "मेरठ के सौरभ राजपूत हत्याकांड में मृत्युदंड की सजा के बाद मुस्कान रस्तोगी और साहिल शुक्ला को जेल में नए कपड़े मिले हैं. मुस्कान को एक साड़ी और सूट, जबकि साहिल को सफेद रंग के दो जोड़ी कुर्ता-पायजामे मिले हैं. मुस्कान बैरक नंबर 12-बी में रहेगी और उसे सिलाई का काम दिया गया है. साहिल बैरक नंबर 15 में र…",
+      "title": "Police At Abhijeet Dipke's House: अभिजीत दिपके के घर पहुंची पुलिस | CJP Tiranga March | Aaj Tak",
+      "description": "CJP तिरंगा लहराकर मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ विरोध जताना चाहती है. यह विरोध मतदाता सूची के विशेष गहन पुनरीक्षण (SIR) में अनियमितताओं के आरोपों को लेकर है.\n\n#cockroachjantaparty #tirangayatra #abhijeetdipke #aajtakdigital #connaughtplace  #delhipolice \n\nआजतक के साथ देखिये देश-विदेश की…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Z_Z6ohII3J4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/KAv1H5Nb528/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Z_Z6ohII3J4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KAv1H5Nb528/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Z_Z6ohII3J4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KAv1H5Nb528/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 582,
-      "startedAt": "2026-10-15T17:34:47Z",
+      "concurrentViewers": 3252,
+      "startedAt": "2026-10-16T08:32:41Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "OsjH7ToYjBc",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Supreme Court On CJP Tiranga Yatra LIVE Updates: कॉकरोच जनता पार्टी की तिरंगा यात्रा पर SC का फैसला",
+      "description": "सुप्रीम कोर्ट ने आज कनॉट प्लेस के पास कॉकरोच जनता पार्टी द्वारा बुलाए गए विरोध प्रदर्शन के खिलाफ तत्काल निर्देश पारित करने से इनकार कर दिया; सीजेआई ने कहा, \"हमें उम्मीद है कि बेहतर विवेक काम करेगा\"\n\n#supremecourt #cockroachjantaparty #tirangayatra #abhijeetdipke #aajtakdigital #connaughtplace \n\nआजत…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OsjH7ToYjBc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OsjH7ToYjBc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OsjH7ToYjBc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 2625,
+      "startedAt": "2026-10-16T06:32:03Z",
       "regionRestriction": null
     },
     {
@@ -655,32 +679,32 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1446,
+      "concurrentViewers": 751,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xXPAap_BOxU",
+      "videoId": "-WP0HqlBRD4",
       "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Watch: Crossing into history – the first ferry of the Long March in Yudu, China's Jiangxi Province",
-      "description": "The First Ferry of the Long March is situated along the banks of the Yudu River in Yudu County, Ganzhou City, east China's Jiangxi Province. In October 1934, the Red Army's main forces crossed the Yudu River here, taking the first step of their roughly 12,500-kilometer journey. Today, modern bridge…",
+      "title": "Live: Shuzheng Valley's lakes turn turquoise, emerald and deep blue – Ep. 3",
+      "description": "Shuzheng Valley is one of Jiuzhaigou's best-known spots in southwest China's Sichuan Province. Its lakes nestle among forested mountains, with waters shifting between turquoise, emerald green and deep blue. Join CGTN for a live look.",
       "channelTitle": "CGTN",
       "country": "CN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xXPAap_BOxU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/-WP0HqlBRD4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xXPAap_BOxU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-WP0HqlBRD4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xXPAap_BOxU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-WP0HqlBRD4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-16T02:59:49Z",
+      "concurrentViewers": 17,
+      "startedAt": "2026-10-16T08:30:22Z",
       "regionRestriction": null
     },
     {
@@ -703,7 +727,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1606,
+      "concurrentViewers": 1185,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
