@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T17:50:13.788Z",
+  "generatedAt": "2026-10-16T20:37:07.681Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4648,
+      "concurrentViewers": 3088,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 168,
+      "concurrentViewers": 135,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2424,
+      "concurrentViewers": 2225,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,14 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 99,
+      "concurrentViewers": 47,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "DLnAwi5wQwk",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 16",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/DLnAwi5wQwk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3181,
+      "concurrentViewers": 2587,
       "startedAt": "2026-10-15T22:00:13Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/syqrmPSmptw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1858,
+      "concurrentViewers": 1186,
       "startedAt": "2026-10-16T10:01:28Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 687,
+      "concurrentViewers": 485,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -199,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/Obe0Sb26JmE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1237,
+      "concurrentViewers": 902,
       "startedAt": "2026-10-16T11:47:48Z",
       "regionRestriction": null
     },
@@ -223,80 +223,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1564,
+      "concurrentViewers": 1304,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "9_cZlI03ess",
-      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-      "title": "The Rob Carson Show LIVE (10/16/2026) | NEWSMAX Podcasts",
-      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
-      "channelTitle": "Newsmax",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9_cZlI03ess/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9_cZlI03ess/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9_cZlI03ess/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 80,
-      "startedAt": "2026-10-16T16:05:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "LCRHCc6Jz1o",
+      "videoId": "qCCPV4yWevA",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Anti-government protests in Albania",
-      "description": "Watch live from Tirana as protests grow against Albania's government. Students have joined the so-called flamingo movement that has rallied for months for Prime Minister Edi Rama to resign. The demonstrations turned violent Wednesday with fires set and clashes with police.",
+      "title": "LIVE: Trump speaks at a rally in Dalton, Georgia",
+      "description": "Watch live as President Donald Trump gives remarks at a rally in Dalton, Georgia. The president will appear with Senate candidate Mike Collins and gubernatorial nominee Rick Jackson as part of his effort to boost Republican enthusiasm in an election that could reshape the final years of his second …",
       "channelTitle": "Associated Press",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LCRHCc6Jz1o/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/qCCPV4yWevA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LCRHCc6Jz1o/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/qCCPV4yWevA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LCRHCc6Jz1o/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/qCCPV4yWevA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2081,
-      "startedAt": "2026-10-16T10:01:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zloKBSLV3mY",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Fall foliage from across the US",
-      "description": "Watch live from Vermont, Michigan, Colorado and Washington state showing the stunning yellows, oranges, and browns brought by fall in woods and parks.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zloKBSLV3mY/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zloKBSLV3mY/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zloKBSLV3mY/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 118,
-      "startedAt": "2026-10-16T13:11:19Z",
+      "concurrentViewers": 2132,
+      "startedAt": "2026-10-16T18:37:34Z",
       "regionRestriction": null
     },
     {
@@ -319,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6050,
+      "concurrentViewers": 3877,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -343,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 13,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -367,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 396,
+      "concurrentViewers": 448,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -391,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1402,
+      "concurrentViewers": 1032,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -415,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5742,
+      "concurrentViewers": 5965,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -439,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 103,
+      "concurrentViewers": 68,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -463,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 168,
+      "concurrentViewers": 162,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -487,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 56,
+      "concurrentViewers": 42,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -511,56 +463,8 @@
           "url": "https://i.ytimg.com/vi/cY5oyoFNcPA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 80,
+      "concurrentViewers": 44,
       "startedAt": "2026-10-16T14:33:42Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "W7FsEMLud50",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "LIVE: Trump Makes BIG Announcement on Ukraine's Starlink Access: 'It Wasn't Us' | WION Live",
-      "description": "LIVE: Trump Makes BIG Announcement on Ukraine's Starlink Access: 'It Wasn't Us' | WION Live\n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/W7FsEMLud50/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/W7FsEMLud50/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/W7FsEMLud50/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 40,
-      "startedAt": "2026-10-16T17:36:12Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "xtmQTUFp2P4",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE | CJP's Tiranga March Hit By Police Crackdown | India Matters LIVE",
-      "description": "The CJP's proposed Lehra Do Tiranga march in Central Delhi ran into a fresh police crackdown, with founder Abhijit Dipke and student leader Neha Bora detained before the demonstration could take shape. Police cited restrictions under Section 163 of the BNSS, along with public safety, traffic conges…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 87,
-      "startedAt": "2026-10-16T17:35:13Z",
       "regionRestriction": null
     },
     {
@@ -583,8 +487,32 @@
           "url": "https://i.ytimg.com/vi/Qm1FVofssjQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-16T01:26:41Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xtmQTUFp2P4",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP Protest LIVE | CJP's Tiranga March Hit By Police Crackdown | India Matters LIVE",
+      "description": "The CJP's proposed Lehra Do Tiranga march in Central Delhi ran into a fresh police crackdown, with founder Abhijit Dipke and student leader Neha Bora detained before the demonstration could take shape. Police cited restrictions under Section 163 of the BNSS, along with public safety, traffic conges…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-10-16T17:35:13Z",
       "regionRestriction": null
     },
     {
@@ -607,56 +535,80 @@
           "url": "https://i.ytimg.com/vi/8Fd4uyw3wC4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-16T17:48:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "BtiRarSHuxU",
+      "videoId": "2avDWDvNolw",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Live: Tiranga Rally In Heart Of Delhi | Abhijeet Dipke, Neha Bora Detained | Connaught Place | SIR",
-      "description": "Abhijeet Dipke was on Friday detained ahead of the Cockroach Janta Party's Lehra Do Tiranga march. This leaves the CJP without any of the three known faces. The CJP said it was ready for such a situation with a Plan B.\n\n#TirangaRally #TirangaMarch #CJP #indiatodaylivestream  #AbhijeetDipke #NehaBor…",
+      "title": "Rajdeep Sardesai Show Live: Regime Change Objective Of Oppn? Prakash Raj | CJP | Dipke | CEC | SIR",
+      "description": "Congress leader Pawan Khera hit back at Rajnath Singh over his Bangladesh-style regime change jibe, questioning whether NDA allies Chandrababu Naidu, Eknath Shinde and the JD(U) would continue backing the BJP. Claiming the ruling party was losing its grip on power, Khera accused the Election Commis…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/BtiRarSHuxU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/2avDWDvNolw/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/BtiRarSHuxU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2avDWDvNolw/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/BtiRarSHuxU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2avDWDvNolw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-16T13:40:50Z",
+      "concurrentViewers": 77,
+      "startedAt": "2026-10-16T15:39:46Z",
       "regionRestriction": null
     },
     {
-      "videoId": "sG2XPXp6NJ0",
+      "videoId": "uspa0kft3MA",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP's Tiranga March Live: Live Visuals From Delhi' Central Park | Connaught Place | Dipke | CEC",
-      "description": "CJP's Tiranga March Live: Live Visuals From Delhi' Central Park | Connaught Place | Dipke | CEC\n#CJPTirangaMarch #CJP #AbhijeetDipke #indiatodaylivestream  #TirangaMarch #CentralPark #ConnaughtPlace #DelhiProtest #DelhiPolice #GyaneshKumar #CEC #ElectionCommission #SIR #DelhiNews #IndiaToday #India…",
+      "title": "CJP's Tiranga March: Prakash Raj Speaks On CJP Protest | 'Regime Change' Remark | Abheejit Dipke",
+      "description": "Cockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the planned march at Connaught Place’s Central Park.\n#PrakashRaj #CJP #AbhijeetDipke #indiatodaylivestrea…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/sG2XPXp6NJ0/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/sG2XPXp6NJ0/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/sG2XPXp6NJ0/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-16T10:47:19Z",
+      "concurrentViewers": 35,
+      "startedAt": "2026-10-16T18:01:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "W1j3-bYayug",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "CJP's Tiranga March Live: Abheejit Dipke Detained By Delhi Police | Connaught Place | Dipke | CEC",
+      "description": "The detention of CJP convenor Abhijeet Dipke ahead of Friday's Tiranga March near Connaught Place has put the organisation's leadership and contingency plans to the test. The CJP says it has an alternative strategy ready if police prevent its leader from reaching the protest venue in Central Delhi.…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W1j3-bYayug/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W1j3-bYayug/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W1j3-bYayug/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 30,
+      "startedAt": "2026-10-16T18:17:40Z",
       "regionRestriction": null
     },
     {
@@ -679,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2641,
+      "concurrentViewers": 641,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -703,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 309,
+      "concurrentViewers": 255,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -727,7 +679,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 505,
+      "concurrentViewers": 1481,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
