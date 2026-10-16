@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T20:37:07.681Z",
+  "generatedAt": "2026-10-16T23:17:27.969Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3088,
+      "concurrentViewers": 2599,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 72,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2225,
+      "concurrentViewers": 1547,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "jdclUe3XatM",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Friday 16th October",
+      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jdclUe3XatM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jdclUe3XatM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jdclUe3XatM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 175,
+      "startedAt": "2026-10-16T22:58:14Z",
       "regionRestriction": null
     },
     {
@@ -98,12 +122,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 33,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "DLnAwi5wQwk",
+      "videoId": "KQT3uyD6jQQ",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 16",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -113,17 +137,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/DLnAwi5wQwk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/DLnAwi5wQwk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/DLnAwi5wQwk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2587,
-      "startedAt": "2026-10-15T22:00:13Z",
+      "concurrentViewers": 2370,
+      "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/syqrmPSmptw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1186,
+      "concurrentViewers": 1120,
       "startedAt": "2026-10-16T10:01:28Z",
       "regionRestriction": null
     },
@@ -170,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 485,
+      "concurrentViewers": 420,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -180,27 +204,27 @@
       }
     },
     {
-      "videoId": "Obe0Sb26JmE",
+      "videoId": "kR2R2TJ98AE",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump rallies in Georgia, Six Flags reopens after fatal accident, Alex Murdaugh in court",
-      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
+      "title": "BREAKING: Norte Fire Burns Homes in San Clemente, California LIVE COVERAGE",
+      "description": "Orange County firefighters are battling a fast-moving brush fire in San Clemente, where wind and rugged terrain threaten homes and have forced immediate evacuations. \n\nThe brush fire broke out around noon in the area of Portico Del Norte and Eminencia Del Norte in San Clemente, according to the Ora…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Obe0Sb26JmE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Obe0Sb26JmE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Obe0Sb26JmE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 902,
-      "startedAt": "2026-10-16T11:47:48Z",
+      "concurrentViewers": 1554,
+      "startedAt": "2026-10-16T21:09:43Z",
       "regionRestriction": null
     },
     {
@@ -223,32 +247,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1304,
+      "concurrentViewers": 1312,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qCCPV4yWevA",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Trump speaks at a rally in Dalton, Georgia",
-      "description": "Watch live as President Donald Trump gives remarks at a rally in Dalton, Georgia. The president will appear with Senate candidate Mike Collins and gubernatorial nominee Rick Jackson as part of his effort to boost Republican enthusiasm in an election that could reshape the final years of his second …",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qCCPV4yWevA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qCCPV4yWevA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qCCPV4yWevA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 2132,
-      "startedAt": "2026-10-16T18:37:34Z",
       "regionRestriction": null
     },
     {
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3877,
+      "concurrentViewers": 1412,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 19,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 448,
+      "concurrentViewers": 325,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1032,
+      "concurrentViewers": 805,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5965,
+      "concurrentViewers": 4399,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -391,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 68,
+      "concurrentViewers": 55,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -415,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 162,
+      "concurrentViewers": 145,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -439,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 25,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -463,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/cY5oyoFNcPA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 44,
+      "concurrentViewers": 35,
       "startedAt": "2026-10-16T14:33:42Z",
       "regionRestriction": null
     },
@@ -487,7 +487,7 @@
           "url": "https://i.ytimg.com/vi/Qm1FVofssjQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 19,
       "startedAt": "2026-10-16T01:26:41Z",
       "regionRestriction": null
     },
@@ -511,7 +511,7 @@
           "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 3,
       "startedAt": "2026-10-16T17:35:13Z",
       "regionRestriction": null
     },
@@ -535,7 +535,7 @@
           "url": "https://i.ytimg.com/vi/8Fd4uyw3wC4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-16T17:48:13Z",
       "regionRestriction": null
     },
@@ -559,32 +559,8 @@
           "url": "https://i.ytimg.com/vi/2avDWDvNolw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 77,
+      "concurrentViewers": 36,
       "startedAt": "2026-10-16T15:39:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "uspa0kft3MA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP's Tiranga March: Prakash Raj Speaks On CJP Protest | 'Regime Change' Remark | Abheejit Dipke",
-      "description": "Cockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the planned march at Connaught Place’s Central Park.\n#PrakashRaj #CJP #AbhijeetDipke #indiatodaylivestrea…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 35,
-      "startedAt": "2026-10-16T18:01:52Z",
       "regionRestriction": null
     },
     {
@@ -607,8 +583,32 @@
           "url": "https://i.ytimg.com/vi/W1j3-bYayug/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-16T18:17:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "uspa0kft3MA",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "CJP's Tiranga March: Prakash Raj Speaks On CJP Protest | 'Regime Change' Remark | Abheejit Dipke",
+      "description": "Cockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the planned march at Connaught Place’s Central Park.\n#PrakashRaj #CJP #AbhijeetDipke #indiatodaylivestrea…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 8,
+      "startedAt": "2026-10-16T18:01:52Z",
       "regionRestriction": null
     },
     {
@@ -631,8 +631,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 641,
+      "concurrentViewers": 394,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "iuCorTpiyvM",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Meerut Murder Case LIVE: पति की हत्या के दो चर्चित मामले, 48 घंटे में चार आरोपियों को मौत की सजा",
+      "description": "मेरठ की अदालत ने 48 घंटे के भीतर पति की हत्या के दो अलग-अलग मामलों में दो महिलाओं और उनके प्रेमियों को मृत्युदंड की सजा सुनाई। 14 अक्टूबर को सौरभ हत्याकांड में मुस्कान और साहिल को फांसी की सजा सुनाई गई। इसके दो दिन बाद, 16 अक्टूबर को अमित हत्याकांड में रविता और उसके प्रेमी अमरदीप को भी मृत्युदंड दि…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iuCorTpiyvM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iuCorTpiyvM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iuCorTpiyvM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 71,
+      "startedAt": "2026-10-16T17:26:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "3G4gL5xfsqc",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Abhijeet Dipke Detained LIVE: CJP का Tiranga March 'फ्लॉप' हो गया! | Abhjieet Dipke | SIR | CEC",
+      "description": "Abhijeet Dipke Detained LIVE: CJP का Tiranga March 'फ्लॉप' हो गया! | Abhjieet Dipke | SIR | CEC\n\nकॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके अब भी दिल्ली पुलिस की हिरासत में है. दिल्ली पुलिस ने अभी ये स्पष्ट नहीं किया है कि अभिजीत दिपके को गिरफ्तार किया गया है या उन्हें सिर्फ हिरासत में रखा गया है.…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3G4gL5xfsqc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3G4gL5xfsqc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3G4gL5xfsqc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 31,
+      "startedAt": "2026-10-16T16:52:47Z",
       "regionRestriction": null
     },
     {
@@ -655,7 +703,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 255,
+      "concurrentViewers": 753,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -679,7 +727,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1481,
+      "concurrentViewers": 1987,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
