@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T17:26:55.258Z",
+  "generatedAt": "2026-10-17T19:38:42.464Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3751,
+      "concurrentViewers": 2859,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 158,
+      "concurrentViewers": 134,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2125,
+      "concurrentViewers": 1844,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 99,
+      "concurrentViewers": 25,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 765,
+      "concurrentViewers": 646,
       "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/zccuUPk7dO0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1027,
+      "concurrentViewers": 728,
       "startedAt": "2026-10-17T12:00:17Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 467,
+      "concurrentViewers": 304,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -199,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 817,
+      "concurrentViewers": 981,
       "startedAt": "2026-10-17T12:38:43Z",
       "regionRestriction": null
     },
@@ -223,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 627,
+      "concurrentViewers": 629,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1059,
+      "concurrentViewers": 951,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 17,
+      "concurrentViewers": 20,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 393,
+      "concurrentViewers": 370,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1403,
+      "concurrentViewers": 1336,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6309,
+      "concurrentViewers": 7674,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 84,
+      "concurrentViewers": 72,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -391,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 179,
+      "concurrentViewers": 156,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -415,32 +415,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 35,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "VirNXY9bYUw",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live",
-      "description": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live\n\nYemen’s internationally recognised government says the Houthis have launched missiles at the airport in Aden, a day after carrying out a deadly attack targeting the presidential palace in the port cit…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 30,
-      "startedAt": "2026-10-17T04:53:59Z",
       "regionRestriction": null
     },
     {
@@ -463,39 +439,111 @@
           "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 20,
       "startedAt": "2026-10-17T02:06:22Z",
       "regionRestriction": null
     },
     {
-      "videoId": "jP_ozTQLh64",
+      "videoId": "VirNXY9bYUw",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live",
+      "description": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live\n\nYemen’s internationally recognised government says the Houthis have launched missiles at the airport in Aden, a day after carrying out a deadly attack targeting the presidential palace in the port cit…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-10-17T04:53:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4lnkeOPetxI",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: Abhijeet Dipke Produced In Court | CJP Protest | Trump | India Bloc | CEC | PM Modi | ECI",
-      "description": "Opposition leaders, including West Bengal's former chief minister Mamata Banerjee, Uttar Pradesh's Akhilesh Yadav, Tamil Nadu's MK Stalin and Delhi's Arvind Kejriwal, on Friday came out in support of Cockroach Janta Party (CJP) founder Abhijeet Dipke and AISA chief Neha Bora after the two youth lea…",
+      "title": "Kolkata Durga Puja 2026 LIVE | Stampede In Kolkata Durga Puja Pandal, 17 Dead | Bengal LIVE Updates",
+      "description": "A stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saturday left several people injured. The injured have been taken to hospital, where West Bengal Chief Minister Suvendu Adhikari and Chief Secretary Manoj Agarwal have arrived to take stock of the situation.…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jP_ozTQLh64/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jP_ozTQLh64/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jP_ozTQLh64/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 41,
-      "startedAt": "2026-10-17T01:22:51Z",
+      "concurrentViewers": 93,
+      "startedAt": "2026-10-17T16:50:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "9gSGQ635HRY",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP Protest LIVE | Imran Khan Actor | Mumbai News | Imran Khan Moves Bombay High Court For Notice",
+      "description": "Actor Imran Khan has approached the Bombay High Court challenging a 'Leave India Notice' issued by the Foreigners Regional Registration Office, directing him to leave India by October 28, 2026. The petition alleges that the notice was issued without reasons or an opportunity to respond. The notice …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9gSGQ635HRY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9gSGQ635HRY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9gSGQ635HRY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 33,
+      "startedAt": "2026-10-17T16:05:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "9LL_bsgNSUA",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Kolkata Durga Puja Pandal Stampede LIVE Updates: 17 Dead | LIVE | West Bengal News",
+      "description": "A stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saturday left several people injured. The injured have been taken to hospital, where West Bengal Chief Minister Suvendu Adhikari and Chief Secretary Manoj Agarwal have arrived to take stock of the situation.…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 28,
+      "startedAt": "2026-10-17T16:43:50Z",
       "regionRestriction": null
     },
     {
       "videoId": "MzpxXRhDerw",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
       "title": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today",
-      "description": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today\n#stampede #durgapujapandal #kolkatanews #WestBengalNews #IndiaTodayLive \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video…",
+      "description": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today\nAt least 17 people were killed and around 40 injured after a stampede at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saptami evening.\n\nThe incident occurred around 7.40 pm on Octob…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -511,32 +559,8 @@
           "url": "https://i.ytimg.com/vi/MzpxXRhDerw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 155,
+      "concurrentViewers": 43,
       "startedAt": "2026-10-17T16:41:05Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "152mUAip60Y",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: 17 Dead In Stampede At Durga Puja Pandal At Kolkata, CM Suvendu Reaches Hospital | India Today",
-      "description": "LIVE: 17 Dead In Stampede At Durga Puja Pandal At Kolkata, CM Suvendu Reaches Hospital | India Today\n#stampede #durgapujapandal #kolkatanews #WestBengalNews #IndiaTodayLive \n\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new vid…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/152mUAip60Y/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/152mUAip60Y/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/152mUAip60Y/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 90,
-      "startedAt": "2026-10-17T17:00:10Z",
       "regionRestriction": null
     },
     {
@@ -559,14 +583,38 @@
           "url": "https://i.ytimg.com/vi/rSbc77z2nUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 25,
       "startedAt": "2026-10-17T14:13:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "152mUAip60Y",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: 17 Dead In Stampede At Durga Puja Pandal At Kolkata, CM Suvendu Reaches Hospital | India Today",
+      "description": "LIVE: 17 Dead In Stampede At Durga Puja Pandal At Kolkata, CM Suvendu Reaches Hospital | India Today\nAt least 17 people were killed and around 40 injured after a stampede at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saptami evening.\n\nThe incident occurred around 7.40 pm on Octo…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/152mUAip60Y/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/152mUAip60Y/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/152mUAip60Y/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-10-17T17:00:10Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Kolkata Durga Puja Pandal Stampede | Nitin Nabin | Abhijeet Dipke | CJP| Hindi News",
+      "title": "Aaj Tak LIVE TV: Kolkata Durga Puja Pandal Stampede | CM Suvendu Adhikar | PM Modi | CJP| Hindi News",
       "description": "दुर्गा पूजा की खुशियों के बीच कोलकाता में सप्तमी की शाम बड़ा हादसा हो गया. उत्तर कोलकाता के चोरबागान सार्वजनीन पूजा पंडाल में भारी भीड़ के दबाव के कारण पंडाल का एक हिस्सा ढह गया. इसके बाद वहां भगदड़ जैसी स्थिति बन गई. जानकारी के मुताबिक, हादसे में 17 लोगों की मौत हो गई, जबकि करीब 40 लोग घायल हैं.\n\n…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -583,32 +631,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4395,
+      "concurrentViewers": 814,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cce2l3I6kB4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: बड़ी खबरें देखिए फटाफट अंदाज में | Rahul Gandhi | Abhijeet Dipke | CJP Protest",
-      "description": "कांग्रेस नेता राहुल गांधी ने दिल्ली पुलिस की महिलाओं और छात्राओं के साथ कथित बर्बरता पर केंद्र सरकार को घेरा है. उन्होंने सोशल मीडिया पर आरोप लगाया कि लोकतंत्र की आवाज दबाने के लिए पुलिस द्वारा डराने-धमकाने और अपमानित करने की साजिश रची जा रही है.\n\nदिल्ली में तिरंगा यात्रा निकालने के दौरान CJP के अभ…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cce2l3I6kB4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cce2l3I6kB4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cce2l3I6kB4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 359,
-      "startedAt": "2026-10-17T13:16:01Z",
       "regionRestriction": null
     },
     {
@@ -631,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 259,
+      "concurrentViewers": 184,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -655,7 +679,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 414,
+      "concurrentViewers": 678,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
