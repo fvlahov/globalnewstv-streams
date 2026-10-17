@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T19:38:42.464Z",
+  "generatedAt": "2026-10-17T21:59:50.503Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2859,
+      "concurrentViewers": 2549,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 134,
+      "concurrentViewers": 141,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1844,
+      "concurrentViewers": 1712,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 40,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 646,
+      "concurrentViewers": 684,
       "startedAt": "2026-10-16T22:04:00Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zccuUPk7dO0",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Saturday, October 17",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zccuUPk7dO0/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zccuUPk7dO0/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zccuUPk7dO0/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 728,
-      "startedAt": "2026-10-17T12:00:17Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 304,
+      "concurrentViewers": 245,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -199,7 +175,7 @@
           "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 981,
+      "concurrentViewers": 642,
       "startedAt": "2026-10-17T12:38:43Z",
       "regionRestriction": null
     },
@@ -223,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 629,
+      "concurrentViewers": 494,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 951,
+      "concurrentViewers": 863,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 19,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 370,
+      "concurrentViewers": 298,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -319,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1336,
+      "concurrentViewers": 928,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -343,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7674,
+      "concurrentViewers": 5446,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -367,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 62,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -391,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 156,
+      "concurrentViewers": 143,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -415,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 16,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -439,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-17T02:06:22Z",
       "regionRestriction": null
     },
@@ -463,32 +439,8 @@
           "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-17T04:53:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "4lnkeOPetxI",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Kolkata Durga Puja 2026 LIVE | Stampede In Kolkata Durga Puja Pandal, 17 Dead | Bengal LIVE Updates",
-      "description": "A stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saturday left several people injured. The injured have been taken to hospital, where West Bengal Chief Minister Suvendu Adhikari and Chief Secretary Manoj Agarwal have arrived to take stock of the situation.…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 93,
-      "startedAt": "2026-10-17T16:50:03Z",
       "regionRestriction": null
     },
     {
@@ -511,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/9gSGQ635HRY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 32,
       "startedAt": "2026-10-17T16:05:59Z",
       "regionRestriction": null
     },
@@ -535,32 +487,32 @@
           "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 9,
       "startedAt": "2026-10-17T16:43:50Z",
       "regionRestriction": null
     },
     {
-      "videoId": "MzpxXRhDerw",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today",
-      "description": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today\nAt least 17 people were killed and around 40 injured after a stampede at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saptami evening.\n\nThe incident occurred around 7.40 pm on Octob…",
-      "channelTitle": "India Today",
+      "videoId": "4lnkeOPetxI",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Kolkata Durga Puja 2026 LIVE | Stampede In Kolkata Durga Puja Pandal, 17 Dead | Bengal LIVE Updates",
+      "description": "A stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saturday left several people injured. The injured have been taken to hospital, where West Bengal Chief Minister Suvendu Adhikari and Chief Secretary Manoj Agarwal have arrived to take stock of the situation.…",
+      "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 43,
-      "startedAt": "2026-10-17T16:41:05Z",
+      "concurrentViewers": 8,
+      "startedAt": "2026-10-17T16:50:03Z",
       "regionRestriction": null
     },
     {
@@ -583,8 +535,32 @@
           "url": "https://i.ytimg.com/vi/rSbc77z2nUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 19,
       "startedAt": "2026-10-17T14:13:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "MzpxXRhDerw",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today",
+      "description": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today\nAt least 17 people were killed and around 40 injured after a stampede at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saptami evening.\n\nThe incident occurred around 7.40 pm on Octob…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-10-17T16:41:05Z",
       "regionRestriction": null
     },
     {
@@ -607,7 +583,7 @@
           "url": "https://i.ytimg.com/vi/152mUAip60Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-17T17:00:10Z",
       "regionRestriction": null
     },
@@ -631,7 +607,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 814,
+      "concurrentViewers": 351,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -655,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 184,
+      "concurrentViewers": 273,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -679,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 678,
+      "concurrentViewers": 1973,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
