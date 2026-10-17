@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T01:25:41.227Z",
+  "generatedAt": "2026-10-17T05:57:50.210Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2022,
+      "concurrentViewers": 3755,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 53,
+      "concurrentViewers": 88,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1058,
+      "concurrentViewers": 2034,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "jdclUe3XatM",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Friday 16th October",
-      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jdclUe3XatM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jdclUe3XatM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jdclUe3XatM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 230,
-      "startedAt": "2026-10-16T22:58:14Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 160,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1527,
+      "concurrentViewers": 530,
       "startedAt": "2026-10-16T22:04:00Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "syqrmPSmptw",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, October 16",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/syqrmPSmptw/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/syqrmPSmptw/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/syqrmPSmptw/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 572,
-      "startedAt": "2026-10-16T10:01:28Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 314,
+      "concurrentViewers": 185,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -206,8 +158,8 @@
     {
       "videoId": "kR2R2TJ98AE",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "BREAKING: Norte Fire Burns Homes in San Clemente, California LIVE COVERAGE",
-      "description": "Orange County firefighters are battling a fast-moving brush fire in San Clemente, where wind and rugged terrain threaten homes and have forced immediate evacuations. \n\nThe brush fire broke out around noon in the area of Portico Del Norte and Eminencia Del Norte in San Clemente, according to the Ora…",
+      "title": "LIVE: Katie Zacharia out as White House press secretary, Oregon school shooting & more",
+      "description": "Press secretary Katie Zacharia is expected to be \"transitioning out\" of her role with the White House.\n\nIn a post on X Friday, Zacharia said:\n\n\"President Trump is a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man. I wish more Americans appreciated him. No one will ever make…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -223,7 +175,7 @@
           "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 861,
+      "concurrentViewers": 409,
       "startedAt": "2026-10-16T21:09:43Z",
       "regionRestriction": null
     },
@@ -247,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 605,
+      "concurrentViewers": 234,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -271,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1110,
+      "concurrentViewers": 1090,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 16,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -343,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 719,
+      "concurrentViewers": 1025,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -367,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2768,
+      "concurrentViewers": 4376,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -391,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 70,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -415,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 124,
+      "concurrentViewers": 151,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -439,128 +391,224 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 32,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "cY5oyoFNcPA",
+      "videoId": "VirNXY9bYUw",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Riyadh Under Fire LIVE: Saudi Air Defence Put to The Ultimate Test | Saudi-Houthi Attack | WION Live",
-      "description": "Riyadh Under Fire LIVE: Saudi Air Defence Put to The Ultimate Test | Saudi-Houthi Attack | WION Live\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investigators a…",
+      "title": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live",
+      "description": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live\n\nYemen’s internationally recognised government says the Houthis have launched missiles at the airport in Aden, a day after carrying out a deadly attack targeting the presidential palace in the port cit…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/cY5oyoFNcPA/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/cY5oyoFNcPA/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/cY5oyoFNcPA/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
-      "startedAt": "2026-10-16T14:33:42Z",
+      "concurrentViewers": 81,
+      "startedAt": "2026-10-17T04:53:59Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xtmQTUFp2P4",
+      "videoId": "ggrFxgn-9xE",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live",
+      "description": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investigators ar…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 35,
+      "startedAt": "2026-10-17T02:06:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "LK89h4z01qo",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "LIVE: Trump FIRES Incoming Press Secretary After 5 Days? Katie Zacharia OUT | WION Live",
+      "description": "President Trump’s new press secretary, Katie Zacharia, was fired Friday, after less than a week on the job, according to three people familiar with the matter.\n\nThe people spoke on the condition of anonymity to describe the decision, which was not yet announced. Neither the White House nor Ms. Zach…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LK89h4z01qo/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LK89h4z01qo/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LK89h4z01qo/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 7,
+      "startedAt": "2026-10-17T02:01:34Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fxX44Oe8-4w",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE | CJP's Tiranga March Hit By Police Crackdown | India Matters LIVE",
-      "description": "The CJP's proposed Lehra Do Tiranga march in Central Delhi ran into a fresh police crackdown, with founder Abhijit Dipke and student leader Neha Bora detained before the demonstration could take shape. Police cited restrictions under Section 163 of the BNSS, along with public safety, traffic conges…",
+      "title": "CJP News LIVE | Abhijeet Dipke Under Preventive Arrest Over Delhi Protest, Neha Bora Released",
+      "description": "The Delhi Police has put Cockroach Janta Party (CJP) founder Abhijeet Dipke under preventive arrest and released All India Students' Association (AISA) chief Neha Bora early Saturday morning after taking them into preventive custody ahead of the 'Lehra Do Tiranga' protest march at Delhi's Connaught…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/fxX44Oe8-4w/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/fxX44Oe8-4w/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/fxX44Oe8-4w/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7,
-      "startedAt": "2026-10-16T17:35:13Z",
+      "concurrentViewers": 101,
+      "startedAt": "2026-10-17T05:29:48Z",
       "regionRestriction": null
     },
     {
-      "videoId": "uspa0kft3MA",
+      "videoId": "jP_ozTQLh64",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "NDTV LIVE:  CJP Tiranga Yatra | Abhijeet Dipke | Trump | India Bloc Protest | CEC | PM Modi",
+      "description": "Opposition leaders, including West Bengal's former chief minister Mamata Banerjee, Uttar Pradesh's Akhilesh Yadav, Tamil Nadu's MK Stalin and Delhi's Arvind Kejriwal, on Friday came out in support of Cockroach Janta Party (CJP) founder Abhijeet Dipke and AISA chief Neha Bora after the two youth lea…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jP_ozTQLh64/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jP_ozTQLh64/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jP_ozTQLh64/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 85,
+      "startedAt": "2026-10-17T01:22:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vlp2bU2q6RI",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "NDTV LIVE | Tiranga Protest Turns Tense: Police Detain CJP Leaders, Traders Count Losses",
+      "description": "A Tiranga protest, police detentions and angry traders — Central Delhi witnessed a tense showdown as protesters took to the streets with the national flag. With Section 163 of the BNSS cited to enforce restrictions, CJP leaders Abhijeet Dipke and Neha Bora were detained. While the CJP alleges curbs…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vlp2bU2q6RI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vlp2bU2q6RI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vlp2bU2q6RI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 48,
+      "startedAt": "2026-10-17T01:51:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4QohX91To40",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP's Tiranga March: Prakash Raj Speaks On CJP Protest | 'Regime Change' Remark | Abheejit Dipke",
-      "description": "Cockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the planned march at Connaught Place’s Central Park.\n#PrakashRaj #CJP #AbhijeetDipke #indiatodaylivestrea…",
+      "title": "LIVE: CJP Breaks Silence On Abhijeet Dipke's Detention | Delhi Police | CJP Protest",
+      "description": "The Cockroach Janta Party (CJP) has questioned the circumstances surrounding founder Abhijeet Dipke’s detention ahead of the October 16 Tiranga Yatra in Delhi. The party said it had been unable to confirm his location or speak to him after he was detained. Delhi Police says Dipke is in custody and …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4QohX91To40/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4QohX91To40/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4QohX91To40/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 31,
-      "startedAt": "2026-10-16T18:01:52Z",
+      "concurrentViewers": 181,
+      "startedAt": "2026-10-17T05:34:33Z",
       "regionRestriction": null
     },
     {
-      "videoId": "2avDWDvNolw",
+      "videoId": "bCCjvMrf1aA",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai Show Live: Regime Change Objective Of Oppn? Prakash Raj | CJP | Dipke | CEC | SIR",
-      "description": "Congress leader Pawan Khera hit back at Rajnath Singh over his Bangladesh-style regime change jibe, questioning whether NDA allies Chandrababu Naidu, Eknath Shinde and the JD(U) would continue backing the BJP. Claiming the ruling party was losing its grip on power, Khera accused the Election Commis…",
+      "title": "LIVE: CJP Founder Abhijeet Dipke Arrested | Neha Bora Questions Police Action | CJP Protest",
+      "description": "LIVE: CJP Founder Abhijeet Dipke Arrested | Neha Bora Questions Police Action | CJP Protest \n\n#abhijeetdipke #nehabora #cjp #aisa #cjpprotest #cocroachjantaparty #ashutoshranka #sauravdas #jantarmantar  #delhipolice #delhiprotest #tirangayatra #breakingnews #livenews #indiatodaylivestream \n\nSubscri…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2avDWDvNolw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/bCCjvMrf1aA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2avDWDvNolw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/bCCjvMrf1aA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2avDWDvNolw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/bCCjvMrf1aA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
-      "startedAt": "2026-10-16T15:39:46Z",
+      "concurrentViewers": 113,
+      "startedAt": "2026-10-17T03:56:01Z",
       "regionRestriction": null
     },
     {
-      "videoId": "W1j3-bYayug",
+      "videoId": "saWj-orsX60",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP's Tiranga March Live: Abheejit Dipke Detained By Delhi Police | Connaught Place | Dipke | CEC",
-      "description": "The detention of CJP convenor Abhijeet Dipke ahead of Friday's Tiranga March near Connaught Place has put the organisation's leadership and contingency plans to the test. The CJP says it has an alternative strategy ready if police prevent its leader from reaching the protest venue in Central Delhi.…",
+      "title": "India Today TV LIVE: Abhijeet Dipke Arrested | CJP Protest | PM Modi | Rahul Gandhi | Iran War",
+      "description": "India Today TV LIVE: Abhijeet Dipke Arrested | CJP Protest | PM Modi | Rahul Gandhi | Iran War\n\nCockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the plann…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/W1j3-bYayug/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/saWj-orsX60/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/W1j3-bYayug/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/saWj-orsX60/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/W1j3-bYayug/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/saWj-orsX60/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 27,
-      "startedAt": "2026-10-16T18:17:40Z",
+      "concurrentViewers": 105,
+      "startedAt": "2026-10-17T05:07:41Z",
       "regionRestriction": null
     },
     {
@@ -583,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1950,
+      "concurrentViewers": 4319,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -607,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1096,
+      "concurrentViewers": 626,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -631,7 +679,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1724,
+      "concurrentViewers": 926,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
