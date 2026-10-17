@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T10:31:11.987Z",
+  "generatedAt": "2026-10-17T14:05:23.835Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5536,
+      "concurrentViewers": 3801,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 240,
+      "concurrentViewers": 117,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2381,
+      "concurrentViewers": 1968,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "TZjUoAQCQSA",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Nana Akua | Saturday 17th October",
+      "description": "Join Nana for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB N…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TZjUoAQCQSA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TZjUoAQCQSA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TZjUoAQCQSA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 207,
+      "startedAt": "2026-10-17T13:56:19Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 322,
+      "concurrentViewers": 126,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 522,
+      "concurrentViewers": 891,
       "startedAt": "2026-10-16T22:04:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zccuUPk7dO0",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Saturday, October 17",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zccuUPk7dO0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zccuUPk7dO0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zccuUPk7dO0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1277,
+      "startedAt": "2026-10-17T12:00:17Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 311,
+      "concurrentViewers": 559,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -156,27 +204,27 @@
       }
     },
     {
-      "videoId": "kR2R2TJ98AE",
+      "videoId": "Z7lQMpZIKaE",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Katie Zacharia out as White House press secretary, Oregon school shooting & more",
-      "description": "Press secretary Katie Zacharia is expected to be \"transitioning out\" of her role with the White House.\n\nIn a post on X Friday, Zacharia said:\n\n\"President Trump is a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man. I wish more Americans appreciated him. No one will ever make…",
+      "title": "LIVE NEWS: Trump waives Russia sanctions, US weighs strikes on Iran, Katie Zacharia out & more",
+      "description": "President Donald ​Trump waived key Russia-related US sanctions and tariffs days before they were to take effect under a law he ‌signed last month, including duties on the country's goods and penalties for buying its oil and gas. In an executive order released by the White House on Friday, Trump sai…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 387,
-      "startedAt": "2026-10-16T21:09:43Z",
+      "concurrentViewers": 1119,
+      "startedAt": "2026-10-17T12:38:43Z",
       "regionRestriction": null
     },
     {
@@ -199,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 196,
+      "concurrentViewers": 425,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -223,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1239,
+      "concurrentViewers": 1310,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -247,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 12,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -271,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 362,
+      "concurrentViewers": 445,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -295,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1023,
+      "concurrentViewers": 1126,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -319,8 +367,56 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5683,
+      "concurrentViewers": 5733,
       "startedAt": "2026-05-27T20:56:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "M4R5oyMlEAc",
+      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+      "title": "Dozens detained as protesters clash with security forces across Paris",
+      "description": "Dozens arrested as protesters clash with security forces in Paris in major day of planned demonstrations\n\nThe French government stepped up security measures ahead of Saturday’s nationwide protests over the cost-of-living crisis, with student groups also expected to join demonstrations amid fears of…",
+      "channelTitle": "euronews",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M4R5oyMlEAc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M4R5oyMlEAc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M4R5oyMlEAc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 318,
+      "startedAt": "2026-10-17T11:51:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vN4N7gbem18",
+      "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
+      "title": "EN DIRECT : Étudiants, syndicats et Gilets jaunes manifestent à Paris",
+      "description": "EN DIRECT : Étudiants, syndicats et Gilets jaunes manifestent à Paris",
+      "channelTitle": "euronews (en français)",
+      "country": "FR",
+      "language": "fr",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vN4N7gbem18/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vN4N7gbem18/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vN4N7gbem18/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 3166,
+      "startedAt": "2026-10-17T12:00:15Z",
       "regionRestriction": null
     },
     {
@@ -343,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 82,
+      "concurrentViewers": 63,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -367,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 193,
+      "concurrentViewers": 210,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -391,7 +487,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 33,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -415,7 +511,7 @@
           "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 45,
       "startedAt": "2026-10-17T04:53:59Z",
       "regionRestriction": null
     },
@@ -439,7 +535,7 @@
           "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-17T02:06:22Z",
       "regionRestriction": null
     },
@@ -463,7 +559,7 @@
           "url": "https://i.ytimg.com/vi/jP_ozTQLh64/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 63,
       "startedAt": "2026-10-17T01:22:51Z",
       "regionRestriction": null
     },
@@ -487,63 +583,15 @@
           "url": "https://i.ytimg.com/vi/saWj-orsX60/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 100,
+      "concurrentViewers": 41,
       "startedAt": "2026-10-17T05:07:41Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "4QohX91To40",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: CJP Breaks Silence On Abhijeet Dipke's Detention | Delhi Police | CJP Protest",
-      "description": "The Cockroach Janta Party (CJP) has questioned the circumstances surrounding founder Abhijeet Dipke’s detention ahead of the October 16 Tiranga Yatra in Delhi. The party said it had been unable to confirm his location or speak to him after he was detained. Delhi Police says Dipke is in custody and …",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4QohX91To40/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4QohX91To40/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4QohX91To40/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 22,
-      "startedAt": "2026-10-17T05:34:33Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "bCCjvMrf1aA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: CJP Founder Abhijeet Dipke Arrested | Neha Bora Questions Police Action | CJP Protest",
-      "description": "LIVE: CJP Founder Abhijeet Dipke Arrested | Neha Bora Questions Police Action | CJP Protest \n\n#abhijeetdipke #nehabora #cjp #aisa #cjpprotest #cocroachjantaparty #ashutoshranka #sauravdas #jantarmantar  #delhipolice #delhiprotest #tirangayatra #breakingnews #livenews #indiatodaylivestream \n\nSubscri…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bCCjvMrf1aA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bCCjvMrf1aA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bCCjvMrf1aA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 15,
-      "startedAt": "2026-10-17T03:56:01Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Abhijeet Dipke Court Hearing | CJP | Neha Bora | Rahul Gandhi | PM Modi| Hindi News",
-      "description": "दिल्ली में शुक्रवार को 'लहरा दो तिरंगा' प्रदर्शन से पहले कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके के खिलाफ BNSS की धारा 126/170 के तहत कार्रवाई की गई है. उन्हें शनिवार को स्पेशल एग्जिक्युटिव मजिस्ट्रेट कोर्ट में पेश किया गया. वहीं, ऑल इंडिया स्टूडेंट्स एसोसिएशन की अध्यक्ष नेहा बोरा को शनिवार को …",
+      "title": "Aaj Tak LIVE TV: Nitin Nabin | Abhijeet Dipke Gets Conditional Bail | CJP | Neha Bora | Rahul Gandhi",
+      "description": "दिल्ली में शुक्रवार को 'लहरा दो तिरंगा' प्रदर्शन से पहले कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके के खिलाफ BNSS की धारा 126/170 के तहत कार्रवाई की गई है. उन्हें शनिवार को स्पेशल एग्जिक्युटिव मजिस्ट्रेट कोर्ट में पेश किया गया जहां कोर्ट ने उन्हे जमानत दे दी है. वहीं, ऑल इंडिया स्टूडेंट्स एसोसिएशन…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -559,8 +607,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4017,
+      "concurrentViewers": 6483,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "cce2l3I6kB4",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: बड़ी खबरें देखिए फटाफट अंदाज में | Rahul Gandhi | Abhijeet Dipke | CJP Protest",
+      "description": "कांग्रेस नेता राहुल गांधी ने दिल्ली पुलिस की महिलाओं और छात्राओं के साथ कथित बर्बरता पर केंद्र सरकार को घेरा है. उन्होंने सोशल मीडिया पर आरोप लगाया कि लोकतंत्र की आवाज दबाने के लिए पुलिस द्वारा डराने-धमकाने और अपमानित करने की साजिश रची जा रही है.\n\nदिल्ली में तिरंगा यात्रा निकालने के दौरान CJP के अभ…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cce2l3I6kB4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cce2l3I6kB4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cce2l3I6kB4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 660,
+      "startedAt": "2026-10-17T13:16:01Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "yap77FX5nCc",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Halla Bol With Anjana Om Kashyap LIVE : योगी का '80-20'!,  अखिलेश का PDA+MY  | CM Yogi | Akhilesh",
+      "description": "विपक्ष वोट चोरी के अपने दावों को चुनाव में भुनाने में जुटा हुआ है। इस मुद्दे की सबसे बड़ी परीक्षा उत्तर प्रदेश में होनी है। योगी आदित्यनाथ जहां कानून व्यवस्था, सनातन और विकास को मुद्दा बनाने में जुटे हैं तो अखिलेश की तरफ से चुनाव आयोग को घेरा जा रहा है\n\n\n\n#upelection #yogiadityanath #akhileshyadav …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yap77FX5nCc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yap77FX5nCc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yap77FX5nCc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 581,
+      "startedAt": "2026-10-17T12:25:02Z",
       "regionRestriction": null
     },
     {
@@ -583,7 +679,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 590,
+      "concurrentViewers": 507,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -607,7 +703,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 932,
+      "concurrentViewers": 527,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
