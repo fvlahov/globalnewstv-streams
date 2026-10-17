@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T23:17:27.969Z",
+  "generatedAt": "2026-10-17T01:25:41.227Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2599,
+      "concurrentViewers": 2022,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 53,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1547,
+      "concurrentViewers": 1058,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/jdclUe3XatM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 175,
+      "concurrentViewers": 230,
       "startedAt": "2026-10-16T22:58:14Z",
       "regionRestriction": null
     },
@@ -122,14 +122,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 21,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "KQT3uyD6jQQ",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 16",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2370,
+      "concurrentViewers": 1527,
       "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/syqrmPSmptw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1120,
+      "concurrentViewers": 572,
       "startedAt": "2026-10-16T10:01:28Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 420,
+      "concurrentViewers": 314,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -223,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/kR2R2TJ98AE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1554,
+      "concurrentViewers": 861,
       "startedAt": "2026-10-16T21:09:43Z",
       "regionRestriction": null
     },
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1312,
+      "concurrentViewers": 605,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1412,
+      "concurrentViewers": 1110,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 23,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 325,
+      "concurrentViewers": 299,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 805,
+      "concurrentViewers": 719,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4399,
+      "concurrentViewers": 2768,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -391,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 42,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -415,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 145,
+      "concurrentViewers": 124,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -439,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 23,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -463,32 +463,8 @@
           "url": "https://i.ytimg.com/vi/cY5oyoFNcPA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-16T14:33:42Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Qm1FVofssjQ",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: CJP Tiranga Yatra | INDIA Bloc Protest | Rahul Gandhi | US-Iran War | Trump | PM Modi",
-      "description": "The United States is weighing the use of its biggest non-nuclear bomb against Iran as President Donald Trump considers whether to resume military action in a war that has reached a stalemate, CNN reported on Thursday.\n\nThe Pentagon has been exploring the possible deployment of the GBU-43/B Massive …",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Qm1FVofssjQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Qm1FVofssjQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Qm1FVofssjQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 19,
-      "startedAt": "2026-10-16T01:26:41Z",
       "regionRestriction": null
     },
     {
@@ -511,32 +487,32 @@
           "url": "https://i.ytimg.com/vi/xtmQTUFp2P4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-16T17:35:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "8Fd4uyw3wC4",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE | Regime Change, Bangladesh Model, Neha Bora: Why Delhi's Protest Row Has Escalated",
-      "description": "Delhi's protest row has taken a dramatic turn, with the debate shifting from electoral reforms and the Election Commission to calls for \"regime change\" and references to Bangladesh. On this special episode of Chai Stop, the NDTV team debates Neha Bora's role in the protests, Rahul Gandhi's associat…",
-      "channelTitle": "NDTV",
+      "videoId": "uspa0kft3MA",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "CJP's Tiranga March: Prakash Raj Speaks On CJP Protest | 'Regime Change' Remark | Abheejit Dipke",
+      "description": "Cockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the planned march at Connaught Place’s Central Park.\n#PrakashRaj #CJP #AbhijeetDipke #indiatodaylivestrea…",
+      "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8Fd4uyw3wC4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8Fd4uyw3wC4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8Fd4uyw3wC4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/uspa0kft3MA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-16T17:48:13Z",
+      "concurrentViewers": 31,
+      "startedAt": "2026-10-16T18:01:52Z",
       "regionRestriction": null
     },
     {
@@ -559,7 +535,7 @@
           "url": "https://i.ytimg.com/vi/2avDWDvNolw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-16T15:39:46Z",
       "regionRestriction": null
     },
@@ -583,39 +559,15 @@
           "url": "https://i.ytimg.com/vi/W1j3-bYayug/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 27,
       "startedAt": "2026-10-16T18:17:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "uspa0kft3MA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "CJP's Tiranga March: Prakash Raj Speaks On CJP Protest | 'Regime Change' Remark | Abheejit Dipke",
-      "description": "Cockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the planned march at Connaught Place’s Central Park.\n#PrakashRaj #CJP #AbhijeetDipke #indiatodaylivestrea…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uspa0kft3MA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-16T18:01:52Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: CJP Tiranga Yatra | Abhijeet Dipke | Neha Bora | Rahul Gandhi |  PM Modi | Delhi",
-      "description": "तिरंगा यात्रा से पहले हिरासत में लिए गए अभिजीत दिपके- शाम 5 बजे CJP की तिरंगा यात्रा से पहले किले में तब्दील दिल्ली का कनॉट प्लेस- सेंट्रल पार्क भी बंद...दिपके को पुलिस नोटिस के बाद शर्तों के साथ होगा मार्च \n\nसत्ता परिवर्तन के बयान पर ज़बरदस्त घमासान..राजनाथ ने कहा- तख्तापलट कराना चाहता है विपक्ष- …",
+      "title": "Aaj Tak LIVE TV: Abhijeet Dipke Arrest | CJP | Neha Bora | Rahul Gandhi | PM Modi | Hindi News",
+      "description": "दिल्ली में दिपके नहीं निकाल पाए तिरंगा यात्रा- घर पर ही पुलिस ने हिरासत में लिया- छात्र नेता नेहा बोरा भी डिटेन- कनॉट प्लेट इलाके में करीब 150 प्रदर्शनकारियों पर शिकंजा\n\nCJP के प्रदर्शन पर पुलिस पहरे के खिलाफ विपक्ष का बयान- कहा, सरकार की अघोषित इमरजेंसी- बीजेपी का आरोप- देश में अराजकता की सोची-समझ…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -631,56 +583,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 394,
+      "concurrentViewers": 1950,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "iuCorTpiyvM",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Meerut Murder Case LIVE: पति की हत्या के दो चर्चित मामले, 48 घंटे में चार आरोपियों को मौत की सजा",
-      "description": "मेरठ की अदालत ने 48 घंटे के भीतर पति की हत्या के दो अलग-अलग मामलों में दो महिलाओं और उनके प्रेमियों को मृत्युदंड की सजा सुनाई। 14 अक्टूबर को सौरभ हत्याकांड में मुस्कान और साहिल को फांसी की सजा सुनाई गई। इसके दो दिन बाद, 16 अक्टूबर को अमित हत्याकांड में रविता और उसके प्रेमी अमरदीप को भी मृत्युदंड दि…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iuCorTpiyvM/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iuCorTpiyvM/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iuCorTpiyvM/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 71,
-      "startedAt": "2026-10-16T17:26:36Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "3G4gL5xfsqc",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Abhijeet Dipke Detained LIVE: CJP का Tiranga March 'फ्लॉप' हो गया! | Abhjieet Dipke | SIR | CEC",
-      "description": "Abhijeet Dipke Detained LIVE: CJP का Tiranga March 'फ्लॉप' हो गया! | Abhjieet Dipke | SIR | CEC\n\nकॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके अब भी दिल्ली पुलिस की हिरासत में है. दिल्ली पुलिस ने अभी ये स्पष्ट नहीं किया है कि अभिजीत दिपके को गिरफ्तार किया गया है या उन्हें सिर्फ हिरासत में रखा गया है.…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3G4gL5xfsqc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3G4gL5xfsqc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3G4gL5xfsqc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 31,
-      "startedAt": "2026-10-16T16:52:47Z",
       "regionRestriction": null
     },
     {
@@ -703,7 +607,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 753,
+      "concurrentViewers": 1096,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -727,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1987,
+      "concurrentViewers": 1724,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
