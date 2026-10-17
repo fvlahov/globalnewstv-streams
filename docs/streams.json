@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T21:59:50.503Z",
+  "generatedAt": "2026-10-17T23:57:31.710Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2549,
+      "concurrentViewers": 2130,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 141,
+      "concurrentViewers": 87,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1712,
+      "concurrentViewers": 1730,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 35,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 684,
+      "concurrentViewers": 588,
       "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 245,
+      "concurrentViewers": 259,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -175,7 +175,7 @@
           "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 642,
+      "concurrentViewers": 755,
       "startedAt": "2026-10-17T12:38:43Z",
       "regionRestriction": null
     },
@@ -199,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 494,
+      "concurrentViewers": 660,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -223,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 863,
+      "concurrentViewers": 792,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 17,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 298,
+      "concurrentViewers": 342,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 928,
+      "concurrentViewers": 823,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5446,
+      "concurrentViewers": 4612,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 35,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 143,
+      "concurrentViewers": 112,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -391,32 +391,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 19,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ggrFxgn-9xE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live",
-      "description": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investigators ar…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 29,
-      "startedAt": "2026-10-17T02:06:22Z",
       "regionRestriction": null
     },
     {
@@ -439,8 +415,32 @@
           "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-17T04:53:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ggrFxgn-9xE",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live",
+      "description": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investigators ar…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 23,
+      "startedAt": "2026-10-17T02:06:22Z",
       "regionRestriction": null
     },
     {
@@ -463,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/9gSGQ635HRY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 30,
       "startedAt": "2026-10-17T16:05:59Z",
       "regionRestriction": null
     },
@@ -487,7 +487,7 @@
           "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 13,
       "startedAt": "2026-10-17T16:43:50Z",
       "regionRestriction": null
     },
@@ -511,7 +511,7 @@
           "url": "https://i.ytimg.com/vi/4lnkeOPetxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8,
+      "concurrentViewers": 3,
       "startedAt": "2026-10-17T16:50:03Z",
       "regionRestriction": null
     },
@@ -535,7 +535,7 @@
           "url": "https://i.ytimg.com/vi/rSbc77z2nUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 9,
       "startedAt": "2026-10-17T14:13:26Z",
       "regionRestriction": null
     },
@@ -559,7 +559,7 @@
           "url": "https://i.ytimg.com/vi/MzpxXRhDerw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 9,
       "startedAt": "2026-10-17T16:41:05Z",
       "regionRestriction": null
     },
@@ -583,7 +583,7 @@
           "url": "https://i.ytimg.com/vi/152mUAip60Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2,
+      "concurrentViewers": 3,
       "startedAt": "2026-10-17T17:00:10Z",
       "regionRestriction": null
     },
@@ -607,7 +607,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 351,
+      "concurrentViewers": 387,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -631,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 273,
+      "concurrentViewers": 592,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -655,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1973,
+      "concurrentViewers": 1928,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
