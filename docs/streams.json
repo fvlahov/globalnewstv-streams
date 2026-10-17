@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T14:05:23.835Z",
+  "generatedAt": "2026-10-17T17:26:55.258Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3801,
+      "concurrentViewers": 3751,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 117,
+      "concurrentViewers": 158,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1968,
+      "concurrentViewers": 2125,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "TZjUoAQCQSA",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Nana Akua | Saturday 17th October",
-      "description": "Join Nana for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB N…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TZjUoAQCQSA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TZjUoAQCQSA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TZjUoAQCQSA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 207,
-      "startedAt": "2026-10-17T13:56:19Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 126,
+      "concurrentViewers": 99,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 891,
+      "concurrentViewers": 765,
       "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/zccuUPk7dO0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1277,
+      "concurrentViewers": 1027,
       "startedAt": "2026-10-17T12:00:17Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 559,
+      "concurrentViewers": 467,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -223,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1119,
+      "concurrentViewers": 817,
       "startedAt": "2026-10-17T12:38:43Z",
       "regionRestriction": null
     },
@@ -247,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 425,
+      "concurrentViewers": 627,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -271,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1310,
+      "concurrentViewers": 1059,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 17,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 445,
+      "concurrentViewers": 393,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -343,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1126,
+      "concurrentViewers": 1403,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -367,56 +343,8 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5733,
+      "concurrentViewers": 6309,
       "startedAt": "2026-05-27T20:56:27Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "M4R5oyMlEAc",
-      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
-      "title": "Dozens detained as protesters clash with security forces across Paris",
-      "description": "Dozens arrested as protesters clash with security forces in Paris in major day of planned demonstrations\n\nThe French government stepped up security measures ahead of Saturday’s nationwide protests over the cost-of-living crisis, with student groups also expected to join demonstrations amid fears of…",
-      "channelTitle": "euronews",
-      "country": "FR",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/M4R5oyMlEAc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/M4R5oyMlEAc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/M4R5oyMlEAc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 318,
-      "startedAt": "2026-10-17T11:51:57Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "vN4N7gbem18",
-      "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
-      "title": "EN DIRECT : Étudiants, syndicats et Gilets jaunes manifestent à Paris",
-      "description": "EN DIRECT : Étudiants, syndicats et Gilets jaunes manifestent à Paris",
-      "channelTitle": "euronews (en français)",
-      "country": "FR",
-      "language": "fr",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vN4N7gbem18/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vN4N7gbem18/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vN4N7gbem18/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 3166,
-      "startedAt": "2026-10-17T12:00:15Z",
       "regionRestriction": null
     },
     {
@@ -439,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 84,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -463,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 210,
+      "concurrentViewers": 179,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -487,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 38,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -511,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 30,
       "startedAt": "2026-10-17T04:53:59Z",
       "regionRestriction": null
     },
@@ -535,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-17T02:06:22Z",
       "regionRestriction": null
     },
@@ -559,39 +487,87 @@
           "url": "https://i.ytimg.com/vi/jP_ozTQLh64/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 41,
       "startedAt": "2026-10-17T01:22:51Z",
       "regionRestriction": null
     },
     {
-      "videoId": "saWj-orsX60",
+      "videoId": "MzpxXRhDerw",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Abhijeet Dipke Arrested | CJP Protest | PM Modi | Rahul Gandhi | Iran War",
-      "description": "India Today TV LIVE: Abhijeet Dipke Arrested | CJP Protest | PM Modi | Rahul Gandhi | Iran War\n\nCockroach Janta Party’s (CJP) ‘Lehra Do Tiranga’ protest in Delhi has taken a dramatic turn with founder Abhijeet Dipke and AISA President Neha Bora being taken into preventive custody ahead of the plann…",
+      "title": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today",
+      "description": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today\n#stampede #durgapujapandal #kolkatanews #WestBengalNews #IndiaTodayLive \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/saWj-orsX60/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/saWj-orsX60/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/saWj-orsX60/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 41,
-      "startedAt": "2026-10-17T05:07:41Z",
+      "concurrentViewers": 155,
+      "startedAt": "2026-10-17T16:41:05Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "152mUAip60Y",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: 17 Dead In Stampede At Durga Puja Pandal At Kolkata, CM Suvendu Reaches Hospital | India Today",
+      "description": "LIVE: 17 Dead In Stampede At Durga Puja Pandal At Kolkata, CM Suvendu Reaches Hospital | India Today\n#stampede #durgapujapandal #kolkatanews #WestBengalNews #IndiaTodayLive \n\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new vid…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/152mUAip60Y/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/152mUAip60Y/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/152mUAip60Y/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 90,
+      "startedAt": "2026-10-17T17:00:10Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "rSbc77z2nUw",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Abhijeet Dipke 1st Reaction After Being Released From Custody | CJP Protest | Jantar Mantar",
+      "description": "LIVE: Abhijeet Dipke 1st Reaction After Being Released From Custody | CJP Protest | Jantar Mantar \n#abhijeetdipke #nehabora #cjp #aisa #cjpprotest #cockroachjantaparty #jantarmantarprotest   #ashutoshranka #sauravdas #jantarmantar  #delhipolice #delhiprotest #tirangayatra #breakingnews #livenews #i…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rSbc77z2nUw/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rSbc77z2nUw/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rSbc77z2nUw/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 37,
+      "startedAt": "2026-10-17T14:13:26Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Nitin Nabin | Abhijeet Dipke Gets Conditional Bail | CJP | Neha Bora | Rahul Gandhi",
-      "description": "दिल्ली में शुक्रवार को 'लहरा दो तिरंगा' प्रदर्शन से पहले कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके के खिलाफ BNSS की धारा 126/170 के तहत कार्रवाई की गई है. उन्हें शनिवार को स्पेशल एग्जिक्युटिव मजिस्ट्रेट कोर्ट में पेश किया गया जहां कोर्ट ने उन्हे जमानत दे दी है. वहीं, ऑल इंडिया स्टूडेंट्स एसोसिएशन…",
+      "title": "Aaj Tak LIVE TV: Kolkata Durga Puja Pandal Stampede | Nitin Nabin | Abhijeet Dipke | CJP| Hindi News",
+      "description": "दुर्गा पूजा की खुशियों के बीच कोलकाता में सप्तमी की शाम बड़ा हादसा हो गया. उत्तर कोलकाता के चोरबागान सार्वजनीन पूजा पंडाल में भारी भीड़ के दबाव के कारण पंडाल का एक हिस्सा ढह गया. इसके बाद वहां भगदड़ जैसी स्थिति बन गई. जानकारी के मुताबिक, हादसे में 17 लोगों की मौत हो गई, जबकि करीब 40 लोग घायल हैं.\n\n…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -607,7 +583,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6483,
+      "concurrentViewers": 4395,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -631,32 +607,8 @@
           "url": "https://i.ytimg.com/vi/cce2l3I6kB4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 660,
+      "concurrentViewers": 359,
       "startedAt": "2026-10-17T13:16:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "yap77FX5nCc",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Halla Bol With Anjana Om Kashyap LIVE : योगी का '80-20'!,  अखिलेश का PDA+MY  | CM Yogi | Akhilesh",
-      "description": "विपक्ष वोट चोरी के अपने दावों को चुनाव में भुनाने में जुटा हुआ है। इस मुद्दे की सबसे बड़ी परीक्षा उत्तर प्रदेश में होनी है। योगी आदित्यनाथ जहां कानून व्यवस्था, सनातन और विकास को मुद्दा बनाने में जुटे हैं तो अखिलेश की तरफ से चुनाव आयोग को घेरा जा रहा है\n\n\n\n#upelection #yogiadityanath #akhileshyadav …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yap77FX5nCc/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yap77FX5nCc/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yap77FX5nCc/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 581,
-      "startedAt": "2026-10-17T12:25:02Z",
       "regionRestriction": null
     },
     {
@@ -679,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 507,
+      "concurrentViewers": 259,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -703,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 527,
+      "concurrentViewers": 414,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
