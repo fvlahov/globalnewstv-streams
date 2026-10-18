@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T21:41:08.789Z",
+  "generatedAt": "2026-10-18T23:57:15.589Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3252,
+      "concurrentViewers": 2265,
       "startedAt": "2026-08-27T05:26:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "sjyBhg80_dI",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "France feels 'anger and shame' after riots, Macron says | The Wrap with Gillian Joseph",
-      "description": "Join Gillian Joseph on The Wrap, as protesters and police continue to clash in France. At least 400 have been arrested as what started as student protests has widened to unrest over cost of living.\n \nJoining us on the show: \n🔴 Deputy political editor at The Spectator, James Heale\n🔴 Editor of Poli…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sjyBhg80_dI/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sjyBhg80_dI/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sjyBhg80_dI/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 524,
-      "startedAt": "2026-10-18T20:58:54Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 134,
+      "concurrentViewers": 88,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2119,
+      "concurrentViewers": 1502,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 44,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 544,
+      "concurrentViewers": 567,
       "startedAt": "2026-10-16T22:04:00Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "8w65vTwKqac",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Sunday, October 18",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8w65vTwKqac/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8w65vTwKqac/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8w65vTwKqac/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 499,
-      "startedAt": "2026-10-18T11:58:19Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/4hA9l5Ikzcc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 472,
+      "concurrentViewers": 403,
       "startedAt": "2026-10-18T10:02:15Z",
       "regionRestriction": null
     },
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 631,
+      "concurrentViewers": 557,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 890,
+      "concurrentViewers": 1272,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 308,
+      "concurrentViewers": 277,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -314,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1242,
+      "concurrentViewers": 872,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -338,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6768,
+      "concurrentViewers": 4220,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -362,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 39,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -386,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 161,
+      "concurrentViewers": 136,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -410,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 23,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -434,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/LWpftQpcITE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 49,
       "startedAt": "2026-10-18T02:02:24Z",
       "regionRestriction": null
     },
@@ -458,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 46,
       "startedAt": "2026-10-18T10:44:54Z",
       "regionRestriction": null
     },
@@ -482,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/1UxGUTiHaj4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 13,
       "startedAt": "2026-10-18T15:05:41Z",
       "regionRestriction": null
     },
@@ -506,7 +458,7 @@
           "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": 20,
       "startedAt": "2026-10-18T16:28:04Z",
       "regionRestriction": null
     },
@@ -530,7 +482,7 @@
           "url": "https://i.ytimg.com/vi/xbNxhzPX2p0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 6,
       "startedAt": "2026-10-18T13:57:28Z",
       "regionRestriction": null
     },
@@ -554,7 +506,7 @@
           "url": "https://i.ytimg.com/vi/WKoT6S00nZA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8,
+      "concurrentViewers": 4,
       "startedAt": "2026-10-18T15:53:16Z",
       "regionRestriction": null
     },
@@ -578,7 +530,7 @@
           "url": "https://i.ytimg.com/vi/0yxRglmseXk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-18T18:12:04Z",
       "regionRestriction": null
     },
@@ -602,7 +554,7 @@
           "url": "https://i.ytimg.com/vi/ZZLrp9q9w4s/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-18T05:44:53Z",
       "regionRestriction": null
     },
@@ -626,7 +578,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 598,
+      "concurrentViewers": 522,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -650,7 +602,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 302,
+      "concurrentViewers": 1777,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -674,7 +626,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2810,
+      "concurrentViewers": 2637,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
