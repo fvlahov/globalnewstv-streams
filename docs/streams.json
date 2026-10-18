@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T08:59:24.236Z",
+  "generatedAt": "2026-10-18T13:09:54.911Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Ukraine war: Trump puts new Russia sanctions on hold a week after agreeing diesel deal with Putin - https://trib.al/gPtYC0h\n\n🔴 WATCH | Is Zelenskyy Trump's 'scape…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | France protests: 'Total mess' after country's worst riots in years - as 1,800 arrested - https://trib.al/9Dkn2Qq\n\n🔴 WATCH | 'It's anarchy': Shops looted and polic…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5891,
+      "concurrentViewers": 4852,
       "startedAt": "2026-08-27T05:26:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "oFq12Qclrfo",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Sunday Morning with... Ayesha Hazarika | Sunday 18 October",
-      "description": "Ayesha Hazarika hosts this week's show - joined by panellists Cathy Ashton, Malcolm Rifkind and Stephen Sackur.\n\nOn the show, Ayesha dives deep into the top political stories, looking beyond Westminster - to the issues and ideas shaping life across the UK. \n\nRuth speaks to: \n🔴 Health Secretary, Yv…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/oFq12Qclrfo/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/oFq12Qclrfo/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/oFq12Qclrfo/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 856,
-      "startedAt": "2026-10-18T07:27:05Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 297,
+      "concurrentViewers": 176,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3931,
+      "concurrentViewers": 2191,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 301,
+      "concurrentViewers": 124,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 325,
+      "concurrentViewers": 560,
       "startedAt": "2026-10-16T22:04:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8w65vTwKqac",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Sunday, October 18",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8w65vTwKqac/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8w65vTwKqac/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8w65vTwKqac/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1070,
+      "startedAt": "2026-10-18T11:58:19Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 241,
+      "concurrentViewers": 408,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -180,27 +180,27 @@
       }
     },
     {
-      "videoId": "Z7lQMpZIKaE",
+      "videoId": "4hA9l5Ikzcc",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump waives Russia sanctions, US weighs strikes on Iran, Katie Zacharia out & more",
-      "description": "President Donald ​Trump waived key Russia-related US sanctions and tariffs days before they were to take effect under a law he ‌signed last month, including duties on the country's goods and penalties for buying its oil and gas. In an executive order released by the White House on Friday, Trump sai…",
+      "title": "TOP STORIES: Pope Leo returns, Iran war latest, midterm elections",
+      "description": "Pope Leo XIV will lead Sunday prayers as he recovers from lung surgery. It will be the first time he will preside over the Angelus since his lung cancer surgery.\n\nIran's Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the Stra…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4hA9l5Ikzcc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4hA9l5Ikzcc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4hA9l5Ikzcc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 485,
-      "startedAt": "2026-10-17T12:38:43Z",
+      "concurrentViewers": 660,
+      "startedAt": "2026-10-18T10:02:15Z",
       "regionRestriction": null
     },
     {
@@ -223,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 169,
+      "concurrentViewers": 444,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1076,
+      "concurrentViewers": 1243,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 8,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 324,
+      "concurrentViewers": 408,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1481,
+      "concurrentViewers": 1363,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6606,
+      "concurrentViewers": 6909,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 100,
+      "concurrentViewers": 78,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -391,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 155,
+      "concurrentViewers": 193,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -415,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 18,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -439,84 +439,36 @@
           "url": "https://i.ytimg.com/vi/LWpftQpcITE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 170,
+      "concurrentViewers": 113,
       "startedAt": "2026-10-18T02:02:24Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_U5bS_Eweu8",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Riyadh Faces a Missile Threat; Can Saudi Air Defences Stop the Attack?",
-      "description": "Saudi Under Attack LIVE: Riyadh Faces a Missile Threat; Can Saudi Air Defences Stop the Attack? | WION Live\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investig…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_U5bS_Eweu8/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_U5bS_Eweu8/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_U5bS_Eweu8/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 45,
-      "startedAt": "2026-10-18T02:47:41Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "pI82UsGaaLQ",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Kolkata STAMPEDE LIVE: Durga Puja HORROR - At Least 17 Killed in Pandal Crowd Crush | LIVE",
-      "description": "Kolkata STAMPEDE LIVE: Durga Puja HORROR - At Least 17 Killed in Pandal Crowd Crush | LIVE\n\nAt least 17 people were killed and around 40 injured after a stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saptami evening.\n\nThe incident occurred as a large numbe…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pI82UsGaaLQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pI82UsGaaLQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pI82UsGaaLQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 6,
-      "startedAt": "2026-10-18T02:14:13Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "LIwXQPt6lxc",
+      "videoId": "c2v8PZyVWss",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: Kolkata Stampede Shocking Videos | Inside Videos Show Horror Of Kolkata Durga Puja Stampede",
-      "description": "Shocking visuals from the Kolkata Durga Puja stampede show scenes of panic as devotees scramble amid a sudden crowd surge at the packed pandal. The video captures the chaotic moments during the crush, with the tragedy reigniting questions over crowd management, safety arrangements and emergency res…",
+      "title": "CJP Protest LIVE | Abhijeet Dipke | \"We Won't Be Intimidated\" | Dipke Demands Release Of Ranka, Das",
+      "description": "CJP Founder President Abhijeet Dipke upon his release on bail has taken a defiant note and said that the party 'will not be intimidated'. He has also demanded the release of party members Saurav Das & Ashutosh Ranka. \n\n#AbhijeetDipke #CJP #CJPLIVE #ConditionalBail #DelhiCourt #CJPProtest #DelhiNews…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LIwXQPt6lxc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/c2v8PZyVWss/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LIwXQPt6lxc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/c2v8PZyVWss/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LIwXQPt6lxc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/c2v8PZyVWss/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 69,
-      "startedAt": "2026-10-18T08:36:34Z",
+      "concurrentViewers": 65,
+      "startedAt": "2026-10-18T11:46:40Z",
       "regionRestriction": null
     },
     {
-      "videoId": "zKL9s8tvPa4",
+      "videoId": "lNiO3AKA9Ag",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
       "title": "LIVE: France Protests | France Violence | Loot, Arson & Chaos On Streets Of Paris | Tear Gas Used",
       "description": "Live from Paris as French students continue their protests to demand better-resourced schools in demonstrations that have been shaking France for several weeks.\n\n#NDTVWorld #FranceProtest #FranceProtests #FranceLIVE #France #Paris #FranceUnrest #Protests #ProtestLIVE #FranceNews #BreakingNews #Pari…",
@@ -526,41 +478,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zKL9s8tvPa4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/lNiO3AKA9Ag/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zKL9s8tvPa4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lNiO3AKA9Ag/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zKL9s8tvPa4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/lNiO3AKA9Ag/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 62,
-      "startedAt": "2026-10-18T06:29:56Z",
+      "concurrentViewers": 24,
+      "startedAt": "2026-10-18T12:17:45Z",
       "regionRestriction": null
     },
     {
-      "videoId": "AoajLZ1hXO0",
+      "videoId": "uI3S2DPLcSk",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Kolkata Stampede LIVE News | West Bengal CM Suvendu Adhikari On The Durga Puja Stampede | 7 Arrested",
-      "description": "Kolkata Stampede LIVE News | CM Suvendu Adhikari On The Durga Puja Stampede | 7 Arrested\n\n#KolkataStampede #DurgaPuja #KolkataNews #WestBengal #NDTV #SuvenduAdhikari \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertai…",
+      "title": "Italy Protests LIVE | Anti-War And Cost-Of-Living Protests | Police Clash With Protesters In Milan",
+      "description": "Violent clashes erupted in Milan as protests against wars and rising living costs descended into looting, arson and confrontations with police. Masked demonstrators hurled stones and paving blocks at officers, while barricades were set ablaze near Piazza del Duomo. Police deployed water cannons and…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/AoajLZ1hXO0/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/uI3S2DPLcSk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/AoajLZ1hXO0/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/uI3S2DPLcSk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/AoajLZ1hXO0/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/uI3S2DPLcSk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
-      "startedAt": "2026-10-18T07:47:17Z",
+      "concurrentViewers": 23,
+      "startedAt": "2026-10-18T10:12:15Z",
       "regionRestriction": null
     },
     {
@@ -583,39 +535,15 @@
           "url": "https://i.ytimg.com/vi/ZZLrp9q9w4s/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 36,
       "startedAt": "2026-10-18T05:44:53Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "BeAE1DmNh7I",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Kolkata News LIVE: Kolkata's Chorbagan Sarbojanin Durga Puja,19 Killed, 35 Injured in Stampede",
-      "description": "A stampede at Kolkata's Chorbagan Sarbojanin Durga Puja pandal on Saptami evening prompted committee office-bearers to resign and triggered political reactions, with leaders expressing grief and calls for accountability and improved crowd management.\n\n#Kolkatastampede #suvenduadhikari #durgapujapan…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BeAE1DmNh7I/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BeAE1DmNh7I/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BeAE1DmNh7I/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 11,
-      "startedAt": "2026-10-18T05:41:07Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Kolkata Durga Puja Pandal Stampede | Gwalior Truck Accident | CJP | Hindi News",
-      "description": "कोलकाता के चोरबागान दुर्गा पंडाल में दिल दहलाने वाला हादसा- भगदड़ से 18 से ज्यादा लोगों की मौत...25 से अधिक घायल- राष्ट्रपति और पीएम मोदी ने जताई संवेदना\n\nभारी बारिश से पंडाल में भीड़ बढ़ने से मची भगदड़- अस्पताल जाकर सीएम शुभेंदु ने घायलों का जाना हाल- कोलकाता दौरे पर अमित शाह ने रद्द किए आज के कार…",
+      "title": "Aaj Tak LIVE TV: Round Table | Kolkata Puja Pandal Stampede | Gwalior Truck Accident | PM Modi |News",
+      "description": "केंद्रीय मंत्री किरेन रिजिजू ने भारत में 'रिजीम चेंज' की बात करने वालों पर निशाना साधते हुए कहा कि भारत में सत्ता परिवर्तन केवल चुनावों के जरिए हो सकता है, किसी बाहरी ताकत के जरिए नहीं. उन्होंने बांग्लादेश और फ्रांस में हुई हिंसा का जिक्र करते हुए भारत में भी ऐसी साजिश रचे जाने का आरोप लगाया.\n\nगोवा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -631,7 +559,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3249,
+      "concurrentViewers": 3712,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -655,32 +583,8 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 405,
+      "concurrentViewers": 530,
       "startedAt": "2026-10-14T11:40:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Gb8xBMwmLnQ",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: Shuzheng Valley's lakes turn turquoise, emerald and deep blue – Ep. 4",
-      "description": "Shuzheng Valley is one of Jiuzhaigou's best-known spots in southwest China's Sichuan Province. Its lakes nestle among forested mountains, with waters shifting between turquoise, emerald green and deep blue. Join CGTN for a live look.",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Gb8xBMwmLnQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Gb8xBMwmLnQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Gb8xBMwmLnQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 11,
-      "startedAt": "2026-10-18T08:04:06Z",
       "regionRestriction": null
     },
     {
@@ -703,7 +607,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1144,
+      "concurrentViewers": 678,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
