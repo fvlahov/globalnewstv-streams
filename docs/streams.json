@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T13:09:54.911Z",
+  "generatedAt": "2026-10-18T16:43:02.091Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4852,
+      "concurrentViewers": 4825,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 176,
+      "concurrentViewers": 177,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2191,
+      "concurrentViewers": 2335,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zhNWGgqgrTk",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Weekend | Sunday 18th October",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zhNWGgqgrTk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zhNWGgqgrTk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zhNWGgqgrTk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 577,
+      "startedAt": "2026-10-18T11:58:43Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 124,
+      "concurrentViewers": 125,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 560,
+      "concurrentViewers": 965,
       "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
@@ -146,38 +170,9 @@
           "url": "https://i.ytimg.com/vi/8w65vTwKqac/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1070,
+      "concurrentViewers": 1131,
       "startedAt": "2026-10-18T11:58:19Z",
       "regionRestriction": null
-    },
-    {
-      "videoId": "MMCqhcEgwLQ",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 408,
-      "startedAt": "2026-10-16T11:00:47Z",
-      "regionRestriction": {
-        "blocked": [
-          "AU",
-          "CA"
-        ]
-      }
     },
     {
       "videoId": "4hA9l5Ikzcc",
@@ -199,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/4hA9l5Ikzcc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 660,
+      "concurrentViewers": 637,
       "startedAt": "2026-10-18T10:02:15Z",
       "regionRestriction": null
     },
@@ -223,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 444,
+      "concurrentViewers": 805,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1243,
+      "concurrentViewers": 1030,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8,
+      "concurrentViewers": 14,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 408,
+      "concurrentViewers": 383,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -319,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1363,
+      "concurrentViewers": 1897,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -343,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6909,
+      "concurrentViewers": 7797,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -367,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 78,
+      "concurrentViewers": 66,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -391,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 193,
+      "concurrentViewers": 163,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -415,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 27,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -439,80 +434,128 @@
           "url": "https://i.ytimg.com/vi/LWpftQpcITE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 97,
       "startedAt": "2026-10-18T02:02:24Z",
       "regionRestriction": null
     },
     {
-      "videoId": "c2v8PZyVWss",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE | Abhijeet Dipke | \"We Won't Be Intimidated\" | Dipke Demands Release Of Ranka, Das",
-      "description": "CJP Founder President Abhijeet Dipke upon his release on bail has taken a defiant note and said that the party 'will not be intimidated'. He has also demanded the release of party members Saurav Das & Ashutosh Ranka. \n\n#AbhijeetDipke #CJP #CJPLIVE #ConditionalBail #DelhiCourt #CJPProtest #DelhiNews…",
-      "channelTitle": "NDTV",
+      "videoId": "UkuZsMRHSwE",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Houthis Rain Hell Fire On Aramco Headquarters; Middle East Tensions EXPLODE",
+      "description": "Saudi Under Attack Live: Houthis Rain Hell Fire On Aramco Headquarters; Middle East Tensions Explode\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investigators a…",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/c2v8PZyVWss/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/c2v8PZyVWss/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/c2v8PZyVWss/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 65,
-      "startedAt": "2026-10-18T11:46:40Z",
+      "concurrentViewers": 73,
+      "startedAt": "2026-10-18T10:44:54Z",
       "regionRestriction": null
     },
     {
-      "videoId": "lNiO3AKA9Ag",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: France Protests | France Violence | Loot, Arson & Chaos On Streets Of Paris | Tear Gas Used",
-      "description": "Live from Paris as French students continue their protests to demand better-resourced schools in demonstrations that have been shaking France for several weeks.\n\n#NDTVWorld #FranceProtest #FranceProtests #FranceLIVE #France #Paris #FranceUnrest #Protests #ProtestLIVE #FranceNews #BreakingNews #Pari…",
-      "channelTitle": "NDTV",
+      "videoId": "1UxGUTiHaj4",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Tiger Shroff Attacked LIVE: Gunshots Fired At Bollywood Actor in Juhu | WION",
+      "description": "Shots were fired at Bollywood actor Tiger Shroff’s vehicle in Mumbai’s Juhu area on Sunday. The actor escaped unharmed, while his driver and another person were reportedly injured. Mumbai Police have launched an investigation into the incident, with the circumstances and motive yet to be establishe…",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lNiO3AKA9Ag/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/1UxGUTiHaj4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lNiO3AKA9Ag/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/1UxGUTiHaj4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lNiO3AKA9Ag/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/1UxGUTiHaj4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
-      "startedAt": "2026-10-18T12:17:45Z",
+      "concurrentViewers": 30,
+      "startedAt": "2026-10-18T15:05:41Z",
       "regionRestriction": null
     },
     {
-      "videoId": "uI3S2DPLcSk",
+      "videoId": "4BoTqqQgg8E",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Italy Protests LIVE | Anti-War And Cost-Of-Living Protests | Police Clash With Protesters In Milan",
-      "description": "Violent clashes erupted in Milan as protests against wars and rising living costs descended into looting, arson and confrontations with police. Masked demonstrators hurled stones and paving blocks at officers, while barricades were set ablaze near Piazza del Duomo. Police deployed water cannons and…",
+      "title": "Tiger Shroff Firing LIVE | Video Of Tiger Shroff Moments After Attack | LIVE Updates",
+      "description": "Actor Tiger Shroff escaped unhurt after three men riding a motorcycle opened fire in Mumbai's Juhu area on Sunday evening, injuring his driver in the hand. An audio file that emerged after the incident featured a man claiming to represent the Lawrence Bishnoi gang taking responsibility for the atta…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/uI3S2DPLcSk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/uI3S2DPLcSk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/uI3S2DPLcSk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-18T10:12:15Z",
+      "concurrentViewers": 422,
+      "startedAt": "2026-10-18T16:28:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "WKoT6S00nZA",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Tiger Shroff Firing LIVE Updates | Eyewitness Karan Veer Mehra Reveals How Shooters Fired And Fled",
+      "description": "Actor Karan Veer Mehra, who was at the football ground when shots were fired outside, recounts the frightening moments after the incident involving Tiger Shroff’s car. He says he heard gunfire and saw people panic, later learning that the actor’s driver had been shot. Mehra says Tiger is safe and h…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WKoT6S00nZA/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WKoT6S00nZA/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WKoT6S00nZA/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 182,
+      "startedAt": "2026-10-18T15:53:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xbNxhzPX2p0",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Dharna Doomed! Neha Bora Dwarfing Rahul Gandhi And Abhijeet Dipke? | INDIA MATTERS LIVE",
+      "description": "Dharna Doomed! Neha Bora Dwarfing Rahul Gandhi And Abhijeet Dipke? | INDIA MATTERS LIVE\n\n#CockroachJantaParty #NehaBora #AbhijeetDipke #RahulGandhi \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much mor…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xbNxhzPX2p0/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xbNxhzPX2p0/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xbNxhzPX2p0/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 108,
+      "startedAt": "2026-10-18T13:57:28Z",
       "regionRestriction": null
     },
     {
@@ -535,15 +578,15 @@
           "url": "https://i.ytimg.com/vi/ZZLrp9q9w4s/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 15,
       "startedAt": "2026-10-18T05:44:53Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Round Table | Kolkata Puja Pandal Stampede | Gwalior Truck Accident | PM Modi |News",
-      "description": "केंद्रीय मंत्री किरेन रिजिजू ने भारत में 'रिजीम चेंज' की बात करने वालों पर निशाना साधते हुए कहा कि भारत में सत्ता परिवर्तन केवल चुनावों के जरिए हो सकता है, किसी बाहरी ताकत के जरिए नहीं. उन्होंने बांग्लादेश और फ्रांस में हुई हिंसा का जिक्र करते हुए भारत में भी ऐसी साजिश रचे जाने का आरोप लगाया.\n\nगोवा…",
+      "title": "Aaj Tak LIVE TV: Firing on Tiger Shroff | Puja Pandal Stampede | Rahul Gandhi | Devendra Fadnavis",
+      "description": "एक्टर टाइगर श्रॉफ को लेकर बड़ी खबर सामने आ रही है. रविवार शाम टाइगर पर जुहू में फायरिंग की गई है. इस अटैक में टाइगर बिल्कुल सुरक्षित हैं. लॉरेंस बिश्नोई गैंग ने सोशल मीडिया पर इस हमले की जिम्मेदारी ली है. विदेश में बैठे गैंगस्टर अनिल पंडित और हरमन संधु के नाम से फायरिंग की जिम्मेदारी ली गई है, जो क…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -559,7 +602,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3712,
+      "concurrentViewers": 6234,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -583,7 +626,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 530,
+      "concurrentViewers": 306,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -607,7 +650,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 678,
+      "concurrentViewers": 458,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
