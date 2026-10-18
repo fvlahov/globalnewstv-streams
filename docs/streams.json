@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T23:57:31.710Z",
+  "generatedAt": "2026-10-18T04:16:07.254Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2130,
+      "concurrentViewers": 2425,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 87,
+      "concurrentViewers": 67,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1730,
+      "concurrentViewers": 1359,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 11,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 588,
+      "concurrentViewers": 409,
       "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 259,
+      "concurrentViewers": 231,
       "startedAt": "2026-10-16T11:00:47Z",
       "regionRestriction": {
         "blocked": [
@@ -175,7 +175,7 @@
           "url": "https://i.ytimg.com/vi/Z7lQMpZIKaE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 755,
+      "concurrentViewers": 473,
       "startedAt": "2026-10-17T12:38:43Z",
       "regionRestriction": null
     },
@@ -199,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 660,
+      "concurrentViewers": 250,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -223,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 792,
+      "concurrentViewers": 813,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 17,
+      "concurrentViewers": 15,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 342,
+      "concurrentViewers": 312,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 823,
+      "concurrentViewers": 876,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4612,
+      "concurrentViewers": 3466,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 30,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 112,
+      "concurrentViewers": 127,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -391,56 +391,80 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 16,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "VirNXY9bYUw",
+      "videoId": "LWpftQpcITE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live",
-      "description": "Houthis Attack Yemen LIVE | Aden Airport Under FIRE: Houthi Missiles Land Near Runway | WION Live\n\nYemen’s internationally recognised government says the Houthis have launched missiles at the airport in Aden, a day after carrying out a deadly attack targeting the presidential palace in the port cit…",
+      "title": "Yemen Under ATTACK LIVE | Aden Airport Under FIRE as Houthi Missiles Land Near Runway | WION Live",
+      "description": "Yemen Under ATTACK LIVE | Aden Airport Under FIRE as Houthi Missiles Land Near Runway | WION Live\n\nYemen’s internationally recognised government says the Houthis have launched missiles at the airport in Aden, a day after carrying out a deadly attack targeting the presidential palace in the port cit…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/LWpftQpcITE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LWpftQpcITE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VirNXY9bYUw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LWpftQpcITE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
-      "startedAt": "2026-10-17T04:53:59Z",
+      "concurrentViewers": 249,
+      "startedAt": "2026-10-18T02:02:24Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ggrFxgn-9xE",
+      "videoId": "_U5bS_Eweu8",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live",
-      "description": "Saudi-Houthi Attack LIVE: Riyadh Under FIRE; Saudi Air Defence Put to The Ultimate Test | WION Live\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investigators ar…",
+      "title": "Saudi Under Attack LIVE: Riyadh Faces a Missile Threat; Can Saudi Air Defences Stop the Attack?",
+      "description": "Saudi Under Attack LIVE: Riyadh Faces a Missile Threat; Can Saudi Air Defences Stop the Attack? | WION Live\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investig…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/_U5bS_Eweu8/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/_U5bS_Eweu8/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ggrFxgn-9xE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/_U5bS_Eweu8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-17T02:06:22Z",
+      "concurrentViewers": 62,
+      "startedAt": "2026-10-18T02:47:41Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "pI82UsGaaLQ",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Kolkata STAMPEDE LIVE: Durga Puja HORROR - At Least 17 Killed in Pandal Crowd Crush | LIVE",
+      "description": "Kolkata STAMPEDE LIVE: Durga Puja HORROR - At Least 17 Killed in Pandal Crowd Crush | LIVE\n\nAt least 17 people were killed and around 40 injured after a stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saptami evening.\n\nThe incident occurred as a large numbe…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pI82UsGaaLQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pI82UsGaaLQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pI82UsGaaLQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 27,
+      "startedAt": "2026-10-18T02:14:13Z",
       "regionRestriction": null
     },
     {
@@ -463,56 +487,8 @@
           "url": "https://i.ytimg.com/vi/9gSGQ635HRY/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-17T16:05:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "9LL_bsgNSUA",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Kolkata Durga Puja Pandal Stampede LIVE Updates: 17 Dead | LIVE | West Bengal News",
-      "description": "A stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saturday left several people injured. The injured have been taken to hospital, where West Bengal Chief Minister Suvendu Adhikari and Chief Secretary Manoj Agarwal have arrived to take stock of the situation.…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9LL_bsgNSUA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 13,
-      "startedAt": "2026-10-17T16:43:50Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "4lnkeOPetxI",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Kolkata Durga Puja 2026 LIVE | Stampede In Kolkata Durga Puja Pandal, 17 Dead | Bengal LIVE Updates",
-      "description": "A stampede-like situation at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saturday left several people injured. The injured have been taken to hospital, where West Bengal Chief Minister Suvendu Adhikari and Chief Secretary Manoj Agarwal have arrived to take stock of the situation.…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4lnkeOPetxI/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 3,
-      "startedAt": "2026-10-17T16:50:03Z",
       "regionRestriction": null
     },
     {
@@ -535,32 +511,8 @@
           "url": "https://i.ytimg.com/vi/rSbc77z2nUw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 57,
       "startedAt": "2026-10-17T14:13:26Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "MzpxXRhDerw",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today",
-      "description": "LIVE: Stampede At Durga Puja Pandal At Kolkata, Police Issues Statement | Bengal News | India Today\nAt least 17 people were killed and around 40 injured after a stampede at the Chorbagan Sarbojanin Durga Puja pandal in North Kolkata on Saptami evening.\n\nThe incident occurred around 7.40 pm on Octob…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MzpxXRhDerw/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 9,
-      "startedAt": "2026-10-17T16:41:05Z",
       "regionRestriction": null
     },
     {
@@ -583,15 +535,15 @@
           "url": "https://i.ytimg.com/vi/152mUAip60Y/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-17T17:00:10Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Kolkata Durga Puja Pandal Stampede | CM Suvendu Adhikar | PM Modi | CJP| Hindi News",
-      "description": "दुर्गा पूजा की खुशियों के बीच कोलकाता में सप्तमी की शाम बड़ा हादसा हो गया. उत्तर कोलकाता के चोरबागान सार्वजनीन पूजा पंडाल में भारी भीड़ के दबाव के कारण पंडाल का एक हिस्सा ढह गया. इसके बाद वहां भगदड़ जैसी स्थिति बन गई. जानकारी के मुताबिक, हादसे में 17 लोगों की मौत हो गई, जबकि करीब 40 लोग घायल हैं.\n\n…",
+      "title": "Aaj Tak LIVE TV: Kolkata Durga Puja Pandal Stampede | Gwalior Truck Accident | CJP | Hindi News",
+      "description": "कोलकाता के चोरबागान दुर्गा पंडाल में दिल दहलाने वाला हादसा- भगदड़ से 18 से ज्यादा लोगों की मौत...25 से अधिक घायल- राष्ट्रपति और पीएम मोदी ने जताई संवेदना\n\nभारी बारिश से पंडाल में भीड़ बढ़ने से मची भगदड़- अस्पताल जाकर सीएम शुभेंदु ने घायलों का जाना हाल- कोलकाता दौरे पर अमित शाह ने रद्द किए आज के कार…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -607,8 +559,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 387,
+      "concurrentViewers": 3547,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "onU8aVRPJyY",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में देखिए | Kolkata Stampede | Gwalior Truck Accident",
+      "description": "कोलकाता के चोरबागान दुर्गा पंडाल में दिल दहलाने वाला हादसा...बारिश के बीच भगदड़ से 19 लोगों की मौत...25 से अधिक घायल- राष्ट्रपति और पीएम मोदी ने जताई संवेदना\n\nपंडाल में भगदड़ की जांच के लिए शुभेंदु सरकार ने हाईकोर्ट को लिखी चिट्ठी ...पूजा कमेटी के 12 लोग हिरासत में लिए गए... कोलकाता में अमित शाह ने…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/onU8aVRPJyY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/onU8aVRPJyY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/onU8aVRPJyY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 927,
+      "startedAt": "2026-10-18T03:01:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "5oyIjUfKVgs",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Kolkata Durga Pandal Stampede News LIVE: कोलकाता दुर्गा पंडाल में भगदड़ की वजह क्या रही? | Aaj Tak",
+      "description": "दुर्गा पूजा के बीच कोलकाता में सप्तमी की शाम बड़ा हादसा हो गया. उत्तर कोलकाता के चोरबागान सार्वजनीन पूजा पंडाल में भारी भीड़ के दबाव के बीच पंडाल का एक हिस्सा ढह गया, जिसके बाद भगदड़ जैसी स्थिति बन गई. जानकारी के मुताबिक, हादसे में 19 लोगों की मौत हो गई, जबकि दो दर्जन से ज्यादा लोग घायल हैं. घटना क…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5oyIjUfKVgs/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5oyIjUfKVgs/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5oyIjUfKVgs/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 348,
+      "startedAt": "2026-10-18T04:05:20Z",
       "regionRestriction": null
     },
     {
@@ -631,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 592,
+      "concurrentViewers": 728,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -655,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1928,
+      "concurrentViewers": 1057,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
