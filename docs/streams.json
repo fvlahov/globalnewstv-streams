@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T23:57:15.589Z",
+  "generatedAt": "2026-10-19T04:19:50.961Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2265,
+      "concurrentViewers": 3137,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 88,
+      "concurrentViewers": 97,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1502,
+      "concurrentViewers": 1820,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 44,
+      "concurrentViewers": 46,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 567,
+      "concurrentViewers": 421,
       "startedAt": "2026-10-16T22:04:00Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/4hA9l5Ikzcc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 403,
+      "concurrentViewers": 271,
       "startedAt": "2026-10-18T10:02:15Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 557,
+      "concurrentViewers": 199,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1272,
+      "concurrentViewers": 2258,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 277,
+      "concurrentViewers": 299,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 872,
+      "concurrentViewers": 1078,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -290,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4220,
+      "concurrentViewers": 4176,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -314,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 56,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -338,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 136,
+      "concurrentViewers": 168,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -362,32 +362,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 35,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "LWpftQpcITE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Yemen Under ATTACK LIVE | Aden Airport Under FIRE as Houthi Missiles Land Near Runway | WION Live",
-      "description": "Yemen Under ATTACK LIVE | Aden Airport Under FIRE as Houthi Missiles Land Near Runway | WION Live\n\nYemen’s internationally recognised government says the Houthis have launched missiles at the airport in Aden, a day after carrying out a deadly attack targeting the presidential palace in the port cit…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LWpftQpcITE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LWpftQpcITE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LWpftQpcITE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 49,
-      "startedAt": "2026-10-18T02:02:24Z",
       "regionRestriction": null
     },
     {
@@ -410,32 +386,8 @@
           "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 35,
       "startedAt": "2026-10-18T10:44:54Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "1UxGUTiHaj4",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Tiger Shroff Attacked LIVE: Gunshots Fired At Bollywood Actor in Juhu | WION",
-      "description": "Shots were fired at Bollywood actor Tiger Shroff’s vehicle in Mumbai’s Juhu area on Sunday. The actor escaped unharmed, while his driver and another person were reportedly injured. Mumbai Police have launched an investigation into the incident, with the circumstances and motive yet to be establishe…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1UxGUTiHaj4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1UxGUTiHaj4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1UxGUTiHaj4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 13,
-      "startedAt": "2026-10-18T15:05:41Z",
       "regionRestriction": null
     },
     {
@@ -458,104 +410,80 @@
           "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 46,
       "startedAt": "2026-10-18T16:28:04Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xbNxhzPX2p0",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Dharna Doomed! Neha Bora Dwarfing Rahul Gandhi And Abhijeet Dipke? | INDIA MATTERS LIVE",
-      "description": "Dharna Doomed! Neha Bora Dwarfing Rahul Gandhi And Abhijeet Dipke? | INDIA MATTERS LIVE\n\n#CockroachJantaParty #NehaBora #AbhijeetDipke #RahulGandhi \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much mor…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xbNxhzPX2p0/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xbNxhzPX2p0/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xbNxhzPX2p0/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 6,
-      "startedAt": "2026-10-18T13:57:28Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "WKoT6S00nZA",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Tiger Shroff Firing LIVE Updates | Eyewitness Karan Veer Mehra Reveals How Shooters Fired And Fled",
-      "description": "Actor Karan Veer Mehra, who was at the football ground when shots were fired outside, recounts the frightening moments after the incident involving Tiger Shroff’s car. He says he heard gunfire and saw people panic, later learning that the actor’s driver had been shot. Mehra says Tiger is safe and h…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WKoT6S00nZA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WKoT6S00nZA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WKoT6S00nZA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 4,
-      "startedAt": "2026-10-18T15:53:16Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "0yxRglmseXk",
+      "videoId": "VtR-NV54vMk",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rahul Gandhi LIVE: Congress MP Targets PM Modi, Amit Shah And CEC Gyanesh Kumar From Goa",
-      "description": "Rahul Gandhi LIVE: Congress MP Targets PM Modi, Amit Shah And CEC Gyanesh Kumar From Goa \n\n#rahulgandhi #goa #narendramodi #indiatodaylive #amitshah #gyaneshkumar \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll y…",
+      "title": "India Today TV LIVE: Gunfire At Actor Tiger Shroff’s Car | Kolkata Stampede | France Protest | CJP",
+      "description": "India Today TV LIVE: Gunfire At Actor Tiger Shroff’s Car | Kolkata Stampede | France Protest | CJP\n\n\nActor Tiger Shroff was shot at in Mumbai’s Juhu on Sunday while returning home after playing football, police sources said. He is safe and has not suffered any gunshot injury.\n\nAlmost 40 people were…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/0yxRglmseXk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/VtR-NV54vMk/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/0yxRglmseXk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/VtR-NV54vMk/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/0yxRglmseXk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/VtR-NV54vMk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
-      "startedAt": "2026-10-18T18:12:04Z",
+      "concurrentViewers": 103,
+      "startedAt": "2026-10-19T02:28:14Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ZZLrp9q9w4s",
+      "videoId": "617Lx9iSILs",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Abhijeet Dipke 1st Reaction After Being Released From Custody | CJP Protest | Jantar Mantar",
-      "description": "LIVE: Abhijeet Dipke 1st Reaction After Being Released From Custody | CJP Protest | Jantar Mantar \n#abhijeetdipke #nehabora #cjp #aisa #cjpprotest #cockroachjantaparty #jantarmantarprotest   #ashutoshranka #sauravdas #jantarmantar  #delhipolice #delhiprotest #tirangayatra #breakingnews #livenews #i…",
+      "title": "Gunfire At Actor Tiger Shroff’s Car LIVE: Tiger Shroff's Hand Burnt By Gunpowder | India Today",
+      "description": "Gunfire At Actor Tiger Shroff’s Car LIVE: Tiger Shroff's Hand Burnt By Gunpowder | India Today\n\n#tigershroff #eknathshinde #mumbai #juhu #firingincident  #tigershrofffiring #bollywoodnews #mumbaipolice #breakingnews #livenews #indiatodaylivestream \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ZZLrp9q9w4s/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/617Lx9iSILs/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ZZLrp9q9w4s/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/617Lx9iSILs/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ZZLrp9q9w4s/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/617Lx9iSILs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-18T05:44:53Z",
+      "concurrentViewers": 84,
+      "startedAt": "2026-10-19T01:38:34Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_Tci6guMRr8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Bollywood Vs Lawrence Bishnoi Gang | Tiger Shroff Firing Case | Mumbai Police",
+      "description": "LIVE: Bollywood Vs Lawrence Bishnoi Gang | Tiger Shroff Firing Case | Mumbai Police \n\n#tigershroff #lawrencebishnoi #mumbaipolice #bollywood #mumbaifiring #tigershrofffiring #crimebranch #breakingnews #livenews #indiatodaylive \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to ena…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_Tci6guMRr8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_Tci6guMRr8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_Tci6guMRr8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 68,
+      "startedAt": "2026-10-19T04:12:38Z",
       "regionRestriction": null
     },
     {
@@ -578,7 +506,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 522,
+      "concurrentViewers": 2738,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -602,8 +530,32 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1777,
+      "concurrentViewers": 1476,
       "startedAt": "2026-10-14T11:40:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bHEYNi1KsPY",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: Soothing view of Dali Old Town in SW China's Yunnan – Ep. 2",
+      "description": "Located between the majestic Cangshan Mountain and the serene Erhai Lake, Dali Old Town is a cherished ancient town that boasts a wealth of cultural heritage in southwest China's Yunnan Province. Steeped in the ethnic Bai culture, it draws visitors with its ancient streets, city gates, old towers a…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bHEYNi1KsPY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bHEYNi1KsPY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bHEYNi1KsPY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-10-19T03:37:44Z",
       "regionRestriction": null
     },
     {
@@ -626,7 +578,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2637,
+      "concurrentViewers": 1600,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
