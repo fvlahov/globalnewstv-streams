@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T17:04:57.585Z",
+  "generatedAt": "2026-10-19T21:40:02.211Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6059,
+      "concurrentViewers": 3323,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 287,
+      "concurrentViewers": 175,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3373,
+      "concurrentViewers": 1888,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 191,
+      "concurrentViewers": 60,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/7heH9lBSaD4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 12,
       "startedAt": "2026-10-19T13:07:53Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/Y5SxQTYfiwc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4127,
+      "concurrentViewers": 2945,
       "startedAt": "2026-10-19T11:01:46Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/WPgzfzXcZ9E/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2404,
+      "concurrentViewers": 1083,
       "startedAt": "2026-10-19T09:57:54Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/Hnydsw422yQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1046,
+      "concurrentViewers": 571,
       "startedAt": "2026-10-19T11:00:35Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/SEjXlVZ7TYc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1632,
+      "concurrentViewers": 1058,
       "startedAt": "2026-10-19T10:34:28Z",
       "regionRestriction": null
     },
@@ -242,32 +242,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1773,
+      "concurrentViewers": 1280,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "En_kW2s828g",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Anti-government protests in Albania",
-      "description": "Watch live from Tirana as protests grow against Albania's government. Students have joined the so-called flamingo movement that has rallied for months for Prime Minister Edi Rama to resign.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/En_kW2s828g/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/En_kW2s828g/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/En_kW2s828g/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 889,
-      "startedAt": "2026-10-19T16:40:52Z",
       "regionRestriction": null
     },
     {
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6621,
+      "concurrentViewers": 3005,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 23,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -338,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 760,
+      "concurrentViewers": 463,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -362,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2034,
+      "concurrentViewers": 1305,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -386,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7614,
+      "concurrentViewers": 7092,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -410,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 121,
+      "concurrentViewers": 75,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -434,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 227,
+      "concurrentViewers": 149,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -458,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -482,7 +458,7 @@
           "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 416,
+      "concurrentViewers": 315,
       "startedAt": "2026-10-19T08:34:54Z",
       "regionRestriction": null
     },
@@ -506,32 +482,8 @@
           "url": "https://i.ytimg.com/vi/4JcSGuMgu8M/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 87,
+      "concurrentViewers": 22,
       "startedAt": "2026-10-19T15:33:33Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "jOFyHD4LNDE",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "France Protests LIVE | Europe To India: Global Plot Or Consiracy Theory",
-      "description": "France Protests LIVE | Europe To India: Global Plot Or Consiracy Theory \n\n#France #Albania #Argentina #UniversityProtests #EducationCrisis #JavierMilei #GlobalProtests #Protesters #NDTVWorld \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest update…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jOFyHD4LNDE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jOFyHD4LNDE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jOFyHD4LNDE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 45,
-      "startedAt": "2026-10-19T14:30:34Z",
       "regionRestriction": null
     },
     {
@@ -554,7 +506,7 @@
           "url": "https://i.ytimg.com/vi/LrdY14IH8Ww/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 1,
       "startedAt": "2026-10-19T13:36:52Z",
       "regionRestriction": null
     },
@@ -578,32 +530,8 @@
           "url": "https://i.ytimg.com/vi/cQalO8SAAg0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 100,
+      "concurrentViewers": 8,
       "startedAt": "2026-10-19T16:48:10Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "VtR-NV54vMk",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Gunfire At Actor Tiger Shroff’s Car | Kolkata Stampede | France Protest | CJP",
-      "description": "India Today TV LIVE: Gunfire At Actor Tiger Shroff’s Car | Kolkata Stampede | France Protest | CJP\n\n\nActor Tiger Shroff was shot at in Mumbai’s Juhu on Sunday while returning home after playing football, police sources said. He is safe and has not suffered any gunshot injury.\n\nAlmost 40 people were…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VtR-NV54vMk/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VtR-NV54vMk/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VtR-NV54vMk/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 39,
-      "startedAt": "2026-10-19T02:28:14Z",
       "regionRestriction": null
     },
     {
@@ -626,7 +554,7 @@
           "url": "https://i.ytimg.com/vi/VXwBzkhkUDw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-19T14:32:41Z",
       "regionRestriction": null
     },
@@ -650,7 +578,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6189,
+      "concurrentViewers": 544,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -674,7 +602,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 357,
+      "concurrentViewers": 339,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -698,7 +626,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 550,
+      "concurrentViewers": 2934,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
