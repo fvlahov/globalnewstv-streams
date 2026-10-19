@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T04:19:50.961Z",
+  "generatedAt": "2026-10-19T10:08:53.325Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3137,
+      "concurrentViewers": 7710,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 97,
+      "concurrentViewers": 310,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1820,
+      "concurrentViewers": 3440,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "EHSS5Q4Rfmk",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Britain's Newsroom | Monday 19th October",
+      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EHSS5Q4Rfmk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EHSS5Q4Rfmk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EHSS5Q4Rfmk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1397,
+      "startedAt": "2026-10-19T08:25:20Z",
       "regionRestriction": null
     },
     {
@@ -98,8 +122,80 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 495,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4fPCvM5Hj78",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "Sébastien Lecornu gives briefing after crisis meeting on violent protests – watch live",
+      "description": "Subscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://support.theguardian.com/\n\nSign up to the Guardian's free new daily newsletter…",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4fPCvM5Hj78/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4fPCvM5Hj78/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4fPCvM5Hj78/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-10-19T09:49:31Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "XWudIIQcKOQ",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Kenyan court gives judgement in case of Paul Mackenzie",
+      "description": "Kenyan court to give judgement in case of Paul Mackenzie, the leader of a doomsday cult.\n\n#PaulMackenzie #court #verdict #GoodNewsInternationalChurch #doomsday #cult #live #Reuters #news\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XWudIIQcKOQ/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XWudIIQcKOQ/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XWudIIQcKOQ/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 21,
+      "startedAt": "2026-10-19T06:18:44Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kIWcF6wemeI",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Global Security Forum in Doha, Qatar",
+      "description": "Qatar holds the annual Global Security Forum in Doha, where Qatar's PM, Sheikh Mohammed bin Abdulrahman Al Thani, is expected to give the opening speech\n\n#GSF2026 #GlobalSecurityForum #Doha #Qatar #live #Reuters #news\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kIWcF6wemeI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kIWcF6wemeI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kIWcF6wemeI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-10-19T06:42:32Z",
       "regionRestriction": null
     },
     {
@@ -122,8 +218,32 @@
           "url": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 421,
+      "concurrentViewers": 966,
       "startedAt": "2026-10-16T22:04:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "WPgzfzXcZ9E",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Monday, October 19",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WPgzfzXcZ9E/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WPgzfzXcZ9E/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WPgzfzXcZ9E/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 311,
+      "startedAt": "2026-10-19T09:57:54Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/4hA9l5Ikzcc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 271,
+      "concurrentViewers": 296,
       "startedAt": "2026-10-18T10:02:15Z",
       "regionRestriction": null
     },
@@ -170,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 199,
+      "concurrentViewers": 161,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -194,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2258,
+      "concurrentViewers": 6374,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -218,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 21,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -242,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 299,
+      "concurrentViewers": 414,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -266,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1078,
+      "concurrentViewers": 1679,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -290,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4176,
+      "concurrentViewers": 8053,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -314,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 56,
+      "concurrentViewers": 167,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -338,7 +458,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 168,
+      "concurrentViewers": 233,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -362,56 +482,152 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 51,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "UkuZsMRHSwE",
+      "videoId": "YFym88sgwaQ",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Rain Hell Fire On Aramco Headquarters; Middle East Tensions EXPLODE",
-      "description": "Saudi Under Attack Live: Houthis Rain Hell Fire On Aramco Headquarters; Middle East Tensions Explode\n\nSaudi Arabia faces questions over its air defences after Houthi strikes on Riyadh airport killed 18 and wounded over 300. Why did public warnings reportedly stop before the attacks? Investigators a…",
+      "title": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION",
+      "description": "Russia-Ukraine War LIVE: Kyiv Under Attack As Russia Launches Wave Of Jet Drones | WION\n\nRussia has attacked Kyiv's two key bridges four days in a row, aiming to paralyse the Ukrainian capital. Ukraine has struggled to intercept Russia's jet-powered drones. Meanwhile, Ukraine accused Russia of atta…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/YFym88sgwaQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/YFym88sgwaQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/UkuZsMRHSwE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/YFym88sgwaQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 35,
-      "startedAt": "2026-10-18T10:44:54Z",
+      "concurrentViewers": 84,
+      "startedAt": "2026-10-19T07:09:33Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4BoTqqQgg8E",
+      "videoId": "DVqag3VfFaw",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Arabia Under Attack LIVE : CCTV Footage Shows Houthis BOMBED Riyadh Airport | WION",
+      "description": "Saudi Arabia Under Attack LIVE : CCTV Footage Shows Houthis BOMBED Riyadh Airport | WION  \n\n\nCCTV footage purportedly shows the moment Houthi attacks targeted Saudi airports. The footage offers a glimpse into the reported strikes as tensions in the region continue to escalate. The attacks have rene…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DVqag3VfFaw/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DVqag3VfFaw/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DVqag3VfFaw/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 69,
+      "startedAt": "2026-10-19T07:42:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "1Y7pWtYehv4",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Italy Protest LIVE:  Protests Turn Violent As Police Clash With Demonstrators In Milan | WION",
+      "description": "Italian police clashed with protesters in Milan as demonstrations turned violent. Officers faced unrest on the streets amid growing anger over rising living costs and public services, with tensions escalating as authorities moved to control the crowds.\n\n\n#italy #milan #protest #wion #italyprotest #…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 62,
+      "startedAt": "2026-10-19T08:34:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "dPBF4tdgJPw",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Tiger Shroff Firing LIVE | Video Of Tiger Shroff Moments After Attack | LIVE Updates",
-      "description": "Actor Tiger Shroff escaped unhurt after three men riding a motorcycle opened fire in Mumbai's Juhu area on Sunday evening, injuring his driver in the hand. An audio file that emerged after the incident featured a man claiming to represent the Lawrence Bishnoi gang taking responsibility for the atta…",
+      "title": "Tiger Shroff Firing Case | New Details Emerge In The Shooting Case | Kota Police Press Conference",
+      "description": "Three shooters allegedly involved in the assassination attempt on Bollywood actor Tiger Shroff have been caught at Rajasthan's Kota railway station while travelling by train.\n\nTwo of the accused are from Haryana and one is from Bihar. All three are said to be associated with the Lawrence Bishnoi ga…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/dPBF4tdgJPw/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/dPBF4tdgJPw/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4BoTqqQgg8E/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/dPBF4tdgJPw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 46,
-      "startedAt": "2026-10-18T16:28:04Z",
+      "concurrentViewers": 187,
+      "startedAt": "2026-10-19T09:19:55Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "SmRa4280D70",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP News LIVE | Sourav Das, Ashutosh Ranka Taken to Mandir Marg Police Station",
+      "description": "CJP leaders Sourav Das and Ashutosh Ranka were brought to the Mandir Marg Police Station amid ongoing developments surrounding the protest movement. \n\n#SouravDas #AshutoshRanka #CJP #MandirMarg #DelhiPolice #Detention #ProtestNews #BreakingNews #IndiaNews #LatestNews #PoliticalNews #Delhi \n\nAbout N…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SmRa4280D70/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SmRa4280D70/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SmRa4280D70/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 108,
+      "startedAt": "2026-10-19T09:41:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NXR7hBMaiao",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Tiger Shroff Attack LIVE | Full Raw CCTV Of Tiger Shroff's Firing Incident | Lawrence Gang | Mumbai",
+      "description": "Tiger Shroff Attack LIVE | Full Raw CCTV Of Tiger Shroff's Firing Incident | Lawrence Gang | Mumbai\n\n#TigerShroff #SalmanKhan #EknathShinde #SalmanKhan #LawrenceBishnoi \n\n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, ente…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NXR7hBMaiao/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NXR7hBMaiao/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NXR7hBMaiao/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 49,
+      "startedAt": "2026-10-19T08:22:50Z",
       "regionRestriction": null
     },
     {
@@ -434,7 +650,7 @@
           "url": "https://i.ytimg.com/vi/VtR-NV54vMk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 103,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-19T02:28:14Z",
       "regionRestriction": null
     },
@@ -458,39 +674,15 @@
           "url": "https://i.ytimg.com/vi/617Lx9iSILs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 84,
+      "concurrentViewers": 19,
       "startedAt": "2026-10-19T01:38:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_Tci6guMRr8",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Bollywood Vs Lawrence Bishnoi Gang | Tiger Shroff Firing Case | Mumbai Police",
-      "description": "LIVE: Bollywood Vs Lawrence Bishnoi Gang | Tiger Shroff Firing Case | Mumbai Police \n\n#tigershroff #lawrencebishnoi #mumbaipolice #bollywood #mumbaifiring #tigershrofffiring #crimebranch #breakingnews #livenews #indiatodaylive \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to ena…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_Tci6guMRr8/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_Tci6guMRr8/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_Tci6guMRr8/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 68,
-      "startedAt": "2026-10-19T04:12:38Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Firing on Tiger Shroff | Devendra Fadnavis | Puja Pandal Stampede | Rahul Gandhi",
-      "description": "एक्टर टाइगर श्रॉफ को लेकर बड़ी खबर सामने आ रही है. रविवार शाम टाइगर पर जुहू में फायरिंग की गई है. इस अटैक में टाइगर बिल्कुल सुरक्षित हैं. लॉरेंस बिश्नोई गैंग ने सोशल मीडिया पर इस हमले की जिम्मेदारी ली है. विदेश में बैठे गैंगस्टर अनिल पंडित और हरमन संधु के नाम से फायरिंग की जिम्मेदारी ली गई है, जो क…",
+      "title": "Aaj Tak LIVE TV: Firing on Tiger Shroff | Lawrence Bishnoi | Rahul Ganhi | PM Modi | Hindi News",
+      "description": "टाइगर श्रॉफ पर हमला करने वाले तीनों शूटर राजस्थान के कोटा से गिरफ्तार..अंधेरी में बाइक छोड़ पुणे-जयपुर ट्रेन से गए कोटा..जल्द लाया जा सकता है मुंबई..दो हरियाणा और एक बिहार का रहने वाला\n\nलॉरेंस गैंग ने ली है टाइगर पर हमले की ज़िम्मेदारी..महाराष्ट्र के सीएम देवेंद्र फडणवीस का दावा- गैंग कोई भी हो बख्…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -506,7 +698,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2738,
+      "concurrentViewers": 4267,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -530,32 +722,8 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1476,
+      "concurrentViewers": 894,
       "startedAt": "2026-10-14T11:40:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "bHEYNi1KsPY",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: Soothing view of Dali Old Town in SW China's Yunnan – Ep. 2",
-      "description": "Located between the majestic Cangshan Mountain and the serene Erhai Lake, Dali Old Town is a cherished ancient town that boasts a wealth of cultural heritage in southwest China's Yunnan Province. Steeped in the ethnic Bai culture, it draws visitors with its ancient streets, city gates, old towers a…",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bHEYNi1KsPY/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bHEYNi1KsPY/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bHEYNi1KsPY/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 10,
-      "startedAt": "2026-10-19T03:37:44Z",
       "regionRestriction": null
     },
     {
@@ -578,7 +746,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1600,
+      "concurrentViewers": 1613,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
