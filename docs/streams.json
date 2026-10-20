@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T15:45:36.736Z",
+  "generatedAt": "2026-10-20T19:52:18.488Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5470,
+      "concurrentViewers": 3355,
       "startedAt": "2026-08-27T05:26:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cY-6Ari01EE",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Thousands continue to protest across Albania",
-      "description": "Live coverage of ongoing anti-government protests on the streets of Tirana. \n\nViolence has escalated after high school and university students joined a broader anti-government movement calling for Socialist Prime Minister Edi Rama’s resignation. \n\nThe latest protests follow months of rallies in Tir…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cY-6Ari01EE/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cY-6Ari01EE/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cY-6Ari01EE/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 195,
-      "startedAt": "2026-10-20T09:54:11Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 229,
+      "concurrentViewers": 198,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2561,
+      "concurrentViewers": 2259,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Gza0St4vuvU",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Martin Daubney | Tuesday 20th October",
-      "description": "Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Gza0St4vuvU/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Gza0St4vuvU/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Gza0St4vuvU/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1313,
-      "startedAt": "2026-10-20T14:07:36Z",
       "regionRestriction": null
     },
     {
@@ -146,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 232,
+      "concurrentViewers": 77,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "-Ry5iiSvDak",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Overnight curfew begins in France's Marseille after protests",
+      "description": "The scene in Marseille, France, as overnight curfews in violence-hit zones of the country's biggest cities helped bring respite from its worst unrest in years, the government said, ahead of more protests planned for the weekend.\n \n#marseille #france #protests #curfew #politics\n\nKeep up with the lat…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-Ry5iiSvDak/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-Ry5iiSvDak/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-Ry5iiSvDak/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 11,
+      "startedAt": "2026-10-20T19:50:45Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/9995vhcrF60/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4657,
+      "concurrentViewers": 1912,
       "startedAt": "2026-10-20T11:00:16Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/ZEcqTYwCkaA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2641,
+      "concurrentViewers": 1161,
       "startedAt": "2026-10-20T09:59:21Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/3YNSR2Xzjnw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1036,
+      "concurrentViewers": 620,
       "startedAt": "2026-10-20T10:59:22Z",
       "regionRestriction": {
         "blocked": [
@@ -231,7 +207,7 @@
       "videoId": "ojne_jCYEZ8",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
       "title": "LIVE NEWS: Trump-Vance announcement, Rubio in India, Trump rallies in NC, France protests & more",
-      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
+      "description": "1:30PM ET: President Donald Trump and Vice President JD Vance are expected to announce a $25 million initiative Tuesday encouraging Americans to report suspected fraud in the federal government. The program is part of an expanded effort by the administration to crack down on the misuse of federal p…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -247,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/ojne_jCYEZ8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2021,
+      "concurrentViewers": 1490,
       "startedAt": "2026-10-20T10:06:15Z",
       "regionRestriction": null
     },
@@ -271,32 +247,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1499,
+      "concurrentViewers": 1396,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5UGnNjl-YQ4",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Anti-government protests in Albania",
-      "description": "Live from Tirana as anti-government protests continue in the Albanian capital. Clashes with police have escalated over a week after high school and university students joined the so-called flamingo movement that has rallied for months for Prime Minister Edi Rama to resign.\n\n#albania #protest #live",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5UGnNjl-YQ4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5UGnNjl-YQ4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5UGnNjl-YQ4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 981,
-      "startedAt": "2026-10-20T09:46:52Z",
       "regionRestriction": null
     },
     {
@@ -319,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 7661,
+      "concurrentViewers": 4973,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -343,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 50,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -367,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 496,
+      "concurrentViewers": 462,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -391,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1427,
+      "concurrentViewers": 1420,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -415,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6251,
+      "concurrentViewers": 5925,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -439,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 88,
+      "concurrentViewers": 89,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -463,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 204,
+      "concurrentViewers": 150,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -487,32 +439,8 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 29,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "jG0-4GNdcEw",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "LIVE: Muslims, Leftists in Control of Paris? Trump Raises Muslim Threat As Youth Fury Spreads | WION",
-      "description": "Donald Trump is blaming immigration for the France unrest. He claims Paris is 'going to be a Muslim city very soon'. Meanwhile, unrest is spreading across different parts of Europe.\n\n#europe #france #protest #paris #trump #muslim #gravitas #live #franceprotest #wion \n\nAbout Channel: \n\nWION The Worl…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jG0-4GNdcEw/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jG0-4GNdcEw/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jG0-4GNdcEw/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 69,
-      "startedAt": "2026-10-20T15:29:44Z",
       "regionRestriction": null
     },
     {
@@ -535,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/_-Ybm_mhlGQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-20T14:42:40Z",
       "regionRestriction": null
     },
@@ -559,8 +487,32 @@
           "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 3,
       "startedAt": "2026-10-19T08:34:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qzCp76qlUh4",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Rahul Gandhi Flies Out As Political Storm Rages At Home",
+      "description": "A fresh political battle has erupted over Rahul Gandhi's reported foreign trip, with the BJP questioning his absence at a time of heightened political confrontation and ongoing protests. The Congress has defended its leader, saying Rahul Gandhi routinely uses overseas visits to engage with intellec…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qzCp76qlUh4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qzCp76qlUh4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qzCp76qlUh4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 48,
+      "startedAt": "2026-10-20T18:29:39Z",
       "regionRestriction": null
     },
     {
@@ -583,8 +535,32 @@
           "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 181,
+      "concurrentViewers": 31,
       "startedAt": "2026-10-20T01:28:58Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "-mV6NWYsMyI",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "FULL SPEECH | Secretary Of State Rubio Praises India's Global Rise, Calls Partnership Extraordinary",
+      "description": "US Secretary of State Marco Rubio delivered a strong endorsement of India-US ties during the Freedom 250 Reception in Mumbai, describing the relationship as one of the most significant partnerships of the 21st century. Acknowledging that no two countries are perfectly aligned on every issue, Rubio …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-mV6NWYsMyI/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-mV6NWYsMyI/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-mV6NWYsMyI/hqdefault.jpg"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-10-20T19:45:07Z",
       "regionRestriction": null
     },
     {
@@ -607,7 +583,7 @@
           "url": "https://i.ytimg.com/vi/w5qjHxFGmMQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 226,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-20T02:13:17Z",
       "regionRestriction": null
     },
@@ -631,15 +607,15 @@
           "url": "https://i.ytimg.com/vi/Ryph8XiF7Uc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 68,
+      "concurrentViewers": 12,
       "startedAt": "2026-10-20T03:29:20Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Black & White| Ravana Dahan | PM Modi | Amit Shah|Dussehra |RSS | BJP |Vijayadashmi",
-      "description": "टाइगर श्रॉफ फायरिंग मामले में मुंबई पुलिस का एक्शन, तीनों आरोपियों को कोटा से लेकर रवाना, हत्या की कोशिश का केस दर्ज- सोशल मीडिया पोस्ट की जांच \n\nपिरिसीमन बिल को लेकर सत्ता-विपक्ष में लेटर वार, खरगे की चिट्ठी का रिजिजू ने दिया जवाब- कहा-कांग्रेस करे साकारात्मक राजनीति \n\nयूपी की लड़ाई में एसपी-बीजेप…",
+      "title": "Aaj Tak LIVE TV: Ravana Dahan | Marco rubio india visit| PM Modi | Amit Shah| Dussehra | RSS | BJP",
+      "description": "26/11 हमले के मास्टरमाइंड तहव्वुर राणा के प्रत्यर्पण पर एस जयशंकर ने अमेरिका को दिया धन्यवाद, रूबियो से मुलाकात में आतंकवाद को लेकर जीरो टॉलरेंस पर दिया जोर \n\nविजयादशमी पर बोले प्रधानमंत्री मोदी, मां भारती के दुश्मनों को पहचानने की जरुरत-सच्चाई और मानवता की हमेशा होती है जीत-राम से राष्ट्र और देव स…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -655,32 +631,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 12966,
+      "concurrentViewers": 1019,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "J5jVLpKfT_0",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "UP Election 2027 News LIVE : यूपी चुनाव पर बड़ी खबर | CM Yogi | BJP | Akhilesh Yadav |Samajwadi Party",
-      "description": "UP Election 2027 News LIVE : यूपी चुनाव पर बड़ी खबर | CM Yogi | BJP | Akhilesh Yadav |Samajwadi Party\n\nउत्तर प्रदेश विधानसभा चुनाव से पहले सियासी हलचल तेज हो गई है. चुनावी तारीखों के ऐलान से पहले ही समाजवादी पार्टी ने अपनी तैयारियां तेज कर दी हैं. सपा प्रमुख अखिलेश यादव जल्द ही पार्टी का घोषणापत्र ज…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/J5jVLpKfT_0/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/J5jVLpKfT_0/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/J5jVLpKfT_0/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 1202,
-      "startedAt": "2026-10-20T10:06:47Z",
       "regionRestriction": null
     },
     {
@@ -703,7 +655,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 415,
+      "concurrentViewers": 311,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -727,7 +679,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 585,
+      "concurrentViewers": 1863,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
