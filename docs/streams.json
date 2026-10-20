@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T00:55:55.196Z",
+  "generatedAt": "2026-10-20T05:44:58.169Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2083,
+      "concurrentViewers": 4615,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 191,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1229,
+      "concurrentViewers": 3697,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "BUgbKI_EiFY",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Monday 18th October",
-      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BUgbKI_EiFY/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BUgbKI_EiFY/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BUgbKI_EiFY/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 270,
-      "startedAt": "2026-10-19T22:53:28Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 297,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,14 +122,14 @@
           "url": "https://i.ytimg.com/vi/7heH9lBSaD4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 6,
       "startedAt": "2026-10-19T13:07:53Z",
       "regionRestriction": null
     },
     {
       "videoId": "QltvipOViT0",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 19",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -170,56 +146,8 @@
           "url": "https://i.ytimg.com/vi/QltvipOViT0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1419,
+      "concurrentViewers": 580,
       "startedAt": "2026-10-19T21:58:22Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "FH6AT-WpDQg",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 19",
-      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/FH6AT-WpDQg/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/FH6AT-WpDQg/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/FH6AT-WpDQg/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 87,
-      "startedAt": "2026-10-19T23:58:28Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "WPgzfzXcZ9E",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Monday, October 19",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WPgzfzXcZ9E/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WPgzfzXcZ9E/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WPgzfzXcZ9E/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 637,
-      "startedAt": "2026-10-19T09:57:54Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/E4zB_LgD-T0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 398,
+      "concurrentViewers": 251,
       "startedAt": "2026-10-19T22:59:33Z",
       "regionRestriction": {
         "blocked": [
@@ -271,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/SEjXlVZ7TYc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 811,
+      "concurrentViewers": 412,
       "startedAt": "2026-10-19T10:34:28Z",
       "regionRestriction": null
     },
@@ -295,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 862,
+      "concurrentViewers": 262,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -319,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1380,
+      "concurrentViewers": 3064,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -343,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 22,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -367,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 358,
+      "concurrentViewers": 402,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -391,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 935,
+      "concurrentViewers": 1593,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -415,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4099,
+      "concurrentViewers": 6152,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -439,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 85,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -463,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 157,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -487,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 29,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -511,104 +439,152 @@
           "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 226,
+      "concurrentViewers": 231,
       "startedAt": "2026-10-19T08:34:54Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4JcSGuMgu8M",
+      "videoId": "qeSZLhUHq4c",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Mumbai Police On Tiger Shroff Attack | How Police Cracked The Tiger Shroff Shooting Case",
-      "description": "Three accused have been arrested in connection with the firing on Tiger Shroff's car, with Mumbai Police revealing that a multi-state operation involving Rajasthan, Gujarat and Delhi Police helped track them down. Investigators used CCTV footage, technical analysis and field intelligence to trace t…",
+      "title": "NDTV LIVE: Tiger Shroff Attack | Paris Protest | CJP | Kolkata Stampede | Lawrence Bishnoi",
+      "description": "Mumbai Police are investigating the purchase of a motorcycle on September 11 as a potential lead in the shooting targeting Bollywood actor Tiger Shroff. The motorcycle was traced to the Andheri West area of Mumbai, a day after the shooting incident which took place in the Juhu area. The police are …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4JcSGuMgu8M/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4JcSGuMgu8M/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4JcSGuMgu8M/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 17,
-      "startedAt": "2026-10-19T15:33:33Z",
+      "concurrentViewers": 128,
+      "startedAt": "2026-10-20T01:28:58Z",
       "regionRestriction": null
     },
     {
-      "videoId": "LrdY14IH8Ww",
+      "videoId": "QAMnq1fnixs",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Saurav Das News  | Ashutosh Ranka News | Court Extends Saurav Das And Ashutosh Ranka's Custody",
-      "description": "The judicial custody of Cockroach Janta Party (CJP) leaders Ashutosh Ranka and Saurav Das was extended by two days today. The two were initially handed a five-day judicial custody on October 14. They were arrested for entering Delhi's Jantar Mantar, which was recently denotified as a designated pro…",
+      "title": "Tiger Shroff Firing: How Shooters Planned Tiger Shroff's Attack | Lawrence Bishnoi | Anil Pandit",
+      "description": "Mumbai Police are investigating the purchase of a motorcycle on September 11 as a potential lead in the shooting targeting Bollywood actor Tiger Shroff. The motorcycle was traced to the Andheri West area of Mumbai, a day after the shooting incident which took place in the Juhu area. The police are …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LrdY14IH8Ww/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/QAMnq1fnixs/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LrdY14IH8Ww/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/QAMnq1fnixs/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LrdY14IH8Ww/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/QAMnq1fnixs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-10-19T13:36:52Z",
+      "concurrentViewers": 79,
+      "startedAt": "2026-10-20T04:42:49Z",
       "regionRestriction": null
     },
     {
-      "videoId": "VXwBzkhkUDw",
+      "videoId": "gxWR3u1QbdY",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP Updates LIVE | Delhi Police Transfers Trespassing Case Against CJP Leaders To Crime Branch",
+      "description": "Delhi Police on Monday transferred the trespassing case against Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka to its Crime Branch unit, shortly after their judicial custody was extended by two days, according to police sources.\n\nAn FIR was registered at Connaught Place police st…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gxWR3u1QbdY/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gxWR3u1QbdY/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gxWR3u1QbdY/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 57,
+      "startedAt": "2026-10-20T03:17:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Ryph8XiF7Uc",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "France Unrest Live: Macron Says Extremist Speading Anarchy | Trump | EU | CJP | 'Regime Change'",
-      "description": "France Unrest Live: Macron Says Extremist Speading Anarchy | Trump | EU | CJP | 'Regime Change'  \n\n#FranceUnrest #EmmanuelMacron #FranceProtests #indiatodaylivestream  #DonaldTrump #EuropeanUnion #EU #PoliticalUnrest #RegimeChange #WorldNews #GlobalPolitics #IndiaToday #IndiaTodayNews\n\n\nSubscribe t…",
+      "title": "India Today TV LIVE: France Imposes Curfew | Dussehra 2026 |Tiger Shroff Shooting | PM Modi",
+      "description": "India Today TV LIVE: France Imposes Curfew | Dussehra 2026 |Tiger Shroff Shooting | PM Modi \n\nMedical examiners determined the core cause to be traumatic asphyxia due to chest compression, a condition that occurs when external pressure restricts respiratory movement.\nUS President Donald Trump blame…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VXwBzkhkUDw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Ryph8XiF7Uc/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VXwBzkhkUDw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Ryph8XiF7Uc/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VXwBzkhkUDw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Ryph8XiF7Uc/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 9,
-      "startedAt": "2026-10-19T14:32:41Z",
+      "concurrentViewers": 274,
+      "startedAt": "2026-10-20T03:29:20Z",
       "regionRestriction": null
     },
     {
-      "videoId": "cQalO8SAAg0",
+      "videoId": "w5qjHxFGmMQ",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Tiger Shroff Shooting Live: Bishnoi Gang Hunts For Tiger | Salman Khan | Dawood Ibrahim | Mumbai",
-      "description": "Mumbai Police have apprehended three accused in the firing incident targeting actor Tiger Shroff, with investigators tracing their escape route from Mumbai to Kota via Surat, DCP Rajtilak Roushan said during a press briefing on Monday.\n#TigerShroff #TigerShroffFiringCase #BishnoiGang #LawrenceBishn…",
+      "title": "India Today TV LIVE: Dussehra 2026 |Tiger Shroff Shooting | France Protests | PM Modi | Rahul Gandhi",
+      "description": "India Today TV LIVE: Dussehra 2026 |Tiger Shroff Shooting | France Protests | PM Modi | Rahul Gandhi\n\nMedical examiners determined the core cause to be traumatic asphyxia due to chest compression, a condition that occurs when external pressure restricts respiratory movement.\nUS President Donald Tru…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/cQalO8SAAg0/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/w5qjHxFGmMQ/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/cQalO8SAAg0/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/w5qjHxFGmMQ/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/cQalO8SAAg0/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/w5qjHxFGmMQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6,
-      "startedAt": "2026-10-19T16:48:10Z",
+      "concurrentViewers": 117,
+      "startedAt": "2026-10-20T02:13:17Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bp5lFJOWR1E",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Mohan Bhagwat Dussehra Speech Live: RSS Vijayadashami Celebration | Dussehra 2026 | India Today",
+      "description": "Watch RSS chief Mohan Bhagwat's LIVE address at the RSS Vijayadashami celebration in Nagpur on October 20, 2026. The annual Dussehra event marks the concluding year of the RSS centenary celebrations. Bhagwat's speech touches on national unity, India's diversity and the country's role in a changing …",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bp5lFJOWR1E/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bp5lFJOWR1E/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bp5lFJOWR1E/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 35,
+      "startedAt": "2026-10-20T04:39:22Z",
       "regionRestriction": null
     },
     {
@@ -631,7 +607,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 882,
+      "concurrentViewers": 5175,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -655,32 +631,8 @@
           "url": "https://i.ytimg.com/vi/887BcBlKYlI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 569,
+      "concurrentViewers": 262,
       "startedAt": "2026-10-19T18:13:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "svqANiRcxX4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Riots in France LIVE: फ्रांस में प्रदर्शन के नाम पर आगजनी और लूटपाट क्यों? | France Violence",
-      "description": "Riots in France LIVE: फ्रांस में प्रदर्शन के नाम पर आगजनी और लूटपाट क्यों? | France Violence\n\nफ्रांस की राजधानी पेरिस और इटली के शहर मिलान से सामने आ रही हिंसा, तोड़फोड़ और लूटपाट की तस्वीरों ने चिंता बढ़ा दी है। रिपोर्ट में दावा किया गया है कि प्रदर्शन के दौरान कुछ उपद्रवियों ने बड़े ब्रैंड्स के श…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/svqANiRcxX4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/svqANiRcxX4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/svqANiRcxX4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 21,
-      "startedAt": "2026-10-19T18:06:25Z",
       "regionRestriction": null
     },
     {
@@ -703,32 +655,8 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1932,
+      "concurrentViewers": 1073,
       "startedAt": "2026-10-14T11:40:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "dEY66rAdx2o",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: Into the future – First Intelligent Robot Application Skills Exhibition in Nanjing",
-      "description": "The Nanjing stop of the first Intelligent Robot Application Skills Exhibition kicks off, showcasing over a hundred robots spanning special operations, smart commerce and public services. Rather than showing off dazzling moves, the machines recreate real work scenarios and demonstrate what they can …",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dEY66rAdx2o/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dEY66rAdx2o/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dEY66rAdx2o/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 10,
-      "startedAt": "2026-10-20T00:32:22Z",
       "regionRestriction": null
     },
     {
@@ -751,7 +679,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2606,
+      "concurrentViewers": 1756,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
