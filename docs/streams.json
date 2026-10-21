@@ -1,29 +1,29 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T12:15:20.011Z",
+  "generatedAt": "2026-10-21T17:33:13.696Z",
   "streams": [
     {
-      "videoId": "xDWQ3LkccY8",
+      "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Watch Sky News",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Politics latest: Burnham defends North Sea gas drilling decision at PMQs - https://news.sky.com/story/politics-latest-burnham-labour-man-city-badenoch-farage-polanski-125…",
+      "title": "Watch Sky News live",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 France protests latest: Curfews issued in several cities after violent riots - as Trump claims he warned Macron - https://news.sky.com/story/france-protests-latest-french…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/umLWFz4izTM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/umLWFz4izTM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 6121,
-      "startedAt": "2026-08-27T05:26:32Z",
+      "concurrentViewers": 4081,
+      "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 266,
+      "concurrentViewers": 344,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3101,
+      "concurrentViewers": 3108,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,32 +98,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 379,
+      "concurrentViewers": 167,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "xlTJeGOFoOs",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: UK Prime Minister Burnham holds PMQs",
-      "description": "British Prime Minister Andy Burnham takes questions from lawmakers in the House of Commons in London.\n\n#andyburnham #britain #parliament #pmqs #london #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xlTJeGOFoOs/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xlTJeGOFoOs/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xlTJeGOFoOs/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 19,
-      "startedAt": "2026-10-21T11:08:21Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/X2YAMGmZ7gw/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4168,
+      "concurrentViewers": 3771,
       "startedAt": "2026-10-21T10:29:32Z",
       "regionRestriction": null
     },
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2263,
+      "concurrentViewers": 1953,
       "startedAt": "2026-10-21T09:58:20Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 878,
+      "concurrentViewers": 821,
       "startedAt": "2026-10-21T11:07:00Z",
       "regionRestriction": {
         "blocked": [
@@ -204,27 +180,27 @@
       }
     },
     {
-      "videoId": "ojne_jCYEZ8",
+      "videoId": "cNz0aQD0rRs",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump-Vance announcement, Rubio in India, Trump rallies in NC, France protests & more",
-      "description": "1:30PM ET: President Donald Trump and Vice President JD Vance are expected to announce a $25 million initiative Tuesday encouraging Americans to report suspected fraud in the federal government. The program is part of an expanded effort by the administration to crack down on the misuse of federal p…",
+      "title": "LIVE: Trump roundtable, Russia releases detained American, Trump rallies in South Carolina & more",
+      "description": "U.S. Envoy Steve Witkoff says Russia has released Stephen Hubbard, a retired American teacher who been imprisoned on changes of fighting as a mercenary in Ukraine. The news coming after Witkoff met with Russia's President Vladimir in St. Petersburg.\n\n2:30PM ET: President Trump is expected to partic…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ojne_jCYEZ8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ojne_jCYEZ8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ojne_jCYEZ8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 671,
-      "startedAt": "2026-10-20T10:06:15Z",
+      "concurrentViewers": 1400,
+      "startedAt": "2026-10-21T16:21:57Z",
       "regionRestriction": null
     },
     {
@@ -247,8 +223,32 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 995,
+      "concurrentViewers": 1647,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "x_o4iB4fxs8",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Anti-government protests in Albania",
+      "description": "Live from Tirana as anti-government protests continue in the Albanian capital. Clashes with police have escalated over a week after high school and university students joined the so-called flamingo movement that has rallied for months for Prime Minister Edi Rama to resign.\n\n#albania #protest #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x_o4iB4fxs8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x_o4iB4fxs8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x_o4iB4fxs8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 559,
+      "startedAt": "2026-10-21T17:00:47Z",
       "regionRestriction": null
     },
     {
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8939,
+      "concurrentViewers": 6265,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 27,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 497,
+      "concurrentViewers": 415,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1323,
+      "concurrentViewers": 1834,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -391,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 259,
+      "concurrentViewers": 209,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -419,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 146,
+      "concurrentViewers": 112,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -443,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 247,
+      "concurrentViewers": 195,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -467,32 +467,80 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 37,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Mx4nhief-FM",
+      "videoId": "zpLPV5yD02s",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE: Iran Warns of 'Missile Hell' as Trump Threatens 'Mother of All Bombs' | WION",
-      "description": "The US-Iran war of words intensifies as Tehran warns of “Missile Hell” following President Donald Trump's threat involving the “Mother of All Bombs.” As tensions rise, the rhetoric from Washington and Tehran raises fresh questions about the next phase of the confrontation.\n\n#usiranwar #westasiaconf…",
+      "title": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION",
+      "description": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION\n\nSpeculation surrounding North Korean leader Kim Jong Un’s reported death has intensified amid rumours of a possible brain haemorrhage. North Korea has released new images of Kim, described as “proof of life” amid the…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Mx4nhief-FM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Mx4nhief-FM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Mx4nhief-FM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-10-21T01:32:21Z",
+      "concurrentViewers": 181,
+      "startedAt": "2026-10-21T07:09:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "X-7LAkvfA5s",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "WION LIVE News | Latest News Updates From Across The World | English News | Top International News",
+      "description": "Welcome to WION, World is One, India's first global news network. \nAt WION, we present to you global news stories from an Indian perspective.\n\nIn a short span of time, WION has emerged as one of the most impartial and unique world news channels.\n\nWe beam from nearly 40 cities of the world, with cor…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 74,
+      "startedAt": "2026-06-30T02:58:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "o2dN_NoiXsM",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
+      "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. involv…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 57,
+      "startedAt": "2026-10-19T10:21:06Z",
       "regionRestriction": null
     },
     {
@@ -515,39 +563,63 @@
           "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-21T05:29:10Z",
       "regionRestriction": null
     },
     {
-      "videoId": "EhGKL2n8oIk",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Tiger Shroff Case Latest Updates | Salman Khan, Amitabh Bachchan, Akshay Also On Radar? | Salman",
-      "description": "Shots were fired at Bollywood actor Tiger Shroff's car on Sunday evening, but he wasn't the original target. An investigation into an assassination bid targeting Tiger Shroff has revealed that Salman Khan was the target. According to sources, the shooters conducted a recce of Salman Khan's house. H…",
-      "channelTitle": "NDTV",
+      "videoId": "EPgElPoE-p8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai LIVE: CJP's Saurav Das & Ranka Released | Right To Protest Or Public Order?",
+      "description": "A Delhi Special Executive Magistrate (SEM) on Wednesday ordered the release of Cockroach Janata Party (CJP) co-conveners Saurav Das and Ashutosh Ranka, who had been in judicial custody since the October 14 protest at Jantar Mantar.\n\nThe order came hours after the two withdrew their Delhi High Court…",
+      "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EhGKL2n8oIk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EhGKL2n8oIk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EhGKL2n8oIk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-21T05:44:27Z",
+      "concurrentViewers": 626,
+      "startedAt": "2026-10-21T15:30:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "-sRevzreFNM",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Attack On Tiger Shroff Decoded | Salman Khan Was The Real Target? | Lawrence Bishnoi",
+      "description": "LIVE: Attack On Tiger Shroff Decoded | Salman Khan Was The Real Target? | Lawrence Bishnoi \n#LawrenceBishnoi #BishnoiGang #indiatodaylivestream  #TigerShroff #SalmanKhan #Bollywood #CrimeNetwork #MumbaiCrime #Underworld #IndiaToday #IndiaTodayNews \n,Lawrence Bishnoi,Bishnoi gang,Bishnoi crime netwo…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-sRevzreFNM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-sRevzreFNM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-sRevzreFNM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 100,
+      "startedAt": "2026-10-21T16:35:16Z",
       "regionRestriction": null
     },
     {
       "videoId": "waAy4HH0Vk4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Marco Rubio Meets Jaishankar | Tiger Shroff | CJP | France Riots |Dussehra 2026",
-      "description": "India Today TV LIVE: Marco Rubio Meets Jaishankar | Tiger Shroff | CJP | France Riots |Dussehra 2026\n\nActor Tiger Shroff was shot at in Mumbai’s Juhu on Sunday while returning home after playing football, police sources said. He is safe and has not suffered any gunshot injury.\n\nAlmost 40 people wer…",
+      "title": "India Today TV LIVE: CJP's Saurav-Ashutosh Released | Rubio  | Tiger Shroff | France Riots",
+      "description": "India Today TV LIVE: CJP's Saurav-Ashutosh Released | Rubio  | Tiger Shroff | France Riots\n\nActor Tiger Shroff was shot at in Mumbai’s Juhu on Sunday while returning home after playing football, police sources said. He is safe and has not suffered any gunshot injury.\n\nAlmost 40 people were injured …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -563,14 +635,14 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 71,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Dangal| Saurav Das-Ashutosh Ranka | Tiger Shroff | PM Modi |Rahul Gandhi | Congress",
+      "title": "Aaj Tak LIVE TV: Ashutosh Ranka, Saurabh Das Released | CJP| Tiger Shroff | PM Modi | Congress | BJP",
       "description": "हाईकोर्ट के सख्त सवालों के बाद CJP ने वापस ली ज़मानत की अर्ज़ी-अदालत ने सौरव- रांका के जेन ज़ी होने पर उठाए सवाल..पूछा-रोक थी तो बैरिकेड क्यों तोड़ा..भीड़ अनियंत्रित हो जाती तो क्या होता?\n\nरुबियो के मुंबई दौरे के बीच राष्ट्रपति ट्रंप का दावा- ट्रेड डील के बेहद करीब हैं भारत और अमेरिका..पहले से काफी…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -587,7 +659,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4452,
+      "concurrentViewers": 3328,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -611,7 +683,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1062,
+      "concurrentViewers": 324,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -635,7 +707,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 911,
+      "concurrentViewers": 498,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
