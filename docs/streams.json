@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T17:33:13.696Z",
+  "generatedAt": "2026-10-21T21:21:48.088Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -13,16 +13,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/umLWFz4izTM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/umLWFz4izTM/default.jpg?v=6ad60270"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/umLWFz4izTM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/umLWFz4izTM/mqdefault.jpg?v=6ad60270"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4081,
+      "concurrentViewers": 2994,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -37,22 +37,46 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/PmmEevogFZg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/PmmEevogFZg/default.jpg?v=6ad078f8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/PmmEevogFZg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PmmEevogFZg/mqdefault.jpg?v=6ad078f8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 344,
+      "concurrentViewers": 231,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
           "GB"
         ]
       }
+    },
+    {
+      "videoId": "Ag0igOLiITY",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Patrick Christys Tonight | Wednesday 21st October",
+      "description": "Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ag0igOLiITY/default.jpg?v=6ad8f163"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ag0igOLiITY/mqdefault.jpg?v=6ad8f163"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ag0igOLiITY/hqdefault.jpg?v=6ad8f163"
+        }
+      },
+      "concurrentViewers": 3039,
+      "startedAt": "2026-10-21T19:54:27Z",
+      "regionRestriction": null
     },
     {
       "videoId": "EDbWwVR7i9Q",
@@ -65,16 +89,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/default.jpg?v=6accbe08"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/mqdefault.jpg?v=6accbe08"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3108,
+      "concurrentViewers": 2505,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -89,16 +113,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/default.jpg?v=6ad0dd19"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/mqdefault.jpg?v=6ad0dd19"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 167,
+      "concurrentViewers": 65,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -113,16 +137,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/X2YAMGmZ7gw/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/X2YAMGmZ7gw/default.jpg?v=6ad7a9df"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/X2YAMGmZ7gw/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/X2YAMGmZ7gw/mqdefault.jpg?v=6ad7a9df"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/X2YAMGmZ7gw/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/X2YAMGmZ7gw/hqdefault.jpg?v=6ad7a9df"
         }
       },
-      "concurrentViewers": 3771,
+      "concurrentViewers": 2943,
       "startedAt": "2026-10-21T10:29:32Z",
       "regionRestriction": null
     },
@@ -137,16 +161,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/default.jpg?v=6acd2a58"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/mqdefault.jpg?v=6acd2a58"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/hqdefault.jpg?v=6acd2a58"
         }
       },
-      "concurrentViewers": 1953,
+      "concurrentViewers": 884,
       "startedAt": "2026-10-21T09:58:20Z",
       "regionRestriction": null
     },
@@ -161,16 +185,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/default.jpg?v=6ad7b0e2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/mqdefault.jpg?v=6ad7b0e2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/hqdefault.jpg?v=6ad7b0e2"
         }
       },
-      "concurrentViewers": 821,
+      "concurrentViewers": 518,
       "startedAt": "2026-10-21T11:07:00Z",
       "regionRestriction": {
         "blocked": [
@@ -190,16 +214,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/default.jpg?v=6ad8e647"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/mqdefault.jpg?v=6ad8e647"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/hqdefault.jpg?v=6ad8e647"
         }
       },
-      "concurrentViewers": 1400,
+      "concurrentViewers": 825,
       "startedAt": "2026-10-21T16:21:57Z",
       "regionRestriction": null
     },
@@ -214,41 +238,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/default.jpg?v=6abba502"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/mqdefault.jpg?v=6abba502"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 1647,
+      "concurrentViewers": 1197,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "x_o4iB4fxs8",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Anti-government protests in Albania",
-      "description": "Live from Tirana as anti-government protests continue in the Albanian capital. Clashes with police have escalated over a week after high school and university students joined the so-called flamingo movement that has rallied for months for Prime Minister Edi Rama to resign.\n\n#albania #protest #live",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/x_o4iB4fxs8/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/x_o4iB4fxs8/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/x_o4iB4fxs8/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 559,
-      "startedAt": "2026-10-21T17:00:47Z",
       "regionRestriction": null
     },
     {
@@ -262,16 +262,16 @@
       "category": "business",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/default.jpg?v=6a2e8319"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/mqdefault.jpg?v=6a2e8319"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 6265,
+      "concurrentViewers": 3556,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -286,16 +286,16 @@
       "category": "business",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/default.jpg?v=693d70bd"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/mqdefault.jpg?v=693d70bd"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 26,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -310,16 +310,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LuKwFajn37U/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/LuKwFajn37U/default.jpg?v=67ead53f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LuKwFajn37U/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LuKwFajn37U/mqdefault.jpg?v=67ead53f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 415,
+      "concurrentViewers": 336,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -334,16 +334,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/default.jpg?v=6a15fe65"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/mqdefault.jpg?v=6a15fe65"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1834,
+      "concurrentViewers": 1176,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -358,16 +358,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/default.jpg?v=6a1754ab"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/mqdefault.jpg?v=6a1754ab"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6841,
+      "concurrentViewers": 6087,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -382,16 +382,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/pykpO5kQJ98/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/pykpO5kQJ98/default.jpg?v=63eb92d4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/pykpO5kQJ98/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/pykpO5kQJ98/mqdefault.jpg?v=63eb92d4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 209,
+      "concurrentViewers": 120,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -410,16 +410,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/default.jpg?v=63eb9493"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/mqdefault.jpg?v=63eb9493"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 112,
+      "concurrentViewers": 5,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -434,16 +434,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/default.jpg?v=6ab8e047"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/mqdefault.jpg?v=6ab8e047"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 195,
+      "concurrentViewers": 148,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -458,16 +458,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3827c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3827c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3827c"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -482,41 +482,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/default.jpg?v=6ad863da"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/mqdefault.jpg?v=6ad863da"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 181,
+      "concurrentViewers": 154,
       "startedAt": "2026-10-21T07:09:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "X-7LAkvfA5s",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "WION LIVE News | Latest News Updates From Across The World | English News | Top International News",
-      "description": "Welcome to WION, World is One, India's first global news network. \nAt WION, we present to you global news stories from an Indian perspective.\n\nIn a short span of time, WION has emerged as one of the most impartial and unique world news channels.\n\nWe beam from nearly 40 cities of the world, with cor…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 74,
-      "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
     {
@@ -530,17 +506,65 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/default.jpg?v=6ad5e96c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/mqdefault.jpg?v=6ad5e96c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault.jpg?v=6ad5e96c"
         }
       },
-      "concurrentViewers": 57,
+      "concurrentViewers": 41,
       "startedAt": "2026-10-19T10:21:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "X-7LAkvfA5s",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "WION LIVE News | Latest News Updates From Across The World | English News | Top International News",
+      "description": "Welcome to WION, World is One, India's first global news network. \nAt WION, we present to you global news stories from an Indian perspective.\n\nIn a short span of time, WION has emerged as one of the most impartial and unique world news channels.\n\nWe beam from nearly 40 cities of the world, with cor…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/default.jpg?v=6a4330aa"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/mqdefault.jpg?v=6a4330aa"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
+        }
+      },
+      "concurrentViewers": 32,
+      "startedAt": "2026-06-30T02:58:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fM8iMk_-rbM",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP Protest | Bail Battle Won, Gen-Z 'Tag' Lost? | The Buck Stops Here LIVE",
+      "description": "Watch The Buck Stops Here LIVE with Padmaja Joshi only on NDTV. \n\n#TheBuckStopsHere #LIVE \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch big poli…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fM8iMk_-rbM/default.jpg?v=6ad8cbff"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fM8iMk_-rbM/mqdefault.jpg?v=6ad8cbff"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fM8iMk_-rbM/hqdefault.jpg?v=6ad8cbff"
+        }
+      },
+      "concurrentViewers": 9,
+      "startedAt": "2026-10-21T14:30:12Z",
       "regionRestriction": null
     },
     {
@@ -554,16 +578,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/default.jpg?v=6ad84cdc"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/mqdefault.jpg?v=6ad84cdc"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/hqdefault.jpg?v=6ad84cdc"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-21T05:29:10Z",
       "regionRestriction": null
     },
@@ -578,16 +602,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/default.jpg?v=6ad8d99c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/mqdefault.jpg?v=6ad8d99c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/hqdefault.jpg?v=6ad8d99c"
         }
       },
-      "concurrentViewers": 626,
+      "concurrentViewers": 77,
       "startedAt": "2026-10-21T15:30:24Z",
       "regionRestriction": null
     },
@@ -602,16 +626,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-sRevzreFNM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/-sRevzreFNM/default.jpg?v=6ad8e94e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-sRevzreFNM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-sRevzreFNM/mqdefault.jpg?v=6ad8e94e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-sRevzreFNM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-sRevzreFNM/hqdefault.jpg?v=6ad8e94e"
         }
       },
-      "concurrentViewers": 100,
+      "concurrentViewers": 20,
       "startedAt": "2026-10-21T16:35:16Z",
       "regionRestriction": null
     },
@@ -626,16 +650,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/default.jpg?v=6abdc0fa"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/mqdefault.jpg?v=6abdc0fa"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 71,
+      "concurrentViewers": 12,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -650,17 +674,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/default.jpg?v=6abdb196"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/mqdefault.jpg?v=6abdb196"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 3328,
+      "concurrentViewers": 509,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Qvs3joJxMsA",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Firing on Tiger Shroff Update LIVE : शूटर्स ने Ranbir Kapoor के घर की भी रेकी की थी | Mumbai Police",
+      "description": "सूत्रों के मुताबिक, टाइगर के शूटर्स ने मुंबई आने के बाद सलमान खान के घर की रेकी की थी. इस खुलासे ने दबंग खान के फैंस को टेंशन दे दी है. लॉरेंस बिश्नोई संग सलमान का पुराना विवाद है.\n\n#RanbirKapoor #bollywood #tigershroff #lawrencebishnoi #Aajtak \n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qvs3joJxMsA/default.jpg?v=6ad9019b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qvs3joJxMsA/mqdefault.jpg?v=6ad9019b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qvs3joJxMsA/hqdefault.jpg?v=6ad9019b"
+        }
+      },
+      "concurrentViewers": 165,
+      "startedAt": "2026-10-21T18:18:32Z",
       "regionRestriction": null
     },
     {
@@ -674,17 +722,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/default.jpg?v=6acf6a08"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/mqdefault.jpg?v=6acf6a08"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 324,
+      "concurrentViewers": 323,
       "startedAt": "2026-10-14T11:40:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0i7n3r01L2U",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "🔴 Watch CGTN LIVE 24/7 #CGTNLIVE",
+      "description": "🔴 Watch CGTN LIVE 24/7 #cgtnlive #livenews \nCGTN is China’s leading 24-hour English-language television channel. We provide global audiences with deeper insights into today’s China while offering a Chinese perspective on international news and current affairs.",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0i7n3r01L2U/default.jpg?v=6a7e6d5c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0i7n3r01L2U/mqdefault.jpg?v=6a7e6d5c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
+        }
+      },
+      "concurrentViewers": 101,
+      "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
     {
@@ -698,16 +770,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vOTiJkg1voo/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/vOTiJkg1voo/default.jpg?v=66d66096"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vOTiJkg1voo/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/vOTiJkg1voo/mqdefault.jpg?v=66d66096"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 498,
+      "concurrentViewers": 2913,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
