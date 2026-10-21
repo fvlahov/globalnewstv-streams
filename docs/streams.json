@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T22:58:50.168Z",
+  "generatedAt": "2026-10-21T01:27:07.236Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2226,
+      "concurrentViewers": 2066,
       "startedAt": "2026-08-27T05:26:32Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 122,
+      "concurrentViewers": 93,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1567,
+      "concurrentViewers": 1068,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,14 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 64,
+      "concurrentViewers": 33,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "sz8CjkOu6V0",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 20",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/sz8CjkOu6V0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1746,
+      "concurrentViewers": 1164,
       "startedAt": "2026-10-20T21:58:07Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/ZEcqTYwCkaA/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 875,
+      "concurrentViewers": 680,
       "startedAt": "2026-10-20T09:59:21Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/DT-meBfnJyI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 382,
+      "concurrentViewers": 357,
       "startedAt": "2026-10-20T21:59:15Z",
       "regionRestriction": {
         "blocked": [
@@ -199,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/ojne_jCYEZ8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 813,
+      "concurrentViewers": 650,
       "startedAt": "2026-10-20T10:06:15Z",
       "regionRestriction": null
     },
@@ -223,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1245,
+      "concurrentViewers": 861,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1728,
+      "concurrentViewers": 1450,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 44,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 312,
+      "concurrentViewers": 338,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 911,
+      "concurrentViewers": 874,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 4888,
+      "concurrentViewers": 3402,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -367,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 69,
+      "concurrentViewers": 49,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -391,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 121,
+      "concurrentViewers": 132,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -415,56 +415,32 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 32,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_-Ybm_mhlGQ",
+      "videoId": "2mxd2ObVhT4",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE: Two Tankers Set Ablaze in Strait of Hormuz as Tensions Escalate | WION",
-      "description": "A supertanker has reportedly exploded in the Strait of Hormuz, raising fresh concerns over maritime security in the vital shipping route. The incident comes amid heightened tensions in the region, with the strait serving as a key corridor for global oil shipments. Further details about the cause of…",
+      "title": "Trump LIVE: President Rallies Supporters Ahead of US Midterms in North Carolina | WION",
+      "description": "Trump LIVE: President Rallies Supporters Ahead of US Midterms in North Carolina | WION\n\n\n#trumplive #donaldtrump #election #northcarolina #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to e…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_-Ybm_mhlGQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/2mxd2ObVhT4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_-Ybm_mhlGQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2mxd2ObVhT4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_-Ybm_mhlGQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/2mxd2ObVhT4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 15,
-      "startedAt": "2026-10-20T14:42:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "1Y7pWtYehv4",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Italy Protest LIVE:  Protests Turn Violent As Police Clash With Demonstrators In Milan | WION",
-      "description": "Italian police clashed with protesters in Milan as demonstrations turned violent. Officers faced unrest on the streets amid growing anger over rising living costs and public services, with tensions escalating as authorities moved to control the crowds.\n\n\n#italy #milan #protest #wion #italyprotest #…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1Y7pWtYehv4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-19T08:34:54Z",
+      "concurrentViewers": 47,
+      "startedAt": "2026-10-21T01:05:04Z",
       "regionRestriction": null
     },
     {
@@ -487,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 65,
       "startedAt": "2026-10-20T01:28:58Z",
       "regionRestriction": null
     },
@@ -511,63 +487,87 @@
           "url": "https://i.ytimg.com/vi/qzCp76qlUh4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": 4,
       "startedAt": "2026-10-20T18:29:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "w5qjHxFGmMQ",
+      "videoId": "CJQ-J_HK3jg",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Marco Rubio Meets Jaishankar | Tiger Shroff | CJP | France Riots |Dussehra 2026",
-      "description": "India Today TV LIVE: Dussehra 2026 |Tiger Shroff Shooting | France Protests | PM Modi | Rahul Gandhi\n\nMedical examiners determined the core cause to be traumatic asphyxia due to chest compression, a condition that occurs when external pressure restricts respiratory movement.\nUS President Donald Tru…",
+      "title": "Rajdeep Sardesai LIVE: BJP & RSS In Sync On Protests? Foreign Hand Claims Way To Discredit Protests?",
+      "description": "Rajdeep Sardesai LIVE: BJP & RSS In Sync On Protests? Foreign Hand Claims Way To Discredit Protests?\n#NewsToday #RajdeepSardesai #MohanBhagwat #RSS #BJP #RegimeChange #ForeignInterference #Delhi #Dussehra #cjpprotest #jantarmantarprotest #mohanbhagwat #gyaneshkumar #sirprotest  #Dussehra2026 #Vijay…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/w5qjHxFGmMQ/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/CJQ-J_HK3jg/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/w5qjHxFGmMQ/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/CJQ-J_HK3jg/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/w5qjHxFGmMQ/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/CJQ-J_HK3jg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 16,
-      "startedAt": "2026-10-20T02:13:17Z",
+      "concurrentViewers": 56,
+      "startedAt": "2026-10-20T15:48:00Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Ryph8XiF7Uc",
+      "videoId": "waAy4HH0Vk4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: France Imposes Curfew | Dussehra 2026 |Tiger Shroff Shooting | PM Modi",
-      "description": "India Today TV LIVE: France Imposes Curfew | Dussehra 2026 |Tiger Shroff Shooting | PM Modi \n\nMedical examiners determined the core cause to be traumatic asphyxia due to chest compression, a condition that occurs when external pressure restricts respiratory movement.\nUS President Donald Trump blame…",
+      "title": "India Today TV LIVE: Marco Rubio Meets Jaishankar | Tiger Shroff | CJP | France Riots |Dussehra 2026",
+      "description": "India Today TV LIVE: Marco Rubio Meets Jaishankar | Tiger Shroff | CJP | France Riots |Dussehra 2026\n\nActor Tiger Shroff was shot at in Mumbai’s Juhu on Sunday while returning home after playing football, police sources said. He is safe and has not suffered any gunshot injury.\n\nAlmost 40 people wer…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Ryph8XiF7Uc/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Ryph8XiF7Uc/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Ryph8XiF7Uc/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3,
-      "startedAt": "2026-10-20T03:29:20Z",
+      "concurrentViewers": 34,
+      "startedAt": "2026-10-01T02:10:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Do3wyX7DPVw",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: CJP's Saurav Das, Ashutosh Ranka's Custody Extended | Right To Protest Under Threat In India?",
+      "description": "LIVE: CJP's Saurav Das, Ashutosh Ranka's Custody Extended | Right To Protest Under Threat In India?\n\n#cjpprotest #cockroachjantaparty #jantarmantarprotest #abhijeetdipke #cjpprotest   #ashutoshranka #sauravdas #jantarmantar  #delhipolice #delhiprotest #tirangayatra #breakingnews #livenews #indiatod…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Do3wyX7DPVw/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Do3wyX7DPVw/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Do3wyX7DPVw/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-10-20T13:48:32Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Ravana Dahan | Marco rubio india visit| PM Modi | Amit Shah| Dussehra | RSS | BJP",
-      "description": "26/11 हमले के मास्टरमाइंड तहव्वुर राणा के प्रत्यर्पण पर एस जयशंकर ने अमेरिका को दिया धन्यवाद, रूबियो से मुलाकात में आतंकवाद को लेकर जीरो टॉलरेंस पर दिया जोर \n\nविजयादशमी पर बोले प्रधानमंत्री मोदी, मां भारती के दुश्मनों को पहचानने की जरुरत-सच्चाई और मानवता की हमेशा होती है जीत-राम से राष्ट्र और देव स…",
+      "title": "Aaj Tak LIVE TV: Mohan Bhagwat | Marco rubio India Visit | PM Modi | Rahul Gandhi | Hindi News",
+      "description": "विजयादशमी पर प्रधानमंत्री मोदी बोले- मां भारती के दुश्मनों को पहचानने की जरुरत-सच्चाई और मानवता की हमेशा होती है जीत-राम से राष्ट्र और देव से देश तक की संकल्पना\n\nरिजीम चेंज की कोशिश पर संघ की चेतावनी,कहा-पश्चिमी ताकतों के निशाने पर भारत-राहुल ने RSS पर साधा निशाना-बताया संविधान के खिलाफ\n\nपंजाब में …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -583,7 +583,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 407,
+      "concurrentViewers": 2228,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -607,7 +607,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 929,
+      "concurrentViewers": 1913,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -631,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2850,
+      "concurrentViewers": 2361,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
