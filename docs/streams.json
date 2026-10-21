@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T01:27:07.236Z",
+  "generatedAt": "2026-10-21T06:28:03.271Z",
   "streams": [
     {
       "videoId": "xDWQ3LkccY8",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2066,
+      "concurrentViewers": 6176,
       "startedAt": "2026-08-27T05:26:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kGBJ0dxB7nI",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Jackdaw gas field approved by government | Mornings",
+      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kGBJ0dxB7nI/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kGBJ0dxB7nI/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kGBJ0dxB7nI/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 712,
+      "startedAt": "2026-10-21T04:59:07Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 317,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1068,
+      "concurrentViewers": 2711,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xEUJHXVMXK8",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Breakfast with Alex and Ellie | Wednesday 21st October",
+      "description": "Join Stephen Dixon and Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: h…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xEUJHXVMXK8/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xEUJHXVMXK8/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xEUJHXVMXK8/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 2038,
+      "startedAt": "2026-10-21T04:59:15Z",
       "regionRestriction": null
     },
     {
@@ -98,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 508,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "DZ4kGCM85DU",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: South Korea makes bid to guide shark out to sea",
+      "description": "South Korean authorities in Busan launch a third attempt to guide Bukangi the shark out to the open sea.\n\n#Bukangi #shark #stranded #sea #Busan #SouthKorea #live #Reuters #news\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DZ4kGCM85DU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DZ4kGCM85DU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DZ4kGCM85DU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 23,
+      "startedAt": "2026-10-21T02:30:32Z",
       "regionRestriction": null
     },
     {
@@ -122,32 +194,8 @@
           "url": "https://i.ytimg.com/vi/sz8CjkOu6V0/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1164,
+      "concurrentViewers": 445,
       "startedAt": "2026-10-20T21:58:07Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ZEcqTYwCkaA",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Tuesday, October 20",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZEcqTYwCkaA/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZEcqTYwCkaA/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZEcqTYwCkaA/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 680,
-      "startedAt": "2026-10-20T09:59:21Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/DT-meBfnJyI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 357,
+      "concurrentViewers": 242,
       "startedAt": "2026-10-20T21:59:15Z",
       "regionRestriction": {
         "blocked": [
@@ -199,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/ojne_jCYEZ8/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 650,
+      "concurrentViewers": 409,
       "startedAt": "2026-10-20T10:06:15Z",
       "regionRestriction": null
     },
@@ -223,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 861,
+      "concurrentViewers": 237,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1450,
+      "concurrentViewers": 3859,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 44,
+      "concurrentViewers": 28,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 338,
+      "concurrentViewers": 439,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -319,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 874,
+      "concurrentViewers": 1591,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -343,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 3402,
+      "concurrentViewers": 6573,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -367,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 49,
+      "concurrentViewers": 113,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -391,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 184,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -415,104 +463,128 @@
           "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 45,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "2mxd2ObVhT4",
+      "videoId": "6Zpt4AEV2PE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Trump LIVE: President Rallies Supporters Ahead of US Midterms in North Carolina | WION",
-      "description": "Trump LIVE: President Rallies Supporters Ahead of US Midterms in North Carolina | WION\n\n\n#trumplive #donaldtrump #election #northcarolina #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to e…",
+      "title": "France Protests LIVE: France Erupts as Violent Clashes, Tear Gas & Looting Rock City | WION",
+      "description": "France Protests LIVE: Violent clashes, tear gas and reports of looting put French streets on edge. Follow LIVE coverage of the protests, confrontations between demonstrators and police, the latest developments on the ground, and the political implications for France.\n\n\n#france #protest #macron #wio…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2mxd2ObVhT4/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/6Zpt4AEV2PE/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2mxd2ObVhT4/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/6Zpt4AEV2PE/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2mxd2ObVhT4/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/6Zpt4AEV2PE/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 47,
-      "startedAt": "2026-10-21T01:05:04Z",
+      "concurrentViewers": 76,
+      "startedAt": "2026-10-21T01:46:20Z",
       "regionRestriction": null
     },
     {
-      "videoId": "qeSZLhUHq4c",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: Tiger Shroff Attack | Paris Protest | Dussehra 2026 | Marco Rubio Visits India",
-      "description": "Mumbai Police are investigating the purchase of a motorcycle on September 11 as a potential lead in the shooting targeting Bollywood actor Tiger Shroff. The motorcycle was traced to the Andheri West area of Mumbai, a day after the shooting incident which took place in the Juhu area. The police are …",
-      "channelTitle": "NDTV",
+      "videoId": "Mx4nhief-FM",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "US-Iran War LIVE: Iran Warns of 'Missile Hell' as Trump Threatens 'Mother of All Bombs' | WION",
+      "description": "The US-Iran war of words intensifies as Tehran warns of “Missile Hell” following President Donald Trump's threat involving the “Mother of All Bombs.” As tensions rise, the rhetoric from Washington and Tehran raises fresh questions about the next phase of the confrontation.\n\n#usiranwar #westasiaconf…",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/default_live.jpg"
+          "url": "https://i.ytimg.com/vi/Mx4nhief-FM/default_live.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/mqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Mx4nhief-FM/mqdefault_live.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qeSZLhUHq4c/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 65,
-      "startedAt": "2026-10-20T01:28:58Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qzCp76qlUh4",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi Flies Out As Political Storm Rages At Home",
-      "description": "A fresh political battle has erupted over Rahul Gandhi's reported foreign trip, with the BJP questioning his absence at a time of heightened political confrontation and ongoing protests. The Congress has defended its leader, saying Rahul Gandhi routinely uses overseas visits to engage with intellec…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qzCp76qlUh4/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qzCp76qlUh4/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qzCp76qlUh4/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 4,
-      "startedAt": "2026-10-20T18:29:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "CJQ-J_HK3jg",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai LIVE: BJP & RSS In Sync On Protests? Foreign Hand Claims Way To Discredit Protests?",
-      "description": "Rajdeep Sardesai LIVE: BJP & RSS In Sync On Protests? Foreign Hand Claims Way To Discredit Protests?\n#NewsToday #RajdeepSardesai #MohanBhagwat #RSS #BJP #RegimeChange #ForeignInterference #Delhi #Dussehra #cjpprotest #jantarmantarprotest #mohanbhagwat #gyaneshkumar #sirprotest  #Dussehra2026 #Vijay…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/CJQ-J_HK3jg/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/CJQ-J_HK3jg/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/CJQ-J_HK3jg/hqdefault_live.jpg"
+          "url": "https://i.ytimg.com/vi/Mx4nhief-FM/hqdefault_live.jpg"
         }
       },
       "concurrentViewers": 56,
-      "startedAt": "2026-10-20T15:48:00Z",
+      "startedAt": "2026-10-21T01:32:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "E0CKS1JzFJ4",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Mysuru Dasara Celebrations LIVE | Mysuru Dasara Celebrations At Mysore Palace | Mysore Dasara 2026",
+      "description": "LIVE: Grand Mysuru Dasara celebrations at Mysore palace | Mysore Dasara 2026 | Vijayadashami Festival\n\n#mysurudasara2026  #mysoredasara2026  #mysurudasara2023  #mysorepalace  #vijayadashami2026  #jamboosavari #live  \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 216,
+      "startedAt": "2026-10-21T05:29:10Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "EhGKL2n8oIk",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Tiger Shroff Case Latest Updates | Salman Khan, Amitabh Bachchan, Akshay Also On Radar? | Salman",
+      "description": "Shots were fired at Bollywood actor Tiger Shroff's car on Sunday evening, but he wasn't the original target. An investigation into an assassination bid targeting Tiger Shroff has revealed that Salman Khan was the target. According to sources, the shooters conducted a recce of Salman Khan's house. H…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EhGKL2n8oIk/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EhGKL2n8oIk/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EhGKL2n8oIk/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 63,
+      "startedAt": "2026-10-21T05:44:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "FJTCoSj7tpM",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Uddhav Thackeray LIVE | Eknath Shinde LIVE | Sena Vs Sena At Dussehra Rallies Of Shinde And Uddhav",
+      "description": "The Shiv Sena marked 60 years of its traditional Dussehra rally on Tuesday as rival camps led by Maharashtra Deputy Chief Minister Eknath Shinde and former CM Uddhav Thackeray addressed separate gatherings here, attacking each other and speaking on a range of issues, from \"vote theft\" to \"regime ch…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FJTCoSj7tpM/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FJTCoSj7tpM/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FJTCoSj7tpM/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 29,
+      "startedAt": "2026-10-21T06:01:44Z",
       "regionRestriction": null
     },
     {
@@ -535,38 +607,14 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 45,
       "startedAt": "2026-10-01T02:10:33Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Do3wyX7DPVw",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: CJP's Saurav Das, Ashutosh Ranka's Custody Extended | Right To Protest Under Threat In India?",
-      "description": "LIVE: CJP's Saurav Das, Ashutosh Ranka's Custody Extended | Right To Protest Under Threat In India?\n\n#cjpprotest #cockroachjantaparty #jantarmantarprotest #abhijeetdipke #cjpprotest   #ashutoshranka #sauravdas #jantarmantar  #delhipolice #delhiprotest #tirangayatra #breakingnews #livenews #indiatod…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Do3wyX7DPVw/default_live.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Do3wyX7DPVw/mqdefault_live.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Do3wyX7DPVw/hqdefault_live.jpg"
-        }
-      },
-      "concurrentViewers": 13,
-      "startedAt": "2026-10-20T13:48:32Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Mohan Bhagwat | Marco rubio India Visit | PM Modi | Rahul Gandhi | Hindi News",
+      "title": "Aaj Tak LIVE TV: Tiger Shroff firing case | Salman Khan | PM Modi | Rahul Gandhi | Hindi News",
       "description": "विजयादशमी पर प्रधानमंत्री मोदी बोले- मां भारती के दुश्मनों को पहचानने की जरुरत-सच्चाई और मानवता की हमेशा होती है जीत-राम से राष्ट्र और देव से देश तक की संकल्पना\n\nरिजीम चेंज की कोशिश पर संघ की चेतावनी,कहा-पश्चिमी ताकतों के निशाने पर भारत-राहुल ने RSS पर साधा निशाना-बताया संविधान के खिलाफ\n\nपंजाब में …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -583,7 +631,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2228,
+      "concurrentViewers": 4375,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -607,8 +655,32 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 1913,
+      "concurrentViewers": 1028,
       "startedAt": "2026-10-14T11:40:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "LoBIkF-bYcc",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: Stunning waterfalls beneath Yulong Snow Mountain in Yunnan – Ep. 2",
+      "description": "Nestled at the foot of Yulong Snow Mountain in Lijiang, southwest China's Yunnan Province, Blue Moon Valley is known for its turquoise lakes, cascading waterfalls and striking mountain scenery. Fed by meltwater from the snow-covered peaks, the valley offers a peaceful view of clear blue waters flow…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LoBIkF-bYcc/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LoBIkF-bYcc/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LoBIkF-bYcc/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-10-21T05:59:54Z",
       "regionRestriction": null
     },
     {
@@ -631,8 +703,32 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault_live.jpg"
         }
       },
-      "concurrentViewers": 2361,
+      "concurrentViewers": 1523,
       "startedAt": "2022-02-20T00:57:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "SCljKBe6PRU",
+      "channelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+      "title": "LIVE: Helen Haines has lost both legs after attack, husband confirms | ABC NEWS",
+      "description": "Phil Haines, husband of Helen Haines, will provide an update on her health outside hospital. \nHer Excellency, Sam Mostyn, Governor-General of Australia will also make some remarks.\nSubscribe: http://ab.co/1svxLVE\nRead more here: https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-update…",
+      "channelTitle": "ABC News (Australia)",
+      "country": "AU",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SCljKBe6PRU/default_live.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SCljKBe6PRU/mqdefault_live.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SCljKBe6PRU/hqdefault_live.jpg"
+        }
+      },
+      "concurrentViewers": 1494,
+      "startedAt": "2026-10-21T05:59:37Z",
       "regionRestriction": null
     }
   ]
