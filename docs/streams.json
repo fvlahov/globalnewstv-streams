@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T05:13:02.474Z",
+  "generatedAt": "2026-10-22T10:27:33.743Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Websites around the world taken down to protect systems - as critical software update issued - https://trib.al/PLgjEQ9\n\n🔴 Thursday's newspaper front pages - https://trib…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 PHP latest: Wider wave of attacks feared as 'critical' flaw in code hits websites worldwide - https://news.sky.com/story/internet-threat-latest-wider-wave-of-attacks-fear…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3689,
+      "concurrentViewers": 4861,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 199,
+      "concurrentViewers": 349,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2456,
+      "concurrentViewers": 2738,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NCsP1CS0umY",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Britain's Newsroom | Thursday 22nd October",
+      "description": "When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain’s Newsroom brings you the biggest stories and the answers you need from the across the UK.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFaceb…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NCsP1CS0umY/default.jpg?v=6ad8a897"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NCsP1CS0umY/mqdefault.jpg?v=6ad8a897"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NCsP1CS0umY/hqdefault.jpg?v=6ad8a897"
+        }
+      },
+      "concurrentViewers": 1138,
+      "startedAt": "2026-10-22T08:35:27Z",
       "regionRestriction": null
     },
     {
@@ -98,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 207,
+      "concurrentViewers": 516,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kPM0NhMLR1I",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: UK parliament discusses RAF Typhoon deployment in Yemen",
+      "description": "UK parliament discusses the deployment of RAF Typhoon aircraft to defend Saudi Arabia and the extension of air-to-air refueling support for Saudi air operations, including those against Houthi targets in Yemen.\n \n#uk #britain #wesstreeting #calvinbailey #raftyphoon #saudiarabia #houthi #yemen #defe…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kPM0NhMLR1I/default.jpg?v=7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kPM0NhMLR1I/mqdefault.jpg?v=7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kPM0NhMLR1I/hqdefault.jpg?v=7"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-22T09:45:39Z",
       "regionRestriction": null
     },
     {
@@ -122,8 +170,32 @@
           "url": "https://i.ytimg.com/vi/0oXHkeRZoaw/hqdefault.jpg?v=6ad8fe4b"
         }
       },
-      "concurrentViewers": 725,
+      "concurrentViewers": 1121,
       "startedAt": "2026-10-21T21:59:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6h25qvCFuL8",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Thursday, October 22",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6h25qvCFuL8/default.jpg?v=6acd2af9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6h25qvCFuL8/mqdefault.jpg?v=6acd2af9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6h25qvCFuL8/hqdefault.jpg?v=6acd2af9"
+        }
+      },
+      "concurrentViewers": 669,
+      "startedAt": "2026-10-22T09:58:39Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/DFdWWKa2rc4/hqdefault.jpg?v=6ad901f2"
         }
       },
-      "concurrentViewers": 244,
+      "concurrentViewers": 421,
       "startedAt": "2026-10-21T22:59:16Z",
       "regionRestriction": {
         "blocked": [
@@ -175,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/hqdefault.jpg?v=6ad8e647"
         }
       },
-      "concurrentViewers": 340,
+      "concurrentViewers": 346,
       "startedAt": "2026-10-21T16:21:57Z",
       "regionRestriction": null
     },
@@ -199,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 274,
+      "concurrentViewers": 225,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -223,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 2810,
+      "concurrentViewers": 6887,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -247,9 +319,37 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 18,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
+    },
+    {
+      "videoId": "gCNeDWCI0vo",
+      "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "title": "🔴 Al Jazeera English | Live",
+      "description": "When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in the Arab world, till then, was characterised by state-controlled narratives that denied audiences the right to know and the right to be heard.\nA…",
+      "channelTitle": "Al Jazeera English",
+      "country": "QA",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/default.jpg?v=640a78c8"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/mqdefault.jpg?v=640a78c8"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
+        }
+      },
+      "concurrentViewers": 8293,
+      "startedAt": "2023-03-10T00:37:12Z",
+      "regionRestriction": {
+        "blocked": [
+          "IL"
+        ]
+      }
     },
     {
       "videoId": "LuKwFajn37U",
@@ -271,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 374,
+      "concurrentViewers": 410,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -295,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1419,
+      "concurrentViewers": 1269,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -319,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4886,
+      "concurrentViewers": 6360,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -343,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 221,
+      "concurrentViewers": 263,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -371,7 +471,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 77,
+      "concurrentViewers": 148,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -395,7 +495,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 160,
+      "concurrentViewers": 241,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -410,16 +510,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=382da"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38319"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=382da"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38319"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=382da"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38319"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 46,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -443,7 +543,7 @@
           "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 204,
+      "concurrentViewers": 119,
       "startedAt": "2026-10-21T07:09:19Z",
       "regionRestriction": null
     },
@@ -467,7 +567,7 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 83,
+      "concurrentViewers": 43,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
@@ -491,8 +591,56 @@
           "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault.jpg?v=6ad5e96c"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 41,
       "startedAt": "2026-10-19T10:21:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Sjgsn_8klVM",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Air Show Varanasi 2026 | WATCH LIVE: IAF's Aerial Spectacle Over Varanasi's Namo Ghat",
+      "description": "The Indian Air Force presents a spectacular aerial display over Varanasi's Namo Ghat, with Rafale fighter jets taking to the skies. Watch the flypast showcasing the IAF's aerial capabilities against the backdrop of the historic city.\n\n\n#IndianAirForce #Rafale #Varanasi #NamoGhat #IAF #RafaleJets #I…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Sjgsn_8klVM/default.jpg?v=6ad9a469"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Sjgsn_8klVM/mqdefault.jpg?v=6ad9a469"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Sjgsn_8klVM/hqdefault.jpg?v=6ad9a469"
+        }
+      },
+      "concurrentViewers": 44,
+      "startedAt": "2026-10-22T06:17:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Dos3aUHZxvk",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "LIVE: Home Minister Amit Shah | Rahul Gandhi | Yamuna Cleanup | SIR Protest",
+      "description": "Union Home Minister Amit Shah inaugurated and laid foundation stones for 43 Delhi Jal Board water and sewerage infrastructure projects worth ₹8,941.22 crore in Delhi on October 22, 2026, with the stated target of cleaning the Yamuna River by December 2028.\n\n#Amitshah #yamunarevival #yamuna \n\nAbout …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dos3aUHZxvk/default.jpg?v=6ad9b8fd"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dos3aUHZxvk/mqdefault.jpg?v=6ad9b8fd"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dos3aUHZxvk/hqdefault.jpg?v=6ad9b8fd"
+        }
+      },
+      "concurrentViewers": 17,
+      "startedAt": "2026-10-22T07:10:53Z",
       "regionRestriction": null
     },
     {
@@ -515,15 +663,39 @@
           "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/hqdefault.jpg?v=6ad84cdc"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 9,
       "startedAt": "2026-10-21T05:29:10Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "C3WocAIWefM",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "BJP vs Congress Row LIVE: Amit Shah Attacks Rahul Gandhi Over ‘Vietnam Trip’ LIVE UPDATES",
+      "description": "Amit Shah targets Rahul Gandhi over his Vietnam trip, triggering a fresh political exchange between the BJP and Congress amid ongoing national debates.\n\n#AmitShah #RahulGandhi #VietnamTrip #BJP #Congress #PoliticalRow #IndianPolitics #BreakingNews #IndiaToday #Live #indiatodaylivestream\n\n\n\n\n\nSubscr…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C3WocAIWefM/default.jpg?v=6ad9b818"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C3WocAIWefM/mqdefault.jpg?v=6ad9b818"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C3WocAIWefM/hqdefault.jpg?v=6ad9b818"
+        }
+      },
+      "concurrentViewers": 50,
+      "startedAt": "2026-10-22T07:16:22Z",
       "regionRestriction": null
     },
     {
       "videoId": "waAy4HH0Vk4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: CJP's Saurav-Ashutosh Released | Rubio  | Tiger Shroff | France Riots",
-      "description": "India Today TV LIVE: CJP's Saurav-Ashutosh Released | Rubio  | Tiger Shroff | France Riots\n\nActor Tiger Shroff was shot at in Mumbai’s Juhu on Sunday while returning home after playing football, police sources said. He is safe and has not suffered any gunshot injury.\n\nAlmost 40 people were injured …",
+      "title": "India Today TV LIVE: Saurav Das-Ranka Summoned | Rahul Gandhi | Tiger Shroff | France Riots | Trump",
+      "description": "India Today TV LIVE: Saurav Das-Ranka Summoned | Rahul Gandhi | Tiger Shroff | France Riots | Trump\n\nActor Tiger Shroff was shot at in Mumbai’s Juhu on Sunday while returning home after playing football, police sources said. He is safe and has not suffered any gunshot injury.\n\nAlmost 40 people were…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -539,8 +711,32 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 38,
       "startedAt": "2026-10-01T02:10:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PB8zXpR3V_U",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Neha Bora Faces BJP Heat Over Bangladesh Gen Z Uprising Remarks | Storm Over Bangladesh Coup",
+      "description": "AISF chief Neha Bora faces BJP criticism over Bangladesh uprising remarks, alleging doctored clips while clarifying her support for progressive struggles.\n\n#NehaBora #AISF #BangladeshUprising #RegimeChange #BJP #RSS #GenZMovement #CEC #VoteChori #StudentProtests #IndianPolitics #LIVE #IndiaToday #i…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PB8zXpR3V_U/default.jpg?v=6ad994d2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PB8zXpR3V_U/mqdefault.jpg?v=6ad994d2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PB8zXpR3V_U/hqdefault.jpg?v=6ad994d2"
+        }
+      },
+      "concurrentViewers": 21,
+      "startedAt": "2026-10-22T04:45:55Z",
       "regionRestriction": null
     },
     {
@@ -563,8 +759,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1963,
+      "concurrentViewers": 1522,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "UOyCQSxB13E",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: देखिए आज की 100 बड़ी खबरें | Tiger Shroff Firing | CJP | PM Modi | Aaj Tak",
+      "description": "प्रियंका गांधी के बेटे रेहान वाड्रा की प्रदर्शनी पर विवाद..आर्ट एग्ज़िविशन से विरोध प्रदर्शन के फोटोग्राफ हटाने पर आजतक से बोले- ये मेरी 3 साल की मेहनत..इस पर राजनीति क्यों..प्रियंका का पोस्ट-बेटे पर गर्व है  \n\nएक नवंबर को दिल्ली में विपक्ष की रैली पर उठा सियासी बवंडर..बीजेपी ने याद दिलाई सिख दंगे …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UOyCQSxB13E/default.jpg?v=6ad9d495"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UOyCQSxB13E/mqdefault.jpg?v=6ad9d495"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UOyCQSxB13E/hqdefault.jpg?v=6ad9d495"
+        }
+      },
+      "concurrentViewers": 225,
+      "startedAt": "2026-10-22T09:18:02Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "eGMDXz3o1U0",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Akhilesh Yadav Meets Azam Khan LIVE : जेल में आजम खान से मिले अखिलेश यादव | UP Election | Samajwadi",
+      "description": "समाजवादी पार्टी के प्रमुख अखिलेश यादव ने जेल में आजम खान से मुलाकात की. इसके बाद वह उनके घर पहुंचे और उनकी पत्नी से भी मिले. जेल में मुलाकात के बाद अखिलेश ने कहा कि आजम खान से उनकी बातचीत अच्छी हुई. उन्होंने कहा, \"वो स्वस्थ हैं. हमारी बातचीत अच्छी हुई और मैं उम्मीद करता हूं कि और स्वस्थ रहें और जल्…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eGMDXz3o1U0/default.jpg?v=6ad9e15c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eGMDXz3o1U0/mqdefault.jpg?v=6ad9e15c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eGMDXz3o1U0/hqdefault.jpg?v=6ad9e15c"
+        }
+      },
+      "concurrentViewers": 171,
+      "startedAt": "2026-10-22T10:12:27Z",
       "regionRestriction": null
     },
     {
@@ -587,7 +831,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1111,
+      "concurrentViewers": 844,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -611,7 +855,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 134,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -635,7 +879,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1559,
+      "concurrentViewers": 1222,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
