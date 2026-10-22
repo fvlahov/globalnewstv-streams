@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T00:07:28.069Z",
+  "generatedAt": "2026-10-22T05:13:02.474Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2058,
+      "concurrentViewers": 3689,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 107,
+      "concurrentViewers": 199,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1251,
+      "concurrentViewers": 2456,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,14 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 207,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "0oXHkeRZoaw",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 21",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -122,56 +122,8 @@
           "url": "https://i.ytimg.com/vi/0oXHkeRZoaw/hqdefault.jpg?v=6ad8fe4b"
         }
       },
-      "concurrentViewers": 2077,
+      "concurrentViewers": 725,
       "startedAt": "2026-10-21T21:59:03Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Qqwxl1QMWJk",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 21",
-      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Qqwxl1QMWJk/default.jpg?v=6ad9481a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Qqwxl1QMWJk/mqdefault.jpg?v=6ad9481a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Qqwxl1QMWJk/hqdefault.jpg?v=6ad9481a"
-        }
-      },
-      "concurrentViewers": 197,
-      "startedAt": "2026-10-21T23:59:37Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "KSPiBsFeIhU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Wednesday, October 21",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/default.jpg?v=6acd2a58"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/mqdefault.jpg?v=6acd2a58"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KSPiBsFeIhU/hqdefault.jpg?v=6acd2a58"
-        }
-      },
-      "concurrentViewers": 977,
-      "startedAt": "2026-10-21T09:58:20Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/DFdWWKa2rc4/hqdefault.jpg?v=6ad901f2"
         }
       },
-      "concurrentViewers": 368,
+      "concurrentViewers": 244,
       "startedAt": "2026-10-21T22:59:16Z",
       "regionRestriction": {
         "blocked": [
@@ -223,7 +175,7 @@
           "url": "https://i.ytimg.com/vi/cNz0aQD0rRs/hqdefault.jpg?v=6ad8e647"
         }
       },
-      "concurrentViewers": 678,
+      "concurrentViewers": 340,
       "startedAt": "2026-10-21T16:21:57Z",
       "regionRestriction": null
     },
@@ -247,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 953,
+      "concurrentViewers": 274,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -271,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1502,
+      "concurrentViewers": 2810,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 27,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 347,
+      "concurrentViewers": 374,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -343,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 941,
+      "concurrentViewers": 1419,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -367,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4211,
+      "concurrentViewers": 4886,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -391,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 94,
+      "concurrentViewers": 221,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -419,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 77,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -443,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 148,
+      "concurrentViewers": 160,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -458,16 +410,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3829d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=382da"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3829d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=382da"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3829d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=382da"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 45,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -491,32 +443,8 @@
           "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 137,
+      "concurrentViewers": 204,
       "startedAt": "2026-10-21T07:09:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "o2dN_NoiXsM",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
-      "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. involv…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/default.jpg?v=6ad5e96c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/mqdefault.jpg?v=6ad5e96c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault.jpg?v=6ad5e96c"
-        }
-      },
-      "concurrentViewers": 46,
-      "startedAt": "2026-10-19T10:21:06Z",
       "regionRestriction": null
     },
     {
@@ -539,32 +467,32 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 83,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
     {
-      "videoId": "fM8iMk_-rbM",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest | Bail Battle Won, Gen-Z 'Tag' Lost? | The Buck Stops Here LIVE",
-      "description": "Watch The Buck Stops Here LIVE with Padmaja Joshi only on NDTV. \n\n#TheBuckStopsHere #LIVE \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch big poli…",
-      "channelTitle": "NDTV",
+      "videoId": "o2dN_NoiXsM",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
+      "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. involv…",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/fM8iMk_-rbM/default.jpg?v=6ad8cbff"
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/default.jpg?v=6ad5e96c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/fM8iMk_-rbM/mqdefault.jpg?v=6ad8cbff"
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/mqdefault.jpg?v=6ad5e96c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/fM8iMk_-rbM/hqdefault.jpg?v=6ad8cbff"
+          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault.jpg?v=6ad5e96c"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-21T14:30:12Z",
+      "concurrentViewers": 43,
+      "startedAt": "2026-10-19T10:21:06Z",
       "regionRestriction": null
     },
     {
@@ -587,56 +515,8 @@
           "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/hqdefault.jpg?v=6ad84cdc"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-21T05:29:10Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "EPgElPoE-p8",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai LIVE: CJP's Saurav Das & Ranka Released | Right To Protest Or Public Order?",
-      "description": "A Delhi Special Executive Magistrate (SEM) on Wednesday ordered the release of Cockroach Janata Party (CJP) co-conveners Saurav Das and Ashutosh Ranka, who had been in judicial custody since the October 14 protest at Jantar Mantar.\n\nThe order came hours after the two withdrew their Delhi High Court…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/default.jpg?v=6ad8d99c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/mqdefault.jpg?v=6ad8d99c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EPgElPoE-p8/hqdefault.jpg?v=6ad8d99c"
-        }
-      },
-      "concurrentViewers": 60,
-      "startedAt": "2026-10-21T15:30:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-sRevzreFNM",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Attack On Tiger Shroff Decoded | Salman Khan Was The Real Target? | Lawrence Bishnoi",
-      "description": "LIVE: Attack On Tiger Shroff Decoded | Salman Khan Was The Real Target? | Lawrence Bishnoi \n#LawrenceBishnoi #BishnoiGang #indiatodaylivestream  #TigerShroff #SalmanKhan #Bollywood #CrimeNetwork #MumbaiCrime #Underworld #IndiaToday #IndiaTodayNews \n,Lawrence Bishnoi,Bishnoi gang,Bishnoi crime netwo…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-sRevzreFNM/default.jpg?v=6ad8e94e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-sRevzreFNM/mqdefault.jpg?v=6ad8e94e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-sRevzreFNM/hqdefault.jpg?v=6ad8e94e"
-        }
-      },
-      "concurrentViewers": 15,
-      "startedAt": "2026-10-21T16:35:16Z",
       "regionRestriction": null
     },
     {
@@ -659,7 +539,7 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 15,
+      "concurrentViewers": 50,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -683,32 +563,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 576,
+      "concurrentViewers": 1963,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Qvs3joJxMsA",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Firing on Tiger Shroff Update LIVE : शूटर्स ने Ranbir Kapoor के घर की भी रेकी की थी | Mumbai Police",
-      "description": "सूत्रों के मुताबिक, टाइगर के शूटर्स ने मुंबई आने के बाद सलमान खान के घर की रेकी की थी. इस खुलासे ने दबंग खान के फैंस को टेंशन दे दी है. लॉरेंस बिश्नोई संग सलमान का पुराना विवाद है.\n\n#RanbirKapoor #bollywood #tigershroff #lawrencebishnoi #Aajtak \n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Qvs3joJxMsA/default.jpg?v=6ad9019b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Qvs3joJxMsA/mqdefault.jpg?v=6ad9019b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Qvs3joJxMsA/hqdefault.jpg?v=6ad9019b"
-        }
-      },
-      "concurrentViewers": 101,
-      "startedAt": "2026-10-21T18:18:32Z",
       "regionRestriction": null
     },
     {
@@ -731,7 +587,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1876,
+      "concurrentViewers": 1111,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -755,7 +611,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 97,
+      "concurrentViewers": 132,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -779,7 +635,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2707,
+      "concurrentViewers": 1559,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
