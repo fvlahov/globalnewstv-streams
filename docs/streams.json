@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T19:48:11.809Z",
+  "generatedAt": "2026-10-22T23:01:01.131Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 PHP latest: Wider wave of attacks feared as 'critical' flaw in code hits websites worldwide - https://news.sky.com/story/internet-threat-latest-wider-wave-of-attacks-fear…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Friday's newspaper front pages - https://news.sky.com/story/thursdays-newspaper-front-pages-12427754\n\n🔴 PHP internet warning: 'Staggering' flaws found in software used b…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3061,
+      "concurrentViewers": 1702,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "rFVCBfTIOUk",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Government warns British families to have plan if critical infrastructure is attacked | The Wrap",
+      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight.\n\nIt will feature high-profile panellists, from leading experts and journalists to special guests, for a live, fast-moving conversation.\n\nMore from The Wrap ➡️…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rFVCBfTIOUk/default.jpg?v=6ada7b44"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rFVCBfTIOUk/mqdefault.jpg?v=6ada7b44"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rFVCBfTIOUk/hqdefault.jpg?v=6ada7b44"
+        }
+      },
+      "concurrentViewers": 269,
+      "startedAt": "2026-10-22T20:54:33Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 237,
+      "concurrentViewers": 131,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2127,
+      "concurrentViewers": 1610,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "gGHcx6FdsII",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Thursday 22nd October",
+      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gGHcx6FdsII/default.jpg?v=6ad99a96"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gGHcx6FdsII/mqdefault.jpg?v=6ad99a96"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gGHcx6FdsII/hqdefault.jpg?v=6ad99a96"
+        }
+      },
+      "concurrentViewers": 98,
+      "startedAt": "2026-10-22T22:56:17Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 94,
+      "concurrentViewers": 56,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,12 +170,12 @@
           "url": "https://i.ytimg.com/vi/H0rBz46HFDY/hqdefault.jpg?v=6ada08ad"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 36,
       "startedAt": "2026-10-22T12:45:44Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xPtxnwQREmE",
+      "videoId": "KhkNcaErtes",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 22",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -137,17 +185,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xPtxnwQREmE/default.jpg?v=6ad8fea1"
+          "url": "https://i.ytimg.com/vi/KhkNcaErtes/default.jpg?v=6ada4ed6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xPtxnwQREmE/mqdefault.jpg?v=6ad8fea1"
+          "url": "https://i.ytimg.com/vi/KhkNcaErtes/mqdefault.jpg?v=6ada4ed6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xPtxnwQREmE/hqdefault.jpg?v=6ad8fea1"
+          "url": "https://i.ytimg.com/vi/KhkNcaErtes/hqdefault.jpg?v=6ada4ed6"
         }
       },
-      "concurrentViewers": 2844,
-      "startedAt": "2026-10-22T10:32:24Z",
+      "concurrentViewers": 1705,
+      "startedAt": "2026-10-22T21:58:57Z",
       "regionRestriction": null
     },
     {
@@ -170,12 +218,12 @@
           "url": "https://i.ytimg.com/vi/6h25qvCFuL8/hqdefault.jpg?v=6acd2af9"
         }
       },
-      "concurrentViewers": 1050,
+      "concurrentViewers": 879,
       "startedAt": "2026-10-22T09:58:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "I9M1hVv8V_c",
+      "videoId": "66zHdzs-DdQ",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -185,17 +233,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/I9M1hVv8V_c/default.jpg?v=6ad9021d"
+          "url": "https://i.ytimg.com/vi/66zHdzs-DdQ/default.jpg?v=6ada546a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/I9M1hVv8V_c/mqdefault.jpg?v=6ad9021d"
+          "url": "https://i.ytimg.com/vi/66zHdzs-DdQ/mqdefault.jpg?v=6ada546a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/I9M1hVv8V_c/hqdefault.jpg?v=6ad9021d"
+          "url": "https://i.ytimg.com/vi/66zHdzs-DdQ/hqdefault.jpg?v=6ada546a"
         }
       },
-      "concurrentViewers": 577,
-      "startedAt": "2026-10-22T11:08:47Z",
+      "concurrentViewers": 620,
+      "startedAt": "2026-10-22T22:59:24Z",
       "regionRestriction": {
         "blocked": [
           "AU",
@@ -223,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/RpYY5RW067o/hqdefault.jpg?v=6ada070e"
         }
       },
-      "concurrentViewers": 886,
+      "concurrentViewers": 609,
       "startedAt": "2026-10-22T12:54:38Z",
       "regionRestriction": null
     },
@@ -247,8 +295,56 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 1398,
+      "concurrentViewers": 1067,
       "startedAt": "2026-09-29T11:47:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "u-Rru_rM0hM",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Trump holds a rally in Iowa for the midterm elections",
+      "description": "Watch live as President Donald Trump holds a rally in Sioux City, Iowa, for the Nov. 3 midterm elections.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/default.jpg?v=6ada87f0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/mqdefault.jpg?v=6ada87f0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/hqdefault.jpg?v=6ada87f0"
+        }
+      },
+      "concurrentViewers": 309,
+      "startedAt": "2026-10-22T22:05:20Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "sUXxCcf5ZVI",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Kamala Harris campaigns with Scott Colom at a midterm rally in Mississippi",
+      "description": "Watch live as former Vice President Kamala Harris campaigns with Democratic Senate candidate Scott Colom at a rally in Columbus, Mississippi, ahead of the Nov. 3 midterm elections.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sUXxCcf5ZVI/default.jpg?v=6ada642b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sUXxCcf5ZVI/mqdefault.jpg?v=6ada642b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sUXxCcf5ZVI/hqdefault.jpg?v=6ada642b"
+        }
+      },
+      "concurrentViewers": 114,
+      "startedAt": "2026-10-22T22:25:25Z",
       "regionRestriction": null
     },
     {
@@ -271,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 5685,
+      "concurrentViewers": 1621,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +391,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 26,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +415,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7674,
+      "concurrentViewers": 5541,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -347,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 387,
+      "concurrentViewers": 324,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -371,7 +467,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1332,
+      "concurrentViewers": 858,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -395,7 +491,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7197,
+      "concurrentViewers": 4974,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -419,7 +515,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 145,
+      "concurrentViewers": 89,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -447,7 +543,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 85,
+      "concurrentViewers": 58,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -471,7 +567,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 159,
+      "concurrentViewers": 167,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -486,16 +582,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38385"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=383ac"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38385"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=383ac"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38385"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=383ac"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 25,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -519,7 +615,7 @@
           "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 61,
       "startedAt": "2026-10-21T07:09:19Z",
       "regionRestriction": null
     },
@@ -543,7 +639,7 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 29,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
@@ -567,7 +663,7 @@
           "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault.jpg?v=6ad5e96c"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-19T10:21:06Z",
       "regionRestriction": null
     },
@@ -591,7 +687,7 @@
           "url": "https://i.ytimg.com/vi/Qux2Qg1ilAQ/hqdefault.jpg?v=6ada5728"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 11,
       "startedAt": "2026-10-22T18:36:36Z",
       "regionRestriction": null
     },
@@ -615,7 +711,7 @@
           "url": "https://i.ytimg.com/vi/87yYlY8NL3s/hqdefault.jpg?v=6ada59f8"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 9,
       "startedAt": "2026-10-22T18:47:15Z",
       "regionRestriction": null
     },
@@ -639,7 +735,7 @@
           "url": "https://i.ytimg.com/vi/4_Mg2vU11_Y/hqdefault.jpg?v=6ada24bb"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 1,
       "startedAt": "2026-10-22T18:45:40Z",
       "regionRestriction": null
     },
@@ -663,8 +759,56 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 11,
       "startedAt": "2026-10-01T02:10:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "XgDt_wbElz8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Marco Rubio, Sergio Gor’s Global Exclusive On India-US Ties, Trade Deal, Oil Diplomacy & More",
+      "description": "LIVE: Marco Rubio, Sergio Gor’s Global Exclusive On India-US Ties, Trade Deal, Oil Diplomacy & More\n\nUS Secretary of State Marco Rubio and US Ambassador to India Sergio Gor speak exclusively to India Today on India-US relations, trade negotiations, investment and the future of the bilateral partner…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XgDt_wbElz8/default.jpg?v=6ada3ad6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XgDt_wbElz8/mqdefault.jpg?v=6ada3ad6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XgDt_wbElz8/hqdefault.jpg?v=6ada3ad6"
+        }
+      },
+      "concurrentViewers": 9,
+      "startedAt": "2026-10-22T16:35:53Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vt8adxPZIR4",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Black & White With Anjana Om Kashyap LIVE | Raihan Vadra | Akhilesh Yadav | Azam Khan | UP Election",
+      "description": "Black & White With Anjana Om Kashyap LIVE | Raihan Vadra | Akhilesh Yadav | Azam Khan | UP Election\n \n त्रिपुरा के युवक के साथ कथित तौर पर की गई नस्लीय बदसलूकी पर बवाल मच गया है.केंद्रीय संसदीय कार्य मंत्री किरेन रिजिजू ने इसकी कड़ी निंदा की है. तो वहीं, त्रिपुरा पुलिस ने आरोपी आमिर के खिलाफ केस दर…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/default.jpg?v=6ada1963"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/mqdefault.jpg?v=6ada1963"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/hqdefault.jpg?v=6ada1963"
+        }
+      },
+      "concurrentViewers": 292,
+      "startedAt": "2026-10-22T15:21:48Z",
       "regionRestriction": null
     },
     {
@@ -687,8 +831,32 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 501,
+      "concurrentViewers": 232,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zPeqCt8knok",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "High Court Hearing on Neha Bora LIVE : नेहा बोरा को लेकर बड़ी खबर | CJP | Delhi Police | Saurabh Das",
+      "description": "AISA अध्यक्ष नेहा बोरा के पर्सनल बॉन्ड मामले में दिल्ली हाई कोर्ट में सुनवाई पूरी हो गई है. कोर्ट ने दोनों पक्षों की दलीलें सुनने के बाद फैसला सुरक्षित रख लिया है. कल इस मामले में फैसला सुनाया जाएगा. नेहा ने SEM के उस नोटिस को चुनौती दी है, जिसमें उनसे 10 हजार रुपये का निजी मुचलका और एक जमानतदार दे…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zPeqCt8knok/default.jpg?v=6ada0684"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zPeqCt8knok/mqdefault.jpg?v=6ada0684"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zPeqCt8knok/hqdefault.jpg?v=6ada0684"
+        }
+      },
+      "concurrentViewers": 92,
+      "startedAt": "2026-10-22T12:50:59Z",
       "regionRestriction": null
     },
     {
@@ -711,7 +879,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 267,
+      "concurrentViewers": 997,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -735,7 +903,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 93,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -759,7 +927,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1728,
+      "concurrentViewers": 2778,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
