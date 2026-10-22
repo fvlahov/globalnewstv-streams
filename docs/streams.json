@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T15:31:57.258Z",
+  "generatedAt": "2026-10-22T19:48:11.809Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4767,
+      "concurrentViewers": 3061,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 258,
+      "concurrentViewers": 237,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2227,
+      "concurrentViewers": 2127,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,32 +98,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 252,
+      "concurrentViewers": 94,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "63Nni-GPhMQ",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Students in Paris protest for better school conditions",
-      "description": "High school and university students hold protest march in Paris, France, for better school conditions. French President Emmanuel Macron said \"illegitimate\" protests would be banned in the coming days and blamed \"seditious\" ultra-left groups and vandals for last weekend's ‌riots and looting.\n \n#fran…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/63Nni-GPhMQ/default.jpg?v=6ada0f6a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/63Nni-GPhMQ/mqdefault.jpg?v=6ada0f6a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/63Nni-GPhMQ/hqdefault.jpg?v=6ada0f6a"
-        }
-      },
-      "concurrentViewers": 80,
-      "startedAt": "2026-10-22T13:25:49Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/H0rBz46HFDY/hqdefault.jpg?v=6ada08ad"
         }
       },
-      "concurrentViewers": 44,
+      "concurrentViewers": 31,
       "startedAt": "2026-10-22T12:45:44Z",
       "regionRestriction": null
     },
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/xPtxnwQREmE/hqdefault.jpg?v=6ad8fea1"
         }
       },
-      "concurrentViewers": 4882,
+      "concurrentViewers": 2844,
       "startedAt": "2026-10-22T10:32:24Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/6h25qvCFuL8/hqdefault.jpg?v=6acd2af9"
         }
       },
-      "concurrentViewers": 2344,
+      "concurrentViewers": 1050,
       "startedAt": "2026-10-22T09:58:39Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/I9M1hVv8V_c/hqdefault.jpg?v=6ad9021d"
         }
       },
-      "concurrentViewers": 1061,
+      "concurrentViewers": 577,
       "startedAt": "2026-10-22T11:08:47Z",
       "regionRestriction": {
         "blocked": [
@@ -247,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/RpYY5RW067o/hqdefault.jpg?v=6ada070e"
         }
       },
-      "concurrentViewers": 1241,
+      "concurrentViewers": 886,
       "startedAt": "2026-10-22T12:54:38Z",
       "regionRestriction": null
     },
@@ -271,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 1573,
+      "concurrentViewers": 1398,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -295,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 8165,
+      "concurrentViewers": 5685,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -319,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 29,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -343,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8695,
+      "concurrentViewers": 7674,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -371,7 +347,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 495,
+      "concurrentViewers": 387,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -395,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1369,
+      "concurrentViewers": 1332,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -419,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6191,
+      "concurrentViewers": 7197,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -443,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 196,
+      "concurrentViewers": 145,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -471,7 +447,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 103,
+      "concurrentViewers": 85,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -495,7 +471,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 192,
+      "concurrentViewers": 159,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -510,41 +486,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38352"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38385"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38352"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38385"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38352"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38385"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 35,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "X-7LAkvfA5s",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "WION LIVE News | Latest News Updates From Across The World | English News | Top International News",
-      "description": "Welcome to WION, World is One, India's first global news network. \nAt WION, we present to you global news stories from an Indian perspective.\n\nIn a short span of time, WION has emerged as one of the most impartial and unique world news channels.\n\nWe beam from nearly 40 cities of the world, with cor…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/default.jpg?v=6a4330aa"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/mqdefault.jpg?v=6a4330aa"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
-        }
-      },
-      "concurrentViewers": 97,
-      "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
     {
@@ -567,8 +519,32 @@
           "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 62,
       "startedAt": "2026-10-21T07:09:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "X-7LAkvfA5s",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "WION LIVE News | Latest News Updates From Across The World | English News | Top International News",
+      "description": "Welcome to WION, World is One, India's first global news network. \nAt WION, we present to you global news stories from an Indian perspective.\n\nIn a short span of time, WION has emerged as one of the most impartial and unique world news channels.\n\nWe beam from nearly 40 cities of the world, with cor…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/default.jpg?v=6a4330aa"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/mqdefault.jpg?v=6a4330aa"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
+        }
+      },
+      "concurrentViewers": 34,
+      "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
     {
@@ -591,32 +567,80 @@
           "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault.jpg?v=6ad5e96c"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-19T10:21:06Z",
       "regionRestriction": null
     },
     {
-      "videoId": "E0CKS1JzFJ4",
+      "videoId": "Qux2Qg1ilAQ",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Mysuru Dasara Celebrations LIVE | Mysuru Dasara Celebrations At Mysore Palace | Mysore Dasara 2026",
-      "description": "LIVE: Grand Mysuru Dasara celebrations at Mysore palace | Mysore Dasara 2026 | Vijayadashami Festival\n\n#mysurudasara2026  #mysoredasara2026  #mysurudasara2023  #mysorepalace  #vijayadashami2026  #jamboosavari #live  \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster…",
+      "title": "LIVE: S Jaishankar | S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco Rubio Jibe | LIVE",
+      "description": "In an NDTV conversation, External Affairs Minister S Jaishankar talks about watching OTT shows on diplomacy and geopolitics, including The Diplomat. Calling the show quintessentially American, he says such series dramatise the world of diplomacy, while a realistic portrayal of how diplomacy works m…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/default.jpg?v=6ad84cdc"
+          "url": "https://i.ytimg.com/vi/Qux2Qg1ilAQ/default.jpg?v=6ada5728"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/mqdefault.jpg?v=6ad84cdc"
+          "url": "https://i.ytimg.com/vi/Qux2Qg1ilAQ/mqdefault.jpg?v=6ada5728"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/E0CKS1JzFJ4/hqdefault.jpg?v=6ad84cdc"
+          "url": "https://i.ytimg.com/vi/Qux2Qg1ilAQ/hqdefault.jpg?v=6ada5728"
         }
       },
-      "concurrentViewers": 14,
-      "startedAt": "2026-10-21T05:29:10Z",
+      "concurrentViewers": 26,
+      "startedAt": "2026-10-22T18:36:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "87yYlY8NL3s",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "France Riots LIVE | France Protest | Paris France | France News | France Protests | LIVE",
+      "description": "High school and university students hold protest march in Paris, France, for better school conditions. French President Emmanuel Macron said \"illegitimate\" protests would be banned in the coming days and blamed \"seditious\" ultra-left groups and vandals for last weekend's ‌riots and looting.\n \n#fran…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/87yYlY8NL3s/default.jpg?v=6ada59f8"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/87yYlY8NL3s/mqdefault.jpg?v=6ada59f8"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/87yYlY8NL3s/hqdefault.jpg?v=6ada59f8"
+        }
+      },
+      "concurrentViewers": 21,
+      "startedAt": "2026-10-22T18:47:15Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4_Mg2vU11_Y",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "LIVE: Kash Patel Press Conference | FBI Director LIVE | Kash Patel's Law Enforcement Announcement",
+      "description": "Watch live as Attorney General Todd Blanche, FBI Director Kash Patel and Theophani K. Stamos, First Assistant U.S. Attorney for the Eastern District of Virginia, make a law enforcement announcement.\n\n#fbi #kashpatel \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4_Mg2vU11_Y/default.jpg?v=6ada24bb"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4_Mg2vU11_Y/mqdefault.jpg?v=6ada24bb"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4_Mg2vU11_Y/hqdefault.jpg?v=6ada24bb"
+        }
+      },
+      "concurrentViewers": 11,
+      "startedAt": "2026-10-22T18:45:40Z",
       "regionRestriction": null
     },
     {
@@ -639,14 +663,14 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 180,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Black & White | UP Election 2027 |Amit Shah| CJP |Congress |Tiger Shroff | Akhilesh",
+      "title": "Aaj Tak LIVE TV: UP Election 2027 | Amit Shah | CJP |Congress | Tiger Shroff | Akhilesh Yadav | BJP",
       "description": "हाईकोर्ट के सख्त सवालों के बाद CJP ने वापस ली ज़मानत की अर्ज़ी-अदालत ने सौरव- रांका के जेन ज़ी होने पर उठाए सवाल..पूछा-रोक थी तो बैरिकेड क्यों तोड़ा..भीड़ अनियंत्रित हो जाती तो क्या होता?\n\nरुबियो के मुंबई दौरे के बीच राष्ट्रपति ट्रंप का दावा- ट्रेड डील के बेहद करीब हैं भारत और अमेरिका..पहले से काफी…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -663,7 +687,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 4774,
+      "concurrentViewers": 501,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -687,7 +711,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 478,
+      "concurrentViewers": 267,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -711,7 +735,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 113,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -735,7 +759,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 538,
+      "concurrentViewers": 1728,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
