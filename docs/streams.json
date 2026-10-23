@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T07:05:45.395Z",
+  "generatedAt": "2026-10-23T12:45:32.134Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Friday's newspaper front pages - https://news.sky.com/story/thursdays-newspaper-front-pages-12427754\n\n🔴 PHP internet warning: 'Staggering' flaws found in software used b…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Meghan told of 'disturbing allegations' against her father Thomas Markle eight years ago - https://news.sky.com/story/meghan-deeply-distressed-by-allegations-against-her-…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 5941,
+      "concurrentViewers": 6020,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,13 +46,37 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 343,
+      "concurrentViewers": 307,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
           "GB"
         ]
       }
+    },
+    {
+      "videoId": "7xE-CBMukbE",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "LIVE: Storm Austen leaves thousands without power as it sweeps across parts of the UK | BBC News",
+      "description": "More than 5,000 homes in Cornwall are currently experiencing power cuts, National Grid reports, as Storm Austen sweeps across parts of the UK.\n \nThe Met Office has issued an amber weather warning for strong winds for Cornwall and parts of Devon.\n \nMeanwhile, a red warning in place for Guernsey and …",
+      "channelTitle": "BBC News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7xE-CBMukbE/default.jpg?v=6adaffe5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7xE-CBMukbE/mqdefault.jpg?v=6adaffe5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7xE-CBMukbE/hqdefault.jpg?v=6adaffe5"
+        }
+      },
+      "concurrentViewers": 247,
+      "startedAt": "2026-10-23T06:35:05Z",
+      "regionRestriction": null
     },
     {
       "videoId": "EDbWwVR7i9Q",
@@ -74,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2933,
+      "concurrentViewers": 2727,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "G7Z4Sr-3YeQ",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Good Afternoon Britain | Friday 23rd October",
+      "description": "Tackling the big stories from all angles and perspectives. Weekdays from midday, Christopher Hope and Emily Carver bring you the most compelling stories from across the United Kingdom.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G7Z4Sr-3YeQ/default.jpg?v=6adaf8b0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G7Z4Sr-3YeQ/mqdefault.jpg?v=6adaf8b0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G7Z4Sr-3YeQ/hqdefault.jpg?v=6adaf8b0"
+        }
+      },
+      "concurrentViewers": 868,
+      "startedAt": "2026-10-23T10:56:02Z",
       "regionRestriction": null
     },
     {
@@ -98,14 +146,38 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 446,
+      "concurrentViewers": 294,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "KhkNcaErtes",
+      "videoId": "lLGO45Zrjh4",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Hungary opposition marches through Budapest",
+      "description": "Hungary's opposition marches through Budapest to mark the anniversary of 1956 Hungarian Revolution against communist rule.\n \n#hungary #budapest #hungarianrevolution #anniversary #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lLGO45Zrjh4/default.jpg?v=6adb343d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lLGO45Zrjh4/mqdefault.jpg?v=6adb343d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lLGO45Zrjh4/hqdefault.jpg?v=6adb343d"
+        }
+      },
+      "concurrentViewers": 15,
+      "startedAt": "2026-10-23T10:12:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Nvl7K0LvvgI",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 23",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -113,17 +185,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KhkNcaErtes/default.jpg?v=6ada4ed6"
+          "url": "https://i.ytimg.com/vi/Nvl7K0LvvgI/default.jpg?v=6ada4f1b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KhkNcaErtes/mqdefault.jpg?v=6ada4ed6"
+          "url": "https://i.ytimg.com/vi/Nvl7K0LvvgI/mqdefault.jpg?v=6ada4f1b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KhkNcaErtes/hqdefault.jpg?v=6ada4ed6"
+          "url": "https://i.ytimg.com/vi/Nvl7K0LvvgI/hqdefault.jpg?v=6ada4f1b"
         }
       },
-      "concurrentViewers": 483,
-      "startedAt": "2026-10-22T21:58:57Z",
+      "concurrentViewers": 3953,
+      "startedAt": "2026-10-23T10:57:35Z",
       "regionRestriction": null
     },
     {
@@ -146,12 +218,12 @@
           "url": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg?v=685771cc"
         }
       },
-      "concurrentViewers": 828,
+      "concurrentViewers": 883,
       "startedAt": "2025-05-01T13:54:01Z",
       "regionRestriction": null
     },
     {
-      "videoId": "66zHdzs-DdQ",
+      "videoId": "V1b6nTzIknA",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -161,17 +233,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/66zHdzs-DdQ/default.jpg?v=6ada546a"
+          "url": "https://i.ytimg.com/vi/V1b6nTzIknA/default.jpg?v=6ada549c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/66zHdzs-DdQ/mqdefault.jpg?v=6ada546a"
+          "url": "https://i.ytimg.com/vi/V1b6nTzIknA/mqdefault.jpg?v=6ada549c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/66zHdzs-DdQ/hqdefault.jpg?v=6ada546a"
+          "url": "https://i.ytimg.com/vi/V1b6nTzIknA/hqdefault.jpg?v=6ada549c"
         }
       },
-      "concurrentViewers": 257,
-      "startedAt": "2026-10-22T22:59:24Z",
+      "concurrentViewers": 953,
+      "startedAt": "2026-10-23T10:59:29Z",
       "regionRestriction": {
         "blocked": [
           "AU",
@@ -199,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/RpYY5RW067o/hqdefault.jpg?v=6ada070e"
         }
       },
-      "concurrentViewers": 279,
+      "concurrentViewers": 576,
       "startedAt": "2026-10-22T12:54:38Z",
       "regionRestriction": null
     },
@@ -223,32 +295,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 233,
+      "concurrentViewers": 1129,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "HV_4JagTvDs",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Typhoon Champi brushes by Taiwan",
-      "description": "Watch live from Taiwan as Typhoon Champi blows by the northeastern part of the island. The typhoon is expected to bring heavy rain and strong winds through Saturday as it curves north toward Japan's southwestern islands.\n\n#taiwan #typhoon #typhoonchampi #live",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HV_4JagTvDs/default.jpg?v=6adabbd3"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HV_4JagTvDs/mqdefault.jpg?v=6adabbd3"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HV_4JagTvDs/hqdefault.jpg?v=6adabbd3"
-        }
-      },
-      "concurrentViewers": 155,
-      "startedAt": "2026-10-23T01:45:23Z",
       "regionRestriction": null
     },
     {
@@ -271,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 4292,
+      "concurrentViewers": 9363,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 16,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6831,
+      "concurrentViewers": 7558,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -347,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 359,
+      "concurrentViewers": 426,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -371,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1573,
+      "concurrentViewers": 1417,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -395,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6625,
+      "concurrentViewers": 6782,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -419,7 +467,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 304,
+      "concurrentViewers": 195,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -447,7 +495,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 98,
+      "concurrentViewers": 100,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -471,7 +519,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 190,
+      "concurrentViewers": 252,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -486,16 +534,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3840c"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38453"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3840c"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38453"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3840c"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38453"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 46,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -519,7 +567,7 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 75,
+      "concurrentViewers": 60,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
@@ -543,8 +591,32 @@
           "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 73,
+      "concurrentViewers": 45,
       "startedAt": "2026-10-21T07:09:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "wUz26SmlECc",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "MEA Briefing LIVE: Bi-Weekly Media Briefing by the Official Spokesperson | WION",
+      "description": "MEA Briefing LIVE: Bi-Weekly Media Briefing by the Official Spokesperson | WION\n\nWatch the Ministry of External Affairs (MEA) bi-weekly media briefing LIVE, as the official spokesperson addresses the press on India's foreign policy, diplomatic engagements and key international developments. Stay tu…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wUz26SmlECc/default.jpg?v=6adb5515"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wUz26SmlECc/mqdefault.jpg?v=6adb5515"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wUz26SmlECc/hqdefault.jpg?v=6adb5515"
+        }
+      },
+      "concurrentViewers": 24,
+      "startedAt": "2026-10-23T12:38:02Z",
       "regionRestriction": null
     },
     {
@@ -567,32 +639,8 @@
           "url": "https://i.ytimg.com/vi/CtR2qM4FA-A/hqdefault.jpg?v=6adaec12"
         }
       },
-      "concurrentViewers": 7514,
+      "concurrentViewers": 7221,
       "startedAt": "2026-10-23T04:33:03Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "I8Qrf2OnUYE",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "BJP Press Conference LIVE: Sudhanshu Trivedi Addresses Press | Congress-CJP-ECI Row | Rahul Gandhi",
-      "description": "Senior BJP leader and Rajya Sabha MP Sudhanshu Trivedi addresses a press conference amid the intensifying political debate involving the Congress, protest groups, and the Election Commission of India (ECI). The briefing comes as political tensions continue to rise over demonstrations, opposition ca…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/I8Qrf2OnUYE/default.jpg?v=6adafe5b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/I8Qrf2OnUYE/mqdefault.jpg?v=6adafe5b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/I8Qrf2OnUYE/hqdefault.jpg?v=6adafe5b"
-        }
-      },
-      "concurrentViewers": 25,
-      "startedAt": "2026-10-23T06:32:54Z",
       "regionRestriction": null
     },
     {
@@ -615,8 +663,56 @@
           "url": "https://i.ytimg.com/vi/WUQv4f6IHSg/hqdefault.jpg?v=6adac647"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 11,
       "startedAt": "2026-10-23T02:31:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "uATUxCdo8_4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Live: Annamalai's 'Na Na' To Anti-Modi Tag | TVK Neta Booked In Tamil Nadu | Veeramani's Daughter",
+      "description": "A day after K Annamalai set tongues wagging by criticising the Centre's crackdown on protests by the Cockroach Janta Party (CJP), the former Tamil Nadu BJP chief clarified that his remarks should not be construed as his support for the Abhijeet Dipke-led outfit. Speaking at an event held by his 'We…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uATUxCdo8_4/default.jpg?v=6adb549a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uATUxCdo8_4/mqdefault.jpg?v=6adb549a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uATUxCdo8_4/hqdefault.jpg?v=6adb549a"
+        }
+      },
+      "concurrentViewers": 109,
+      "startedAt": "2026-10-23T12:37:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "gcleP63G86E",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Protest Live: Left Groups Protest In Delhi Over SIR, Demand CEC Gyanesh Kumar’s Resignation | SIR",
+      "description": "High drama unfolded in the national capital as Left parties, student organisations, and civil society groups staged flash protests opposing the Special Intensive Revision (SIR) and demanding the resignation of Chief Election Commissioner Gyanesh Kumar. \n\n#SIR #GyaneshKumar #CEC #itwebvideos  #LeftG…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gcleP63G86E/default.jpg?v=6adb3bfd"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gcleP63G86E/mqdefault.jpg?v=6adb3bfd"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gcleP63G86E/hqdefault.jpg?v=6adb3bfd"
+        }
+      },
+      "concurrentViewers": 102,
+      "startedAt": "2026-10-23T10:28:45Z",
       "regionRestriction": null
     },
     {
@@ -639,15 +735,15 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 74,
+      "concurrentViewers": 69,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: UP Election 2027 | Amit Shah | CJP |Congress | Tiger Shroff | Akhilesh Yadav | BJP",
-      "description": "हाईकोर्ट के सख्त सवालों के बाद CJP ने वापस ली ज़मानत की अर्ज़ी-अदालत ने सौरव- रांका के जेन ज़ी होने पर उठाए सवाल..पूछा-रोक थी तो बैरिकेड क्यों तोड़ा..भीड़ अनियंत्रित हो जाती तो क्या होता?\n\nरुबियो के मुंबई दौरे के बीच राष्ट्रपति ट्रंप का दावा- ट्रेड डील के बेहद करीब हैं भारत और अमेरिका..पहले से काफी…",
+      "title": "Aaj Tak LIVE TV: Halla Bol | UP MLC Election | Congress Rally | India China Tension | SIR Protest",
+      "description": "1 नवंबर के प्रदर्शन को लेकर राहुल गांधी पर बीजेपी का धुआंधार अटैक..कहा- अज्ञात जगहों पर संदिग्ध लोगों से मिलते हैं नेता विपक्ष..देश तोड़कर राहुल को लॉन्च कराना चाहती है होश गंवा चुकी कांग्रेस\n\n \nपंजाब में सुखबीर बादल ने दिए बीजेपी और अकाली दल में गठबंधन के संकेत..कहा- समान विचारधारा वाले दल से मिलक…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -663,8 +759,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1805,
+      "concurrentViewers": 5037,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "BGLxU_NaEtE",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Halla Bol Live With Anjana Om Kashyap: Rahul Gandhi | SIR Protest | BJP | CEC Gyanesh Kumar | AajTak",
+      "description": "सड़कों पर विपक्ष के विरोध के बदले अब BJP का विरोध सामने आएगा । बीजेपी अध्यक्ष नितिन नवीन ने देश भर में विपक्ष के खिलाफ 'लोकतंत्र बचाओ, अराजकता हटाओ'! प्लान बनाया है । इसके तहत 5 नवंबर तक देश भर में जिला मुख्यालयों पर BJP पैदल मार्च समेत कई कार्यक्रम करने वाली है । उधर, राहुल गांधी पर लगातार BJP के …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BGLxU_NaEtE/default.jpg?v=6adb5041"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BGLxU_NaEtE/mqdefault.jpg?v=6adb5041"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BGLxU_NaEtE/hqdefault.jpg?v=6adb5041"
+        }
+      },
+      "concurrentViewers": 4962,
+      "startedAt": "2026-10-23T12:23:17Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "UVCXYkw38uU",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Dangal Live With Sahil Joshi: SIR Protest | CEC Gyanesh Kumar | Congress-CJP Protest | UP MLC Chunav",
+      "description": "Dangal Live With Sahil Joshi: SIR Protest | CEC Gyanesh Kumar | Congress-CJP Protest | BJP\n\nआज का दंगल वोट चोरी के सवालों के बीच हुए MLC चुनाव को लेकर है. वैसे तो विधान परिषद सीटों पर जो चुनाव होते थे उनकी ज्यादा चर्चा नहीं हुआ करती थी लेकिन आज देश के 4 राज्यों में 28 MLC सीटों पर वोट पड रहे हैं. इ…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UVCXYkw38uU/default.jpg?v=6adb4328"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UVCXYkw38uU/mqdefault.jpg?v=6adb4328"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UVCXYkw38uU/hqdefault.jpg?v=6adb4328"
+        }
+      },
+      "concurrentViewers": 757,
+      "startedAt": "2026-10-23T11:22:25Z",
       "regionRestriction": null
     },
     {
@@ -687,7 +831,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 961,
+      "concurrentViewers": 845,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -711,7 +855,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 144,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -735,7 +879,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1563,
+      "concurrentViewers": 774,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
