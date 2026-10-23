@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T21:06:22.799Z",
+  "generatedAt": "2026-10-23T23:55:12.552Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2936,
+      "concurrentViewers": 1973,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 275,
+      "concurrentViewers": 112,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2403,
+      "concurrentViewers": 1431,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,36 +98,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 60,
+      "concurrentViewers": 33,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "0TWr6WUGg_0",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Paris implements curfew on eve of planned protests",
-      "description": "Views of Paris, France, as the city implements a curfew on the eve of planned protests. Anger over living costs and strained public services has drawn students, workers and unions onto the streets in recent weeks. The country will deploy 70,000 police at nationwide protests on Saturday, the interio…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0TWr6WUGg_0/default.jpg?v=6adbc6e2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0TWr6WUGg_0/mqdefault.jpg?v=6adbc6e2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0TWr6WUGg_0/hqdefault.jpg?v=6adbc6e2"
-        }
-      },
-      "concurrentViewers": 87,
-      "startedAt": "2026-10-23T20:37:10Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Nvl7K0LvvgI",
+      "videoId": "aF9neWULq64",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 23",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -137,41 +113,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Nvl7K0LvvgI/default.jpg?v=6ada4f1b"
+          "url": "https://i.ytimg.com/vi/aF9neWULq64/default.jpg?v=6adbd82d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Nvl7K0LvvgI/mqdefault.jpg?v=6ada4f1b"
+          "url": "https://i.ytimg.com/vi/aF9neWULq64/mqdefault.jpg?v=6adbd82d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Nvl7K0LvvgI/hqdefault.jpg?v=6ada4f1b"
+          "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 2548,
-      "startedAt": "2026-10-23T10:57:35Z",
+      "concurrentViewers": 1415,
+      "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "rIm8DksJWBI",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, October 23",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
+      "videoId": "tm8igW6KfIs",
+      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 23",
+      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
+      "channelTitle": "NBC News",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/default.jpg?v=6acd2b3d"
+          "url": "https://i.ytimg.com/vi/tm8igW6KfIs/default.jpg?v=6adbeec5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/mqdefault.jpg?v=6acd2b3d"
+          "url": "https://i.ytimg.com/vi/tm8igW6KfIs/mqdefault.jpg?v=6adbeec5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/hqdefault.jpg?v=6acd2b3d"
+          "url": "https://i.ytimg.com/vi/tm8igW6KfIs/hqdefault.jpg?v=6adbeec5"
         }
       },
-      "concurrentViewers": 882,
-      "startedAt": "2026-10-23T09:58:47Z",
+      "concurrentViewers": 129,
+      "startedAt": "2026-10-23T23:49:38Z",
       "regionRestriction": null
     },
     {
@@ -194,8 +170,32 @@
           "url": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg?v=685771cc"
         }
       },
-      "concurrentViewers": 675,
+      "concurrentViewers": 676,
       "startedAt": "2025-05-01T13:54:01Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "rIm8DksJWBI",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Friday, October 23",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/default.jpg?v=6acd2b3d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/mqdefault.jpg?v=6acd2b3d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/hqdefault.jpg?v=6acd2b3d"
+        }
+      },
+      "concurrentViewers": 669,
+      "startedAt": "2026-10-23T09:58:47Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/V1b6nTzIknA/hqdefault.jpg?v=6ada549c"
         }
       },
-      "concurrentViewers": 433,
+      "concurrentViewers": 334,
       "startedAt": "2026-10-23T10:59:29Z",
       "regionRestriction": {
         "blocked": [
@@ -247,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 1057,
+      "concurrentViewers": 519,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -271,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 1115,
+      "concurrentViewers": 1022,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -295,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 3001,
+      "concurrentViewers": 1221,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -319,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 15,
+      "concurrentViewers": 27,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -343,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7142,
+      "concurrentViewers": 4866,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -371,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 357,
+      "concurrentViewers": 254,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -395,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1086,
+      "concurrentViewers": 761,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -419,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6980,
+      "concurrentViewers": 4015,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -443,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 122,
+      "concurrentViewers": 113,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -471,7 +471,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 94,
+      "concurrentViewers": 39,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -495,7 +495,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 206,
+      "concurrentViewers": 145,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -510,16 +510,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=384ba"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=384db"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=384ba"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=384db"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=384ba"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=384db"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 33,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -543,7 +543,7 @@
           "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 73,
+      "concurrentViewers": 61,
       "startedAt": "2026-10-21T07:09:19Z",
       "regionRestriction": null
     },
@@ -567,7 +567,7 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 38,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
@@ -591,7 +591,7 @@
           "url": "https://i.ytimg.com/vi/hg6w41Mtqak/hqdefault.jpg?v=6adb6e3f"
         }
       },
-      "concurrentViewers": 4,
+      "concurrentViewers": 6,
       "startedAt": "2026-10-23T16:17:20Z",
       "regionRestriction": null
     },
@@ -615,7 +615,7 @@
           "url": "https://i.ytimg.com/vi/lXdGKhkUNmI/hqdefault.jpg?v=6adb70b0"
         }
       },
-      "concurrentViewers": 2,
+      "concurrentViewers": 1,
       "startedAt": "2026-10-23T14:51:56Z",
       "regionRestriction": null
     },
@@ -639,7 +639,7 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 7,
+      "concurrentViewers": null,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -663,7 +663,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 271,
+      "concurrentViewers": 285,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -687,7 +687,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 286,
+      "concurrentViewers": 727,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -711,7 +711,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 98,
+      "concurrentViewers": 118,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -735,7 +735,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1867,
+      "concurrentViewers": 2025,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
