@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T17:45:14.027Z",
+  "generatedAt": "2026-10-23T21:06:22.799Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Meghan told of 'disturbing allegations' against her father Thomas Markle eight years ago - https://news.sky.com/story/meghan-deeply-distressed-by-allegations-against-her-…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Ukraine war: Kyiv 'clarifies details' with Moscow - as Melania Trump credited with Oleshky ceasefire - https://trib.al/Eq7e8p1\n\n🔴 EXPLAINER | What is in the Be Re…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3649,
+      "concurrentViewers": 2936,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 378,
+      "concurrentViewers": 275,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3277,
+      "concurrentViewers": 2403,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 141,
+      "concurrentViewers": 60,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0TWr6WUGg_0",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Paris implements curfew on eve of planned protests",
+      "description": "Views of Paris, France, as the city implements a curfew on the eve of planned protests. Anger over living costs and strained public services has drawn students, workers and unions onto the streets in recent weeks. The country will deploy 70,000 police at nationwide protests on Saturday, the interio…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0TWr6WUGg_0/default.jpg?v=6adbc6e2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0TWr6WUGg_0/mqdefault.jpg?v=6adbc6e2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0TWr6WUGg_0/hqdefault.jpg?v=6adbc6e2"
+        }
+      },
+      "concurrentViewers": 87,
+      "startedAt": "2026-10-23T20:37:10Z",
       "regionRestriction": null
     },
     {
@@ -122,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/Nvl7K0LvvgI/hqdefault.jpg?v=6ada4f1b"
         }
       },
-      "concurrentViewers": 3650,
+      "concurrentViewers": 2548,
       "startedAt": "2026-10-23T10:57:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "rIm8DksJWBI",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Friday, October 23",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/default.jpg?v=6acd2b3d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/mqdefault.jpg?v=6acd2b3d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/hqdefault.jpg?v=6acd2b3d"
+        }
+      },
+      "concurrentViewers": 882,
+      "startedAt": "2026-10-23T09:58:47Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg?v=685771cc"
         }
       },
-      "concurrentViewers": 802,
+      "concurrentViewers": 675,
       "startedAt": "2025-05-01T13:54:01Z",
       "regionRestriction": null
     },
@@ -170,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/V1b6nTzIknA/hqdefault.jpg?v=6ada549c"
         }
       },
-      "concurrentViewers": 652,
+      "concurrentViewers": 433,
       "startedAt": "2026-10-23T10:59:29Z",
       "regionRestriction": {
         "blocked": [
@@ -199,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 1238,
+      "concurrentViewers": 1057,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -223,32 +271,8 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 1559,
+      "concurrentViewers": 1115,
       "startedAt": "2026-09-29T11:47:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "DsdpiuzJTO8",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Trump holds a rally in Florida ahead of the midterm elections",
-      "description": "Watch live as President Donald Trump holds a rally in Fort Myers, Florida, ahead of the Nov. 3 midterm elections.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DsdpiuzJTO8/default.jpg?v=6adb5a26"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DsdpiuzJTO8/mqdefault.jpg?v=6adb5a26"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DsdpiuzJTO8/hqdefault.jpg?v=6adb5a26"
-        }
-      },
-      "concurrentViewers": 148,
-      "startedAt": "2026-10-23T16:37:18Z",
       "regionRestriction": null
     },
     {
@@ -271,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 5676,
+      "concurrentViewers": 3001,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 15,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8347,
+      "concurrentViewers": 7142,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -347,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 402,
+      "concurrentViewers": 357,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -371,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1591,
+      "concurrentViewers": 1086,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -395,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6863,
+      "concurrentViewers": 6980,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -419,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 165,
+      "concurrentViewers": 122,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -471,7 +495,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 204,
+      "concurrentViewers": 206,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -486,16 +510,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38491"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=384ba"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38491"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=384ba"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38491"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=384ba"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 40,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -519,7 +543,7 @@
           "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 68,
+      "concurrentViewers": 73,
       "startedAt": "2026-10-21T07:09:19Z",
       "regionRestriction": null
     },
@@ -543,7 +567,7 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 34,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
@@ -567,7 +591,7 @@
           "url": "https://i.ytimg.com/vi/hg6w41Mtqak/hqdefault.jpg?v=6adb6e3f"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 4,
       "startedAt": "2026-10-23T16:17:20Z",
       "regionRestriction": null
     },
@@ -591,32 +615,8 @@
           "url": "https://i.ytimg.com/vi/lXdGKhkUNmI/hqdefault.jpg?v=6adb70b0"
         }
       },
-      "concurrentViewers": 3,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-23T14:51:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "uATUxCdo8_4",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Live: Annamalai's 'Na Na' To Anti-Modi Tag | TVK Neta Booked In Tamil Nadu | Veeramani's Daughter",
-      "description": "A day after K Annamalai set tongues wagging by criticising the Centre's crackdown on protests by the Cockroach Janta Party (CJP), the former Tamil Nadu BJP chief clarified that his remarks should not be construed as his support for the Abhijeet Dipke-led outfit. Speaking at an event held by his 'We…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uATUxCdo8_4/default.jpg?v=6adb549a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uATUxCdo8_4/mqdefault.jpg?v=6adb549a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uATUxCdo8_4/hqdefault.jpg?v=6adb549a"
-        }
-      },
-      "concurrentViewers": 36,
-      "startedAt": "2026-10-23T12:37:06Z",
       "regionRestriction": null
     },
     {
@@ -639,7 +639,7 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -663,7 +663,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1681,
+      "concurrentViewers": 271,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -687,7 +687,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 323,
+      "concurrentViewers": 286,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -711,7 +711,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 244,
+      "concurrentViewers": 98,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -735,7 +735,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 538,
+      "concurrentViewers": 1867,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
