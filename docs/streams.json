@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T23:01:01.131Z",
+  "generatedAt": "2026-10-23T01:45:15.364Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 1702,
+      "concurrentViewers": 1638,
       "startedAt": "2026-10-19T17:27:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "rFVCBfTIOUk",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Government warns British families to have plan if critical infrastructure is attacked | The Wrap",
-      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight.\n\nIt will feature high-profile panellists, from leading experts and journalists to special guests, for a live, fast-moving conversation.\n\nMore from The Wrap ➡️…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rFVCBfTIOUk/default.jpg?v=6ada7b44"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rFVCBfTIOUk/mqdefault.jpg?v=6ada7b44"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rFVCBfTIOUk/hqdefault.jpg?v=6ada7b44"
-        }
-      },
-      "concurrentViewers": 269,
-      "startedAt": "2026-10-22T20:54:33Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 99,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1610,
+      "concurrentViewers": 1088,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/gGHcx6FdsII/hqdefault.jpg?v=6ad99a96"
         }
       },
-      "concurrentViewers": 98,
+      "concurrentViewers": 231,
       "startedAt": "2026-10-22T22:56:17Z",
       "regionRestriction": null
     },
@@ -146,32 +122,32 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 56,
+      "concurrentViewers": 24,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "H0rBz46HFDY",
+      "videoId": "lqD3eSaVr0s",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Typhoon Champi approaches Japan",
-      "description": "Heavy rains and strong winds hit Japan's Ishigaki island as Typhoon Champi approaches. The storm is expected to pass northeastern Taiwan, turn north toward the Chinese coast and eventually move into southern Japan.\n \n#japan #typhoon #champi #asia #weather #ishigakiisland #live #Reuters #News\n\nKeep …",
+      "title": "LIVE: Trump expected to speak at rally in Iowa",
+      "description": "US President Donald Trump is expected to host a rally in Iowa ahead of the midterm elections.\n \n#trump #donaldtrump #election #midterms #politics\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/H0rBz46HFDY/default.jpg?v=6ada08ad"
+          "url": "https://i.ytimg.com/vi/lqD3eSaVr0s/default.jpg?v=6ada873a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/H0rBz46HFDY/mqdefault.jpg?v=6ada08ad"
+          "url": "https://i.ytimg.com/vi/lqD3eSaVr0s/mqdefault.jpg?v=6ada873a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/H0rBz46HFDY/hqdefault.jpg?v=6ada08ad"
+          "url": "https://i.ytimg.com/vi/lqD3eSaVr0s/hqdefault.jpg?v=6ada873a"
         }
       },
-      "concurrentViewers": 36,
-      "startedAt": "2026-10-22T12:45:44Z",
+      "concurrentViewers": 93,
+      "startedAt": "2026-10-22T21:55:05Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/KhkNcaErtes/hqdefault.jpg?v=6ada4ed6"
         }
       },
-      "concurrentViewers": 1705,
+      "concurrentViewers": 1311,
       "startedAt": "2026-10-22T21:58:57Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/6h25qvCFuL8/hqdefault.jpg?v=6acd2af9"
         }
       },
-      "concurrentViewers": 879,
+      "concurrentViewers": 506,
       "startedAt": "2026-10-22T09:58:39Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/66zHdzs-DdQ/hqdefault.jpg?v=6ada546a"
         }
       },
-      "concurrentViewers": 620,
+      "concurrentViewers": 333,
       "startedAt": "2026-10-22T22:59:24Z",
       "regionRestriction": {
         "blocked": [
@@ -271,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/RpYY5RW067o/hqdefault.jpg?v=6ada070e"
         }
       },
-      "concurrentViewers": 609,
+      "concurrentViewers": 516,
       "startedAt": "2026-10-22T12:54:38Z",
       "regionRestriction": null
     },
@@ -295,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 1067,
+      "concurrentViewers": 736,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -310,41 +286,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/default.jpg?v=6ada87f0"
+          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/default.jpg?v=6adaaad0"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/mqdefault.jpg?v=6ada87f0"
+          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/mqdefault.jpg?v=6adaaad0"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/hqdefault.jpg?v=6ada87f0"
+          "url": "https://i.ytimg.com/vi/u-Rru_rM0hM/hqdefault.jpg?v=6adaaad0"
         }
       },
-      "concurrentViewers": 309,
+      "concurrentViewers": 1128,
       "startedAt": "2026-10-22T22:05:20Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "sUXxCcf5ZVI",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Kamala Harris campaigns with Scott Colom at a midterm rally in Mississippi",
-      "description": "Watch live as former Vice President Kamala Harris campaigns with Democratic Senate candidate Scott Colom at a rally in Columbus, Mississippi, ahead of the Nov. 3 midterm elections.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sUXxCcf5ZVI/default.jpg?v=6ada642b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sUXxCcf5ZVI/mqdefault.jpg?v=6ada642b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sUXxCcf5ZVI/hqdefault.jpg?v=6ada642b"
-        }
-      },
-      "concurrentViewers": 114,
-      "startedAt": "2026-10-22T22:25:25Z",
       "regionRestriction": null
     },
     {
@@ -367,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1621,
+      "concurrentViewers": 1449,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -391,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 33,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -415,7 +367,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5541,
+      "concurrentViewers": 4400,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -443,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 324,
+      "concurrentViewers": 292,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -467,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 858,
+      "concurrentViewers": 807,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -491,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4974,
+      "concurrentViewers": 3349,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -515,7 +467,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 89,
+      "concurrentViewers": 107,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -543,7 +495,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 52,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -567,7 +519,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 167,
+      "concurrentViewers": 134,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -582,41 +534,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=383ac"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=383cc"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=383ac"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=383cc"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=383ac"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=383cc"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 22,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zpLPV5yD02s",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION",
-      "description": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION\n\nSpeculation surrounding North Korean leader Kim Jong Un’s reported death has intensified amid rumours of a possible brain haemorrhage. North Korea has released new images of Kim, described as “proof of life” amid the…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/default.jpg?v=6ad863da"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/mqdefault.jpg?v=6ad863da"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
-        }
-      },
-      "concurrentViewers": 61,
-      "startedAt": "2026-10-21T07:09:19Z",
       "regionRestriction": null
     },
     {
@@ -639,32 +567,32 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 65,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
     {
-      "videoId": "o2dN_NoiXsM",
+      "videoId": "zpLPV5yD02s",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
-      "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. involv…",
+      "title": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION",
+      "description": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION\n\nSpeculation surrounding North Korean leader Kim Jong Un’s reported death has intensified amid rumours of a possible brain haemorrhage. North Korea has released new images of Kim, described as “proof of life” amid the…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/default.jpg?v=6ad5e96c"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/default.jpg?v=6ad863da"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/mqdefault.jpg?v=6ad5e96c"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/mqdefault.jpg?v=6ad863da"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/o2dN_NoiXsM/hqdefault.jpg?v=6ad5e96c"
+          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
         }
       },
-      "concurrentViewers": 29,
-      "startedAt": "2026-10-19T10:21:06Z",
+      "concurrentViewers": 62,
+      "startedAt": "2026-10-21T07:09:19Z",
       "regionRestriction": null
     },
     {
@@ -687,7 +615,7 @@
           "url": "https://i.ytimg.com/vi/Qux2Qg1ilAQ/hqdefault.jpg?v=6ada5728"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 7,
       "startedAt": "2026-10-22T18:36:36Z",
       "regionRestriction": null
     },
@@ -711,7 +639,7 @@
           "url": "https://i.ytimg.com/vi/87yYlY8NL3s/hqdefault.jpg?v=6ada59f8"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-22T18:47:15Z",
       "regionRestriction": null
     },
@@ -759,7 +687,7 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 66,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -783,32 +711,8 @@
           "url": "https://i.ytimg.com/vi/XgDt_wbElz8/hqdefault.jpg?v=6ada3ad6"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-22T16:35:53Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "vt8adxPZIR4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Black & White With Anjana Om Kashyap LIVE | Raihan Vadra | Akhilesh Yadav | Azam Khan | UP Election",
-      "description": "Black & White With Anjana Om Kashyap LIVE | Raihan Vadra | Akhilesh Yadav | Azam Khan | UP Election\n \n त्रिपुरा के युवक के साथ कथित तौर पर की गई नस्लीय बदसलूकी पर बवाल मच गया है.केंद्रीय संसदीय कार्य मंत्री किरेन रिजिजू ने इसकी कड़ी निंदा की है. तो वहीं, त्रिपुरा पुलिस ने आरोपी आमिर के खिलाफ केस दर…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/default.jpg?v=6ada1963"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/mqdefault.jpg?v=6ada1963"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/hqdefault.jpg?v=6ada1963"
-        }
-      },
-      "concurrentViewers": 292,
-      "startedAt": "2026-10-22T15:21:48Z",
       "regionRestriction": null
     },
     {
@@ -831,32 +735,32 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 232,
+      "concurrentViewers": 2066,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "zPeqCt8knok",
+      "videoId": "vt8adxPZIR4",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "High Court Hearing on Neha Bora LIVE : नेहा बोरा को लेकर बड़ी खबर | CJP | Delhi Police | Saurabh Das",
-      "description": "AISA अध्यक्ष नेहा बोरा के पर्सनल बॉन्ड मामले में दिल्ली हाई कोर्ट में सुनवाई पूरी हो गई है. कोर्ट ने दोनों पक्षों की दलीलें सुनने के बाद फैसला सुरक्षित रख लिया है. कल इस मामले में फैसला सुनाया जाएगा. नेहा ने SEM के उस नोटिस को चुनौती दी है, जिसमें उनसे 10 हजार रुपये का निजी मुचलका और एक जमानतदार दे…",
+      "title": "Black & White With Anjana Om Kashyap: Raihan Vadra | Akhilesh Yadav | Azam Khan | UP Election",
+      "description": "Black & White With Anjana Om Kashyap LIVE | Raihan Vadra | Akhilesh Yadav | Azam Khan | UP Election\n \n त्रिपुरा के युवक के साथ कथित तौर पर की गई नस्लीय बदसलूकी पर बवाल मच गया है.केंद्रीय संसदीय कार्य मंत्री किरेन रिजिजू ने इसकी कड़ी निंदा की है. तो वहीं, त्रिपुरा पुलिस ने आरोपी आमिर के खिलाफ केस दर…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zPeqCt8knok/default.jpg?v=6ada0684"
+          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/default.jpg?v=6adab587"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zPeqCt8knok/mqdefault.jpg?v=6ada0684"
+          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/mqdefault.jpg?v=6adab587"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zPeqCt8knok/hqdefault.jpg?v=6ada0684"
+          "url": "https://i.ytimg.com/vi/vt8adxPZIR4/hqdefault.jpg?v=6adab587"
         }
       },
-      "concurrentViewers": 92,
-      "startedAt": "2026-10-22T12:50:59Z",
+      "concurrentViewers": 293,
+      "startedAt": "2026-10-22T15:21:48Z",
       "regionRestriction": null
     },
     {
@@ -879,7 +783,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 997,
+      "concurrentViewers": 1843,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -903,7 +807,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 129,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -927,7 +831,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2778,
+      "concurrentViewers": 2339,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
