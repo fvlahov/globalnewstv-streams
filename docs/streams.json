@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T03:42:17.256Z",
+  "generatedAt": "2026-10-24T08:42:59.046Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 1959,
+      "concurrentViewers": 4697,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 118,
+      "concurrentViewers": 477,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1161,
+      "concurrentViewers": 3367,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 379,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 647,
+      "concurrentViewers": 355,
       "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
@@ -146,38 +146,9 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 250,
+      "concurrentViewers": 361,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
-    },
-    {
-      "videoId": "V1b6nTzIknA",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/V1b6nTzIknA/default.jpg?v=6ada549c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/V1b6nTzIknA/mqdefault.jpg?v=6ada549c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/V1b6nTzIknA/hqdefault.jpg?v=6ada549c"
-        }
-      },
-      "concurrentViewers": 216,
-      "startedAt": "2026-10-23T10:59:29Z",
-      "regionRestriction": {
-        "blocked": [
-          "AU",
-          "CA"
-        ]
-      }
     },
     {
       "videoId": "az0LsJt4wss",
@@ -199,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 431,
+      "concurrentViewers": 236,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -223,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 391,
+      "concurrentViewers": 191,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -247,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 995,
+      "concurrentViewers": 1231,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -271,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 8,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -295,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 4906,
+      "concurrentViewers": 7337,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -323,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 315,
+      "concurrentViewers": 375,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -347,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 827,
+      "concurrentViewers": 1487,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -371,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3135,
+      "concurrentViewers": 6983,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -395,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 195,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -423,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 65,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -447,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 147,
+      "concurrentViewers": 163,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -462,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38509"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38546"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38509"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38546"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38509"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38546"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 32,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -495,32 +466,8 @@
           "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
         }
       },
-      "concurrentViewers": 199,
+      "concurrentViewers": 93,
       "startedAt": "2026-10-24T01:26:09Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "sWlj_bfwIPI",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Massive Russian Strikes Rock Kyiv After Witkoff-Putin Talks | WION",
-      "description": "Russia-Ukraine War LIVE: Massive Russian Strikes Rock Kyiv After Witkoff-Putin Talks | WION\n\nRussian strikes have hit Kyiv following a meeting between US special envoy Steve Witkoff and Russian President Vladimir Putin. The latest developments raise fresh questions about diplomatic efforts to end t…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/default.jpg?v=6adc0d0a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/mqdefault.jpg?v=6adc0d0a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/hqdefault.jpg?v=6adc0d0a"
-        }
-      },
-      "concurrentViewers": 129,
-      "startedAt": "2026-10-24T01:42:51Z",
       "regionRestriction": null
     },
     {
@@ -543,8 +490,32 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 80,
+      "concurrentViewers": 55,
       "startedAt": "2026-06-30T02:58:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "sWlj_bfwIPI",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: Massive Russian Strikes Rock Kyiv After Witkoff-Putin Talks | WION",
+      "description": "Russia-Ukraine War LIVE: Massive Russian Strikes Rock Kyiv After Witkoff-Putin Talks | WION\n\nRussian strikes have hit Kyiv following a meeting between US special envoy Steve Witkoff and Russian President Vladimir Putin. The latest developments raise fresh questions about diplomatic efforts to end t…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/default.jpg?v=6adc0d0a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/mqdefault.jpg?v=6adc0d0a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/hqdefault.jpg?v=6adc0d0a"
+        }
+      },
+      "concurrentViewers": 52,
+      "startedAt": "2026-10-24T01:42:51Z",
       "regionRestriction": null
     },
     {
@@ -567,38 +538,14 @@
           "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/hqdefault.jpg?v=6adc02d8"
         }
       },
-      "concurrentViewers": 271,
+      "concurrentViewers": 91,
       "startedAt": "2026-10-24T01:38:16Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "nHZfb1br0HU",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Jordan Church Shooting LIVE: 7 Dead, 34 Injured In Terrorist Attack | Jordan Terrorist Attack",
-      "description": "At least seven people were killed and 34 others injured after gunmen opened fire during a funeral at a Greek Orthodox church in Karak, southern Jordan. Footage aired on Jordanian state television appeared to show three armed men approaching the church and firing shots. Authorities said the attacker…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/nHZfb1br0HU/default.jpg?v=6adc06da"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/nHZfb1br0HU/mqdefault.jpg?v=6adc06da"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/nHZfb1br0HU/hqdefault.jpg?v=6adc06da"
-        }
-      },
-      "concurrentViewers": 61,
-      "startedAt": "2026-10-24T01:15:00Z",
       "regionRestriction": null
     },
     {
       "videoId": "d-46w3hWZgs",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP News LIVE | Saurav Das Speaks On Gyanesh Kumar's Resignation | CJP Protest | CEC | SIR",
+      "title": "CJP News LIVE | Saurav Das | CEC Gyanesh Kumar | CJP Protest | CEC | SIR Protests",
       "description": "CJP | \"Gyanesh Kumar Ka Resignation To Hona Hi Hai\": CJP's Saurav Das\n\n#CJP #GyaneshKumar #ElectionCommission \n\n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the wo…",
       "channelTitle": "NDTV",
       "country": "IN",
@@ -606,16 +553,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/default.jpg?v=6adc104d"
+          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/default.jpg?v=6adc2f5b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/mqdefault.jpg?v=6adc104d"
+          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/mqdefault.jpg?v=6adc2f5b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/hqdefault.jpg?v=6adc104d"
+          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/hqdefault.jpg?v=6adc2f5b"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": null,
       "startedAt": "2026-10-24T01:59:38Z",
       "regionRestriction": null
     },
@@ -639,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/lxYoejMzLe0/hqdefault.jpg?v=6adc0502"
         }
       },
-      "concurrentViewers": 439,
+      "concurrentViewers": 147,
       "startedAt": "2026-10-24T01:30:18Z",
       "regionRestriction": null
     },
@@ -663,39 +610,15 @@
           "url": "https://i.ytimg.com/vi/resmdXlXn5w/hqdefault.jpg?v=6adc16d2"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 19,
       "startedAt": "2026-10-24T02:25:54Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ODte3BXAXQQ",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "US-Iran War: Iran Draws Up Plan To Cut Undersea Cables | Global Internet Security On Alert",
-      "description": "Iran is reportedly drawing up a plan to cut undersea cables, raising concerns over global internet connectivity and critical communications infrastructure. Undersea cables carry a major share of international data traffic and are vital to financial transactions, businesses and digital communication…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ODte3BXAXQQ/default.jpg?v=6adc0fb5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ODte3BXAXQQ/mqdefault.jpg?v=6adc0fb5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ODte3BXAXQQ/hqdefault.jpg?v=6adc0fb5"
-        }
-      },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-24T01:56:45Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Rahul Gandhi | Congress Rally | PM Modi | Amit Shah | Iran America War | Hindi News",
-      "description": "दिल्ली में 1 नवंबर की रैली पर राहुल गांधी को बीजेपी ने घेरा...कहा- देश तोड़कर नेता विपक्ष को लॉन्च कराने की कोशिश,कांग्रेस का तंज- PM के मन में बैठा राहुल का डर\n\nयूपी, बिहार में MLC चुनाव खत्म होने के बाद सियासत शुरू- विपक्ष का बीजेपी पर बूथ कैपचरिंग का आरोप...तेजस्वी बोले- ये लोग वोट चोर...अखिलेश …",
+      "title": "Aaj Tak LIVE TV: Neha Bora | Jamia Protest | Rahul Gandhi | Congress Rally | PM Modi | Hindi News",
+      "description": "विपक्ष की 1 नवंबर वाली रैली पर बीजेपी प्रहार...सिख विरोधी दंगे की तारीख से जोड़कर कांग्रेस को घेरा ...तो कारोबारियों ने त्योहारों का हवाला देकर टालने की अपील की\n\nजामिया तक पहुंची Gen Z की लड़ाई...यूनिवर्सिटी में चुनाव की मांग पर नारे-धरना प्रदर्शन-सियासत...समर्थन में आए कांग्रेस सांसद इमरान मसूद को…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -711,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 3024,
+      "concurrentViewers": 1901,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -735,32 +658,8 @@
           "url": "https://i.ytimg.com/vi/wc0QyXp-Duw/hqdefault.jpg?v=6adc0734"
         }
       },
-      "concurrentViewers": 1594,
+      "concurrentViewers": 246,
       "startedAt": "2026-10-24T01:40:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "0p4XIIyi5as",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Jamia Protest News LIVE: जामिया में बवाल के बीच Imran Masoos की एंट्री, छात्रों से मिले | Aaj Tak",
-      "description": "दिल्ली की जामिया मिल्लिया इस्लामिया यूनिवर्सिटी में छात्रसंघ चुनाव की मांग को लेकर जारी प्रदर्शन अब विवादित नारों और पुलिस की कार्रवाई तक पहुंच गया है। कैंपस की दीवारों पर ‘फ्री कश्मीर’ और ‘फ्री शरजील इमाम’ जैसे नारे लिखे मिलने के बाद विवाद बढ़ गया। छात्रों के समर्थन में पहुंचे कांग्रेस सांसद इमरान…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0p4XIIyi5as/default.jpg?v=6adc1be9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0p4XIIyi5as/mqdefault.jpg?v=6adc1be9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0p4XIIyi5as/hqdefault.jpg?v=6adc1be9"
-        }
-      },
-      "concurrentViewers": 365,
-      "startedAt": "2026-10-24T02:47:01Z",
       "regionRestriction": null
     },
     {
@@ -783,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 816,
+      "concurrentViewers": 523,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -807,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 115,
+      "concurrentViewers": 120,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -831,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1166,
+      "concurrentViewers": 1244,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
