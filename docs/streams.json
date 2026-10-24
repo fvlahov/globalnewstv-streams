@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T19:17:19.656Z",
+  "generatedAt": "2026-10-24T21:45:24.375Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3508,
+      "concurrentViewers": 2793,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 380,
+      "concurrentViewers": 269,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2110,
+      "concurrentViewers": 1831,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 47,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 670,
+      "concurrentViewers": 548,
       "startedAt": "2026-10-23T21:59:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "FklIUvgHTS4",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Saturday, October 24",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/FklIUvgHTS4/default.jpg?v=6acd2b78"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/FklIUvgHTS4/mqdefault.jpg?v=6acd2b78"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/FklIUvgHTS4/hqdefault.jpg?v=6acd2b78"
-        }
-      },
-      "concurrentViewers": 608,
-      "startedAt": "2026-10-24T11:58:55Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 346,
+      "concurrentViewers": 533,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 325,
+      "concurrentViewers": 301,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 738,
+      "concurrentViewers": 557,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1012,
+      "concurrentViewers": 934,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 19,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7412,
+      "concurrentViewers": 6087,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 381,
+      "concurrentViewers": 286,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1476,
+      "concurrentViewers": 1168,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7978,
+      "concurrentViewers": 5512,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 124,
+      "concurrentViewers": 101,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": 47,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 159,
+      "concurrentViewers": 154,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -457,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=385c5"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=385e2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=385c5"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=385e2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=385c5"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=385e2"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 19,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,32 +466,8 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 27,
       "startedAt": "2026-06-30T02:58:36Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "PYFa7NAwXUM",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION",
-      "description": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION\n\nWatch WION LIVE for the latest developments in the escalating US-Iran conflict as Tehran reportedly responds to President Donald Trump's threats. The reported reference to the 'Father of All Bombs' has raised questi…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/default.jpg?v=6adc0921"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/mqdefault.jpg?v=6adc0921"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
-        }
-      },
-      "concurrentViewers": 28,
-      "startedAt": "2026-10-24T01:26:09Z",
       "regionRestriction": null
     },
     {
@@ -538,8 +490,32 @@
           "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/hqdefault.jpg?v=6adc0d0a"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 26,
       "startedAt": "2026-10-24T01:42:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PYFa7NAwXUM",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION",
+      "description": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION\n\nWatch WION LIVE for the latest developments in the escalating US-Iran conflict as Tehran reportedly responds to President Donald Trump's threats. The reported reference to the 'Father of All Bombs' has raised questi…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/default.jpg?v=6adc0921"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/mqdefault.jpg?v=6adc0921"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-24T01:26:09Z",
       "regionRestriction": null
     },
     {
@@ -562,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/hqdefault.jpg?v=6adc98b7"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-24T12:11:44Z",
       "regionRestriction": null
     },
@@ -586,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/hqdefault.jpg?v=6adc02d8"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 10,
       "startedAt": "2026-10-24T01:38:16Z",
       "regionRestriction": null
     },
@@ -610,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/mTaj8Z8ji3w/hqdefault.jpg?v=6adcdc8e"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": null,
       "startedAt": "2026-10-24T16:31:06Z",
       "regionRestriction": null
     },
@@ -634,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/lxYoejMzLe0/hqdefault.jpg?v=6adc0502"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 16,
       "startedAt": "2026-10-24T01:30:18Z",
       "regionRestriction": null
     },
@@ -658,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/-9ciYBwlsi4/hqdefault.jpg?v=6adcdb64"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 4,
       "startedAt": "2026-10-24T16:24:06Z",
       "regionRestriction": null
     },
@@ -682,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/8IzCPDIaxSk/hqdefault.jpg?v=6adcb689"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": 3,
       "startedAt": "2026-10-24T13:48:26Z",
       "regionRestriction": null
     },
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 727,
+      "concurrentViewers": 260,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 243,
+      "concurrentViewers": 260,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 79,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 616,
+      "concurrentViewers": 1996,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
