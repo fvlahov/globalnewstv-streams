@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T08:42:59.046Z",
+  "generatedAt": "2026-10-24T13:09:12.631Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4697,
+      "concurrentViewers": 4157,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 477,
+      "concurrentViewers": 326,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3367,
+      "concurrentViewers": 2500,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 379,
+      "concurrentViewers": 187,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 355,
+      "concurrentViewers": 679,
       "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 361,
+      "concurrentViewers": 680,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 236,
+      "concurrentViewers": 363,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 191,
+      "concurrentViewers": 572,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1231,
+      "concurrentViewers": 1453,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 8,
+      "concurrentViewers": 6,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7337,
+      "concurrentViewers": 7242,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 375,
+      "concurrentViewers": 411,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1487,
+      "concurrentViewers": 1570,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6983,
+      "concurrentViewers": 7811,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 195,
+      "concurrentViewers": 194,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 65,
+      "concurrentViewers": 61,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 163,
+      "concurrentViewers": 211,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -433,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38546"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3857b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38546"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3857b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38546"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3857b"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 29,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 75,
       "startedAt": "2026-10-24T01:26:09Z",
       "regionRestriction": null
     },
@@ -490,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 60,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/hqdefault.jpg?v=6adc0d0a"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-24T01:42:51Z",
       "regionRestriction": null
     },
@@ -538,32 +538,8 @@
           "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/hqdefault.jpg?v=6adc02d8"
         }
       },
-      "concurrentViewers": 91,
+      "concurrentViewers": 55,
       "startedAt": "2026-10-24T01:38:16Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "d-46w3hWZgs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP News LIVE | Saurav Das | CEC Gyanesh Kumar | CJP Protest | CEC | SIR Protests",
-      "description": "CJP | \"Gyanesh Kumar Ka Resignation To Hona Hi Hai\": CJP's Saurav Das\n\n#CJP #GyaneshKumar #ElectionCommission \n\n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the wo…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/default.jpg?v=6adc2f5b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/mqdefault.jpg?v=6adc2f5b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/hqdefault.jpg?v=6adc2f5b"
-        }
-      },
-      "concurrentViewers": null,
-      "startedAt": "2026-10-24T01:59:38Z",
       "regionRestriction": null
     },
     {
@@ -586,39 +562,15 @@
           "url": "https://i.ytimg.com/vi/lxYoejMzLe0/hqdefault.jpg?v=6adc0502"
         }
       },
-      "concurrentViewers": 147,
+      "concurrentViewers": 79,
       "startedAt": "2026-10-24T01:30:18Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "resmdXlXn5w",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India-China LAC Tensions: ITBP Chief's Remarks, Congress Demands Debate | Border Security LIVE",
-      "description": "Fresh concerns over India-China border tensions have emerged following remarks by ITBP Director General Shatrujeet Kapoor on reported troop face-offs along the Line of Actual Control (LAC) in Arunachal Pradesh. The Ministry of External Affairs has said existing diplomatic and military mechanisms re…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/resmdXlXn5w/default.jpg?v=6adc16d2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/resmdXlXn5w/mqdefault.jpg?v=6adc16d2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/resmdXlXn5w/hqdefault.jpg?v=6adc16d2"
-        }
-      },
-      "concurrentViewers": 19,
-      "startedAt": "2026-10-24T02:25:54Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Neha Bora | Jamia Protest | Rahul Gandhi | Congress Rally | PM Modi | Hindi News",
-      "description": "विपक्ष की 1 नवंबर वाली रैली पर बीजेपी प्रहार...सिख विरोधी दंगे की तारीख से जोड़कर कांग्रेस को घेरा ...तो कारोबारियों ने त्योहारों का हवाला देकर टालने की अपील की\n\nजामिया तक पहुंची Gen Z की लड़ाई...यूनिवर्सिटी में चुनाव की मांग पर नारे-धरना प्रदर्शन-सियासत...समर्थन में आए कांग्रेस सांसद इमरान मसूद को…",
+      "title": "Aaj Tak LIVE TV: Halla Bol | Noida Shop Fire | Neha Bora | Jamia Protest | Rahul | Congress Rally",
+      "description": "नोएडा के सेक्टर 125 में लगी भीषण आग में एक व्यक्ति की मौत हो गई. आग ने 5 से 6 दुकानों को अपनी चपेट में ले लिया. सूचना मिलते ही फायर ब्रिगेड की टीम मौके पर पहुंची. काफी मशक्कत के बाद आग पर काबू पाया गया. इसके बाद घटनास्थल की जांच की गई, तो वहां एक व्यक्ति का शव मिला.\n\n\nविपक्ष की 1 नवंबर वाली रैली पर…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -634,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1901,
+      "concurrentViewers": 3471,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -658,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/wc0QyXp-Duw/hqdefault.jpg?v=6adc0734"
         }
       },
-      "concurrentViewers": 246,
+      "concurrentViewers": 193,
       "startedAt": "2026-10-24T01:40:23Z",
       "regionRestriction": null
     },
@@ -682,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 523,
+      "concurrentViewers": 455,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -706,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 120,
+      "concurrentViewers": 137,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -730,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1244,
+      "concurrentViewers": 662,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
