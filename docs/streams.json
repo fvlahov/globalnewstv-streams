@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T13:09:12.631Z",
+  "generatedAt": "2026-10-24T16:49:03.705Z",
   "streams": [
+    {
+      "videoId": "9pQVTX-QTpI",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Troops sent into Paris for protests",
+      "description": "Full coverage from France as students, public-sector workers, trade union members and activists from the \"Yellow Vests\" movement take part in large protests.\n\n🌏 More from around the world ➡️ https://trib.al/TS3gUq4\n\n#Paris #France #Protest #Riot #Lille #StudentProtest #SkyNews #Live #BreakingNews …",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9pQVTX-QTpI/default.jpg?v=6adbcf58"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9pQVTX-QTpI/mqdefault.jpg?v=6adbcf58"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9pQVTX-QTpI/hqdefault.jpg?v=6adbcf58"
+        }
+      },
+      "concurrentViewers": 6547,
+      "startedAt": "2026-10-24T12:02:00Z",
+      "regionRestriction": null
+    },
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
@@ -22,8 +46,32 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4157,
+      "concurrentViewers": 2661,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "UmPm6KopKnI",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "LIVE: Tens of thousands protest across France | BBC News",
+      "description": "Watch live as tens of thousands join protests across France. The country’s interior minister says 135 people have been arrested so far.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#France #BBCNews",
+      "channelTitle": "BBC News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UmPm6KopKnI/default.jpg?v=6adcb632"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UmPm6KopKnI/mqdefault.jpg?v=6adcb632"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UmPm6KopKnI/hqdefault.jpg?v=6adcb632"
+        }
+      },
+      "concurrentViewers": 1639,
+      "startedAt": "2026-10-24T13:45:48Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 326,
+      "concurrentViewers": 288,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2500,
+      "concurrentViewers": 2264,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xNqcXt6qpRU",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Weekend | Saturday 24th October",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xNqcXt6qpRU/default.jpg?v=6adc8ba4"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xNqcXt6qpRU/mqdefault.jpg?v=6adc8ba4"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xNqcXt6qpRU/hqdefault.jpg?v=6adc8ba4"
+        }
+      },
+      "concurrentViewers": 709,
+      "startedAt": "2026-10-24T10:55:40Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 187,
+      "concurrentViewers": 115,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,8 +194,32 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 679,
+      "concurrentViewers": 922,
       "startedAt": "2026-10-23T21:59:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "FklIUvgHTS4",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Saturday, October 24",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FklIUvgHTS4/default.jpg?v=6acd2b78"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FklIUvgHTS4/mqdefault.jpg?v=6acd2b78"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FklIUvgHTS4/hqdefault.jpg?v=6acd2b78"
+        }
+      },
+      "concurrentViewers": 921,
+      "startedAt": "2026-10-24T11:58:55Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 680,
+      "concurrentViewers": 482,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 363,
+      "concurrentViewers": 370,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -194,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 572,
+      "concurrentViewers": 810,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -218,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1453,
+      "concurrentViewers": 1135,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 6,
+      "concurrentViewers": 15,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7242,
+      "concurrentViewers": 7218,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 411,
+      "concurrentViewers": 367,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1570,
+      "concurrentViewers": 1685,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,8 +438,32 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7811,
+      "concurrentViewers": 6076,
       "startedAt": "2026-05-27T20:56:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "2eQajO8gRww",
+      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+      "title": "LIVE FROM PARIS: Students take to the streets",
+      "description": "Live coverage from Paris as students protests continue. \n\n⬇️ Always stay informed ⬇️\n👉 Follow all the news on 📲  https://euronews.com\n👉 Subscribe ► https://www.youtube.com/@euronews \n👉 Watch our LIVE here: https://www.youtube.com/c/euronews/live\n\n🌎 Follow us:\nFacebook: https://www.facebook.com…",
+      "channelTitle": "euronews",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2eQajO8gRww/default.jpg?v=6adc96f3"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2eQajO8gRww/mqdefault.jpg?v=6adc96f3"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2eQajO8gRww/hqdefault.jpg?v=6adc96f3"
+        }
+      },
+      "concurrentViewers": 465,
+      "startedAt": "2026-10-24T11:31:35Z",
       "regionRestriction": null
     },
     {
@@ -366,13 +486,61 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 194,
+      "concurrentViewers": 148,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
           "TR"
         ]
       }
+    },
+    {
+      "videoId": "G_bcTGQAn64",
+      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+      "title": "LIVE FROM TIRANA: Anti-government protests underway",
+      "description": "LIVE FROM TIRANA: Anti-Government Protests Underwaye\n\n⬇️ Always stay informed ⬇️\n👉 Follow all the news on 📲  https://euronews.com\n👉 Subscribe ► https://www.youtube.com/@euronews \n👉 Watch our LIVE here: https://www.youtube.com/c/euronews/live\n\n🌎 Follow us:\nFacebook: https://www.facebook.com/eur…",
+      "channelTitle": "euronews",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G_bcTGQAn64/default.jpg?v=6adcb2f9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G_bcTGQAn64/mqdefault.jpg?v=6adcb2f9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G_bcTGQAn64/hqdefault.jpg?v=6adcb2f9"
+        }
+      },
+      "concurrentViewers": 148,
+      "startedAt": "2026-10-24T13:30:41Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7zM3TfjxWUw",
+      "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
+      "title": "En direct de Paris : Les étudiants descendent dans la rue",
+      "description": "En direct de Paris : Les étudiants descendent dans la rue",
+      "channelTitle": "euronews (en français)",
+      "country": "FR",
+      "language": "fr",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7zM3TfjxWUw/default.jpg?v=3b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7zM3TfjxWUw/mqdefault.jpg?v=3b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7zM3TfjxWUw/hqdefault.jpg?v=3b"
+        }
+      },
+      "concurrentViewers": 347,
+      "startedAt": "2026-10-24T11:56:42Z",
+      "regionRestriction": null
     },
     {
       "videoId": "NiRIbKwAejk",
@@ -394,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": 90,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 211,
+      "concurrentViewers": 186,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -433,41 +601,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3857b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=385a7"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3857b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=385a7"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3857b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=385a7"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 46,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "PYFa7NAwXUM",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION",
-      "description": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION\n\nWatch WION LIVE for the latest developments in the escalating US-Iran conflict as Tehran reportedly responds to President Donald Trump's threats. The reported reference to the 'Father of All Bombs' has raised questi…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/default.jpg?v=6adc0921"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/mqdefault.jpg?v=6adc0921"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
-        }
-      },
-      "concurrentViewers": 75,
-      "startedAt": "2026-10-24T01:26:09Z",
       "regionRestriction": null
     },
     {
@@ -490,8 +634,32 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 60,
+      "concurrentViewers": 59,
       "startedAt": "2026-06-30T02:58:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PYFa7NAwXUM",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION",
+      "description": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION\n\nWatch WION LIVE for the latest developments in the escalating US-Iran conflict as Tehran reportedly responds to President Donald Trump's threats. The reported reference to the 'Father of All Bombs' has raised questi…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/default.jpg?v=6adc0921"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/mqdefault.jpg?v=6adc0921"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
+        }
+      },
+      "concurrentViewers": 49,
+      "startedAt": "2026-10-24T01:26:09Z",
       "regionRestriction": null
     },
     {
@@ -514,8 +682,32 @@
           "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/hqdefault.jpg?v=6adc0d0a"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 36,
       "startedAt": "2026-10-24T01:42:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GDRPDUPXhOc",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "FRANCE Riots Today | FRANCE PROTEST LIVE: France Riots News | Emmanuel Marcon On Paris Protests",
+      "description": "FRANCE PROTESTS LIVE | PARIS PROTESTS | FRANCE UNREST 2026 | MACRON | BREAKING NEWS\n\nWatch LIVE coverage of protests and demonstrations in France as public anger over rising living costs, fuel prices, economic inequality and public services puts renewed pressure on President Emmanuel Macron and the…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/default.jpg?v=6adc98b7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/mqdefault.jpg?v=6adc98b7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/hqdefault.jpg?v=6adc98b7"
+        }
+      },
+      "concurrentViewers": 77,
+      "startedAt": "2026-10-24T12:11:44Z",
       "regionRestriction": null
     },
     {
@@ -538,8 +730,32 @@
           "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/hqdefault.jpg?v=6adc02d8"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 53,
       "startedAt": "2026-10-24T01:38:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "mTaj8Z8ji3w",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "France Protest LIVE | Protest In France | France Riots | Latest Visuals From France: Lyon, Paris",
+      "description": "Protests have broken out in France, with visuals emerging from Paris and Lyon. The situation on the ground remains a focus as demonstrations and unrest draw attention across the country.\n\nWatch LIVE for the latest visuals and updates from France, including developments from Paris and Lyon.\n\n#France…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mTaj8Z8ji3w/default.jpg?v=6adcdc8e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mTaj8Z8ji3w/mqdefault.jpg?v=6adcdc8e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mTaj8Z8ji3w/hqdefault.jpg?v=6adcdc8e"
+        }
+      },
+      "concurrentViewers": 49,
+      "startedAt": "2026-10-24T16:31:06Z",
       "regionRestriction": null
     },
     {
@@ -562,15 +778,63 @@
           "url": "https://i.ytimg.com/vi/lxYoejMzLe0/hqdefault.jpg?v=6adc0502"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 151,
       "startedAt": "2026-10-24T01:30:18Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "-9ciYBwlsi4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Big INDIA Bloc Protest On November 1 In Delhi | BJP Questions Timing | CEC Gyanesh Kumar",
+      "description": "LIVE: Big INDIA Bloc Protest On November 1 In Delhi | BJP Questions Timing | CEC Gyanesh Kumar\n#INDIAAlliance #RahulGandhi #GyaneshKumar #ElectionCommission #Congress #BJP #SikhRiots #1984AntiSikhRiots #PoliticalControversy #IndianPolitics #IndiaToday #BreakingNews #jantarmantarprotest \nINDIA bloc …",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-9ciYBwlsi4/default.jpg?v=6adcdb64"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-9ciYBwlsi4/mqdefault.jpg?v=6adcdb64"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-9ciYBwlsi4/hqdefault.jpg?v=6adcdb64"
+        }
+      },
+      "concurrentViewers": 121,
+      "startedAt": "2026-10-24T16:24:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8IzCPDIaxSk",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Andra Pradesh Civic Polls Halted After Violence | Who is To Blame? | YSRCP vs TDP | Naidu vs Jagan",
+      "description": "Andra Pradesh Civic Polls Halted After Violence | Who is To Blame? | YSRCP vs TDP | Naidu vs Jagan\n#AndhraPradesh #PollViolence #YSRCP #TDP #ChandrababuNaidu #YSJaganMohanReddy #AndhraPolitics #LocalBodyPolls #ElectionNews #PoliticalClash #IndiaToday #BreakingNews \nAndhra Pradesh poll violence, And…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8IzCPDIaxSk/default.jpg?v=6adcb689"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8IzCPDIaxSk/mqdefault.jpg?v=6adcb689"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8IzCPDIaxSk/hqdefault.jpg?v=6adcb689"
+        }
+      },
+      "concurrentViewers": 27,
+      "startedAt": "2026-10-24T13:48:26Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Halla Bol | Noida Shop Fire | Neha Bora | Jamia Protest | Rahul | Congress Rally",
-      "description": "नोएडा के सेक्टर 125 में लगी भीषण आग में एक व्यक्ति की मौत हो गई. आग ने 5 से 6 दुकानों को अपनी चपेट में ले लिया. सूचना मिलते ही फायर ब्रिगेड की टीम मौके पर पहुंची. काफी मशक्कत के बाद आग पर काबू पाया गया. इसके बाद घटनास्थल की जांच की गई, तो वहां एक व्यक्ति का शव मिला.\n\n\nविपक्ष की 1 नवंबर वाली रैली पर…",
+      "title": "Aaj Tak LIVE TV: Anant Singh | Neha Bora Case | Jamia Protest | Rahul | Congress Rally | Hindi News",
+      "description": "बिहार में जनता दल यूनाइटेड (JDU) ने मोकामा के विधायक अनंत सिंह के खिलाफ बड़ी कार्रवाई की है. पार्टी ने उन्हें छह साल के लिए निष्कासित कर दिया है. उनकी प्राथमिक सदस्यता भी तत्काल प्रभाव से रद्द कर दी गई है. पार्टी ने अनंत सिंह की पत्नी और पूर्व विधायक नीलम देवी को भी छह साल के लिए निष्कासित कर दिया …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -586,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 3471,
+      "concurrentViewers": 2606,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -610,7 +874,7 @@
           "url": "https://i.ytimg.com/vi/wc0QyXp-Duw/hqdefault.jpg?v=6adc0734"
         }
       },
-      "concurrentViewers": 193,
+      "concurrentViewers": 165,
       "startedAt": "2026-10-24T01:40:23Z",
       "regionRestriction": null
     },
@@ -634,7 +898,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 455,
+      "concurrentViewers": 321,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -658,7 +922,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 137,
+      "concurrentViewers": 124,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -682,7 +946,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 662,
+      "concurrentViewers": 462,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
