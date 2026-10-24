@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T23:55:12.552Z",
+  "generatedAt": "2026-10-24T03:42:17.256Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 1973,
+      "concurrentViewers": 1959,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 112,
+      "concurrentViewers": 118,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1431,
+      "concurrentViewers": 1161,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,14 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 31,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "aF9neWULq64",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 23",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -122,36 +122,12 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 1415,
+      "concurrentViewers": 647,
       "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "tm8igW6KfIs",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 23",
-      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tm8igW6KfIs/default.jpg?v=6adbeec5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tm8igW6KfIs/mqdefault.jpg?v=6adbeec5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tm8igW6KfIs/hqdefault.jpg?v=6adbeec5"
-        }
-      },
-      "concurrentViewers": 129,
-      "startedAt": "2026-10-23T23:49:38Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "iipR5yUp36o",
+      "videoId": "KQhNZQ_Uag8",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
       "description": "ABC News Live is ABC News’ award-winning 24/7 streaming news channel with live coverage as news breaks, up-to- the-minute reports, powerful interviews and special features produced by world-class storytellers. \n\nLATEST NEWS: https://abcnews.com\nSUBSCRIBE to ABC News on YouTube: https://trib.al/2ijN…",
@@ -161,41 +137,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iipR5yUp36o/default.jpg?v=685771cc"
+          "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/default.jpg?v=6adc223c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iipR5yUp36o/mqdefault.jpg?v=685771cc"
+          "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/mqdefault.jpg?v=6adc223c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg?v=685771cc"
+          "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 676,
-      "startedAt": "2025-05-01T13:54:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "rIm8DksJWBI",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, October 23",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/default.jpg?v=6acd2b3d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/mqdefault.jpg?v=6acd2b3d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rIm8DksJWBI/hqdefault.jpg?v=6acd2b3d"
-        }
-      },
-      "concurrentViewers": 669,
-      "startedAt": "2026-10-23T09:58:47Z",
+      "concurrentViewers": 250,
+      "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/V1b6nTzIknA/hqdefault.jpg?v=6ada549c"
         }
       },
-      "concurrentViewers": 334,
+      "concurrentViewers": 216,
       "startedAt": "2026-10-23T10:59:29Z",
       "regionRestriction": {
         "blocked": [
@@ -247,7 +199,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 519,
+      "concurrentViewers": 431,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -271,7 +223,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 1022,
+      "concurrentViewers": 391,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -295,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1221,
+      "concurrentViewers": 995,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -319,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 32,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -343,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 4866,
+      "concurrentViewers": 4906,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -371,7 +323,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 254,
+      "concurrentViewers": 315,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -395,7 +347,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 761,
+      "concurrentViewers": 827,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -419,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4015,
+      "concurrentViewers": 3135,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -443,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 127,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -471,7 +423,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 51,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -495,7 +447,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 145,
+      "concurrentViewers": 147,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -510,13 +462,13 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=384db"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38509"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=384db"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38509"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=384db"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38509"
         }
       },
       "concurrentViewers": 33,
@@ -524,27 +476,51 @@
       "regionRestriction": null
     },
     {
-      "videoId": "zpLPV5yD02s",
+      "videoId": "PYFa7NAwXUM",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION",
-      "description": "LIVE: Kim Jong Un Death Rumours Explode as North Korea Releases New Images | WION\n\nSpeculation surrounding North Korean leader Kim Jong Un’s reported death has intensified amid rumours of a possible brain haemorrhage. North Korea has released new images of Kim, described as “proof of life” amid the…",
+      "title": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION",
+      "description": "US-Iran War LIVE: Iran Unleashes 'Father of All Bombs' After Trump's Threat | WION\n\nWatch WION LIVE for the latest developments in the escalating US-Iran conflict as Tehran reportedly responds to President Donald Trump's threats. The reported reference to the 'Father of All Bombs' has raised questi…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/default.jpg?v=6ad863da"
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/default.jpg?v=6adc0921"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/mqdefault.jpg?v=6ad863da"
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/mqdefault.jpg?v=6adc0921"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zpLPV5yD02s/hqdefault.jpg?v=6ad863da"
+          "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
         }
       },
-      "concurrentViewers": 61,
-      "startedAt": "2026-10-21T07:09:19Z",
+      "concurrentViewers": 199,
+      "startedAt": "2026-10-24T01:26:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "sWlj_bfwIPI",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: Massive Russian Strikes Rock Kyiv After Witkoff-Putin Talks | WION",
+      "description": "Russia-Ukraine War LIVE: Massive Russian Strikes Rock Kyiv After Witkoff-Putin Talks | WION\n\nRussian strikes have hit Kyiv following a meeting between US special envoy Steve Witkoff and Russian President Vladimir Putin. The latest developments raise fresh questions about diplomatic efforts to end t…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/default.jpg?v=6adc0d0a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/mqdefault.jpg?v=6adc0d0a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/hqdefault.jpg?v=6adc0d0a"
+        }
+      },
+      "concurrentViewers": 129,
+      "startedAt": "2026-10-24T01:42:51Z",
       "regionRestriction": null
     },
     {
@@ -567,87 +543,159 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 80,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
     {
-      "videoId": "hg6w41Mtqak",
+      "videoId": "Dsfbsto7gvo",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: Typhoon Champi Brushes By Taiwan | Taiwan News | LIVE",
-      "description": "Watch live from Taiwan as Typhoon Champi blows by the northeastern part of the island. The typhoon is expected to bring heavy rain and strong winds through Saturday as it curves north toward Japan's southwestern islands.\n\n#taiwan #typhoon #typhoonchampi #live \n\nAbout NDTV (English news channel):\n\nN…",
+      "title": "NDTV LIVE:  US Midterms | SIR | Jordan Terrorist Attack | France Protests | NDTV World Summit 2026",
+      "description": "Come 2028, India will have its own Apple, Samsung - the global industry's biggest players in smartphone business - moment, IT Minister Ashwini Vaishnaw told NDTV on Friday.\n\n\"This is 23 October 2026. Please note it: 23 October 2028. You will have Indian-designed, Indian-manufactured, Indian-branded…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hg6w41Mtqak/default.jpg?v=6adb6e3f"
+          "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/default.jpg?v=6adc02d8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hg6w41Mtqak/mqdefault.jpg?v=6adb6e3f"
+          "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/mqdefault.jpg?v=6adc02d8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hg6w41Mtqak/hqdefault.jpg?v=6adb6e3f"
+          "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/hqdefault.jpg?v=6adc02d8"
         }
       },
-      "concurrentViewers": 6,
-      "startedAt": "2026-10-23T16:17:20Z",
+      "concurrentViewers": 271,
+      "startedAt": "2026-10-24T01:38:16Z",
       "regionRestriction": null
     },
     {
-      "videoId": "lXdGKhkUNmI",
+      "videoId": "nHZfb1br0HU",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: MEA Address Today | Ministry Of External Affairs | MEA Address On India-China Border Issue",
-      "description": "MEA spokesperson Randhir Jaiswal addresses India's response to ongoing crises in West Asia and Europe, including 24/7 control rooms in Riyadh and Jeddah, assistance to stranded Indian nationals, and the repatriation of pilgrims from Saudi Arabia. He also outlines India's efforts to ensure the safet…",
+      "title": "Jordan Church Shooting LIVE: 7 Dead, 34 Injured In Terrorist Attack | Jordan Terrorist Attack",
+      "description": "At least seven people were killed and 34 others injured after gunmen opened fire during a funeral at a Greek Orthodox church in Karak, southern Jordan. Footage aired on Jordanian state television appeared to show three armed men approaching the church and firing shots. Authorities said the attacker…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lXdGKhkUNmI/default.jpg?v=6adb70b0"
+          "url": "https://i.ytimg.com/vi/nHZfb1br0HU/default.jpg?v=6adc06da"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lXdGKhkUNmI/mqdefault.jpg?v=6adb70b0"
+          "url": "https://i.ytimg.com/vi/nHZfb1br0HU/mqdefault.jpg?v=6adc06da"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lXdGKhkUNmI/hqdefault.jpg?v=6adb70b0"
+          "url": "https://i.ytimg.com/vi/nHZfb1br0HU/hqdefault.jpg?v=6adc06da"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-10-23T14:51:56Z",
+      "concurrentViewers": 61,
+      "startedAt": "2026-10-24T01:15:00Z",
       "regionRestriction": null
     },
     {
-      "videoId": "waAy4HH0Vk4",
+      "videoId": "d-46w3hWZgs",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "CJP News LIVE | Saurav Das Speaks On Gyanesh Kumar's Resignation | CJP Protest | CEC | SIR",
+      "description": "CJP | \"Gyanesh Kumar Ka Resignation To Hona Hi Hai\": CJP's Saurav Das\n\n#CJP #GyaneshKumar #ElectionCommission \n\n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the wo…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/default.jpg?v=6adc104d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/mqdefault.jpg?v=6adc104d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d-46w3hWZgs/hqdefault.jpg?v=6adc104d"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-24T01:59:38Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lxYoejMzLe0",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Neha Bora | Delhi Pollution | Diljit Dosanj's Delhi Concert | Market News",
-      "description": "India Today TV LIVE: Political & Global News | Delhi Pollution | Diljit Delhi Sow | Market News\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade Deal …",
+      "title": "India Today TV LIVE: CJP Leaders Summoned | US-Iran War | Tiger Shroff Shooting | PM Modi News",
+      "description": "India Today TV LIVE: CJP Leaders Summoned | US-Iran War | Tiger Shroff Shooting | PM Modi News\n\nDelhi Police transferred a second case against jailed CJP co-convenors Saurav Das and Ashutosh Ranka to the Crime Branch. The move puts two cases against the leaders under the specialised unit's investig…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/default.jpg?v=6abdc0fa"
+          "url": "https://i.ytimg.com/vi/lxYoejMzLe0/default.jpg?v=6adc0502"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/mqdefault.jpg?v=6abdc0fa"
+          "url": "https://i.ytimg.com/vi/lxYoejMzLe0/mqdefault.jpg?v=6adc0502"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
+          "url": "https://i.ytimg.com/vi/lxYoejMzLe0/hqdefault.jpg?v=6adc0502"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-10-01T02:10:33Z",
+      "concurrentViewers": 439,
+      "startedAt": "2026-10-24T01:30:18Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "resmdXlXn5w",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India-China LAC Tensions: ITBP Chief's Remarks, Congress Demands Debate | Border Security LIVE",
+      "description": "Fresh concerns over India-China border tensions have emerged following remarks by ITBP Director General Shatrujeet Kapoor on reported troop face-offs along the Line of Actual Control (LAC) in Arunachal Pradesh. The Ministry of External Affairs has said existing diplomatic and military mechanisms re…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/resmdXlXn5w/default.jpg?v=6adc16d2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/resmdXlXn5w/mqdefault.jpg?v=6adc16d2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/resmdXlXn5w/hqdefault.jpg?v=6adc16d2"
+        }
+      },
+      "concurrentViewers": 79,
+      "startedAt": "2026-10-24T02:25:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ODte3BXAXQQ",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "US-Iran War: Iran Draws Up Plan To Cut Undersea Cables | Global Internet Security On Alert",
+      "description": "Iran is reportedly drawing up a plan to cut undersea cables, raising concerns over global internet connectivity and critical communications infrastructure. Undersea cables carry a major share of international data traffic and are vital to financial transactions, businesses and digital communication…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ODte3BXAXQQ/default.jpg?v=6adc0fb5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ODte3BXAXQQ/mqdefault.jpg?v=6adc0fb5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ODte3BXAXQQ/hqdefault.jpg?v=6adc0fb5"
+        }
+      },
+      "concurrentViewers": 34,
+      "startedAt": "2026-10-24T01:56:45Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Neha Bora | UP MLC Election | Congress Rally | India China Tension |Student Protest",
-      "description": "AISA अध्यक्ष नेहा बोरा को दिल्ली हाईकोर्ट से राहत नहीं मिली है. उन्होंने स्पेशल एग्जीक्यूटिव मजिस्ट्रेट (SEM) के उस नोटिस को चुनौती दी थी, जिसमें 10 हजार रुपये का बॉन्ड भरने के साथ शांति बनाए रखने को कहा गया था. हाईकोर्ट ने उनकी याचिका खारिज कर दी. हालांकि, कोर्ट ने यह भी साफ किया कि मजिस्ट्रेट को …",
+      "title": "Aaj Tak LIVE TV: Rahul Gandhi | Congress Rally | PM Modi | Amit Shah | Iran America War | Hindi News",
+      "description": "दिल्ली में 1 नवंबर की रैली पर राहुल गांधी को बीजेपी ने घेरा...कहा- देश तोड़कर नेता विपक्ष को लॉन्च कराने की कोशिश,कांग्रेस का तंज- PM के मन में बैठा राहुल का डर\n\nयूपी, बिहार में MLC चुनाव खत्म होने के बाद सियासत शुरू- विपक्ष का बीजेपी पर बूथ कैपचरिंग का आरोप...तेजस्वी बोले- ये लोग वोट चोर...अखिलेश …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -663,8 +711,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 285,
+      "concurrentViewers": 3024,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "wc0QyXp-Duw",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: देखिए आज की 100 बड़ी खबरें | INDIA bloc Rally | Rahul Gandhi | BJP | EC | SIR",
+      "description": "दिल्ली में 1 नवंबर की रैली पर राहुल गांधी को बीजेपी ने घेरा...कहा- देश तोड़कर नेता विपक्ष को लॉन्च कराने की कोशिश,कांग्रेस का तंज- PM के मन में बैठा राहुल का डर\n\nयूपी, बिहार में MLC चुनाव खत्म होने के बाद सियासत शुरू- विपक्ष का बीजेपी पर बूथ कैपचरिंग का आरोप...तेजस्वी बोले- ये लोग वोट चोर...अखिलेश …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wc0QyXp-Duw/default.jpg?v=6adc0734"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wc0QyXp-Duw/mqdefault.jpg?v=6adc0734"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wc0QyXp-Duw/hqdefault.jpg?v=6adc0734"
+        }
+      },
+      "concurrentViewers": 1594,
+      "startedAt": "2026-10-24T01:40:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0p4XIIyi5as",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Jamia Protest News LIVE: जामिया में बवाल के बीच Imran Masoos की एंट्री, छात्रों से मिले | Aaj Tak",
+      "description": "दिल्ली की जामिया मिल्लिया इस्लामिया यूनिवर्सिटी में छात्रसंघ चुनाव की मांग को लेकर जारी प्रदर्शन अब विवादित नारों और पुलिस की कार्रवाई तक पहुंच गया है। कैंपस की दीवारों पर ‘फ्री कश्मीर’ और ‘फ्री शरजील इमाम’ जैसे नारे लिखे मिलने के बाद विवाद बढ़ गया। छात्रों के समर्थन में पहुंचे कांग्रेस सांसद इमरान…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0p4XIIyi5as/default.jpg?v=6adc1be9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0p4XIIyi5as/mqdefault.jpg?v=6adc1be9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0p4XIIyi5as/hqdefault.jpg?v=6adc1be9"
+        }
+      },
+      "concurrentViewers": 365,
+      "startedAt": "2026-10-24T02:47:01Z",
       "regionRestriction": null
     },
     {
@@ -687,7 +783,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 727,
+      "concurrentViewers": 816,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -711,7 +807,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 118,
+      "concurrentViewers": 115,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -735,7 +831,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2025,
+      "concurrentViewers": 1166,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
