@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T20:29:44.661Z",
+  "generatedAt": "2026-10-25T22:46:39.836Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2595,
+      "concurrentViewers": 2743,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 316,
+      "concurrentViewers": 267,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1811,
+      "concurrentViewers": 1477,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 41,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 538,
+      "concurrentViewers": 583,
       "startedAt": "2026-10-23T21:59:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "YIO_WT0wsz8",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Sunday, October 25",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YIO_WT0wsz8/default.jpg?v=6acd2bdf"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YIO_WT0wsz8/mqdefault.jpg?v=6acd2bdf"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YIO_WT0wsz8/hqdefault.jpg?v=6acd2bdf"
-        }
-      },
-      "concurrentViewers": 549,
-      "startedAt": "2026-10-25T11:58:06Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 275,
+      "concurrentViewers": 422,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/d-s6VAEAkls/hqdefault.jpg?v=6addd7a8"
         }
       },
-      "concurrentViewers": 477,
+      "concurrentViewers": 405,
       "startedAt": "2026-10-25T10:21:04Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 608,
+      "concurrentViewers": 542,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 914,
+      "concurrentViewers": 1058,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 26,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6185,
+      "concurrentViewers": 5399,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 332,
+      "concurrentViewers": 234,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1167,
+      "concurrentViewers": 1087,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4412,
+      "concurrentViewers": 6096,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 111,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 71,
+      "concurrentViewers": 48,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 152,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -457,17 +433,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=386f3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3870f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=386f3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3870f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=386f3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3870f"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 23,
       "startedAt": "2020-11-18T09:26:34Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "IFB5f0i1g8E",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION",
+      "description": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION\n\nSaudi Arabia vs Houthis LIVE: Sanaa has come under fire following reported Saudi strikes on Yemen, raising tensions across the region. The latest developments from Yemen come amid the ongoing Saudi-Houthi c…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/default.jpg?v=6add609f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/mqdefault.jpg?v=6add609f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
+        }
+      },
+      "concurrentViewers": 33,
+      "startedAt": "2026-10-25T02:11:26Z",
       "regionRestriction": null
     },
     {
@@ -490,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/qewNvjSNAkA/hqdefault.jpg?v=6add55a3"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 32,
       "startedAt": "2026-10-25T01:05:11Z",
       "regionRestriction": null
     },
@@ -514,32 +514,8 @@
           "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/hqdefault.jpg?v=6add6c2e"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 23,
       "startedAt": "2026-10-25T02:49:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "IFB5f0i1g8E",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION",
-      "description": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION\n\nSaudi Arabia vs Houthis LIVE: Sanaa has come under fire following reported Saudi strikes on Yemen, raising tensions across the region. The latest developments from Yemen come amid the ongoing Saudi-Houthi c…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/default.jpg?v=6add609f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/mqdefault.jpg?v=6add609f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
-        }
-      },
-      "concurrentViewers": 19,
-      "startedAt": "2026-10-25T02:11:26Z",
       "regionRestriction": null
     },
     {
@@ -562,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/BWdl0QY0X-8/hqdefault.jpg?v=6add53d6"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 14,
       "startedAt": "2026-10-25T01:26:43Z",
       "regionRestriction": null
     },
@@ -586,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/QDWoPCHnUy0/hqdefault.jpg?v=6addf872"
         }
       },
-      "concurrentViewers": 3,
+      "concurrentViewers": 1,
       "startedAt": "2026-10-25T12:43:49Z",
       "regionRestriction": null
     },
@@ -634,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/eTXco3hnwbI/hqdefault.jpg?v=6ade12b9"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-25T15:02:33Z",
       "regionRestriction": null
     },
@@ -658,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/q2vIzArsv4s/hqdefault.jpg?v=6ade31ba"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 19,
       "startedAt": "2026-10-25T16:54:08Z",
       "regionRestriction": null
     },
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/o74bzTmDLns/hqdefault.jpg?v=6ade138f"
         }
       },
-      "concurrentViewers": 961,
+      "concurrentViewers": 404,
       "startedAt": "2026-10-25T15:23:21Z",
       "regionRestriction": null
     },
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 355,
+      "concurrentViewers": 212,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -754,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/8EjxaPj5Gpk/hqdefault.jpg?v=6ade3ad2"
         }
       },
-      "concurrentViewers": 115,
+      "concurrentViewers": 79,
       "startedAt": "2026-10-25T16:30:53Z",
       "regionRestriction": null
     },
@@ -778,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 248,
+      "concurrentViewers": 681,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -802,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 86,
+      "concurrentViewers": 67,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -826,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2577,
+      "concurrentViewers": 2974,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
