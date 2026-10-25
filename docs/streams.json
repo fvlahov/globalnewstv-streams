@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T14:29:16.750Z",
+  "generatedAt": "2026-10-25T17:47:51.731Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3692,
+      "concurrentViewers": 3616,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 315,
+      "concurrentViewers": 392,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2075,
+      "concurrentViewers": 2390,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "pFcApVUXmKM",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Weekend | Sunday 25th October",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pFcApVUXmKM/default.jpg?v=6addf73f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pFcApVUXmKM/mqdefault.jpg?v=6addf73f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pFcApVUXmKM/hqdefault.jpg?v=6addf73f"
+        }
+      },
+      "concurrentViewers": 552,
+      "startedAt": "2026-10-25T12:57:40Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 99,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 640,
+      "concurrentViewers": 708,
       "startedAt": "2026-10-23T21:59:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "YIO_WT0wsz8",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Sunday, October 25",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YIO_WT0wsz8/default.jpg?v=6acd2bdf"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YIO_WT0wsz8/mqdefault.jpg?v=6acd2bdf"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YIO_WT0wsz8/hqdefault.jpg?v=6acd2bdf"
+        }
+      },
+      "concurrentViewers": 906,
+      "startedAt": "2026-10-25T11:58:06Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 378,
+      "concurrentViewers": 347,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/d-s6VAEAkls/hqdefault.jpg?v=6addd7a8"
         }
       },
-      "concurrentViewers": 478,
+      "concurrentViewers": 439,
       "startedAt": "2026-10-25T10:21:04Z",
       "regionRestriction": null
     },
@@ -194,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 577,
+      "concurrentViewers": 711,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -218,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1221,
+      "concurrentViewers": 1025,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 21,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7325,
+      "concurrentViewers": 8404,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 349,
+      "concurrentViewers": 424,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1097,
+      "concurrentViewers": 1350,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5508,
+      "concurrentViewers": 6755,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 138,
+      "concurrentViewers": 152,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": 67,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 186,
+      "concurrentViewers": 171,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -433,16 +481,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=386ab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=386d3"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=386ab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=386d3"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=386ab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=386d3"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 43,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,32 +514,8 @@
           "url": "https://i.ytimg.com/vi/qewNvjSNAkA/hqdefault.jpg?v=6add55a3"
         }
       },
-      "concurrentViewers": 73,
+      "concurrentViewers": 60,
       "startedAt": "2026-10-25T01:05:11Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ppFMWlGhMaQ",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION",
-      "description": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION\n\nA powerful magnitude 6.3 earthquake has struck the Bonin Islands region of Japan, according to the European-Mediterranean Seismological Centre (EMSC). Stay tuned to WION for the latest updates on the ea…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/default.jpg?v=6add6c2e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/mqdefault.jpg?v=6add6c2e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/hqdefault.jpg?v=6add6c2e"
-        }
-      },
-      "concurrentViewers": 61,
-      "startedAt": "2026-10-25T02:49:56Z",
       "regionRestriction": null
     },
     {
@@ -514,8 +538,32 @@
           "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
         }
       },
-      "concurrentViewers": 48,
+      "concurrentViewers": 47,
       "startedAt": "2026-10-25T02:11:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ppFMWlGhMaQ",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION",
+      "description": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION\n\nA powerful magnitude 6.3 earthquake has struck the Bonin Islands region of Japan, according to the European-Mediterranean Seismological Centre (EMSC). Stay tuned to WION for the latest updates on the ea…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/default.jpg?v=6add6c2e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/mqdefault.jpg?v=6add6c2e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/hqdefault.jpg?v=6add6c2e"
+        }
+      },
+      "concurrentViewers": 36,
+      "startedAt": "2026-10-25T02:49:56Z",
       "regionRestriction": null
     },
     {
@@ -538,8 +586,104 @@
           "url": "https://i.ytimg.com/vi/BWdl0QY0X-8/hqdefault.jpg?v=6add53d6"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": 36,
       "startedAt": "2026-10-25T01:26:43Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Rs8QG3ERu-U",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "PM Modi LIVE | PM Modi Roadshow In Bhubaneswar | Bhubaneswar | Odisha",
+      "description": "PM Modi LIVE | PM Modi Roadshow In Bhubaneswar | Bhubaneswar | Odisha\n\n#pmmodi #pmmodiroadshow #bhubaneswar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/default.jpg?v=6ade1dac"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/mqdefault.jpg?v=6ade1dac"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/hqdefault.jpg?v=6ade1dac"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-10-25T15:26:05Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QDWoPCHnUy0",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Kharge On PM Modi | Kharge Speech Today | Mallikarjun Kharge News | INC | Kharge News",
+      "description": "A stark remark by Congress president Mallikarjun Kharge about Prime Minister Narendra Modi at an event in Patna triggered a massive row on Sunday as the BJP alleged that he had insulted not just the PM but his late father and the country too. Kharge made the comment in response to a man in the crow…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QDWoPCHnUy0/default.jpg?v=6addf872"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QDWoPCHnUy0/mqdefault.jpg?v=6addf872"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QDWoPCHnUy0/hqdefault.jpg?v=6addf872"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-10-25T12:43:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "eTXco3hnwbI",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "'Foreign Hand' Claim Way To Discredit SIR Protests In India? | Rajdeep Sardesai vs Gaurav Sawant",
+      "description": "LIVE: 'Foreign Hand' Claim Way To Discredit Protests In India? | Jantar Mantar | Gyanesh Kumar \n#ProtestsInIndia #DemocraticDebate #CEC #indiatodaylivestream  #GyaneshKumar #CJP #RajdeepSardesai #ElectionCommission #RightToProtest #IndianDemocracy #PoliticalDebate #PublicProtests #IndiaToday \nProte…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eTXco3hnwbI/default.jpg?v=6ade12b9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eTXco3hnwbI/mqdefault.jpg?v=6ade12b9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eTXco3hnwbI/hqdefault.jpg?v=6ade12b9"
+        }
+      },
+      "concurrentViewers": 137,
+      "startedAt": "2026-10-25T15:02:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "q2vIzArsv4s",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: FIR Against Malikarjun Kharge Over 'Modi Ka Baap' Remark | BJP vs Congress | India Today",
+      "description": "LIVE: FIR Against Malikarjun Kharge Over 'Modi Ka Baap' Remark | BJP vs Congress | India Today \n#MallikarjunKharge #ModiKaBaap #NarendraModi #BJPvsCongress #Congress #BJP #PoliticalControversy #IndianPolitics #PoliticalRow #IndiaToday #BreakingNews #IndiaNews #sirprotest #cecprotest #gyaneshkumar #…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q2vIzArsv4s/default.jpg?v=6ade31ba"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q2vIzArsv4s/mqdefault.jpg?v=6ade31ba"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q2vIzArsv4s/hqdefault.jpg?v=6ade31ba"
+        }
+      },
+      "concurrentViewers": 125,
+      "startedAt": "2026-10-25T16:54:08Z",
       "regionRestriction": null
     },
     {
@@ -562,38 +706,38 @@
           "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/hqdefault.jpg?v=6add5927"
         }
       },
-      "concurrentViewers": 159,
+      "concurrentViewers": 94,
       "startedAt": "2026-10-25T01:27:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "GXvEQq9XLgg",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Political & Global News | Delhi Pollution | US News | Rahul Gandhi | PM Modi",
-      "description": "Political & Global News | Delhi Pollution | US News | Rahul Gandhi | PM Modi\n\nDelhi Police transferred a second case against jailed CJP co-convenors Saurav Das and Ashutosh Ranka to the Crime Branch. The move puts two cases against the leaders under the specialised unit's investigation.\n\nIran told …",
-      "channelTitle": "India Today",
+      "videoId": "o74bzTmDLns",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Black and White with Anjana Om Kashyap LIVE: Rahul Gandhi | BJP | Azam Khan | Akhilesh | Ukraine War",
+      "description": "Black and White with Anjana Om Kashyap LIVE: Rahul Gandhi | BJP | Azam Khan | Akhilesh | Ukraine War\n\nब्लैक एंड व्हाइट में आज बात उन बड़े मुद्दों की, जिनका असर देश की राजनीति और अंतरराष्ट्रीय हालात पर पड़ सकता है। सबसे पहले अरुणाचल प्रदेश की सीमा पर भारत और चीन के सैनिकों के बीच कथित झड़पों को लेकर…",
+      "channelTitle": "Aaj Tak",
       "country": "IN",
-      "language": "en",
+      "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GXvEQq9XLgg/default.jpg?v=6add5d65"
+          "url": "https://i.ytimg.com/vi/o74bzTmDLns/default.jpg?v=6ade138f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GXvEQq9XLgg/mqdefault.jpg?v=6add5d65"
+          "url": "https://i.ytimg.com/vi/o74bzTmDLns/mqdefault.jpg?v=6ade138f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GXvEQq9XLgg/hqdefault.jpg?v=6add5d65"
+          "url": "https://i.ytimg.com/vi/o74bzTmDLns/hqdefault.jpg?v=6ade138f"
         }
       },
-      "concurrentViewers": 61,
-      "startedAt": "2026-10-25T01:42:36Z",
+      "concurrentViewers": 2799,
+      "startedAt": "2026-10-25T15:23:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Kharge | PM Modi Varanasi Air Show | INDIA Alliance | Anant Singh | Hindi News",
+      "title": "Aaj Tak LIVE TV: Kharge | PM Modi | INDIA Alliance | Anant Singh | Rahul Gandhi | SIR | Hindi News",
       "description": "भुवेनश्वर में पीएम मोदी ने रिजर्व बैंक के डाटा सेंटर का किया उद्घाटन- कहा, हमारे लिए विकास का मतलब गांवों और शहरों की उन्नति- दिन में काशी में वायु सेना के शौर्य का किया दीदार \n\nपटना में कांग्रेस अध्यक्ष खरगे का विवादित बयान, पीएम के पिता को लेकर टिप्पणी पर सियासी हंगामा- बीजेपी ने बताया हताशा \n\nरा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -610,8 +754,32 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 3324,
+      "concurrentViewers": 1612,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8EjxaPj5Gpk",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "AajTak LIVE: PM Modi के पिता पर कथित अभद्र टिप्पणी को लेकर Kharge के खिलाफ Patna में शिकायत",
+      "description": "AajTak LIVE: PM Modi के पिता पर कथित अभद्र टिप्पणी को लेकर Kharge के खिलाफ Patna में शिकायत\n\nकांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के खिलाफ पटना के कोतवाली थाने में शिकायत दर्ज कराई गई है। भारतीय जनता पार्टी के प्रदेश कार्य समिति सदस्य कृष्णा सिंह कल्लू ने यह शिकायत प्रधानमंत्री नरेंद्र मोदी के पिता …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8EjxaPj5Gpk/default.jpg?v=6ade3ad2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8EjxaPj5Gpk/mqdefault.jpg?v=6ade3ad2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8EjxaPj5Gpk/hqdefault.jpg?v=6ade3ad2"
+        }
+      },
+      "concurrentViewers": 706,
+      "startedAt": "2026-10-25T16:30:53Z",
       "regionRestriction": null
     },
     {
@@ -634,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 629,
+      "concurrentViewers": 269,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -658,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 121,
+      "concurrentViewers": 160,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -682,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 590,
+      "concurrentViewers": 527,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
