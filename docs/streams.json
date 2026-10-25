@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T05:06:13.555Z",
+  "generatedAt": "2026-10-25T10:01:00.393Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2620,
+      "concurrentViewers": 4900,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 155,
+      "concurrentViewers": 578,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1547,
+      "concurrentViewers": 3618,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 303,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 310,
+      "concurrentViewers": 342,
       "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 346,
+      "concurrentViewers": 353,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
         }
       },
-      "concurrentViewers": 183,
+      "concurrentViewers": 176,
       "startedAt": "2026-10-23T12:56:39Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 201,
+      "concurrentViewers": 169,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 920,
+      "concurrentViewers": 1150,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 14,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6808,
+      "concurrentViewers": 7998,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 317,
+      "concurrentViewers": 344,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1030,
+      "concurrentViewers": 1239,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4011,
+      "concurrentViewers": 6044,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 114,
+      "concurrentViewers": 185,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,8 +394,32 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 66,
+      "concurrentViewers": 95,
       "startedAt": "2022-09-19T16:38:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "adUSssjOCLY",
+      "channelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+      "title": "LIVE: Watch TRT World",
+      "description": "At TRT World we're building a global community focused around change. We’re looking beyond the headlines to drive meaningful conversations that empower. We want to connect people across the globe to issues that matter. We explore the reality behind the hashtags and the people behind the statistics.…",
+      "channelTitle": "TRT World",
+      "country": "TR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/adUSssjOCLY/default.jpg?v=6addd1b2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/adUSssjOCLY/mqdefault.jpg?v=6addd1b2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
+        }
+      },
+      "concurrentViewers": 30,
+      "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
     {
@@ -409,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3863a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38675"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3863a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38675"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3863a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38675"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 26,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -442,32 +466,8 @@
           "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/hqdefault.jpg?v=6add6c2e"
         }
       },
-      "concurrentViewers": 181,
+      "concurrentViewers": 182,
       "startedAt": "2026-10-25T02:49:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "IFB5f0i1g8E",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION",
-      "description": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION\n\nSaudi Arabia vs Houthis LIVE: Sanaa has come under fire following reported Saudi strikes on Yemen, raising tensions across the region. The latest developments from Yemen come amid the ongoing Saudi-Houthi c…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/default.jpg?v=6add609f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/mqdefault.jpg?v=6add609f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
-        }
-      },
-      "concurrentViewers": 120,
-      "startedAt": "2026-10-25T02:11:26Z",
       "regionRestriction": null
     },
     {
@@ -490,8 +490,32 @@
           "url": "https://i.ytimg.com/vi/qewNvjSNAkA/hqdefault.jpg?v=6add55a3"
         }
       },
-      "concurrentViewers": 109,
+      "concurrentViewers": 142,
       "startedAt": "2026-10-25T01:05:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "IFB5f0i1g8E",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION",
+      "description": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION\n\nSaudi Arabia vs Houthis LIVE: Sanaa has come under fire following reported Saudi strikes on Yemen, raising tensions across the region. The latest developments from Yemen come amid the ongoing Saudi-Houthi c…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/default.jpg?v=6add609f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/mqdefault.jpg?v=6add609f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
+        }
+      },
+      "concurrentViewers": 93,
+      "startedAt": "2026-10-25T02:11:26Z",
       "regionRestriction": null
     },
     {
@@ -514,56 +538,8 @@
           "url": "https://i.ytimg.com/vi/BWdl0QY0X-8/hqdefault.jpg?v=6add53d6"
         }
       },
-      "concurrentViewers": 147,
+      "concurrentViewers": 74,
       "startedAt": "2026-10-25T01:26:43Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "EiI4TNWliyE",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "France Protest LIVE | Paris Protest | Latest Visuals From France | France Student Protest | Paris",
-      "description": "Protests have broken out in France, with visuals emerging from Paris and Lyon. The situation on the ground remains a focus as demonstrations and unrest draw attention across the country.\n\nWatch LIVE for the latest visuals and updates from France, including developments from Paris and Lyon.\n\n#France…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EiI4TNWliyE/default.jpg?v=6add894e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EiI4TNWliyE/mqdefault.jpg?v=6add894e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EiI4TNWliyE/hqdefault.jpg?v=6add894e"
-        }
-      },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-25T05:02:38Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "jlFiRME2jIs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Saudi Attack LIVE | Saudi Arabia Says Houthi Missiles Targeted Mecca And Medina | Riyadh Airport",
-      "description": "Saudi Arabia's civil defence agency said on Saturday that it responded to shrapnel falling in the Mecca and Medina regions after intercepting missiles launched by Yemen's Iran-backed Houthis. Mecca and Medina are Islam's two holiest cities.\n\n\"The fall of shrapnel from two ballistic missiles launche…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jlFiRME2jIs/default.jpg?v=6add6116"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jlFiRME2jIs/mqdefault.jpg?v=6add6116"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jlFiRME2jIs/hqdefault.jpg?v=6add6116"
-        }
-      },
-      "concurrentViewers": 17,
-      "startedAt": "2026-10-25T01:55:19Z",
       "regionRestriction": null
     },
     {
@@ -586,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/hqdefault.jpg?v=6add5927"
         }
       },
-      "concurrentViewers": 148,
+      "concurrentViewers": 86,
       "startedAt": "2026-10-25T01:27:47Z",
       "regionRestriction": null
     },
@@ -610,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/GXvEQq9XLgg/hqdefault.jpg?v=6add5d65"
         }
       },
-      "concurrentViewers": 80,
+      "concurrentViewers": 32,
       "startedAt": "2026-10-25T01:42:36Z",
       "regionRestriction": null
     },
@@ -634,14 +610,14 @@
           "url": "https://i.ytimg.com/vi/bUGSK1PkXZQ/hqdefault.jpg?v=6add6066"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 26,
       "startedAt": "2026-10-25T01:52:49Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: PM Modi Visit Varanasi Air Show | INDIA Alliance | Anant Singh | Rahul Gandhi",
+      "title": "Aaj Tak LIVE TV: PM Modi Varanasi Air Show | INDIA Alliance | Jamai Protest |Anant Singh |Hindi News",
       "description": "1 नवंबर की विपक्षी रैली पर बीजेपी का हमला जारी- सिख विरोधी दंगे की तारीख से जोड़कर कांग्रेस की घेराबंदी...कांग्रेस का नए नारे से पलटवार। लोकतंत्र की रक्षा के लिए...चलो दिल्ली\n\nफारुक अब्दुल्ला के विवादित बयान पर सुलगी सियासत- बीजेपी ने की देश से माफी की मांग- नेशनल कॉन्फ्रेंस अध्यक्ष ने इशारों मेें …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -658,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 2043,
+      "concurrentViewers": 1408,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -682,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 473,
+      "concurrentViewers": 555,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 90,
+      "concurrentViewers": 127,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 994,
+      "concurrentViewers": 1087,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
