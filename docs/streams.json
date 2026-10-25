@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T10:01:00.393Z",
+  "generatedAt": "2026-10-25T14:29:16.750Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4900,
+      "concurrentViewers": 3692,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 578,
+      "concurrentViewers": 315,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3618,
+      "concurrentViewers": 2075,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 303,
+      "concurrentViewers": 131,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 342,
+      "concurrentViewers": 640,
       "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
@@ -146,36 +146,36 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 353,
+      "concurrentViewers": 378,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "az0LsJt4wss",
+      "videoId": "d-s6VAEAkls",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump campaigns for Georgia GOP candidates, Obama campaigns for Dems in Michigan, top stories",
-      "description": "President Donald Trump holds a midterm rally Friday at Alico Arena in Fort Myers, Florida as he continues his tour of the US ahead of November 3 elections, where control of the House and Senate are up for grabs. Trump hopes to keep control in the hands of the Republican party, but Democrats could t…",
+      "title": "TOP STORIES: France protests, midterms, worldwide elections",
+      "description": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to President Emmanuel Macron. Police made nearly 1,000 arrests, the government said.\n\nPresident Donald Trump will…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/az0LsJt4wss/default.jpg?v=6adb4551"
+          "url": "https://i.ytimg.com/vi/d-s6VAEAkls/default.jpg?v=6addd7a8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/az0LsJt4wss/mqdefault.jpg?v=6adb4551"
+          "url": "https://i.ytimg.com/vi/d-s6VAEAkls/mqdefault.jpg?v=6addd7a8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/az0LsJt4wss/hqdefault.jpg?v=6adb4551"
+          "url": "https://i.ytimg.com/vi/d-s6VAEAkls/hqdefault.jpg?v=6addd7a8"
         }
       },
-      "concurrentViewers": 176,
-      "startedAt": "2026-10-23T12:56:39Z",
+      "concurrentViewers": 478,
+      "startedAt": "2026-10-25T10:21:04Z",
       "regionRestriction": null
     },
     {
-      "videoId": "N3GJ8o_qZHQ",
+      "videoId": "MXosVElBUJQ",
       "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
       "title": "NEWSMAX2 LIVE | Real News for Real People",
       "description": "Watch NEWSMAX2 LIVE for the latest news and analysis on today's top stories from your favorite NEWSMAX personalities.\n\nNEWSMAX2 WEEKDAY SCHEDULE: \n7 AM ET - First Edition\n9 AM ET - News Now\n10 AM ET - The Wendy Bell Show\n11 AM ET – National Update\nNoon ET - John Bachman Now\n2 PM ET - The National D…",
@@ -185,17 +185,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/default.jpg?v=6abba502"
+          "url": "https://i.ytimg.com/vi/MXosVElBUJQ/default.jpg?v=6added2e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/mqdefault.jpg?v=6abba502"
+          "url": "https://i.ytimg.com/vi/MXosVElBUJQ/mqdefault.jpg?v=6added2e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
+          "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 169,
-      "startedAt": "2026-09-29T11:47:19Z",
+      "concurrentViewers": 577,
+      "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1150,
+      "concurrentViewers": 1221,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 16,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7998,
+      "concurrentViewers": 7325,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 344,
+      "concurrentViewers": 349,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1239,
+      "concurrentViewers": 1097,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6044,
+      "concurrentViewers": 5508,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 185,
+      "concurrentViewers": 138,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 95,
+      "concurrentViewers": 61,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 186,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -433,41 +433,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38675"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=386ab"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38675"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=386ab"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38675"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=386ab"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 27,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ppFMWlGhMaQ",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION",
-      "description": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION\n\nA powerful magnitude 6.3 earthquake has struck the Bonin Islands region of Japan, according to the European-Mediterranean Seismological Centre (EMSC). Stay tuned to WION for the latest updates on the ea…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/default.jpg?v=6add6c2e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/mqdefault.jpg?v=6add6c2e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/hqdefault.jpg?v=6add6c2e"
-        }
-      },
-      "concurrentViewers": 182,
-      "startedAt": "2026-10-25T02:49:56Z",
       "regionRestriction": null
     },
     {
@@ -490,8 +466,32 @@
           "url": "https://i.ytimg.com/vi/qewNvjSNAkA/hqdefault.jpg?v=6add55a3"
         }
       },
-      "concurrentViewers": 142,
+      "concurrentViewers": 73,
       "startedAt": "2026-10-25T01:05:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ppFMWlGhMaQ",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION",
+      "description": "Japan Earthquake LIVE: Powerful 6.3 Magnitude Quake Strikes Japan's Bonin Islands Region | WION\n\nA powerful magnitude 6.3 earthquake has struck the Bonin Islands region of Japan, according to the European-Mediterranean Seismological Centre (EMSC). Stay tuned to WION for the latest updates on the ea…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/default.jpg?v=6add6c2e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/mqdefault.jpg?v=6add6c2e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/hqdefault.jpg?v=6add6c2e"
+        }
+      },
+      "concurrentViewers": 61,
+      "startedAt": "2026-10-25T02:49:56Z",
       "regionRestriction": null
     },
     {
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 48,
       "startedAt": "2026-10-25T02:11:26Z",
       "regionRestriction": null
     },
@@ -538,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/BWdl0QY0X-8/hqdefault.jpg?v=6add53d6"
         }
       },
-      "concurrentViewers": 74,
+      "concurrentViewers": 61,
       "startedAt": "2026-10-25T01:26:43Z",
       "regionRestriction": null
     },
@@ -562,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/hqdefault.jpg?v=6add5927"
         }
       },
-      "concurrentViewers": 86,
+      "concurrentViewers": 159,
       "startedAt": "2026-10-25T01:27:47Z",
       "regionRestriction": null
     },
@@ -586,39 +586,15 @@
           "url": "https://i.ytimg.com/vi/GXvEQq9XLgg/hqdefault.jpg?v=6add5d65"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 61,
       "startedAt": "2026-10-25T01:42:36Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "bUGSK1PkXZQ",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: INDIA Bloc Plans Mock Parliament To 'Impeach' CEC Gyanesh Kumar | SIR Row | Rahul Gandhi",
-      "description": "LIVE: INDIA Bloc Plans Mock Parliament To 'Impeach' CEC Gyanesh Kumar | SIR Row | Rahul Gandhi \n#INDIAAlliance #GyaneshKumar #CEC #rahulgandhi #bjpvscongress #jantarmantarprotest #specialintensiverevision  #ElectionCommission #SIRRow #MockParliament #Impeachment #IndianPolitics #VoterList #Congress…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bUGSK1PkXZQ/default.jpg?v=6add6066"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bUGSK1PkXZQ/mqdefault.jpg?v=6add6066"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bUGSK1PkXZQ/hqdefault.jpg?v=6add6066"
-        }
-      },
-      "concurrentViewers": 26,
-      "startedAt": "2026-10-25T01:52:49Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: PM Modi Varanasi Air Show | INDIA Alliance | Jamai Protest |Anant Singh |Hindi News",
-      "description": "1 नवंबर की विपक्षी रैली पर बीजेपी का हमला जारी- सिख विरोधी दंगे की तारीख से जोड़कर कांग्रेस की घेराबंदी...कांग्रेस का नए नारे से पलटवार। लोकतंत्र की रक्षा के लिए...चलो दिल्ली\n\nफारुक अब्दुल्ला के विवादित बयान पर सुलगी सियासत- बीजेपी ने की देश से माफी की मांग- नेशनल कॉन्फ्रेंस अध्यक्ष ने इशारों मेें …",
+      "title": "Aaj Tak LIVE TV: Kharge | PM Modi Varanasi Air Show | INDIA Alliance | Anant Singh | Hindi News",
+      "description": "भुवेनश्वर में पीएम मोदी ने रिजर्व बैंक के डाटा सेंटर का किया उद्घाटन- कहा, हमारे लिए विकास का मतलब गांवों और शहरों की उन्नति- दिन में काशी में वायु सेना के शौर्य का किया दीदार \n\nपटना में कांग्रेस अध्यक्ष खरगे का विवादित बयान, पीएम के पिता को लेकर टिप्पणी पर सियासी हंगामा- बीजेपी ने बताया हताशा \n\nरा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -634,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1408,
+      "concurrentViewers": 3324,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -658,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 555,
+      "concurrentViewers": 629,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 121,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1087,
+      "concurrentViewers": 590,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
