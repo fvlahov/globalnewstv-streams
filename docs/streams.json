@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T21:45:24.375Z",
+  "generatedAt": "2026-10-25T00:03:08.153Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2793,
+      "concurrentViewers": 2053,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 269,
+      "concurrentViewers": 155,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1831,
+      "concurrentViewers": 1462,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 35,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 548,
+      "concurrentViewers": 522,
       "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
@@ -146,14 +146,14 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 533,
+      "concurrentViewers": 463,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "az0LsJt4wss",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump campaigns for midterm elections, voter turnout surges, West Bank closure & more",
+      "title": "LIVE: Trump campaigns for Georgia GOP candidates, Obama campaigns for Dems in Michigan, top stories",
       "description": "President Donald Trump holds a midterm rally Friday at Alico Arena in Fort Myers, Florida as he continues his tour of the US ahead of November 3 elections, where control of the House and Senate are up for grabs. Trump hopes to keep control in the hands of the Republican party, but Democrats could t…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/N3GJ8o_qZHQ/hqdefault.jpg?v=6abba502"
         }
       },
-      "concurrentViewers": 557,
+      "concurrentViewers": 661,
       "startedAt": "2026-09-29T11:47:19Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 934,
+      "concurrentViewers": 854,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6087,
+      "concurrentViewers": 5285,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 286,
+      "concurrentViewers": 314,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1168,
+      "concurrentViewers": 874,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5512,
+      "concurrentViewers": 4645,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 101,
+      "concurrentViewers": 95,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 50,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/qBe59l6p_EU/hqdefault.jpg?v=6ab8e047"
         }
       },
-      "concurrentViewers": 154,
+      "concurrentViewers": 144,
       "startedAt": "2026-09-27T09:26:01Z",
       "regionRestriction": null
     },
@@ -433,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=385e2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=385fd"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=385e2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=385fd"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=385e2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=385fd"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 25,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/X-7LAkvfA5s/hqdefault.jpg?v=6a4330aa"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 31,
       "startedAt": "2026-06-30T02:58:36Z",
       "regionRestriction": null
     },
@@ -490,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/sWlj_bfwIPI/hqdefault.jpg?v=6adc0d0a"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 23,
       "startedAt": "2026-10-24T01:42:51Z",
       "regionRestriction": null
     },
@@ -514,32 +514,8 @@
           "url": "https://i.ytimg.com/vi/PYFa7NAwXUM/hqdefault.jpg?v=6adc0921"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 18,
       "startedAt": "2026-10-24T01:26:09Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "GDRPDUPXhOc",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "FRANCE Riots Today | FRANCE PROTEST LIVE: France Riots News | Emmanuel Marcon On Paris Protests",
-      "description": "FRANCE PROTESTS LIVE | PARIS PROTESTS | FRANCE UNREST 2026 | MACRON | BREAKING NEWS\n\nWatch LIVE coverage of protests and demonstrations in France as public anger over rising living costs, fuel prices, economic inequality and public services puts renewed pressure on President Emmanuel Macron and the…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/default.jpg?v=6adc98b7"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/mqdefault.jpg?v=6adc98b7"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/hqdefault.jpg?v=6adc98b7"
-        }
-      },
-      "concurrentViewers": 14,
-      "startedAt": "2026-10-24T12:11:44Z",
       "regionRestriction": null
     },
     {
@@ -562,8 +538,32 @@
           "url": "https://i.ytimg.com/vi/Dsfbsto7gvo/hqdefault.jpg?v=6adc02d8"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 16,
       "startedAt": "2026-10-24T01:38:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GDRPDUPXhOc",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "FRANCE Riots Today | FRANCE PROTEST LIVE: France Riots News | Emmanuel Marcon On Paris Protests",
+      "description": "FRANCE PROTESTS LIVE | PARIS PROTESTS | FRANCE UNREST 2026 | MACRON | BREAKING NEWS\n\nWatch LIVE coverage of protests and demonstrations in France as public anger over rising living costs, fuel prices, economic inequality and public services puts renewed pressure on President Emmanuel Macron and the…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/default.jpg?v=6adc98b7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/mqdefault.jpg?v=6adc98b7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GDRPDUPXhOc/hqdefault.jpg?v=6adc98b7"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-10-24T12:11:44Z",
       "regionRestriction": null
     },
     {
@@ -610,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/lxYoejMzLe0/hqdefault.jpg?v=6adc0502"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-24T01:30:18Z",
       "regionRestriction": null
     },
@@ -634,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/-9ciYBwlsi4/hqdefault.jpg?v=6adcdb64"
         }
       },
-      "concurrentViewers": 4,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-24T16:24:06Z",
       "regionRestriction": null
     },
@@ -658,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/8IzCPDIaxSk/hqdefault.jpg?v=6adcb689"
         }
       },
-      "concurrentViewers": 3,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-24T13:48:26Z",
       "regionRestriction": null
     },
@@ -682,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 260,
+      "concurrentViewers": 302,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -706,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 260,
+      "concurrentViewers": 709,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 83,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1996,
+      "concurrentViewers": 2126,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
