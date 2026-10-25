@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T17:47:51.731Z",
+  "generatedAt": "2026-10-25T20:29:44.661Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3616,
+      "concurrentViewers": 2595,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 392,
+      "concurrentViewers": 316,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2390,
+      "concurrentViewers": 1811,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "pFcApVUXmKM",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Weekend | Sunday 25th October",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pFcApVUXmKM/default.jpg?v=6addf73f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pFcApVUXmKM/mqdefault.jpg?v=6addf73f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pFcApVUXmKM/hqdefault.jpg?v=6addf73f"
-        }
-      },
-      "concurrentViewers": 552,
-      "startedAt": "2026-10-25T12:57:40Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 99,
+      "concurrentViewers": 35,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
         }
       },
-      "concurrentViewers": 708,
+      "concurrentViewers": 538,
       "startedAt": "2026-10-23T21:59:32Z",
       "regionRestriction": null
     },
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/YIO_WT0wsz8/hqdefault.jpg?v=6acd2bdf"
         }
       },
-      "concurrentViewers": 906,
+      "concurrentViewers": 549,
       "startedAt": "2026-10-25T11:58:06Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 347,
+      "concurrentViewers": 275,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/d-s6VAEAkls/hqdefault.jpg?v=6addd7a8"
         }
       },
-      "concurrentViewers": 439,
+      "concurrentViewers": 477,
       "startedAt": "2026-10-25T10:21:04Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 711,
+      "concurrentViewers": 608,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1025,
+      "concurrentViewers": 914,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 19,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8404,
+      "concurrentViewers": 6185,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 424,
+      "concurrentViewers": 332,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1350,
+      "concurrentViewers": 1167,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6755,
+      "concurrentViewers": 4412,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 152,
+      "concurrentViewers": 104,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 67,
+      "concurrentViewers": 71,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 171,
+      "concurrentViewers": 131,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -481,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=386d3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=386f3"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=386d3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=386f3"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=386d3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=386f3"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 27,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -514,32 +490,8 @@
           "url": "https://i.ytimg.com/vi/qewNvjSNAkA/hqdefault.jpg?v=6add55a3"
         }
       },
-      "concurrentViewers": 60,
+      "concurrentViewers": 38,
       "startedAt": "2026-10-25T01:05:11Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "IFB5f0i1g8E",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION",
-      "description": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION\n\nSaudi Arabia vs Houthis LIVE: Sanaa has come under fire following reported Saudi strikes on Yemen, raising tensions across the region. The latest developments from Yemen come amid the ongoing Saudi-Houthi c…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/default.jpg?v=6add609f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/mqdefault.jpg?v=6add609f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
-        }
-      },
-      "concurrentViewers": 47,
-      "startedAt": "2026-10-25T02:11:26Z",
       "regionRestriction": null
     },
     {
@@ -562,8 +514,32 @@
           "url": "https://i.ytimg.com/vi/ppFMWlGhMaQ/hqdefault.jpg?v=6add6c2e"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-25T02:49:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "IFB5f0i1g8E",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION",
+      "description": "Saudi Arabia vs Houthis LIVE: Deadly Blasts Shake Sanaa as Saudi Strikes Pound Yemen | WION\n\nSaudi Arabia vs Houthis LIVE: Sanaa has come under fire following reported Saudi strikes on Yemen, raising tensions across the region. The latest developments from Yemen come amid the ongoing Saudi-Houthi c…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/default.jpg?v=6add609f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/mqdefault.jpg?v=6add609f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IFB5f0i1g8E/hqdefault.jpg?v=6add609f"
+        }
+      },
+      "concurrentViewers": 19,
+      "startedAt": "2026-10-25T02:11:26Z",
       "regionRestriction": null
     },
     {
@@ -586,32 +562,8 @@
           "url": "https://i.ytimg.com/vi/BWdl0QY0X-8/hqdefault.jpg?v=6add53d6"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 21,
       "startedAt": "2026-10-25T01:26:43Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Rs8QG3ERu-U",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "PM Modi LIVE | PM Modi Roadshow In Bhubaneswar | Bhubaneswar | Odisha",
-      "description": "PM Modi LIVE | PM Modi Roadshow In Bhubaneswar | Bhubaneswar | Odisha\n\n#pmmodi #pmmodiroadshow #bhubaneswar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/default.jpg?v=6ade1dac"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/mqdefault.jpg?v=6ade1dac"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/hqdefault.jpg?v=6ade1dac"
-        }
-      },
-      "concurrentViewers": 10,
-      "startedAt": "2026-10-25T15:26:05Z",
       "regionRestriction": null
     },
     {
@@ -634,8 +586,32 @@
           "url": "https://i.ytimg.com/vi/QDWoPCHnUy0/hqdefault.jpg?v=6addf872"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 3,
       "startedAt": "2026-10-25T12:43:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Rs8QG3ERu-U",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "PM Modi LIVE | PM Modi Roadshow In Bhubaneswar | Bhubaneswar | Odisha",
+      "description": "PM Modi LIVE | PM Modi Roadshow In Bhubaneswar | Bhubaneswar | Odisha\n\n#pmmodi #pmmodiroadshow #bhubaneswar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/default.jpg?v=6ade1dac"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/mqdefault.jpg?v=6ade1dac"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rs8QG3ERu-U/hqdefault.jpg?v=6ade1dac"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-10-25T15:26:05Z",
       "regionRestriction": null
     },
     {
@@ -658,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/eTXco3hnwbI/hqdefault.jpg?v=6ade12b9"
         }
       },
-      "concurrentViewers": 137,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-25T15:02:33Z",
       "regionRestriction": null
     },
@@ -682,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/q2vIzArsv4s/hqdefault.jpg?v=6ade31ba"
         }
       },
-      "concurrentViewers": 125,
+      "concurrentViewers": 28,
       "startedAt": "2026-10-25T16:54:08Z",
       "regionRestriction": null
     },
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/hqdefault.jpg?v=6add5927"
         }
       },
-      "concurrentViewers": 94,
+      "concurrentViewers": 19,
       "startedAt": "2026-10-25T01:27:47Z",
       "regionRestriction": null
     },
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/o74bzTmDLns/hqdefault.jpg?v=6ade138f"
         }
       },
-      "concurrentViewers": 2799,
+      "concurrentViewers": 961,
       "startedAt": "2026-10-25T15:23:21Z",
       "regionRestriction": null
     },
@@ -738,7 +714,7 @@
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
       "title": "Aaj Tak LIVE TV: Kharge | PM Modi | INDIA Alliance | Anant Singh | Rahul Gandhi | SIR | Hindi News",
-      "description": "भुवेनश्वर में पीएम मोदी ने रिजर्व बैंक के डाटा सेंटर का किया उद्घाटन- कहा, हमारे लिए विकास का मतलब गांवों और शहरों की उन्नति- दिन में काशी में वायु सेना के शौर्य का किया दीदार \n\nपटना में कांग्रेस अध्यक्ष खरगे का विवादित बयान, पीएम के पिता को लेकर टिप्पणी पर सियासी हंगामा- बीजेपी ने बताया हताशा \n\nरा…",
+      "description": "खरगे के विवादित बोल पर बिफरी बजेपी, कल देशव्यापी विरोध प्रदर्शन की तैयारी- नीतिन नबीन और शाह समेत एक सुर से हमला-मुख्यमंत्रियों ने भी संभाली कमान-माफी मांगने का फरमान.\n\nपटना में एक सभा के दौरान बोल कर फंस गए कांग्रेस अध्यक्ष, प्रधानमंत्री के पिता का जिक्र कर दिया अभद्र बयान- बचाव में बोले पार्टी प्…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -754,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1612,
+      "concurrentViewers": 355,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -778,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/8EjxaPj5Gpk/hqdefault.jpg?v=6ade3ad2"
         }
       },
-      "concurrentViewers": 706,
+      "concurrentViewers": 115,
       "startedAt": "2026-10-25T16:30:53Z",
       "regionRestriction": null
     },
@@ -802,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 269,
+      "concurrentViewers": 248,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -826,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 160,
+      "concurrentViewers": 86,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -850,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 527,
+      "concurrentViewers": 2577,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
