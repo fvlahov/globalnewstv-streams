@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T06:45:07.989Z",
+  "generatedAt": "2026-10-26T13:58:06.257Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Ukraine war: Kyiv 'clarifies details' with Moscow - as Melania Trump credited with Oleshky ceasefire - https://trib.al/Eq7e8p1\n\n🔴 EXPLAINER | What is in the Be Re…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Politics latest: Burnham rules out re-joining EU 'this parliament' - but would 'like' to see return in his lifetime - https://news.sky.com/story/politics-latest-water-com…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,56 +22,8 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4440,
+      "concurrentViewers": 5854,
       "startedAt": "2026-10-19T17:27:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "LRNhQWN2KmE",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Lula beats Flavio Bolsonaro in Brazil's presidential election | Mornings with Frost",
-      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LRNhQWN2KmE/default.jpg?v=6adef4ee"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LRNhQWN2KmE/mqdefault.jpg?v=6adef4ee"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LRNhQWN2KmE/hqdefault.jpg?v=6adef4ee"
-        }
-      },
-      "concurrentViewers": 299,
-      "startedAt": "2026-10-26T06:02:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "rYUTGW8DV78",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Lula re-elected president in Brazil - as Flavio Bolsonaro calls for result to be annulled",
-      "description": "Luiz Inácio Lula da Silva has been re-elected president of Brazil, the electoral authority has said, in a result that defied poll predictions - but his opponent has refused to accept the result.\n\nIt comes after an incredibly tight election race between the leftist incumbent, known widely as Lula, a…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rYUTGW8DV78/default.jpg?v=6adef285"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rYUTGW8DV78/mqdefault.jpg?v=6adef285"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rYUTGW8DV78/hqdefault.jpg?v=6adef285"
-        }
-      },
-      "concurrentViewers": 81,
-      "startedAt": "2026-10-26T06:27:21Z",
       "regionRestriction": null
     },
     {
@@ -94,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 344,
+      "concurrentViewers": 475,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -122,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2928,
+      "concurrentViewers": 2268,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7l2LzXajqcI",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Breakfast with Alex and Ellie | Monday 26th October",
-      "description": "Join Alex Armstrong and Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: …",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7l2LzXajqcI/default.jpg?v=6adeebeb"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7l2LzXajqcI/mqdefault.jpg?v=6adeebeb"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7l2LzXajqcI/hqdefault.jpg?v=6adeebeb"
-        }
-      },
-      "concurrentViewers": 1379,
-      "startedAt": "2026-10-26T05:58:36Z",
       "regionRestriction": null
     },
     {
@@ -170,14 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 316,
+      "concurrentViewers": 330,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "aF9neWULq64",
+      "videoId": "8XMyQlUX8Ks",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 26",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -185,17 +113,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aF9neWULq64/default.jpg?v=6adbd82d"
+          "url": "https://i.ytimg.com/vi/8XMyQlUX8Ks/default.jpg?v=6adf32f1"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aF9neWULq64/mqdefault.jpg?v=6adbd82d"
+          "url": "https://i.ytimg.com/vi/8XMyQlUX8Ks/mqdefault.jpg?v=6adf32f1"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg?v=6adbd82d"
+          "url": "https://i.ytimg.com/vi/8XMyQlUX8Ks/hqdefault.jpg?v=6adf32f1"
         }
       },
-      "concurrentViewers": 353,
-      "startedAt": "2026-10-23T21:59:32Z",
+      "concurrentViewers": 5662,
+      "startedAt": "2026-10-26T11:02:24Z",
       "regionRestriction": null
     },
     {
@@ -218,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 547,
+      "concurrentViewers": 574,
       "startedAt": "2026-10-24T03:13:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "B9UgmA3_olU",
+      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
+      "channelTitle": "CBS News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B9UgmA3_olU/default.jpg?v=6adf3f6c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B9UgmA3_olU/mqdefault.jpg?v=6adf3f6c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B9UgmA3_olU/hqdefault.jpg?v=6adf3f6c"
+        }
+      },
+      "concurrentViewers": 980,
+      "startedAt": "2026-10-26T11:55:29Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/d-s6VAEAkls/hqdefault.jpg?v=6addd7a8"
         }
       },
-      "concurrentViewers": 202,
+      "concurrentViewers": 496,
       "startedAt": "2026-10-25T10:21:04Z",
       "regionRestriction": null
     },
@@ -266,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 118,
+      "concurrentViewers": 1170,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 3735,
+      "concurrentViewers": 10739,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -314,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 24,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -338,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7838,
+      "concurrentViewers": 9418,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -366,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 348,
+      "concurrentViewers": 389,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -390,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1555,
+      "concurrentViewers": 1406,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -414,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7974,
+      "concurrentViewers": 6982,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -438,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 250,
+      "concurrentViewers": 195,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -466,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 90,
+      "concurrentViewers": 109,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -490,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 183,
+      "concurrentViewers": 177,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -505,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3876e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=387c6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3876e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=387c6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3876e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=387c6"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 34,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -538,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/43hBNfeu54s/hqdefault.jpg?v=6adeb05d"
         }
       },
-      "concurrentViewers": 211,
+      "concurrentViewers": 91,
       "startedAt": "2026-10-26T01:53:39Z",
       "regionRestriction": null
     },
@@ -562,32 +514,8 @@
           "url": "https://i.ytimg.com/vi/SAeVpgL4XN0/hqdefault.jpg?v=6adea53c"
         }
       },
-      "concurrentViewers": 91,
+      "concurrentViewers": 59,
       "startedAt": "2026-10-26T00:58:53Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "8h1PhWz9_fA",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Arabia Under Attack LIVE : CCTV Footage Shows Houthis BOMBED Riyadh Airport | WION",
-      "description": "Saudi Arabia Under Attack LIVE : CCTV Footage Shows Houthis BOMBED Riyadh Airport | WION  \n\n\nCCTV footage purportedly shows the moment Houthi attacks targeted Saudi airports. The footage offers a glimpse into the reported strikes as tensions in the region continue to escalate. The attacks have rene…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8h1PhWz9_fA/default.jpg?v=6adebae1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8h1PhWz9_fA/mqdefault.jpg?v=6adebae1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8h1PhWz9_fA/hqdefault.jpg?v=6adebae1"
-        }
-      },
-      "concurrentViewers": 75,
-      "startedAt": "2026-10-26T03:05:55Z",
       "regionRestriction": null
     },
     {
@@ -610,80 +538,8 @@
           "url": "https://i.ytimg.com/vi/pZ-XOAydV-Q/hqdefault.jpg?v=6adee2c8"
         }
       },
-      "concurrentViewers": 166,
+      "concurrentViewers": 44,
       "startedAt": "2026-10-26T05:22:44Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "JjRvjLyCdUc",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "BJP Protests LIVE | BJP Protests Against Mallikarjun Kharge's 'Baap' Remark | PM Modi | Congress",
-      "description": "Congress chief Mallikarjun Kharge's remark involving Prime Minister Narendra Modi's father has sparked a fierce BJP-Congress confrontation, with the BJP accusing the opposition of crossing the line. As the row intensifies, the debate shifts to a larger question: are personal attacks replacing polit…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JjRvjLyCdUc/default.jpg?v=6adee99e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JjRvjLyCdUc/mqdefault.jpg?v=6adee99e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JjRvjLyCdUc/hqdefault.jpg?v=6adee99e"
-        }
-      },
-      "concurrentViewers": 54,
-      "startedAt": "2026-10-26T06:02:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "P3v-OeEfKaY",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi News | Rahul Gandhi Found Not Guilty In 2018 Defamation Case | Amit Shah | Congress",
-      "description": "Breaking News LIVE | Rahul Gandhi Found Not Guilty In 2018 Defamation Case | Amit Shah | Congress\n\n#Rahulgandhi #DefamationCase #Congress #CourtVerdict #IndianPolitics\n\n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entert…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/P3v-OeEfKaY/default.jpg?v=6adef0b9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/P3v-OeEfKaY/mqdefault.jpg?v=6adef0b9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/P3v-OeEfKaY/hqdefault.jpg?v=6adef0b9"
-        }
-      },
-      "concurrentViewers": 48,
-      "startedAt": "2026-10-26T06:35:43Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cF_0QvgmFyo",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rahul Gandhi's Convoy Accident LIVE: Rahul's Convoy Meets With An Accident On Purvanchal Expressway",
-      "description": "A multi-vehicle collision involving cars and an ambulance travelling behind Congress leader Rahul Gandhi's convoy occurred on the Purvanchal Expressway in Uttar Pradesh's Sultanpur district. Rahul Gandhi remained unhurt, while several people, including party workers and security personnel, were rep…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cF_0QvgmFyo/default.jpg?v=6adeecb5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cF_0QvgmFyo/mqdefault.jpg?v=6adeecb5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cF_0QvgmFyo/hqdefault.jpg?v=6adeecb5"
-        }
-      },
-      "concurrentViewers": 133,
-      "startedAt": "2026-10-26T06:06:46Z",
       "regionRestriction": null
     },
     {
@@ -706,32 +562,8 @@
           "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/hqdefault.jpg?v=6add5927"
         }
       },
-      "concurrentViewers": 129,
+      "concurrentViewers": 153,
       "startedAt": "2026-10-25T01:27:47Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "n-RluSYaCV8",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Rahul Gandhi acquitted by UP court in 2018 Amit Shah defamation case | BJP Vs Congress",
-      "description": "The special MP/MLA court in Uttar Pradesh’s Sultanpur on Monday acquitted Congress leader Rahul Gandhi in a 2018 criminal defamation case over remarks against Union Home Minister Amit Shah.\n\n#rahulgandhi #amitshah #sultanpurcourt #defamationcase #congress #bjp #bjpvscongress #courtverdict #breaking…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/n-RluSYaCV8/default.jpg?v=6adef12e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/n-RluSYaCV8/mqdefault.jpg?v=6adef12e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/n-RluSYaCV8/hqdefault.jpg?v=6adef12e"
-        }
-      },
-      "concurrentViewers": 123,
-      "startedAt": "2026-10-26T06:21:36Z",
       "regionRestriction": null
     },
     {
@@ -754,56 +586,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1242,
+      "concurrentViewers": 6271,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_TXrxuuHmoU",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul Gandhi Defamation Case LIVE Updates: मानहानि केस में बरी हुए राहुल गांधी | Sultanpur | AajTak",
-      "description": "राहुल गांधी के खिलाफ 2018 में अमित शाह के खिलाफ की गई टिप्पणी के कारण मानहानि का मामला दर्ज हुआ था. इस मामले में कई गवाहों की गवाही और कानूनी प्रक्रियाएं पूरी हो चुकी हैं. 26 अक्टूबर 2026 को सुल्तानपुर की विशेष MP-MLA अदालत इस मामले में राहुल गांधी को बरी कर दिया है\n\n#rahulgandhi #amitshah #sultanp…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_TXrxuuHmoU/default.jpg?v=6adeeeef"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_TXrxuuHmoU/mqdefault.jpg?v=6adeeeef"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_TXrxuuHmoU/hqdefault.jpg?v=6adeeeef"
-        }
-      },
-      "concurrentViewers": 1150,
-      "startedAt": "2026-10-26T06:00:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "I7lscFJ2qUM",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul Gandhi Defamation Case Updates: राहुल गांधी मानहानि केस में बड़ा फैसला | Amit Shah | AajTak",
-      "description": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी को मानहानि मामले में सुल्तानपुर अदालत ने बरी कर दिया है. यह मामला साल 2018 में तत्कालीन बीजेपी अध्यक्ष अमित शाह के खिलाफ की गई आपत्तिजनक टिप्पणी से जुड़ा है\n\n\n#rahulgandhi #amitshah #sultanpur #defamationcase #aajtakdigital \n\n\nआजतक के साथ देखिये देश-विदेश की सभ…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/I7lscFJ2qUM/default.jpg?v=6aded40c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/I7lscFJ2qUM/mqdefault.jpg?v=6aded40c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/I7lscFJ2qUM/hqdefault.jpg?v=6aded40c"
-        }
-      },
-      "concurrentViewers": 783,
-      "startedAt": "2026-10-26T06:09:03Z",
       "regionRestriction": null
     },
     {
@@ -826,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1029,
+      "concurrentViewers": 679,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -850,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 126,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -874,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1630,
+      "concurrentViewers": 698,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
