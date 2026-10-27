@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T23:37:06.227Z",
+  "generatedAt": "2026-10-27T04:04:51.780Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2477,
+      "concurrentViewers": 2469,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 222,
+      "concurrentViewers": 129,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1470,
+      "concurrentViewers": 1216,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,14 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 34,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "_UHQ3Dhwnlw",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 26",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -122,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/_UHQ3Dhwnlw/hqdefault.jpg?v=6adf9dd3"
         }
       },
-      "concurrentViewers": 2580,
+      "concurrentViewers": 796,
       "startedAt": "2026-10-26T21:58:42Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Ykd1rMAf6XI",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Monday, October 26",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ykd1rMAf6XI/default.jpg?v=6ad94be1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ykd1rMAf6XI/mqdefault.jpg?v=6ad94be1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ykd1rMAf6XI/hqdefault.jpg?v=6ad94be1"
-        }
-      },
-      "concurrentViewers": 1039,
-      "startedAt": "2026-10-26T10:01:57Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 472,
+      "concurrentViewers": 510,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/Bt-ZIVzUBtM/hqdefault.jpg?v=6adfbe6b"
         }
       },
-      "concurrentViewers": 489,
+      "concurrentViewers": 307,
       "startedAt": "2026-10-26T22:59:55Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/d-s6VAEAkls/hqdefault.jpg?v=6addd7a8"
         }
       },
-      "concurrentViewers": 355,
+      "concurrentViewers": 191,
       "startedAt": "2026-10-25T10:21:04Z",
       "regionRestriction": null
     },
@@ -242,32 +218,8 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1003,
+      "concurrentViewers": 316,
       "startedAt": "2026-10-25T11:51:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "B82nPNMg_A0",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Trump speaks at a rally for Cindy Hyde-Smith in Mississippi",
-      "description": "Watch live as President Donald Trump holds a rally for Sen. Cindy Hyde-Smith at the Crossroads Arena in Corinth, Mississippi, ahead of the Nov. 3 midterm elections.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/B82nPNMg_A0/default.jpg?v=6adfb649"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/B82nPNMg_A0/mqdefault.jpg?v=6adfb649"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/B82nPNMg_A0/hqdefault.jpg?v=6adfb649"
-        }
-      },
-      "concurrentViewers": 916,
-      "startedAt": "2026-10-26T22:55:06Z",
       "regionRestriction": null
     },
     {
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1548,
+      "concurrentViewers": 1849,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -314,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 34,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -338,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5482,
+      "concurrentViewers": 6142,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -366,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 295,
+      "concurrentViewers": 342,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -390,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 988,
+      "concurrentViewers": 998,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -414,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6090,
+      "concurrentViewers": 3599,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -438,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 105,
+      "concurrentViewers": 137,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -466,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 40,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -490,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 146,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -505,41 +457,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3883b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38870"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3883b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38870"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3883b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38870"
         }
       },
-      "concurrentViewers": 22,
+      "concurrentViewers": 25,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "SAeVpgL4XN0",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
-      "description": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots\n\n\nSaudi Arabia is struggling to stop Houthi missile and drone attacks despite having advanced American-made Patriot and THAAD systems due to a severe shortage of missile interceptors, changing U.S. invol…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SAeVpgL4XN0/default.jpg?v=6adea53c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SAeVpgL4XN0/mqdefault.jpg?v=6adea53c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SAeVpgL4XN0/hqdefault.jpg?v=6adea53c"
-        }
-      },
-      "concurrentViewers": 50,
-      "startedAt": "2026-10-26T00:58:53Z",
       "regionRestriction": null
     },
     {
@@ -562,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/43hBNfeu54s/hqdefault.jpg?v=6adeb05d"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-26T01:53:39Z",
       "regionRestriction": null
     },
@@ -586,111 +514,87 @@
           "url": "https://i.ytimg.com/vi/fJWLcJC6jV0/hqdefault.jpg?v=6adf7caf"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 12,
       "startedAt": "2026-10-26T16:03:52Z",
       "regionRestriction": null
     },
     {
-      "videoId": "pZ-XOAydV-Q",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Breaking News LIVE | Rahul Gandhi's Convoy Meets With Accident, Several Injured | Congress",
-      "description": "Breaking News LIVE | Rahul Gandhi's Convoy Meets With Accident, Several Injured | Congress\n\n#rahulgandhi #congress #rahulgandhi \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India …",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pZ-XOAydV-Q/default.jpg?v=6adee2c8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pZ-XOAydV-Q/mqdefault.jpg?v=6adee2c8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pZ-XOAydV-Q/hqdefault.jpg?v=6adee2c8"
-        }
-      },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-26T05:22:44Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "1392bgIeDIQ",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Congress Dilli Chalo March | Dilli Chalo March | Congess News LIVE | Rahul Gandhi LIVE | INC",
-      "description": "Congress Dilli Chalo March | Dilli Chalo March | Congess News LIVE | Rahul Gandhi LIVE | INC \n\n\n#RahulGandhi #Congress #INC #DilliChaloMarch \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more fro…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1392bgIeDIQ/default.jpg?v=6adf5613"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1392bgIeDIQ/mqdefault.jpg?v=6adf5613"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1392bgIeDIQ/hqdefault.jpg?v=6adf5613"
-        }
-      },
-      "concurrentViewers": 1,
-      "startedAt": "2026-10-26T13:38:10Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "2_Wyed8n8Qo",
+      "videoId": "l1Kap6eW9RU",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Guwahati Shooting, 4 Dead | Israel Election | PM Modi | Rahul Gandhi | Congress",
-      "description": "India Today TV LIVE: Guwahati Shooting, 4 Dead | Israel Election | PM Modi | Rahul Gandhi | Congress\n\nAt least four people were killed and several others, including women, were injured in a shooting in Assam’s Guwahati on Monday. The firing was reported near a Kalyan Jewellers outlet in the city’s …",
+      "title": "India Today TV LIVE: Israel Elections | Microsoft Buyouts | Cyclone Arnab | Rahul Gandhi | PM Modi",
+      "description": "India Today TV LIVE: Israel Elections | Microsoft Buyouts | Cyclone Arnab | Rahul Gandhi | PM Modi\n\nMicrosoft is offering voluntary buyouts to about 60,000 eligible employees across major divisions. The move seeks to contain workforce costs while the company invests heavily in AI infrastructure.\n\nI…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/default.jpg?v=6add5927"
+          "url": "https://i.ytimg.com/vi/l1Kap6eW9RU/default.jpg?v=6adffffe"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/mqdefault.jpg?v=6add5927"
+          "url": "https://i.ytimg.com/vi/l1Kap6eW9RU/mqdefault.jpg?v=6adffffe"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2_Wyed8n8Qo/hqdefault.jpg?v=6add5927"
+          "url": "https://i.ytimg.com/vi/l1Kap6eW9RU/hqdefault.jpg?v=6adffffe"
         }
       },
-      "concurrentViewers": 22,
-      "startedAt": "2026-10-25T01:27:47Z",
+      "concurrentViewers": 451,
+      "startedAt": "2026-10-27T01:39:24Z",
       "regionRestriction": null
     },
     {
-      "videoId": "M4bq4dqtejg",
+      "videoId": "ND3GLK4t4vo",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Live: Brazil To Israel To Washington-- Ballots Abroad, Big Stakes For India! Newstrack",
-      "description": "Live: Brazil To Israel To Washington-- Ballots Abroad, Big Stakes For India? Newstrack\n\nFrom Brazil and Israel to Washington, political shifts and elections across the world could have implications for India’s diplomacy, strategic partnerships and global interests. What do these developments mean f…",
+      "title": "Israel Election 2026 LIVE Voting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its Next PM?",
+      "description": "Israel Election 2026 LIVE Voting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its Next PM?\n\nIsrael is heading into a pivotal national election on Tuesday, October 27, 2026, with Prime Minister Benjamin Netanyahu facing a challenge from former Israel Defense Forces chief Gadi Eisenkot and …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/M4bq4dqtejg/default.jpg?v=6adf8113"
+          "url": "https://i.ytimg.com/vi/ND3GLK4t4vo/default.jpg?v=6ae00719"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/M4bq4dqtejg/mqdefault.jpg?v=6adf8113"
+          "url": "https://i.ytimg.com/vi/ND3GLK4t4vo/mqdefault.jpg?v=6ae00719"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/M4bq4dqtejg/hqdefault.jpg?v=6adf8113"
+          "url": "https://i.ytimg.com/vi/ND3GLK4t4vo/hqdefault.jpg?v=6ae00719"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-10-26T16:37:40Z",
+      "concurrentViewers": 119,
+      "startedAt": "2026-10-27T02:07:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ZxAihGiJ9GQ",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today TV LIVE: Political & Global News |Israel Elections |France Protest |Iran War | News Live",
+      "description": "Microsoft is offering voluntary buyouts to about 60,000 eligible employees across major divisions. The move seeks to contain workforce costs while the company invests heavily in AI infrastructure.\n\nIsraeli Prime Minister Benjamin Netanyahu touted US President Donald Trump's endorsement ahead of Tue…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZxAihGiJ9GQ/default.jpg?v=6ae000fa"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZxAihGiJ9GQ/mqdefault.jpg?v=6ae000fa"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZxAihGiJ9GQ/hqdefault.jpg?v=6ae000fa"
+        }
+      },
+      "concurrentViewers": 77,
+      "startedAt": "2026-10-27T01:47:39Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Guwahati firing | Rahul Gandhi Defamation Case | BJP Protest | Kharge | PM Modi |",
-      "description": "PM मोदी पर अभद्र टिप्पणी को लेकर चौतरफा घिरे खरगे,पटना-दिल्ली से लेकर देशभर में सड़क पर उतरी बीजेपी,फूंका पुतला, सोशल मीडिया पर अभियान-मोदी कहीं नहीं जाएगा.\n\n1 नवंबर की रैली को लेकर दिल्ली के कारोबारियों के सामने राहुल ने रखी बड़ी शर्त,कहा-मुख्य चुनाव आयुक्त को हटाएं मोदी, तुरंत थम जाएगा प्रदर्शन, …",
+      "title": "Aaj Tak LIVE TV: MLC Election Result | SIR | INDIA Alliance | Israel Election | Guwahati Firing",
+      "description": "चार राज्यों में 28 MLC सीटों पर फैसले का दिन, सभी जगहों पर मतगणना, यूपी चुनाव से पहले बीजेपी और समाजवादी पार्टी के लिए परीक्षा की घड़ी..बिहार में भी बागी अनंत सिंह के असर का इम्तिहान\n\nSIR और CEC के खिलाफ दायर कई याचिकाओं पर आज सुप्रीम कोर्ट में अहम सुनवाई, कामकाज पर उठे सवाल के बीच चुनाव आयोग का हल…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -706,32 +610,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 278,
+      "concurrentViewers": 5098,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "6HGKnWm0bq0",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Israel Election 2026 News Live: | नेतन्याहू का क्या होगा? | Benjamin Netanyahu | Donald Trump",
-      "description": "इजरायल टाइम्स ने चैनल 12 के हवाले से बताया कि ईरान के खिलाफ संभावित सैन्य कार्रवाई पर नेतन्याहू और आईडीएफ प्रमुख इयाल जमीर के बीच तनाव बढ़ा है. चुनाव से ठीक पहले सामने आए इस विवाद ने कानूनी मंजूरी, गलत आकलन और सुरक्षा के राजनीतिक इस्तेमाल पर सवाल खड़े किए हैं. \n\n#israelelection #benjaminnetanyahu #…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6HGKnWm0bq0/default.jpg?v=6adf2cc7"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6HGKnWm0bq0/mqdefault.jpg?v=6adf2cc7"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6HGKnWm0bq0/hqdefault.jpg?v=6adf2cc7"
-        }
-      },
-      "concurrentViewers": 50,
-      "startedAt": "2026-10-26T10:42:07Z",
       "regionRestriction": null
     },
     {
@@ -754,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1615,
+      "concurrentViewers": 1445,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 94,
+      "concurrentViewers": 134,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -802,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2816,
+      "concurrentViewers": 1434,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
