@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T20:28:32.815Z",
+  "generatedAt": "2026-10-27T23:56:39.418Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4177,
+      "concurrentViewers": 2779,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 478,
+      "concurrentViewers": 232,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2372,
+      "concurrentViewers": 1768,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ensEJCOmqyU",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Patrick Christys Tonight Late Edition | Tuesday 27th October",
+      "description": "Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsO…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ensEJCOmqyU/default.jpg?v=6ae0fa8a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ensEJCOmqyU/mqdefault.jpg?v=6ae0fa8a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ensEJCOmqyU/hqdefault.jpg?v=6ae0fa8a"
+        }
+      },
+      "concurrentViewers": 515,
+      "startedAt": "2026-10-27T23:00:29Z",
       "regionRestriction": null
     },
     {
@@ -98,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 67,
+      "concurrentViewers": 52,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "t0-d_p9chDg",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Eisenkot supporters react to initial Israeli election results",
-      "description": "Supporters of former military chief Gadi Eisenkot, Israeli Prime Minister Benjamin Netanyahu's main opponent, gather to watch the initial results of a pivotal election, the first since the October 7, 2023, Hamas-led attacks.\n \n#israel #eisenkot #vote #election #yasharparty #politics\n\nKeep up with t…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/t0-d_p9chDg/default.jpg?v=6ae10547"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/t0-d_p9chDg/mqdefault.jpg?v=6ae10547"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/t0-d_p9chDg/hqdefault.jpg?v=6ae10547"
-        }
-      },
-      "concurrentViewers": 253,
-      "startedAt": "2026-10-27T20:02:40Z",
       "regionRestriction": null
     },
     {
@@ -146,36 +146,12 @@
           "url": "https://i.ytimg.com/vi/UiR2-qLasyA/hqdefault.jpg?v=6ae1055a"
         }
       },
-      "concurrentViewers": 48,
+      "concurrentViewers": 71,
       "startedAt": "2026-10-27T20:01:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "boIn7X5hskw",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Trump holds campaign rally in Texas",
-      "description": "President Trump is set to use a campaign swing through Texas to announce a plan to ease methane rules for oil and gas producers, aiming to show voters he is working to ‌bring down gas prices a week before the midterm elections.\n \n#texas #trump #midterms #election #vote #politics #usa\n\nKeep up with …",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/boIn7X5hskw/default.jpg?v=6ae10269"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/boIn7X5hskw/mqdefault.jpg?v=6ae10269"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/boIn7X5hskw/hqdefault.jpg?v=6ae10269"
-        }
-      },
-      "concurrentViewers": 28,
-      "startedAt": "2026-10-27T19:39:44Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "wvY8yOPyNVI",
+      "videoId": "VJ_CpdLJkJo",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 27",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -185,17 +161,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wvY8yOPyNVI/default.jpg?v=6adfce5f"
+          "url": "https://i.ytimg.com/vi/VJ_CpdLJkJo/default.jpg?v=6ae0d596"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wvY8yOPyNVI/mqdefault.jpg?v=6adfce5f"
+          "url": "https://i.ytimg.com/vi/VJ_CpdLJkJo/mqdefault.jpg?v=6ae0d596"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wvY8yOPyNVI/hqdefault.jpg?v=6adfce5f"
+          "url": "https://i.ytimg.com/vi/VJ_CpdLJkJo/hqdefault.jpg?v=6ae0d596"
         }
       },
-      "concurrentViewers": 2743,
-      "startedAt": "2026-10-27T10:06:51Z",
+      "concurrentViewers": 1769,
+      "startedAt": "2026-10-27T21:58:40Z",
       "regionRestriction": null
     },
     {
@@ -218,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 514,
+      "concurrentViewers": 478,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ZwPOtUEfhz8",
+      "videoId": "KJeQk_wFj7o",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -233,17 +209,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ZwPOtUEfhz8/default.jpg?v=6ae08305"
+          "url": "https://i.ytimg.com/vi/KJeQk_wFj7o/default.jpg?v=6ae11f1e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ZwPOtUEfhz8/mqdefault.jpg?v=6ae08305"
+          "url": "https://i.ytimg.com/vi/KJeQk_wFj7o/mqdefault.jpg?v=6ae11f1e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ZwPOtUEfhz8/hqdefault.jpg?v=6ae08305"
+          "url": "https://i.ytimg.com/vi/KJeQk_wFj7o/hqdefault.jpg?v=6ae11f1e"
         }
       },
-      "concurrentViewers": 605,
-      "startedAt": "2026-10-27T10:59:28Z",
+      "concurrentViewers": 245,
+      "startedAt": "2026-10-27T22:59:43Z",
       "regionRestriction": null
     },
     {
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/fUZtO2a7O4w/hqdefault.jpg?v=6ae0b864"
         }
       },
-      "concurrentViewers": 759,
+      "concurrentViewers": 525,
       "startedAt": "2026-10-27T14:42:58Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1417,
+      "concurrentViewers": 1243,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 4459,
+      "concurrentViewers": 1465,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 28,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 12938,
+      "concurrentViewers": 9672,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 428,
+      "concurrentViewers": 448,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1801,
+      "concurrentViewers": 999,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 9781,
+      "concurrentViewers": 5981,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 149,
+      "concurrentViewers": 132,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 102,
+      "concurrentViewers": 58,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 252,
+      "concurrentViewers": 172,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -529,16 +505,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38934"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3895e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38934"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3895e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38934"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3895e"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 24,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -562,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/XLXlGhOQgy8/hqdefault.jpg?v=6ae057b9"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 39,
       "startedAt": "2026-10-27T08:44:29Z",
       "regionRestriction": null
     },
@@ -586,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/NSlbMj7u7pI/hqdefault.jpg?v=6ae04f3d"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-27T08:06:14Z",
       "regionRestriction": null
     },
@@ -610,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/lqhJpRaCRoQ/hqdefault.jpg?v=6ae0697d"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 27,
       "startedAt": "2026-10-27T09:08:08Z",
       "regionRestriction": null
     },
@@ -634,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/BWQpQtZ4Qog/hqdefault.jpg?v=6ae0e842"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 67,
       "startedAt": "2026-10-27T18:13:32Z",
       "regionRestriction": null
     },
@@ -658,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/l1Kap6eW9RU/hqdefault.jpg?v=6adffffe"
         }
       },
-      "concurrentViewers": 15,
+      "concurrentViewers": 18,
       "startedAt": "2026-10-27T01:39:24Z",
       "regionRestriction": null
     },
@@ -682,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/l6dzR8Fv5g8/hqdefault.jpg?v=6ae0bbd7"
         }
       },
-      "concurrentViewers": 15,
+      "concurrentViewers": 3,
       "startedAt": "2026-10-27T17:55:24Z",
       "regionRestriction": null
     },
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 402,
+      "concurrentViewers": 357,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 281,
+      "concurrentViewers": 1659,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 137,
+      "concurrentViewers": 125,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2620,
+      "concurrentViewers": 2627,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
