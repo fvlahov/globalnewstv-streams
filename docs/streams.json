@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T23:56:39.418Z",
+  "generatedAt": "2026-10-28T05:02:53.320Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2779,
+      "concurrentViewers": 3188,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 232,
+      "concurrentViewers": 186,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1768,
+      "concurrentViewers": 1530,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ensEJCOmqyU",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Patrick Christys Tonight Late Edition | Tuesday 27th October",
-      "description": "Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsO…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ensEJCOmqyU/default.jpg?v=6ae0fa8a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ensEJCOmqyU/mqdefault.jpg?v=6ae0fa8a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ensEJCOmqyU/hqdefault.jpg?v=6ae0fa8a"
-        }
-      },
-      "concurrentViewers": 515,
-      "startedAt": "2026-10-27T23:00:29Z",
       "regionRestriction": null
     },
     {
@@ -122,38 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 33,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "UiR2-qLasyA",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Netanyahu supporters react to initial Israeli election results",
-      "description": "Supporters of Israeli Prime Minister Benjamin Netanyahu and his Likud party gather to watch the initial results of what some voters describe as the most consequential election in the nation's history.\n \n#israel #netanyahu #vote #election #likudparty #politics\n\nKeep up with the latest news from arou…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UiR2-qLasyA/default.jpg?v=6ae1055a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UiR2-qLasyA/mqdefault.jpg?v=6ae1055a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UiR2-qLasyA/hqdefault.jpg?v=6ae1055a"
-        }
-      },
-      "concurrentViewers": 71,
-      "startedAt": "2026-10-27T20:01:13Z",
       "regionRestriction": null
     },
     {
       "videoId": "VJ_CpdLJkJo",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 27",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -170,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/VJ_CpdLJkJo/hqdefault.jpg?v=6ae0d596"
         }
       },
-      "concurrentViewers": 1769,
+      "concurrentViewers": 607,
       "startedAt": "2026-10-27T21:58:40Z",
       "regionRestriction": null
     },
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 478,
+      "concurrentViewers": 518,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/KJeQk_wFj7o/hqdefault.jpg?v=6ae11f1e"
         }
       },
-      "concurrentViewers": 245,
+      "concurrentViewers": 239,
       "startedAt": "2026-10-27T22:59:43Z",
       "regionRestriction": null
     },
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/fUZtO2a7O4w/hqdefault.jpg?v=6ae0b864"
         }
       },
-      "concurrentViewers": 525,
+      "concurrentViewers": 286,
       "startedAt": "2026-10-27T14:42:58Z",
       "regionRestriction": null
     },
@@ -266,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1243,
+      "concurrentViewers": 320,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1465,
+      "concurrentViewers": 2393,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -314,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 21,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -338,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9672,
+      "concurrentViewers": 9928,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -366,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 448,
+      "concurrentViewers": 485,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -390,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 999,
+      "concurrentViewers": 1201,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -414,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5981,
+      "concurrentViewers": 5458,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -438,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 170,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -466,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 76,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -490,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 172,
+      "concurrentViewers": 163,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -505,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3895e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3899b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3895e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3899b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3895e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3899b"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 36,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -538,32 +490,8 @@
           "url": "https://i.ytimg.com/vi/XLXlGhOQgy8/hqdefault.jpg?v=6ae057b9"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 47,
       "startedAt": "2026-10-27T08:44:29Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "NSlbMj7u7pI",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Cyclone Arnab LIVE: Heavy Rain Alert For Coastal Andhra Pradesh, Odisha And Karnataka | WION",
-      "description": "Cyclone Arnab LIVE: Heavy Rain Alert For Coastal Andhra Pradesh, Odisha And Karnataka | WION \n\nCyclone Arnab has triggered a heavy rain alert across parts of coastal Andhra Pradesh, Telangana and Karnataka.\nThe weather system is expected to bring intense rainfall and gusty winds to several areas. A…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NSlbMj7u7pI/default.jpg?v=6ae04f3d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NSlbMj7u7pI/mqdefault.jpg?v=6ae04f3d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NSlbMj7u7pI/hqdefault.jpg?v=6ae04f3d"
-        }
-      },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-27T08:06:14Z",
       "regionRestriction": null
     },
     {
@@ -586,87 +514,87 @@
           "url": "https://i.ytimg.com/vi/lqhJpRaCRoQ/hqdefault.jpg?v=6ae0697d"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 11,
       "startedAt": "2026-10-27T09:08:08Z",
       "regionRestriction": null
     },
     {
-      "videoId": "BWQpQtZ4Qog",
+      "videoId": "NBeIZ33qf2I",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Cyclone Arnab LIVE: Andhra Pradesh on High Alert | Landfall Likely Between 2 AM and 4 AM",
-      "description": "Cyclone Arnab has triggered heightened alerts along India’s eastern coast, with Andhra Pradesh on high alert and preparations underway for a possible landfall between 2 AM and 4 AM. Andhra Pradesh and Odisha are racing to evacuate people from vulnerable areas, while high waves have been reported of…",
+      "title": "Cyclone Arnab Landfall LIVE: Cyclone Arnab Landfall Tracker | NDRF Deployed, Coastal Areas Evacuated",
+      "description": "Cyclone Arnab LIVE Updates: Cyclone Arnab Tracker | NDRF Deployed, Coastal Areas Evacuated | Cyclone\ncyclone arnab tracker, cyclone arnab tracker live, cyclone tracker, cyclone arnab, live cyclone tracker, cyclone arnav, arnab cyclone, cyclone arnab track, cyclone arnab tracking, cyclone arnab live…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/BWQpQtZ4Qog/default.jpg?v=6ae0e842"
+          "url": "https://i.ytimg.com/vi/NBeIZ33qf2I/default.jpg?v=6ae17af4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/BWQpQtZ4Qog/mqdefault.jpg?v=6ae0e842"
+          "url": "https://i.ytimg.com/vi/NBeIZ33qf2I/mqdefault.jpg?v=6ae17af4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/BWQpQtZ4Qog/hqdefault.jpg?v=6ae0e842"
+          "url": "https://i.ytimg.com/vi/NBeIZ33qf2I/hqdefault.jpg?v=6ae17af4"
         }
       },
-      "concurrentViewers": 67,
-      "startedAt": "2026-10-27T18:13:32Z",
+      "concurrentViewers": 146,
+      "startedAt": "2026-10-28T04:36:27Z",
       "regionRestriction": null
     },
     {
-      "videoId": "l1Kap6eW9RU",
+      "videoId": "1DHNCTqhi-U",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Cyclone Arnab Landfall | Israel Elections | Rahul Gandhi | PM Modi | Congress",
-      "description": "India Today TV LIVE: Cyclone Arnab Landfall | Israel Elections | Rahul Gandhi | PM Modi | Congress  \n\nMicrosoft is offering voluntary buyouts to about 60,000 eligible employees across major divisions. The move seeks to contain workforce costs while the company invests heavily in AI infrastructure.\n…",
+      "title": "Israel Election 2026 LIVE Voting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its Next PM?",
+      "description": "Israel Election 2026 LIVE Voting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its Next PM?\n\nIsrael is heading into a pivotal national election on Tuesday, October 27, 2026, with Prime Minister Benjamin Netanyahu facing a challenge from former Israel Defense Forces chief Gadi Eisenkot and …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/l1Kap6eW9RU/default.jpg?v=6adffffe"
+          "url": "https://i.ytimg.com/vi/1DHNCTqhi-U/default.jpg?v=6ae17f18"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/l1Kap6eW9RU/mqdefault.jpg?v=6adffffe"
+          "url": "https://i.ytimg.com/vi/1DHNCTqhi-U/mqdefault.jpg?v=6ae17f18"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/l1Kap6eW9RU/hqdefault.jpg?v=6adffffe"
+          "url": "https://i.ytimg.com/vi/1DHNCTqhi-U/hqdefault.jpg?v=6ae17f18"
         }
       },
-      "concurrentViewers": 18,
-      "startedAt": "2026-10-27T01:39:24Z",
+      "concurrentViewers": 132,
+      "startedAt": "2026-10-28T04:51:45Z",
       "regionRestriction": null
     },
     {
-      "videoId": "l6dzR8Fv5g8",
+      "videoId": "c_MpsEdP0o4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Israel Election News LIVE: Netanyahu’s Biggest Battle Yet | Bye-Bye Bibi Or Another Win? Watch",
-      "description": "Israel’s political future hangs in the balance as Benjamin Netanyahu faces another major electoral test. Can Bibi secure another victory, or is his long political run nearing a turning point? India Today brings you LIVE coverage from Israel, tracking the campaign, key players, voter mood and the hi…",
+      "title": "Rajdeep Sardesai  LIVE: Justice Sanjay Kishan Kaul Exclusive On Judiciary–Executive Ties | Watch",
+      "description": "In an exclusive conversation on the Rajdeep Show, former Supreme Court judge Justice Sanjay Kishan Kaul discusses the relationship between India’s judiciary and the executive. Where should the boundaries of power lie? How can judicial independence be protected, and what role does institutional acco…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/l6dzR8Fv5g8/default.jpg?v=6ae0bbd7"
+          "url": "https://i.ytimg.com/vi/c_MpsEdP0o4/default.jpg?v=6ae162b4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/l6dzR8Fv5g8/mqdefault.jpg?v=6ae0bbd7"
+          "url": "https://i.ytimg.com/vi/c_MpsEdP0o4/mqdefault.jpg?v=6ae162b4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/l6dzR8Fv5g8/hqdefault.jpg?v=6ae0bbd7"
+          "url": "https://i.ytimg.com/vi/c_MpsEdP0o4/hqdefault.jpg?v=6ae162b4"
         }
       },
-      "concurrentViewers": 3,
-      "startedAt": "2026-10-27T17:55:24Z",
+      "concurrentViewers": 29,
+      "startedAt": "2026-10-28T02:51:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: MLC Election Result | SC On SIR | INDIA Alliance | Israel Election | Hindi News",
-      "description": "CEC के खिलाफ विपक्ष की बड़ी मोर्चाबंदी, 30 अक्टूबर को खरगे ने महाभियोग पर मॉक पार्लियामेंट के लिए सांसदों को बुलाया,राहुल बोले- इस्तीफा होने तक जारी रहेगा आंदोलन.\n\nअहमदाबाद में पदयात्रा के दौरान नड्डा ने कांग्रेस को घेरा, पूछा- जीते तो सब ठीक, हारे तो चुनाव आयोग खराब,10 बार कांग्रेस के शासन में हुआ…",
+      "title": "Aaj Tak LIVE TV: MLC Election Result | Bihar | Cyclone Arnab Alert | BJP Protest | Hindi News",
+      "description": "बिहार विधान परिषद के शिक्षक निर्वाचन क्षेत्रों के चुनाव में बड़ा उलटफेर देखने को मिला है. पटना, तिरहुत, दरभंगा और सारण यानी कि सभी चारों सीटों पर मौजूदा एमएलसी चुनाव हार गए.\n\nउत्तर प्रदेश विधान परिषद चुनाव 2026 में लखनऊ शिक्षक निर्वाचन क्षेत्र से भारतीय जनता पार्टी (BJP) के उम्मीदवार उमेश द्विवेदी …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -682,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 357,
+      "concurrentViewers": 3050,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -706,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1659,
+      "concurrentViewers": 1343,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 125,
+      "concurrentViewers": 129,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2627,
+      "concurrentViewers": 1429,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
