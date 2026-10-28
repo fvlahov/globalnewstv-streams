@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T05:02:53.320Z",
+  "generatedAt": "2026-10-28T11:30:06.291Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Israel elections latest: Netanyahu urges Israelis to 'go vote' as latest poll indicates he could be ousted - https://news.sky.com/story/israel-elections-latest-benjamin-n…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Politics latest: Chancellor promises 'breathing space' budget - with help on 'some of the everyday costs' - https://news.sky.com/story/politics-latest-budget-healey-burnh…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3188,
+      "concurrentViewers": 9060,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 186,
+      "concurrentViewers": 625,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1530,
+      "concurrentViewers": 4019,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,14 +98,62 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 660,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "VJ_CpdLJkJo",
+      "videoId": "wh3oBuUn7jk",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Two high-speed trains collide in Spain",
+      "description": "At least 10 people were killed when two high-speed trains collided in Spain, prompting rail operator Adif to suspend the line connecting Madrid to southern Andalusia, the operator said. Castilla-La Mancha region spokesperson Esther Padilla said the number of casualties was likely to rise. 147 peopl…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wh3oBuUn7jk/default.jpg?v=6ae1d981"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wh3oBuUn7jk/mqdefault.jpg?v=6ae1d981"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wh3oBuUn7jk/hqdefault.jpg?v=6ae1d981"
+        }
+      },
+      "concurrentViewers": 80,
+      "startedAt": "2026-10-28T11:11:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4phI-YQVZwE",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Arrivals at Downing Street ahead of UK budget",
+      "description": "UK lawmakers arrive at Downing Street ahead of the budget announcement by finance minister John Healey. Healey will then unveil the 'Red Box' outside before making his way to parliament.\n \n#uk #britain #downingstreet #johnhealey #budget #live #Reuters #News\n\nKeep up with the latest news from around…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4phI-YQVZwE/default.jpg?v=6ae1b8da"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4phI-YQVZwE/mqdefault.jpg?v=6ae1b8da"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4phI-YQVZwE/hqdefault.jpg?v=6ae1b8da"
+        }
+      },
+      "concurrentViewers": 53,
+      "startedAt": "2026-10-28T08:47:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "-U3bjHDsJ44",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 28",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -113,17 +161,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VJ_CpdLJkJo/default.jpg?v=6ae0d596"
+          "url": "https://i.ytimg.com/vi/-U3bjHDsJ44/default.jpg?v=6ae0d608"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VJ_CpdLJkJo/mqdefault.jpg?v=6ae0d596"
+          "url": "https://i.ytimg.com/vi/-U3bjHDsJ44/mqdefault.jpg?v=6ae0d608"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VJ_CpdLJkJo/hqdefault.jpg?v=6ae0d596"
+          "url": "https://i.ytimg.com/vi/-U3bjHDsJ44/hqdefault.jpg?v=6ae0d608"
         }
       },
-      "concurrentViewers": 607,
-      "startedAt": "2026-10-27T21:58:40Z",
+      "concurrentViewers": 2739,
+      "startedAt": "2026-10-28T10:35:37Z",
       "regionRestriction": null
     },
     {
@@ -146,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 518,
+      "concurrentViewers": 1010,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "KJeQk_wFj7o",
+      "videoId": "97aas54Le60",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -161,17 +209,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KJeQk_wFj7o/default.jpg?v=6ae11f1e"
+          "url": "https://i.ytimg.com/vi/97aas54Le60/default.jpg?v=6ae1d508"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KJeQk_wFj7o/mqdefault.jpg?v=6ae11f1e"
+          "url": "https://i.ytimg.com/vi/97aas54Le60/mqdefault.jpg?v=6ae1d508"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KJeQk_wFj7o/hqdefault.jpg?v=6ae11f1e"
+          "url": "https://i.ytimg.com/vi/97aas54Le60/hqdefault.jpg?v=6ae1d508"
         }
       },
-      "concurrentViewers": 239,
-      "startedAt": "2026-10-27T22:59:43Z",
+      "concurrentViewers": 257,
+      "startedAt": "2026-10-28T11:08:23Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/fUZtO2a7O4w/hqdefault.jpg?v=6ae0b864"
         }
       },
-      "concurrentViewers": 286,
+      "concurrentViewers": 425,
       "startedAt": "2026-10-27T14:42:58Z",
       "regionRestriction": null
     },
@@ -218,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 320,
+      "concurrentViewers": 885,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -242,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 2393,
+      "concurrentViewers": 8088,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 8,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9928,
+      "concurrentViewers": 10974,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 485,
+      "concurrentViewers": 655,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1201,
+      "concurrentViewers": 1544,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5458,
+      "concurrentViewers": 6699,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 170,
+      "concurrentViewers": 262,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 132,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 163,
+      "concurrentViewers": 254,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -457,96 +505,168 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3899b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=389e8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3899b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=389e8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3899b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=389e8"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 52,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "XLXlGhOQgy8",
+      "videoId": "gjEbuaqDkfE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US-Iran War LIVE: US Attack On Iran Raises World War III Fears, Global Powers On Alert | WION",
-      "description": "Rising tensions between Washington and Tehran have sparked fresh concerns over a wider regional conflict and the possibility of global escalation. As military developments unfold, world powers remain on alert amid growing geopolitical uncertainty. Follow live updates on US-Iran tensions, military m…",
+      "title": "Cyclone Arnab LIVE: 3 Dead as Odisha, Andhra Face Deadly Storm Threat and Heavy Rain | WION",
+      "description": "Cyclone Arnab LIVE: 3 Dead as Odisha, Andhra Face Deadly Storm Threat and Heavy Rain | WION\n\nCyclone Arnab has claimed three lives, prompting large-scale evacuations across Odisha and Andhra Pradesh as the region braces for heavy rainfall and severe weather. More than 87,000 people have been evacua…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XLXlGhOQgy8/default.jpg?v=6ae057b9"
+          "url": "https://i.ytimg.com/vi/gjEbuaqDkfE/default.jpg?v=6ae1d730"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XLXlGhOQgy8/mqdefault.jpg?v=6ae057b9"
+          "url": "https://i.ytimg.com/vi/gjEbuaqDkfE/mqdefault.jpg?v=6ae1d730"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XLXlGhOQgy8/hqdefault.jpg?v=6ae057b9"
+          "url": "https://i.ytimg.com/vi/gjEbuaqDkfE/hqdefault.jpg?v=6ae1d730"
         }
       },
-      "concurrentViewers": 47,
-      "startedAt": "2026-10-27T08:44:29Z",
+      "concurrentViewers": 57,
+      "startedAt": "2026-10-28T11:06:42Z",
       "regionRestriction": null
     },
     {
-      "videoId": "lqhJpRaCRoQ",
+      "videoId": "fNSx4lzV7wg",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: Deadly Russian Hypersonic Missile Unleashes New Terror On Ukraine | WION",
+      "description": "Russia-Ukraine War LIVE: Deadly Russian Hypersonic Missile Unleashes New Terror On Ukraine | WION\n\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence sy…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fNSx4lzV7wg/default.jpg?v=6ae1b366"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fNSx4lzV7wg/mqdefault.jpg?v=6ae1b366"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fNSx4lzV7wg/hqdefault.jpg?v=6ae1b366"
+        }
+      },
+      "concurrentViewers": 53,
+      "startedAt": "2026-10-28T08:58:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "e913WkjTbxU",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Spain Train Accident LIVE: 30+ Killed as Two High-Speed Trains Collide in Deadly Crash | WION",
+      "description": "Spain Train Accident LIVE: 30+ Killed as Two High-Speed Trains Collide in Deadly Crash | WION\n\nAt least 30 people have been killed after two high-speed trains collided in Spain, in a deadly rail accident that has triggered an emergency response. Rescue teams are working at the crash site as authori…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e913WkjTbxU/default.jpg?v=6ae1dc26"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e913WkjTbxU/mqdefault.jpg?v=6ae1dc26"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e913WkjTbxU/hqdefault.jpg?v=6ae1dc26"
+        }
+      },
+      "concurrentViewers": 37,
+      "startedAt": "2026-10-28T11:28:14Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qXhrmarE3wU",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Israel Elections LIVE | Netanyahu Vs Gadi Eisenkot | Israel Elections 2026 | Netanyahu | Israel's PM",
-      "description": "Israel's election is shaping up as a major test of Prime Minister Benjamin Netanyahu's leadership, nearly three years after the October 7 Hamas attack. With security, the economy, judicial reform and accountability dominating the campaign, pre-election polls point to a closely divided contest. Form…",
+      "title": "NDTV Profit IGNITE 2026 LIVE | India's Top Market Voices, Business Leaders & Investment Insights",
+      "description": "NDTV Profit IGNITE 2026 brings together India's leading voices from business, finance, policy and industry to explore the ideas, opportunities and challenges shaping India's economic future. Watch LIVE from Trident BKC, Mumbai, as policymakers, market experts, investors and business leaders share i…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lqhJpRaCRoQ/default.jpg?v=6ae0697d"
+          "url": "https://i.ytimg.com/vi/qXhrmarE3wU/default.jpg?v=6ae0a593"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lqhJpRaCRoQ/mqdefault.jpg?v=6ae0697d"
+          "url": "https://i.ytimg.com/vi/qXhrmarE3wU/mqdefault.jpg?v=6ae0a593"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lqhJpRaCRoQ/hqdefault.jpg?v=6ae0697d"
+          "url": "https://i.ytimg.com/vi/qXhrmarE3wU/hqdefault.jpg?v=6ae0a593"
         }
       },
-      "concurrentViewers": 11,
-      "startedAt": "2026-10-27T09:08:08Z",
+      "concurrentViewers": 2685,
+      "startedAt": "2026-10-28T09:51:08Z",
       "regionRestriction": null
     },
     {
-      "videoId": "NBeIZ33qf2I",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Cyclone Arnab Landfall LIVE: Cyclone Arnab Landfall Tracker | NDRF Deployed, Coastal Areas Evacuated",
-      "description": "Cyclone Arnab LIVE Updates: Cyclone Arnab Tracker | NDRF Deployed, Coastal Areas Evacuated | Cyclone\ncyclone arnab tracker, cyclone arnab tracker live, cyclone tracker, cyclone arnab, live cyclone tracker, cyclone arnav, arnab cyclone, cyclone arnab track, cyclone arnab tracking, cyclone arnab live…",
-      "channelTitle": "India Today",
+      "videoId": "rgf2Jd4LgGs",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Spain Crash LIVE | 10 Killed In Crash Between 2 High-Speed Trains In Spain | Train Spain Crash",
+      "description": "At least 10 people have died and several injured in a train crash early on Wednesday near Madrid. After the incident, the rail service between Madrid, Ciudad Real and Andalusia was suspended.\n\nThe country's rail system operator ADIF said that the crash happened in the province of Toledo at 9:00 AM …",
+      "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NBeIZ33qf2I/default.jpg?v=6ae17af4"
+          "url": "https://i.ytimg.com/vi/rgf2Jd4LgGs/default.jpg?v=6ae1d959"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NBeIZ33qf2I/mqdefault.jpg?v=6ae17af4"
+          "url": "https://i.ytimg.com/vi/rgf2Jd4LgGs/mqdefault.jpg?v=6ae1d959"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NBeIZ33qf2I/hqdefault.jpg?v=6ae17af4"
+          "url": "https://i.ytimg.com/vi/rgf2Jd4LgGs/hqdefault.jpg?v=6ae1d959"
         }
       },
-      "concurrentViewers": 146,
-      "startedAt": "2026-10-28T04:36:27Z",
+      "concurrentViewers": 33,
+      "startedAt": "2026-10-28T10:53:47Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zuppWkEOsWE",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "LIVE: Tejashwi Yadav Holds Press Conference | Bihar MLC Result | RJD | BJP | JDU | Patna",
+      "description": "LIVE: Tejashwi Yadav Holds Press Conference | Bihar MLC Result | RJD | BJP | JDU | Patna\n\n#tejashwiyadav #bihar #mlc #rjd #jdu #patna #live  \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zuppWkEOsWE/default.jpg?v=6ae1a45f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zuppWkEOsWE/mqdefault.jpg?v=6ae1a45f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zuppWkEOsWE/hqdefault.jpg?v=6ae1a45f"
+        }
+      },
+      "concurrentViewers": 2,
+      "startedAt": "2026-10-28T08:58:03Z",
       "regionRestriction": null
     },
     {
       "videoId": "1DHNCTqhi-U",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Israel Election 2026 LIVE Voting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its Next PM?",
-      "description": "Israel Election 2026 LIVE Voting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its Next PM?\n\nIsrael is heading into a pivotal national election on Tuesday, October 27, 2026, with Prime Minister Benjamin Netanyahu facing a challenge from former Israel Defense Forces chief Gadi Eisenkot and …",
+      "title": "Israel Election 2026 LIVE Counting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its  PM?",
+      "description": "Israel Election 2026 LIVE Counting: Netanyahu Or Gadi Eisenkot: Who Will Israel Choose As Its  PM?\n\nIsrael is heading into a pivotal national election on Tuesday, October 27, 2026, with Prime Minister Benjamin Netanyahu facing a challenge from former Israel Defense Forces chief Gadi Eisenkot and hi…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -562,39 +682,15 @@
           "url": "https://i.ytimg.com/vi/1DHNCTqhi-U/hqdefault.jpg?v=6ae17f18"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 90,
       "startedAt": "2026-10-28T04:51:45Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "c_MpsEdP0o4",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai  LIVE: Justice Sanjay Kishan Kaul Exclusive On Judiciary–Executive Ties | Watch",
-      "description": "In an exclusive conversation on the Rajdeep Show, former Supreme Court judge Justice Sanjay Kishan Kaul discusses the relationship between India’s judiciary and the executive. Where should the boundaries of power lie? How can judicial independence be protected, and what role does institutional acco…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/c_MpsEdP0o4/default.jpg?v=6ae162b4"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/c_MpsEdP0o4/mqdefault.jpg?v=6ae162b4"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/c_MpsEdP0o4/hqdefault.jpg?v=6ae162b4"
-        }
-      },
-      "concurrentViewers": 29,
-      "startedAt": "2026-10-28T02:51:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: MLC Election Result | Bihar | Cyclone Arnab Alert | BJP Protest | Hindi News",
-      "description": "बिहार विधान परिषद के शिक्षक निर्वाचन क्षेत्रों के चुनाव में बड़ा उलटफेर देखने को मिला है. पटना, तिरहुत, दरभंगा और सारण यानी कि सभी चारों सीटों पर मौजूदा एमएलसी चुनाव हार गए.\n\nउत्तर प्रदेश विधान परिषद चुनाव 2026 में लखनऊ शिक्षक निर्वाचन क्षेत्र से भारतीय जनता पार्टी (BJP) के उम्मीदवार उमेश द्विवेदी …",
+      "title": "Aaj Tak LIVE TV: Dangal | MLC Election Result | Bihar | BJP Protest | Cyclone Arnab |  Hindi News",
+      "description": "भारतीय जनता पार्टी (BJP) ने मध्य प्रदेश में होने वाले राज्यसभा उपचुनाव के लिए केंद्रीय मंत्री हरदीप सिंह पुरी को अपना उम्मीदवार घोषित किया है. पार्टी की केंद्रीय चुनाव समिति ने उनके नाम को मंजूरी दी है. इस उपचुनाव के जरिए मध्य प्रदेश से राज्यसभा की एक खाली सीट भरी जाएगी.\n\nबिहार विधान परिषद के शिक्ष…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -610,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 3050,
+      "concurrentViewers": 4851,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -634,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1343,
+      "concurrentViewers": 672,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -658,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 129,
+      "concurrentViewers": 134,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -682,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1429,
+      "concurrentViewers": 1044,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
