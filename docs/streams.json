@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T15:26:30.142Z",
+  "generatedAt": "2026-10-29T20:28:48.676Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Russell Brand rape trial: Comedian's wife Laura tells court he is an 'amazing' husband and 'I feel very seen by him' - https://trib.al/8YLiiEt\n\n🔴 LIVE | Budget 20…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Star Trek and X-Men actor Sir Patrick Stewart dies - https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543\n\n🔴 Met refers itself to polic…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,56 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3940,
+      "concurrentViewers": 3378,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
     {
-      "videoId": "KNQi0hbGE7k",
+      "videoId": "-OyP3viRHq0",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Emergency crews continue grim search at deadly train crash in Spain",
-      "description": "Live coverage from Urda after a high-speed train collided with another train on Wednesday killing at least 69 people and injuring dozens. \n\nRescue workers continue searching the wreckage for survivors and bodies. \n\nSpain’s transport minister said that the crash was caused by what he called the “ine…",
+      "title": "Actor Sir Patrick Stewart dies aged 86 | Sky News coverage",
+      "description": "Watch live as Star Trek and X-Men actor Sir Patrick Stewart has died at the age of 86.\n\nStewart died on Wednesday at his home in Los Angeles, a statement on his social media pages announced.\n\nA post on Instagram said: \"We announce with great sorrow the passing of Sir Patrick Stewart yesterday at hi…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KNQi0hbGE7k/default.jpg?v=6ae2fe7b"
+          "url": "https://i.ytimg.com/vi/-OyP3viRHq0/default.jpg?v=6ae3a7a2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KNQi0hbGE7k/mqdefault.jpg?v=6ae2fe7b"
+          "url": "https://i.ytimg.com/vi/-OyP3viRHq0/mqdefault.jpg?v=6ae3a7a2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KNQi0hbGE7k/hqdefault.jpg?v=6ae2fe7b"
+          "url": "https://i.ytimg.com/vi/-OyP3viRHq0/hqdefault.jpg?v=6ae3a7a2"
         }
       },
-      "concurrentViewers": 198,
-      "startedAt": "2026-10-29T07:30:11Z",
+      "concurrentViewers": 2442,
+      "startedAt": "2026-10-29T19:50:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "-5aBh6RIokw",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Tributes pour in after Sir Patrick Stewart's death | The UK Tonight with Sarah-Jane Mee",
+      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news.\n\nWith a thoughtful look at the people at the heart of the headlines and featuring powerful interview…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-5aBh6RIokw/default.jpg?v=6ae3a595"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-5aBh6RIokw/mqdefault.jpg?v=6ae3a595"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-5aBh6RIokw/hqdefault.jpg?v=6ae3a595"
+        }
+      },
+      "concurrentViewers": 209,
+      "startedAt": "2026-10-29T19:49:14Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 363,
+      "concurrentViewers": 385,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1958,
+      "concurrentViewers": 2521,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "V8eq6FLQ3hM",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Jacob Rees-Mogg's State Of The Nation | Thursday 29th October",
+      "description": "Join Jacob for his unique and unmissable take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V8eq6FLQ3hM/default.jpg?v=6ae38b23"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V8eq6FLQ3hM/mqdefault.jpg?v=6ae38b23"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V8eq6FLQ3hM/hqdefault.jpg?v=6ae38b23"
+        }
+      },
+      "concurrentViewers": 142,
+      "startedAt": "2026-10-29T20:24:52Z",
       "regionRestriction": null
     },
     {
@@ -122,80 +170,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 236,
+      "concurrentViewers": 94,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "wDksz2cRwg4",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "Astronauts step out of the ISS for spacewalk – watch live",
-      "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA).",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wDksz2cRwg4/default.jpg?v=6ae34bfb"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wDksz2cRwg4/mqdefault.jpg?v=6ae34bfb"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wDksz2cRwg4/hqdefault.jpg?v=6ae34bfb"
-        }
-      },
-      "concurrentViewers": 254,
-      "startedAt": "2026-10-29T10:36:04Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "PwDxtGygrFU",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Astronauts spacewalk at the International Space Station",
-      "description": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array. \n\n#nasa #csa #spacewalk #space #iss #technology #irosa #anilmenon #joshuakutryk #internationalspacestation #live #Reuters #News\n\nK…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PwDxtGygrFU/default.jpg?v=6ae34f5d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PwDxtGygrFU/mqdefault.jpg?v=6ae34f5d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PwDxtGygrFU/hqdefault.jpg?v=6ae34f5d"
-        }
-      },
-      "concurrentViewers": 47,
-      "startedAt": "2026-10-29T13:36:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "SWkF6uhmtBU",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Scene of Spain train crash that killed at least 68 people",
-      "description": "At least 68 people were killed when a Spanish high-speed train collided with a stationary train on October 28, marking Spain’s second deadly rail crash this year and Europe’s deadliest since 2013. Rescuers searched mangled carriages for more victims as ambulances, funeral vans and helicopters gathe…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SWkF6uhmtBU/default.jpg?v=6ae31aa2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SWkF6uhmtBU/mqdefault.jpg?v=6ae31aa2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SWkF6uhmtBU/hqdefault.jpg?v=6ae31aa2"
-        }
-      },
-      "concurrentViewers": 14,
-      "startedAt": "2026-10-29T09:48:49Z",
       "regionRestriction": null
     },
     {
@@ -218,8 +194,32 @@
           "url": "https://i.ytimg.com/vi/JYp206vrvxY/hqdefault.jpg?v=6ae23598"
         }
       },
-      "concurrentViewers": 4988,
+      "concurrentViewers": 2538,
       "startedAt": "2026-10-29T10:18:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "cOeqkfBgUOM",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Thursday, October 29",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cOeqkfBgUOM/default.jpg?v=6ad94dc1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cOeqkfBgUOM/mqdefault.jpg?v=6ad94dc1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cOeqkfBgUOM/hqdefault.jpg?v=6ad94dc1"
+        }
+      },
+      "concurrentViewers": 1132,
+      "startedAt": "2026-10-29T09:58:26Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 650,
+      "concurrentViewers": 624,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/AD9eA3W0xNU/hqdefault.jpg?v=6ae32584"
         }
       },
-      "concurrentViewers": 1005,
+      "concurrentViewers": 614,
       "startedAt": "2026-10-29T11:00:26Z",
       "regionRestriction": null
     },
@@ -290,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gIiI7o_jyC8/hqdefault.jpg?v=6ae32189"
         }
       },
-      "concurrentViewers": 1412,
+      "concurrentViewers": 872,
       "startedAt": "2026-10-29T10:37:49Z",
       "regionRestriction": null
     },
@@ -314,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1925,
+      "concurrentViewers": 1416,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -338,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 7972,
+      "concurrentViewers": 6232,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -362,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 19,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -386,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 10723,
+      "concurrentViewers": 8050,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -414,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 554,
+      "concurrentViewers": 464,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -438,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1582,
+      "concurrentViewers": 1404,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -462,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6890,
+      "concurrentViewers": 7573,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -486,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 187,
+      "concurrentViewers": 124,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 118,
+      "concurrentViewers": 75,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -538,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 173,
+      "concurrentViewers": 169,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -553,41 +553,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38b35"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38b72"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38b35"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38b72"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38b35"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38b72"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 35,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "U3J7i6e_mgE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Race To Power LIVE: PM Netanyahu Accuses Arab Parties of Stealing Votes: What Happens Next? | WION",
-      "description": "Race To Power LIVE: PM Netanyahu Accuses Arab Parties of Stealing Votes: What Happens Next? | WION\n\nHours after results trickled in, Israel continues to stare at a deeper political crisis, as the country's election panel head has asked Shin Bet to open a probe into the allegations of Qatari influen…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/U3J7i6e_mgE/default.jpg?v=6ae34e20"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/U3J7i6e_mgE/mqdefault.jpg?v=6ae34e20"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/U3J7i6e_mgE/hqdefault.jpg?v=6ae34e20"
-        }
-      },
-      "concurrentViewers": 86,
-      "startedAt": "2026-10-29T14:29:20Z",
       "regionRestriction": null
     },
     {
@@ -610,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/CHVk0Jig2EA/hqdefault.jpg?v=6ae2a152"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 63,
       "startedAt": "2026-10-29T01:29:51Z",
       "regionRestriction": null
     },
@@ -634,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/8TnFg_jN_34/hqdefault.jpg?v=6ae33088"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 39,
       "startedAt": "2026-10-29T11:54:48Z",
       "regionRestriction": null
     },
@@ -658,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/abkUqoGW1c0/hqdefault.jpg?v=6ae33c79"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-29T12:33:08Z",
       "regionRestriction": null
     },
@@ -682,63 +658,87 @@
           "url": "https://i.ytimg.com/vi/XHIOTyr4jYg/hqdefault.jpg?v=6ae36436"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 2,
       "startedAt": "2026-10-29T15:22:01Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xwuB7NGduqI",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Congress News Today LIVE | Congress Nagpur | Maharashtra MLC Election | MVA Wins 3 Of 5 MLC Seats",
-      "description": "The Congress has sprung a surprise by winning the Nagpur Graduates' MLC seat in Maharashtra, turning the tables on the BJP after being mocked over its poor performance in the recent MLC polls. The Maha Vikas Aghadi (MVA) won three of the five seats, while the ruling Mahayuti secured two. The Nagpur…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xwuB7NGduqI/default.jpg?v=6ae35472"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xwuB7NGduqI/mqdefault.jpg?v=6ae35472"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xwuB7NGduqI/hqdefault.jpg?v=6ae35472"
-        }
-      },
-      "concurrentViewers": 41,
-      "startedAt": "2026-10-29T14:22:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "G3---gybhCw",
+      "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Health Wealth Summit 2026 | Day 1 | India Today",
-      "description": "LIVE: Health Wealth Summit 2026 | Day 1 | India Today  #IndiaTodayHealthWealthSummit \n\n#HealthWealthSummit #IndiaToday #HealthSummit #Healthcare #HealthAndWellness #Wellness #HealthyLiving #PreventiveHealthcare #jpnadda #babaramdev #kapildev #sonalmehrotrakapoor #anupriyapatel #indiatodaylive #indi…",
+      "title": "India Today TV LIVE: Political & Global News| Cyclone Arnab | Israel Election | Rahul Gandhi | Trump",
+      "description": "India Today TV LIVE: Political & Global News| Cyclone Arnab | Israel Election | Rahul Gandhi | Trump\n\nAkhilesh Yadav's Samajwadi Party scored a significant win in Varanasi, the constituency of Prime Minister Narendra Modi, in the Uttar Pradesh Legislative Council elections. The Samajwadi Party reta…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/G3---gybhCw/default.jpg?v=6ae2d089"
+          "url": "https://i.ytimg.com/vi/sYZtOFzM78M/default.jpg?v=6a1d8502"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/G3---gybhCw/mqdefault.jpg?v=6ae2d089"
+          "url": "https://i.ytimg.com/vi/sYZtOFzM78M/mqdefault.jpg?v=6a1d8502"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/G3---gybhCw/hqdefault.jpg?v=6ae2d089"
+          "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-29T05:30:32Z",
+      "concurrentViewers": 108,
+      "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PhJWHEBM-Bo",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai  LIVE: SIR Rallying Point For Opposition INDIA Bloc? | Gyanesh Kumar | BJP vs Cong",
+      "description": "Rajdeep Sardesai  LIVE: SIR Rallying Point For Opposition INDIA Bloc? | Gyanesh Kumar | BJP vs Cong\n#rahulgandhi #chalodelhi  #gyaneshkumar #cec #indiatodaylive #sir #specialintensiverevision #opposition #politics #delhinews #electioncommission #indianpolitics #politicalnews #live #SIR #SIRExercise…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PhJWHEBM-Bo/default.jpg?v=6ae366af"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PhJWHEBM-Bo/mqdefault.jpg?v=6ae366af"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PhJWHEBM-Bo/hqdefault.jpg?v=6ae366af"
+        }
+      },
+      "concurrentViewers": 35,
+      "startedAt": "2026-10-29T15:33:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "waAy4HH0Vk4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today TV LIVE: 64 Dead In Spain Train Crash | Cyclone Arnab | Israel Election | Rahul Gandhi",
+      "description": "India Today TV LIVE: 64 Dead In Spain Train Crash | Cyclone Arnab | Israel Election | Rahul Gandhi \n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade D…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/default.jpg?v=6abdc0fa"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/mqdefault.jpg?v=6abdc0fa"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Black And White | Karwa Chauth 2026 | MLC Election Result | Akhilesh Yadav",
-      "description": "उत्तर प्रदेश, बिहार, कर्नाटक और महाराष्ट्र की कुल 28 विधान परिषद (एमएलसी) सीटों पर चुनाव हुए हैं. यह एमएलसी चुनाव शिक्षक और स्नातक कोटे के हैं, जिनके नतीजे सामने आ चुके हैं. कर्नाटक, यूपी और बिहार में बीजेपी का प्रदर्शन ठीक-ठाक रहा तो महाराष्ट्र में झटका लगा.\n\nIsrael elections 2026 Live Updates: इज…",
+      "title": "Aaj Tak LIVE TV: Karwa Chauth 2026 | MLC Election Result |Akhilesh Yadav |UP Election |BJP |Congress",
+      "description": "अमेरिकी राष्ट्रपति ने एक- बार फिर ईरान पर हमले की धमकी दी है, ये हमला अमेरिका में होने वाले मिड टर्म चुनाव के बाद हो सकता है. ट्रंप ने यही कहा है कि ईरान के साथ बातचीत से समाधान नहीं निकला तो बहुत बड़ा हमला करेंगे.\n\nउत्तर प्रदेश विधान परिषद चुनावों में समाजवादी पार्टी ने बढ़त हासिल की है और ऐसे में…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -754,8 +754,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 8594,
+      "concurrentViewers": 321,
       "startedAt": "2026-10-01T01:07:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "gU-djo0Ygq4",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Israel Election Result Live News: इजरायल में चुनावी धांधली का सच क्या है? | Netanyahu | Aaj Tak",
+      "description": "इजराइल के चुनाव में प्रधानमंत्री बेंजामिन नेतन्याहू और विपक्षी नेता गादी आइजनकोट, दोनों बहुमत से दूर रह गए हैं। 90.5% वोटों की गिनती के बाद नेतन्याहू का गठबंधन 53 सीटों और आइजनकोट का विपक्षी गठबंधन 48 सीटों पर आगे है।\n#israelelection2026 #netanyahu #gadieisenkot #breakingnews  #aajtakdigital \n\nआजतक…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gU-djo0Ygq4/default.jpg?v=6ae38c4d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gU-djo0Ygq4/mqdefault.jpg?v=6ae38c4d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gU-djo0Ygq4/hqdefault.jpg?v=6ae38c4d"
+        }
+      },
+      "concurrentViewers": 200,
+      "startedAt": "2026-10-29T18:12:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "2-Zxe7l_Fqk",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "America Iran War: Donald Trump ने एक- बार फिर Iran पर हमले की धमकी दी | US-Iran War | IRGC",
+      "description": "अमेरिकी राष्ट्रपति ने एक- बार फिर ईरान पर हमले की धमकी दी है, ये हमला अमेरिका में होने वाले मिड टर्म चुनाव के बाद हो सकता है. ट्रंप ने यही कहा है कि ईरान के साथ बातचीत से समाधान नहीं निकला तो बहुत बड़ा हमला करेंगे.\n#usiranwar #donaldtrump #benjaminnetanyahu #indiaisraelfriendship  #aajtakdigital \n\n…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2-Zxe7l_Fqk/default.jpg?v=6ae39107"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2-Zxe7l_Fqk/mqdefault.jpg?v=6ae39107"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2-Zxe7l_Fqk/hqdefault.jpg?v=6ae39107"
+        }
+      },
+      "concurrentViewers": 68,
+      "startedAt": "2026-10-29T18:32:22Z",
       "regionRestriction": null
     },
     {
@@ -778,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 513,
+      "concurrentViewers": 320,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -802,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 160,
+      "concurrentViewers": 134,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -826,7 +874,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 545,
+      "concurrentViewers": 2475,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
