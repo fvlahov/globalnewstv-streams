@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T18:45:04.972Z",
+  "generatedAt": "2026-10-30T22:49:31.368Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2928,
+      "concurrentViewers": 2629,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 435,
+      "concurrentViewers": 243,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2253,
+      "concurrentViewers": 1563,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,12 +98,60 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 128,
+      "concurrentViewers": 38,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "6h-FyZDQ9kU",
+      "videoId": "kg8uHMH2uUM",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Republican Ashley Hinson campaigns in Iowa",
+      "description": "Republican Senate candidate Ashley Hinson campaigns in Waterloo, Iowa, ahead of the midterm election.\n \n#senate #midterms #election #politics #iowa\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kg8uHMH2uUM/default.jpg?v=6ae516a0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kg8uHMH2uUM/mqdefault.jpg?v=6ae516a0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kg8uHMH2uUM/hqdefault.jpg?v=6ae516a0"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-10-30T22:12:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "9O3VuETHCsg",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Secretary of State Marco Rubio hosts G20 foreign ministers in Atlanta",
+      "description": "US Secretary of State Marco Rubio holds bilateral meetings with G20 foreign ministers in Atlanta, Georgia.\n \n#g20 #diplomacy #politics #atlanta #georgia\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9O3VuETHCsg/default.jpg?v=6ae4fd5e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9O3VuETHCsg/mqdefault.jpg?v=6ae4fd5e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9O3VuETHCsg/hqdefault.jpg?v=6ae4fd5e"
+        }
+      },
+      "concurrentViewers": 8,
+      "startedAt": "2026-10-30T19:38:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GkQTef2ZDzk",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 30",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -113,17 +161,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6h-FyZDQ9kU/default.jpg?v=6ae38ea6"
+          "url": "https://i.ytimg.com/vi/GkQTef2ZDzk/default.jpg?v=6ae4d9af"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6h-FyZDQ9kU/mqdefault.jpg?v=6ae38ea6"
+          "url": "https://i.ytimg.com/vi/GkQTef2ZDzk/mqdefault.jpg?v=6ae4d9af"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6h-FyZDQ9kU/hqdefault.jpg?v=6ae38ea6"
+          "url": "https://i.ytimg.com/vi/GkQTef2ZDzk/hqdefault.jpg?v=6ae4d9af"
         }
       },
-      "concurrentViewers": 2832,
-      "startedAt": "2026-10-30T10:00:17Z",
+      "concurrentViewers": 2175,
+      "startedAt": "2026-10-30T21:59:39Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/5GIjlwoCblo/hqdefault.jpg?v=6ad94e1d"
         }
       },
-      "concurrentViewers": 1493,
+      "concurrentViewers": 826,
       "startedAt": "2026-10-30T09:58:00Z",
       "regionRestriction": null
     },
@@ -170,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 597,
+      "concurrentViewers": 420,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/LakqyH8vmWg/hqdefault.jpg?v=6ae47923"
         }
       },
-      "concurrentViewers": 611,
+      "concurrentViewers": 451,
       "startedAt": "2026-10-30T11:02:46Z",
       "regionRestriction": null
     },
@@ -218,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/hWNN_REXBx0/hqdefault.jpg?v=6ae48be2"
         }
       },
-      "concurrentViewers": 1116,
+      "concurrentViewers": 671,
       "startedAt": "2026-10-30T12:26:52Z",
       "regionRestriction": null
     },
@@ -242,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1441,
+      "concurrentViewers": 1336,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -266,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 6853,
+      "concurrentViewers": 1659,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 29,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7617,
+      "concurrentViewers": 5725,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 371,
+      "concurrentViewers": 267,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1489,
+      "concurrentViewers": 1009,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6826,
+      "concurrentViewers": 5056,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 155,
+      "concurrentViewers": 107,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 74,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 157,
+      "concurrentViewers": 172,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -481,16 +529,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38c7e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38caf"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38c7e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38caf"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38c7e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38caf"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 25,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -514,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/PtFFybVGeR8/hqdefault.jpg?v=6ae3fa23"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 29,
       "startedAt": "2026-10-30T02:09:42Z",
       "regionRestriction": null
     },
@@ -538,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/hqdefault.jpg?v=6ae409f3"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 28,
       "startedAt": "2026-10-30T03:00:45Z",
       "regionRestriction": null
     },
@@ -562,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/BG0GmeReHh8/hqdefault.jpg?v=6ae4950b"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": null,
       "startedAt": "2026-10-30T13:03:15Z",
       "regionRestriction": null
     },
@@ -586,14 +634,14 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 181,
+      "concurrentViewers": 75,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "waAy4HH0Vk4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Chopper Crash In Chamoli | IDBI | US-Iran War | Rahul Gandhi | PM Modi | Trump",
+      "title": "India Today TV LIVE: ISRO's Satellite Launch | IDBI | US-Iran War | Rahul Gandhi | PM Modi | Trump",
       "description": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade …",
       "channelTitle": "India Today",
       "country": "IN",
@@ -610,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 10,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -634,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 841,
+      "concurrentViewers": 204,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -658,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/bHmzhKV2l7E/hqdefault.jpg?v=6ae46f08"
         }
       },
-      "concurrentViewers": 49,
+      "concurrentViewers": 5,
       "startedAt": "2026-10-30T09:07:21Z",
       "regionRestriction": null
     },
@@ -682,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 303,
+      "concurrentViewers": 499,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -706,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 168,
+      "concurrentViewers": 65,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -730,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 597,
+      "concurrentViewers": 2099,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
