@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T13:21:33.357Z",
+  "generatedAt": "2026-10-30T18:45:04.972Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Police investigating Andrew's Balmoral stays with Epstein and Maxwell - https://news.sky.com/story/police-investigating-andrews-balmoral-stays-with-jeffrey-epstein-and-gh…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n\n🔴 Ukraine war latest: Kremlin accuses Kyiv of ignoring Trump in deadly strike - as buses evacuate Oleshky https://news.sky.com/story/ukraine-war-latest-zelenskyy-starlink-…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 5762,
+      "concurrentViewers": 2928,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 473,
+      "concurrentViewers": 435,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2594,
+      "concurrentViewers": 2253,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5z6ZwGHXaD8",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Good Afternoon Britain | Friday 30th October",
-      "description": "Tackling the big stories from all angles and perspectives. Weekdays from midday, Christopher Hope and Emily Carver bring you the most compelling stories from across the United Kingdom.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5z6ZwGHXaD8/default.jpg?v=6ae46091"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5z6ZwGHXaD8/mqdefault.jpg?v=6ae46091"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5z6ZwGHXaD8/hqdefault.jpg?v=6ae46091"
-        }
-      },
-      "concurrentViewers": 830,
-      "startedAt": "2026-10-30T11:55:54Z",
       "regionRestriction": null
     },
     {
@@ -122,56 +98,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 281,
+      "concurrentViewers": 128,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "u_HlJ0uaZaA",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Israeli forces demolish house of Palestinians in West Bank",
-      "description": "Israeli forces are expected to demolish the house of the Palestinians who carried out a shooting attack on October 23, 2026, and killed two Israeli soldiers at a West Bank checkpoint.\nSome Palestinian officials have accused Prime Minister Benjamin Netanyahu of launching a crackdown in the West Bank…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/u_HlJ0uaZaA/default.jpg?v=6ae47369"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/u_HlJ0uaZaA/mqdefault.jpg?v=6ae47369"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/u_HlJ0uaZaA/hqdefault.jpg?v=6ae47369"
-        }
-      },
-      "concurrentViewers": 34,
-      "startedAt": "2026-10-30T09:52:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "gZ3K5zkT8eE",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Emergency services at Spain train crash site",
-      "description": "Rescuers picked through mangled carriages in a search for victims of Spain's second fatal high-speed train crash this year, with the death toll rising to 69 and the public demanding explanations for the latest accident. Spain's Foreign Ministry said 42 foreign citizens from seven countries were inv…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/gZ3K5zkT8eE/default.jpg?v=6ae44678"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/gZ3K5zkT8eE/mqdefault.jpg?v=6ae44678"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/gZ3K5zkT8eE/hqdefault.jpg?v=6ae44678"
-        }
-      },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-30T07:17:25Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/6h-FyZDQ9kU/hqdefault.jpg?v=6ae38ea6"
         }
       },
-      "concurrentViewers": 4930,
+      "concurrentViewers": 2832,
       "startedAt": "2026-10-30T10:00:17Z",
       "regionRestriction": null
     },
@@ -218,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/5GIjlwoCblo/hqdefault.jpg?v=6ad94e1d"
         }
       },
-      "concurrentViewers": 2205,
+      "concurrentViewers": 1493,
       "startedAt": "2026-10-30T09:58:00Z",
       "regionRestriction": null
     },
@@ -242,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 680,
+      "concurrentViewers": 597,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -266,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/LakqyH8vmWg/hqdefault.jpg?v=6ae47923"
         }
       },
-      "concurrentViewers": 762,
+      "concurrentViewers": 611,
       "startedAt": "2026-10-30T11:02:46Z",
       "regionRestriction": null
     },
@@ -290,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/hWNN_REXBx0/hqdefault.jpg?v=6ae48be2"
         }
       },
-      "concurrentViewers": 1034,
+      "concurrentViewers": 1116,
       "startedAt": "2026-10-30T12:26:52Z",
       "regionRestriction": null
     },
@@ -314,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1520,
+      "concurrentViewers": 1441,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -338,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 10005,
+      "concurrentViewers": 6853,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -362,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 33,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -386,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8278,
+      "concurrentViewers": 7617,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -414,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 400,
+      "concurrentViewers": 371,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -438,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1399,
+      "concurrentViewers": 1489,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -462,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6824,
+      "concurrentViewers": 6826,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -486,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 198,
+      "concurrentViewers": 155,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -514,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 141,
+      "concurrentViewers": 93,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -538,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 239,
+      "concurrentViewers": 157,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -553,41 +481,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38c3d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38c7e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38c3d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38c7e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38c3d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38c7e"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 38,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "E4W36Q3fUCI",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Israel Elections 2026 LIVE: Netanyahu's Camp Wins Most Seats In Elections, Falls Short Of Majority",
-      "description": "Israel's political landscape is heating up as Gadi Eisenkot emerges as a challenger to Prime Minister Benjamin Netanyahu ahead of the country's elections. The contest could shape Israel's political future, with voters weighing leadership, security and the government's policies. Watch WION for the l…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/default.jpg?v=6ae409f3"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/mqdefault.jpg?v=6ae409f3"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/hqdefault.jpg?v=6ae409f3"
-        }
-      },
-      "concurrentViewers": 36,
-      "startedAt": "2026-10-30T03:00:45Z",
       "regionRestriction": null
     },
     {
@@ -610,56 +514,32 @@
           "url": "https://i.ytimg.com/vi/PtFFybVGeR8/hqdefault.jpg?v=6ae3fa23"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 26,
       "startedAt": "2026-10-30T02:09:42Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xnxei5VlpfU",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Israel Election Deadlock | 5 Possible Ways Netanyahu Could Stay In Power",
-      "description": "Israel's election has produced a political deadlock, with Benjamin Netanyahu's bloc winning 53 seats and the opposition securing 48 in the 120-member Knesset. Neither side has the 61 seats needed for a majority. We examine five possible routes to a new government: a unity coalition, a rotational pr…",
-      "channelTitle": "NDTV",
+      "videoId": "E4W36Q3fUCI",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Israel Elections 2026 LIVE: Netanyahu's Camp Wins Most Seats In Elections, Falls Short Of Majority",
+      "description": "Israel's political landscape is heating up as Gadi Eisenkot emerges as a challenger to Prime Minister Benjamin Netanyahu ahead of the country's elections. The contest could shape Israel's political future, with voters weighing leadership, security and the government's policies. Watch WION for the l…",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xnxei5VlpfU/default.jpg?v=6ae4869e"
+          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/default.jpg?v=6ae409f3"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xnxei5VlpfU/mqdefault.jpg?v=6ae4869e"
+          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/mqdefault.jpg?v=6ae409f3"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xnxei5VlpfU/hqdefault.jpg?v=6ae4869e"
+          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/hqdefault.jpg?v=6ae409f3"
         }
       },
-      "concurrentViewers": 29,
-      "startedAt": "2026-10-30T12:13:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "v57Exz4SY1w",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Uttarakhand Helicopter Crash | 6, Including Pilot, On Board Uttarakhand Chopper Killed In Crash",
-      "description": "A helicopter reported missing on the Joshimath-Badrinath route in Chamoli district of Uttarakhand has crashed, killing all six on board, officials said on Friday.\n\nThe helicopter, which took off from Badrinath around 1:14 pm amid snowfall, lost contact near the Hathi Parvat area. The chopper crashe…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/v57Exz4SY1w/default.jpg?v=6ae48d7b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/v57Exz4SY1w/mqdefault.jpg?v=6ae48d7b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/v57Exz4SY1w/hqdefault.jpg?v=6ae48d7b"
-        }
-      },
-      "concurrentViewers": 27,
-      "startedAt": "2026-10-30T12:30:15Z",
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-30T03:00:45Z",
       "regionRestriction": null
     },
     {
@@ -682,15 +562,15 @@
           "url": "https://i.ytimg.com/vi/BG0GmeReHh8/hqdefault.jpg?v=6ae4950b"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 1,
       "startedAt": "2026-10-30T13:03:15Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump",
-      "description": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump\n\n\nAkhilesh Yadav's Samajwadi Party scored a significant win in Varanasi, the constituency of Prime Minister Narendra Modi, in the Uttar Pradesh Legislative Council elections. The Samajwadi Party ret…",
+      "title": "India Today TV LIVE: ISRO's Satellite Launch | Helicopter Crash | Rahul Gandhi | PM Modi | Trump",
+      "description": "India Today TV LIVE: ISRO's Satellite Launch | Helicopter Crash | Rahul Gandhi | PM Modi | Trump\n\n\nAll five passengers and the pilot were killed on Friday afternoon after a helicopter carrying them from the temple town of Badrinath crashed in Uttarakhand's Chamoli district, officials said.\n\nA searc…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -706,14 +586,14 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 447,
+      "concurrentViewers": 181,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "waAy4HH0Vk4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump",
+      "title": "India Today TV LIVE: Chopper Crash In Chamoli | IDBI | US-Iran War | Rahul Gandhi | PM Modi | Trump",
       "description": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade …",
       "channelTitle": "India Today",
       "country": "IN",
@@ -730,39 +610,15 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 136,
+      "concurrentViewers": 35,
       "startedAt": "2026-10-01T02:10:33Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "GVKPA3I6dPI",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Live: PM Modi's Spin To 'Aloo Se Sona' RAGA | Impeachement Event Postponed | CEC | SIR | Rahul",
-      "description": "Live: PM Modi's Spin To 'Aloo Se Sona' RAGA | Impeachement Event Postponed | CEC | SIR | Rahul\n\n#PMModi #RahulGandhi #AlooSeSona #indiatodaylivestream  #RAGA #Impeachment #CEC #SIR #ElectionCommission #IndianPolitics #PoliticalNews #Parliament #IndiaToday  \n\nSubscribe to India Today for NEW VIDEOS …",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GVKPA3I6dPI/default.jpg?v=6ae485f6"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GVKPA3I6dPI/mqdefault.jpg?v=6ae485f6"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GVKPA3I6dPI/hqdefault.jpg?v=6ae485f6"
-        }
-      },
-      "concurrentViewers": 70,
-      "startedAt": "2026-10-30T11:43:26Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Joshimath Helicopter Crash | Rahul Gandhi | PM Modi | Gyanesh Kumar | Hindi News",
-      "description": "उत्तराखंड के चमोली जिले में हाथी पहाड़ के पीछे चायी गांव के पास एक हेलिकॉप्टर क्रैश कर गया. खराब मौसम और लगातार बारिश के कारण रेस्क्यू ऑपरेशन में मुश्किल आ रही है. जानकारी सामने आई है कि इस हादसे में पायलट समेत हेलिकॉप्टर में सवार सभी 6 लोगों की मौत हो गई.\n\nदिल्ली में रामलीला ग्राउंड पर होने वाली व…",
+      "title": "Aaj Tak LIVE TV: ISRO NVS-03 Launch | Joshimath Helicopter Crash | Rahul Gandhi | PM Modi | Gyanesh",
+      "description": "इसरो ने 30 अक्टूबर 2026 की रात 11.51 बजे GSLV-F18 रॉकेट के जरिए NVS-03 सैटेलाइट को सफलतापूर्वक लॉन्च किया. लॉन्चिंग श्रीहरिकोटा के सतीश धवन स्पेस सेंटर में लॉन्च पैड 2 से हुई. इस सैटेलाइट को इसरो 170 किलोमीटर के पेरिजी और 37023 किलोमीटर की एपोजी वाले ऑर्बिट में तैनात करेगा.\n\nउत्तराखंड के चमोली जिले…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -778,32 +634,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 2291,
+      "concurrentViewers": 841,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "BZLJSajq00E",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "INDIA Bloc Rally At Ramlila Maidan: रामलीला मैदान में भरा पानी, कैसे होगी इंडिया गठबंधन की रैली",
-      "description": "1 नवंबर.. दिल्ली में क्या होगा.. जी हां.. वो तारीख जब INDIA गठबंधन की दिल्ली में मेगा रैली तय है। ऐसी रैली जिसमें करीब 10 लाख लोगों के शामिल होने का दावा किया जा रहा है। और वो भी ऐसे वक्त में जब पर्व-त्योहार पर दिल्ली में कारोबार रफ्तार पकड़ रहा हो। विपक्ष की प्रस्तावित रैली चुनाव आयोग और CEC ज्ञान…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BZLJSajq00E/default.jpg?v=6ae45a1e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BZLJSajq00E/mqdefault.jpg?v=6ae45a1e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BZLJSajq00E/hqdefault.jpg?v=6ae45a1e"
-        }
-      },
-      "concurrentViewers": 336,
-      "startedAt": "2026-10-30T08:51:56Z",
       "regionRestriction": null
     },
     {
@@ -826,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/bHmzhKV2l7E/hqdefault.jpg?v=6ae46f08"
         }
       },
-      "concurrentViewers": 332,
+      "concurrentViewers": 49,
       "startedAt": "2026-10-30T09:07:21Z",
       "regionRestriction": null
     },
@@ -850,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 352,
+      "concurrentViewers": 303,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -874,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 146,
+      "concurrentViewers": 168,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -898,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 702,
+      "concurrentViewers": 597,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
