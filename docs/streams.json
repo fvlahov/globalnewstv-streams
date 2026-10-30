@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T00:12:53.233Z",
+  "generatedAt": "2026-10-30T06:15:37.216Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2448,
+      "concurrentViewers": 3963,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 179,
+      "concurrentViewers": 255,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1453,
+      "concurrentViewers": 3099,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,14 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 184,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "6ja04ljfjR8",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Oct. 29",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -122,56 +122,8 @@
           "url": "https://i.ytimg.com/vi/6ja04ljfjR8/hqdefault.jpg?v=6ae38e57"
         }
       },
-      "concurrentViewers": 1582,
+      "concurrentViewers": 466,
       "startedAt": "2026-10-29T21:59:04Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_fhytKFV9eg",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 29",
-      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_fhytKFV9eg/default.jpg?v=6ae3d129"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_fhytKFV9eg/mqdefault.jpg?v=6ae3d129"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_fhytKFV9eg/hqdefault.jpg?v=6ae3d129"
-        }
-      },
-      "concurrentViewers": 83,
-      "startedAt": "2026-10-29T23:51:17Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cOeqkfBgUOM",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Thursday, October 29",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cOeqkfBgUOM/default.jpg?v=6ad94dc1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cOeqkfBgUOM/mqdefault.jpg?v=6ad94dc1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cOeqkfBgUOM/hqdefault.jpg?v=6ad94dc1"
-        }
-      },
-      "concurrentViewers": 912,
-      "startedAt": "2026-10-29T09:58:26Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 581,
+      "concurrentViewers": 674,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/ELzc0rfQY6I/hqdefault.jpg?v=6ae3c5d8"
         }
       },
-      "concurrentViewers": 472,
+      "concurrentViewers": 233,
       "startedAt": "2026-10-29T22:59:47Z",
       "regionRestriction": null
     },
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/gIiI7o_jyC8/hqdefault.jpg?v=6ae32189"
         }
       },
-      "concurrentViewers": 507,
+      "concurrentViewers": 327,
       "startedAt": "2026-10-29T10:37:49Z",
       "regionRestriction": null
     },
@@ -266,32 +218,8 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1218,
+      "concurrentViewers": 294,
       "startedAt": "2026-10-25T11:51:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "JucFd7L9DRE",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Abdul El-Sayed and Elissa Slotkin speak at a rally in Kalamazoo, Michigan",
-      "description": "Watch live from Kalamazoo, Michigan, as Democratic candidates for the U.S. Senate in Michigan Abdul El-Sayed and Sen. Elissa Slotkin hold a rally ahead of the Nov. 3 midterm elections.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JucFd7L9DRE/default.jpg?v=6ae39972"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JucFd7L9DRE/mqdefault.jpg?v=6ae39972"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JucFd7L9DRE/hqdefault.jpg?v=6ae39972"
-        }
-      },
-      "concurrentViewers": 798,
-      "startedAt": "2026-10-29T23:04:54Z",
       "regionRestriction": null
     },
     {
@@ -314,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1434,
+      "concurrentViewers": 3044,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 15,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5809,
+      "concurrentViewers": 8429,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 303,
+      "concurrentViewers": 340,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 972,
+      "concurrentViewers": 1415,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5271,
+      "concurrentViewers": 6602,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 208,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 102,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 147,
+      "concurrentViewers": 159,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -529,23 +457,47 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38b9f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38be8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38b9f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38be8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38b9f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38be8"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 47,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "CHVk0Jig2EA",
+      "videoId": "E4W36Q3fUCI",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Claim Fresh Missile Attack On King Khalid Airport | WION",
+      "title": "Israel Elections 2026 LIVE: Netanyahu's Camp Wins Most Seats In Elections, Falls Short Of Majority",
+      "description": "Israel's political landscape is heating up as Gadi Eisenkot emerges as a challenger to Prime Minister Benjamin Netanyahu ahead of the country's elections. The contest could shape Israel's political future, with voters weighing leadership, security and the government's policies. Watch WION for the l…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/default.jpg?v=6ae409f3"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/mqdefault.jpg?v=6ae409f3"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E4W36Q3fUCI/hqdefault.jpg?v=6ae409f3"
+        }
+      },
+      "concurrentViewers": 89,
+      "startedAt": "2026-10-30T03:00:45Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6HBfnIZsnFs",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Deadly Houthi Missiles Target Key Bases In Saudi,War Expands To Wider Level",
       "description": "Yemen’s Houthi group has claimed fresh attacks targeting King Khalid International Airport in Riyadh, Saudi Arabia. The latest claim comes amid rising regional tensions and concerns over Saudi Arabia’s air defence. The reported attack has not been independently verified.\n\n#KingKhalidAirport #Riyadh…",
       "channelTitle": "WION",
       "country": "IN",
@@ -553,96 +505,120 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/CHVk0Jig2EA/default.jpg?v=6ae2a152"
+          "url": "https://i.ytimg.com/vi/6HBfnIZsnFs/default.jpg?v=6ae3f068"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/CHVk0Jig2EA/mqdefault.jpg?v=6ae2a152"
+          "url": "https://i.ytimg.com/vi/6HBfnIZsnFs/mqdefault.jpg?v=6ae3f068"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/CHVk0Jig2EA/hqdefault.jpg?v=6ae2a152"
+          "url": "https://i.ytimg.com/vi/6HBfnIZsnFs/hqdefault.jpg?v=6ae3f068"
         }
       },
-      "concurrentViewers": 50,
-      "startedAt": "2026-10-29T01:29:51Z",
+      "concurrentViewers": 83,
+      "startedAt": "2026-10-30T01:19:30Z",
       "regionRestriction": null
     },
     {
-      "videoId": "8TnFg_jN_34",
+      "videoId": "PtFFybVGeR8",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Deadly Russian Drone Strike Hits Passenger Train in Ukraine's Dnipro | WION",
-      "description": "Russia-Ukraine War LIVE: A deadly Russian drone strike has hit a passenger train in Dnipro, Ukraine, raising fresh concerns over the safety of civilians amid the ongoing war.\n\nWatch WION LIVE for the latest updates on the reported attack, the situation in Dnipro, and the wider Russia-Ukraine confli…",
+      "title": "US-Iran War LIVE: Trump Prepares For Global War With ‘Doomsday’ Plan, Portable Nuclear Reactors",
+      "description": "The United States Pentagon is developing a strategic preparedness initiative called FORTRESS to ensure major domestic military bases can sustain essential operations independently for at least 90 days if a global war disrupts civilian infrastructure.\n\n\n\n#usiranwar #worldwar3 #usa #iran #trump #wion…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8TnFg_jN_34/default.jpg?v=6ae33088"
+          "url": "https://i.ytimg.com/vi/PtFFybVGeR8/default.jpg?v=6ae3fa23"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8TnFg_jN_34/mqdefault.jpg?v=6ae33088"
+          "url": "https://i.ytimg.com/vi/PtFFybVGeR8/mqdefault.jpg?v=6ae3fa23"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8TnFg_jN_34/hqdefault.jpg?v=6ae33088"
+          "url": "https://i.ytimg.com/vi/PtFFybVGeR8/hqdefault.jpg?v=6ae3fa23"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-10-29T11:54:48Z",
+      "concurrentViewers": 78,
+      "startedAt": "2026-10-30T02:09:42Z",
       "regionRestriction": null
     },
     {
-      "videoId": "XHIOTyr4jYg",
+      "videoId": "HBte_stx6Rs",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Manoj Tiwari News | Manoj Tiwari Takes A Dip In Yamuna, Challenges Kejriwal & Rahul To Do The Same",
-      "description": "BJP MP Manoj Tiwari took a dip in the Yamuna and shared pictures on X, challenging AAP leader Arvind Kejriwal and Congress leader Rahul Gandhi to do the same. Taking a swipe at the opposition over concerns about Yamuna pollution, Tiwari wrote, \"This is not a reel, this is reality,\" and asked when t…",
+      "title": "Today PM Modi LIVE | PM Modi Gujarat LIVE | PM Modi LIVE Gujarat | Narendra Modi LIVE",
+      "description": "Prime Minister Narendra Modi holds a grand roadshow in Banaskantha, Gujarat, during his two-day visit to the state. Watch LIVE visuals as people gather along the route to welcome the Prime Minister.\n\n#PMModi #NarendraModi #PMModiLive #Banaskantha #Gujarat #GujaratVisit #PMModiRoadshow #ModiRoadshow…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XHIOTyr4jYg/default.jpg?v=6ae36436"
+          "url": "https://i.ytimg.com/vi/HBte_stx6Rs/default.jpg?v=6ae425b6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XHIOTyr4jYg/mqdefault.jpg?v=6ae36436"
+          "url": "https://i.ytimg.com/vi/HBte_stx6Rs/mqdefault.jpg?v=6ae425b6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XHIOTyr4jYg/hqdefault.jpg?v=6ae36436"
+          "url": "https://i.ytimg.com/vi/HBte_stx6Rs/hqdefault.jpg?v=6ae425b6"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-29T15:22:01Z",
+      "concurrentViewers": 122,
+      "startedAt": "2026-10-30T05:09:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "abkUqoGW1c0",
+      "videoId": "Fdoq9ckFP-c",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Congress News Today LIVE | Congress Breaks Its Duck In Nagpur As MVA Wins 3 Of 5 MLC Seats",
-      "description": "The Congress has sprung a surprise by winning the Nagpur Graduates' MLC seat in Maharashtra, turning the tables on the BJP after being mocked over its poor performance in the recent MLC polls. The Maha Vikas Aghadi (MVA) won three of the five seats, while the ruling Mahayuti secured two. The Nagpur…",
+      "title": "BJP Gujarat | PM Narendra Modi LIVE | Banaskantha LIVE | PM Modi Speech Today LIVE | NDTV LIVE",
+      "description": "Prime Minister Narendra Modi inaugurates various development projects in Banaskantha, Gujarat, during his two-day visit to the state. Watch LIVE coverage of the inauguration and PM Modi's speech from Banaskantha.\n\n#PMModi #NarendraModi #Gujarat #Banaskantha #BJPGujarat #PMModiLive #PMModiSpeech #De…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/default.jpg?v=6ae33c79"
+          "url": "https://i.ytimg.com/vi/Fdoq9ckFP-c/default.jpg?v=6ae4335c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/mqdefault.jpg?v=6ae33c79"
+          "url": "https://i.ytimg.com/vi/Fdoq9ckFP-c/mqdefault.jpg?v=6ae4335c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/hqdefault.jpg?v=6ae33c79"
+          "url": "https://i.ytimg.com/vi/Fdoq9ckFP-c/hqdefault.jpg?v=6ae4335c"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-10-29T12:33:08Z",
+      "concurrentViewers": 102,
+      "startedAt": "2026-10-30T06:07:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fltkUUyVgR4",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Shintaphu Lake Bhutan | Bhutan Flood | Bhutan Glacial Lake Outburst: Assam & Bengal Under Threat",
+      "description": "A potential downstream flood emergency is putting vulnerable areas along the India-Bhutan border on alert. The Sankosh river basin, which carries water from Bhutan into Assam and North Bengal before joining the Brahmaputra, is being closely monitored. District administrations are alerting residents…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fltkUUyVgR4/default.jpg?v=6ae42512"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fltkUUyVgR4/mqdefault.jpg?v=6ae42512"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fltkUUyVgR4/hqdefault.jpg?v=6ae42512"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-10-30T05:23:32Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Political & Global News| Cyclone Arnab | Israel Election | Rahul Gandhi | Trump",
-      "description": "India Today TV LIVE: Political & Global News| Cyclone Arnab | Israel Election | Rahul Gandhi | Trump\n\nAkhilesh Yadav's Samajwadi Party scored a significant win in Varanasi, the constituency of Prime Minister Narendra Modi, in the Uttar Pradesh Legislative Council elections. The Samajwadi Party reta…",
+      "title": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump",
+      "description": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump\n\n\nAkhilesh Yadav's Samajwadi Party scored a significant win in Varanasi, the constituency of Prime Minister Narendra Modi, in the Uttar Pradesh Legislative Council elections. The Samajwadi Party ret…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -658,39 +634,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 91,
+      "concurrentViewers": 414,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "PhJWHEBM-Bo",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai  LIVE: SIR Rallying Point For Opposition INDIA Bloc? | Gyanesh Kumar | BJP vs Cong",
-      "description": "Rajdeep Sardesai  LIVE: SIR Rallying Point For Opposition INDIA Bloc? | Gyanesh Kumar | BJP vs Cong\n#rahulgandhi #chalodelhi  #gyaneshkumar #cec #indiatodaylive #sir #specialintensiverevision #opposition #politics #delhinews #electioncommission #indianpolitics #politicalnews #live #SIR #SIRExercise…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PhJWHEBM-Bo/default.jpg?v=6ae366af"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PhJWHEBM-Bo/mqdefault.jpg?v=6ae366af"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PhJWHEBM-Bo/hqdefault.jpg?v=6ae366af"
-        }
-      },
-      "concurrentViewers": 24,
-      "startedAt": "2026-10-29T15:33:28Z",
       "regionRestriction": null
     },
     {
       "videoId": "waAy4HH0Vk4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: 64 Dead In Spain Train Crash | Cyclone Arnab | Israel Election | Rahul Gandhi",
-      "description": "India Today TV LIVE: 64 Dead In Spain Train Crash | Cyclone Arnab | Israel Election | Rahul Gandhi \n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade D…",
+      "title": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump",
+      "description": "India Today TV LIVE: Glacial Lake Outburst In Bhutan  | US-Iran War | Rahul Gandhi | PM Modi | Trump\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -706,15 +658,15 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 67,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Karwa Chauth 2026 | MLC Election Result |Akhilesh Yadav |UP Election |BJP |Congress",
-      "description": "अमेरिकी राष्ट्रपति ने एक- बार फिर ईरान पर हमले की धमकी दी है, ये हमला अमेरिका में होने वाले मिड टर्म चुनाव के बाद हो सकता है. ट्रंप ने यही कहा है कि ईरान के साथ बातचीत से समाधान नहीं निकला तो बहुत बड़ा हमला करेंगे.\n\nउत्तर प्रदेश विधान परिषद चुनावों में समाजवादी पार्टी ने बढ़त हासिल की है और ऐसे में…",
+      "title": "Aaj Tak LIVE TV: PM Modi Gujarat Visit | INDIA Alliance | Gyanesh Kumar | Congress | Hindi News",
+      "description": "मुख्य चुनाव आयुक्त के खिलाफ आज कांग्रेस का 'जनमहाभियोग', खरगे पेश करेंगे प्रस्ताव, मीरा कुमार करेंगी अध्यक्षता... कांग्रेस के जन महाभियोग के जवाब में NDMC कन्वेंशन सेंटर में सिटिजन ग्रुप का मॉक पार्लियामेंट\n\nचलो दिल्ली अभियान के लिए राहुल का एलान,1 नवंबर की रामलीला रैली को बताया हिंदुस्तान की आत्मा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -730,56 +682,8 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 317,
+      "concurrentViewers": 2223,
       "startedAt": "2026-10-01T01:07:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "gU-djo0Ygq4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Israel Election Result Live News: इजरायल में चुनावी धांधली का सच क्या है? | Netanyahu | Aaj Tak",
-      "description": "इजराइल के चुनाव में प्रधानमंत्री बेंजामिन नेतन्याहू और विपक्षी नेता गादी आइजनकोट, दोनों बहुमत से दूर रह गए हैं। 90.5% वोटों की गिनती के बाद नेतन्याहू का गठबंधन 53 सीटों और आइजनकोट का विपक्षी गठबंधन 48 सीटों पर आगे है।\n#israelelection2026 #netanyahu #gadieisenkot #breakingnews  #aajtakdigital \n\nआजतक…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/gU-djo0Ygq4/default.jpg?v=6ae38c4d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/gU-djo0Ygq4/mqdefault.jpg?v=6ae38c4d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/gU-djo0Ygq4/hqdefault.jpg?v=6ae38c4d"
-        }
-      },
-      "concurrentViewers": 60,
-      "startedAt": "2026-10-29T18:12:11Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "2-Zxe7l_Fqk",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "America Iran War: Donald Trump ने एक- बार फिर Iran पर हमले की धमकी दी | US-Iran War | IRGC",
-      "description": "अमेरिकी राष्ट्रपति ने एक- बार फिर ईरान पर हमले की धमकी दी है, ये हमला अमेरिका में होने वाले मिड टर्म चुनाव के बाद हो सकता है. ट्रंप ने यही कहा है कि ईरान के साथ बातचीत से समाधान नहीं निकला तो बहुत बड़ा हमला करेंगे.\n#usiranwar #donaldtrump #benjaminnetanyahu #indiaisraelfriendship  #aajtakdigital \n\n…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2-Zxe7l_Fqk/default.jpg?v=6ae39107"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2-Zxe7l_Fqk/mqdefault.jpg?v=6ae39107"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2-Zxe7l_Fqk/hqdefault.jpg?v=6ae39107"
-        }
-      },
-      "concurrentViewers": 42,
-      "startedAt": "2026-10-29T18:32:22Z",
       "regionRestriction": null
     },
     {
@@ -802,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1980,
+      "concurrentViewers": 1011,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -826,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 102,
+      "concurrentViewers": 112,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -850,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2663,
+      "concurrentViewers": 1460,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
