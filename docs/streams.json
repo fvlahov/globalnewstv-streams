@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T20:28:48.676Z",
+  "generatedAt": "2026-10-30T00:12:53.233Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,56 +22,8 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3378,
+      "concurrentViewers": 2448,
       "startedAt": "2026-10-19T17:27:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-OyP3viRHq0",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Actor Sir Patrick Stewart dies aged 86 | Sky News coverage",
-      "description": "Watch live as Star Trek and X-Men actor Sir Patrick Stewart has died at the age of 86.\n\nStewart died on Wednesday at his home in Los Angeles, a statement on his social media pages announced.\n\nA post on Instagram said: \"We announce with great sorrow the passing of Sir Patrick Stewart yesterday at hi…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-OyP3viRHq0/default.jpg?v=6ae3a7a2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-OyP3viRHq0/mqdefault.jpg?v=6ae3a7a2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-OyP3viRHq0/hqdefault.jpg?v=6ae3a7a2"
-        }
-      },
-      "concurrentViewers": 2442,
-      "startedAt": "2026-10-29T19:50:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-5aBh6RIokw",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Tributes pour in after Sir Patrick Stewart's death | The UK Tonight with Sarah-Jane Mee",
-      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news.\n\nWith a thoughtful look at the people at the heart of the headlines and featuring powerful interview…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-5aBh6RIokw/default.jpg?v=6ae3a595"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-5aBh6RIokw/mqdefault.jpg?v=6ae3a595"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-5aBh6RIokw/hqdefault.jpg?v=6ae3a595"
-        }
-      },
-      "concurrentViewers": 209,
-      "startedAt": "2026-10-29T19:49:14Z",
       "regionRestriction": null
     },
     {
@@ -94,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 385,
+      "concurrentViewers": 179,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -122,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2521,
+      "concurrentViewers": 1453,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "V8eq6FLQ3hM",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Jacob Rees-Mogg's State Of The Nation | Thursday 29th October",
-      "description": "Join Jacob for his unique and unmissable take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/V8eq6FLQ3hM/default.jpg?v=6ae38b23"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/V8eq6FLQ3hM/mqdefault.jpg?v=6ae38b23"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/V8eq6FLQ3hM/hqdefault.jpg?v=6ae38b23"
-        }
-      },
-      "concurrentViewers": 142,
-      "startedAt": "2026-10-29T20:24:52Z",
       "regionRestriction": null
     },
     {
@@ -170,12 +98,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 94,
+      "concurrentViewers": 42,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "JYp206vrvxY",
+      "videoId": "6ja04ljfjR8",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Oct. 29",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -185,17 +113,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JYp206vrvxY/default.jpg?v=6ae23598"
+          "url": "https://i.ytimg.com/vi/6ja04ljfjR8/default.jpg?v=6ae38e57"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JYp206vrvxY/mqdefault.jpg?v=6ae23598"
+          "url": "https://i.ytimg.com/vi/6ja04ljfjR8/mqdefault.jpg?v=6ae38e57"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JYp206vrvxY/hqdefault.jpg?v=6ae23598"
+          "url": "https://i.ytimg.com/vi/6ja04ljfjR8/hqdefault.jpg?v=6ae38e57"
         }
       },
-      "concurrentViewers": 2538,
-      "startedAt": "2026-10-29T10:18:21Z",
+      "concurrentViewers": 1582,
+      "startedAt": "2026-10-29T21:59:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_fhytKFV9eg",
+      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 29",
+      "description": "For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n» Watch more NBC video: http://bit.ly/MoreNBCNews\n\nNBC News Digital is a collection of innovative and powerful news brands that…",
+      "channelTitle": "NBC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_fhytKFV9eg/default.jpg?v=6ae3d129"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_fhytKFV9eg/mqdefault.jpg?v=6ae3d129"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_fhytKFV9eg/hqdefault.jpg?v=6ae3d129"
+        }
+      },
+      "concurrentViewers": 83,
+      "startedAt": "2026-10-29T23:51:17Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/cOeqkfBgUOM/hqdefault.jpg?v=6ad94dc1"
         }
       },
-      "concurrentViewers": 1132,
+      "concurrentViewers": 912,
       "startedAt": "2026-10-29T09:58:26Z",
       "regionRestriction": null
     },
@@ -242,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 624,
+      "concurrentViewers": 581,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "AD9eA3W0xNU",
+      "videoId": "ELzc0rfQY6I",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -257,17 +209,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/AD9eA3W0xNU/default.jpg?v=6ae32584"
+          "url": "https://i.ytimg.com/vi/ELzc0rfQY6I/default.jpg?v=6ae3c5d8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/AD9eA3W0xNU/mqdefault.jpg?v=6ae32584"
+          "url": "https://i.ytimg.com/vi/ELzc0rfQY6I/mqdefault.jpg?v=6ae3c5d8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/AD9eA3W0xNU/hqdefault.jpg?v=6ae32584"
+          "url": "https://i.ytimg.com/vi/ELzc0rfQY6I/hqdefault.jpg?v=6ae3c5d8"
         }
       },
-      "concurrentViewers": 614,
-      "startedAt": "2026-10-29T11:00:26Z",
+      "concurrentViewers": 472,
+      "startedAt": "2026-10-29T22:59:47Z",
       "regionRestriction": null
     },
     {
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/gIiI7o_jyC8/hqdefault.jpg?v=6ae32189"
         }
       },
-      "concurrentViewers": 872,
+      "concurrentViewers": 507,
       "startedAt": "2026-10-29T10:37:49Z",
       "regionRestriction": null
     },
@@ -314,8 +266,32 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1416,
+      "concurrentViewers": 1218,
       "startedAt": "2026-10-25T11:51:46Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "JucFd7L9DRE",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Abdul El-Sayed and Elissa Slotkin speak at a rally in Kalamazoo, Michigan",
+      "description": "Watch live from Kalamazoo, Michigan, as Democratic candidates for the U.S. Senate in Michigan Abdul El-Sayed and Sen. Elissa Slotkin hold a rally ahead of the Nov. 3 midterm elections.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JucFd7L9DRE/default.jpg?v=6ae39972"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JucFd7L9DRE/mqdefault.jpg?v=6ae39972"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JucFd7L9DRE/hqdefault.jpg?v=6ae39972"
+        }
+      },
+      "concurrentViewers": 798,
+      "startedAt": "2026-10-29T23:04:54Z",
       "regionRestriction": null
     },
     {
@@ -338,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 6232,
+      "concurrentViewers": 1434,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -362,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 25,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -386,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8050,
+      "concurrentViewers": 5809,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 464,
+      "concurrentViewers": 303,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -438,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1404,
+      "concurrentViewers": 972,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -462,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7573,
+      "concurrentViewers": 5271,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -486,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 124,
+      "concurrentViewers": 104,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -514,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 75,
+      "concurrentViewers": 50,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -538,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 169,
+      "concurrentViewers": 147,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -553,16 +529,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38b72"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38b9f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38b72"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38b9f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38b72"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38b9f"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 23,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -586,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/CHVk0Jig2EA/hqdefault.jpg?v=6ae2a152"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 50,
       "startedAt": "2026-10-29T01:29:51Z",
       "regionRestriction": null
     },
@@ -610,32 +586,8 @@
           "url": "https://i.ytimg.com/vi/8TnFg_jN_34/hqdefault.jpg?v=6ae33088"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 23,
       "startedAt": "2026-10-29T11:54:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "abkUqoGW1c0",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Congress News Today LIVE | Congress Breaks Its Duck In Nagpur As MVA Wins 3 Of 5 MLC Seats",
-      "description": "The Congress has sprung a surprise by winning the Nagpur Graduates' MLC seat in Maharashtra, turning the tables on the BJP after being mocked over its poor performance in the recent MLC polls. The Maha Vikas Aghadi (MVA) won three of the five seats, while the ruling Mahayuti secured two. The Nagpur…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/default.jpg?v=6ae33c79"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/mqdefault.jpg?v=6ae33c79"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/hqdefault.jpg?v=6ae33c79"
-        }
-      },
-      "concurrentViewers": 2,
-      "startedAt": "2026-10-29T12:33:08Z",
       "regionRestriction": null
     },
     {
@@ -663,6 +615,30 @@
       "regionRestriction": null
     },
     {
+      "videoId": "abkUqoGW1c0",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Congress News Today LIVE | Congress Breaks Its Duck In Nagpur As MVA Wins 3 Of 5 MLC Seats",
+      "description": "The Congress has sprung a surprise by winning the Nagpur Graduates' MLC seat in Maharashtra, turning the tables on the BJP after being mocked over its poor performance in the recent MLC polls. The Maha Vikas Aghadi (MVA) won three of the five seats, while the ruling Mahayuti secured two. The Nagpur…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/default.jpg?v=6ae33c79"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/mqdefault.jpg?v=6ae33c79"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/abkUqoGW1c0/hqdefault.jpg?v=6ae33c79"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-10-29T12:33:08Z",
+      "regionRestriction": null
+    },
+    {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
       "title": "India Today TV LIVE: Political & Global News| Cyclone Arnab | Israel Election | Rahul Gandhi | Trump",
@@ -682,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 108,
+      "concurrentViewers": 91,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/PhJWHEBM-Bo/hqdefault.jpg?v=6ae366af"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 24,
       "startedAt": "2026-10-29T15:33:28Z",
       "regionRestriction": null
     },
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 16,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -754,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 321,
+      "concurrentViewers": 317,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
@@ -778,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/gU-djo0Ygq4/hqdefault.jpg?v=6ae38c4d"
         }
       },
-      "concurrentViewers": 200,
+      "concurrentViewers": 60,
       "startedAt": "2026-10-29T18:12:11Z",
       "regionRestriction": null
     },
@@ -802,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/2-Zxe7l_Fqk/hqdefault.jpg?v=6ae39107"
         }
       },
-      "concurrentViewers": 68,
+      "concurrentViewers": 42,
       "startedAt": "2026-10-29T18:32:22Z",
       "regionRestriction": null
     },
@@ -826,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 320,
+      "concurrentViewers": 1980,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -850,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 134,
+      "concurrentViewers": 102,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -874,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2475,
+      "concurrentViewers": 2663,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
