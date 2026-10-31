@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T08:41:54.784Z",
+  "generatedAt": "2026-10-31T15:08:32.059Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n\n🔴 Ukraine war latest: Kremlin accuses Kyiv of ignoring Trump in deadly strike - as buses evacuate Oleshky https://news.sky.com/story/ukraine-war-latest-zelenskyy-starlink-…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Ukraine war: Special forces reveal details of 'ambush' behind enemy lines - after $2.1bn deal with US agreed - https://trib.al/fa45YxG\n\n🔴 Virgin Media O2 to axe t…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4576,
+      "concurrentViewers": 3864,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qL0wnGz_-wg",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "France facing more protests as marchers gather in Paris",
+      "description": "Live coverage of a protest march in Paris against high living costs, rising fuel prices, public spending cuts and poor school conditions and teacher shortages.\n\n🌏 More from around the world ➡️ https://trib.al/TS3gUq4\n\n#Paris #France #Protest #Riot #Lille #StudentProtest #SkyNews #Live #BreakingNew…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qL0wnGz_-wg/default.jpg?v=6ae5eee1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qL0wnGz_-wg/mqdefault.jpg?v=6ae5eee1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qL0wnGz_-wg/hqdefault.jpg?v=6ae5eee1"
+        }
+      },
+      "concurrentViewers": 276,
+      "startedAt": "2026-10-31T13:37:33Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 412,
+      "concurrentViewers": 258,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2133,
+      "concurrentViewers": 1867,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "yFkIwhAEqPU",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Nana Akua | Saturday 31st October",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yFkIwhAEqPU/default.jpg?v=6ae5ee10"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yFkIwhAEqPU/mqdefault.jpg?v=6ae5ee10"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yFkIwhAEqPU/hqdefault.jpg?v=6ae5ee10"
+        }
+      },
+      "concurrentViewers": 330,
+      "startedAt": "2026-10-31T14:56:29Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 372,
+      "concurrentViewers": 118,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,8 +170,32 @@
           "url": "https://i.ytimg.com/vi/GkQTef2ZDzk/hqdefault.jpg?v=6ae4d9af"
         }
       },
-      "concurrentViewers": 459,
+      "concurrentViewers": 1072,
       "startedAt": "2026-10-30T21:59:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "cidZ807JTBo",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Saturday, October 31",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cidZ807JTBo/default.jpg?v=6ad94e80"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cidZ807JTBo/mqdefault.jpg?v=6ad94e80"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cidZ807JTBo/hqdefault.jpg?v=6ad94e80"
+        }
+      },
+      "concurrentViewers": 1192,
+      "startedAt": "2026-10-31T09:58:25Z",
       "regionRestriction": null
     },
     {
@@ -146,56 +218,32 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 359,
+      "concurrentViewers": 571,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "5GIjlwoCblo",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, October 30",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5GIjlwoCblo/default.jpg?v=6ad94e1d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5GIjlwoCblo/mqdefault.jpg?v=6ad94e1d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5GIjlwoCblo/hqdefault.jpg?v=6ad94e1d"
-        }
-      },
-      "concurrentViewers": 214,
-      "startedAt": "2026-10-30T09:58:00Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "hWNN_REXBx0",
+      "videoId": "O_xDTLIv-FI",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump rallies in Florida, Alaska Senate race probe, Brewers victory parade & more",
-      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
+      "title": "LIVE: California Spirit Halloween shooting, Midterm elections, Alaska Senate race probe, top stories",
+      "description": "One person was killed and six others were wounded in a shooting at a Spirit Halloween store in Fairfield, California, Friday night.\n\nBoth parties are making their final push with three days left until Election Day. \n\nThe U.S. Department of Justice (DOJ) and state prosecutors are actively investigat…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hWNN_REXBx0/default.jpg?v=6ae48be2"
+          "url": "https://i.ytimg.com/vi/O_xDTLIv-FI/default.jpg?v=6ae5d0ed"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hWNN_REXBx0/mqdefault.jpg?v=6ae48be2"
+          "url": "https://i.ytimg.com/vi/O_xDTLIv-FI/mqdefault.jpg?v=6ae5d0ed"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hWNN_REXBx0/hqdefault.jpg?v=6ae48be2"
+          "url": "https://i.ytimg.com/vi/O_xDTLIv-FI/hqdefault.jpg?v=6ae5d0ed"
         }
       },
-      "concurrentViewers": 254,
-      "startedAt": "2026-10-30T12:26:52Z",
+      "concurrentViewers": 704,
+      "startedAt": "2026-10-31T11:29:51Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 215,
+      "concurrentViewers": 908,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -242,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1219,
+      "concurrentViewers": 1363,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 16,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6893,
+      "concurrentViewers": 8505,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 343,
+      "concurrentViewers": 444,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1428,
+      "concurrentViewers": 1272,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6466,
+      "concurrentViewers": 5405,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 196,
+      "concurrentViewers": 152,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 79,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -457,65 +505,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38d25"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38d74"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38d25"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38d74"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38d25"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38d74"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 19,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QkO2jq2ZL4E",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Iran War LIVE: IRGC Says 4 Oil Tankers Catch Fire In Strait Of Hormuz | WION",
-      "description": "US Iran War LIVE: IRGC Says 4 Oil Tankers Catch Fire In Strait Of Hormuz | WION\n\nIran's Revolutionary Guards Navy claims four oil tankers caught fire and exploded in the Strait of Hormuz while using what it called unauthorised routes. In its latest statement, the IRGC said a fourth tanker carrying …",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/default.jpg?v=6ae5a513"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/mqdefault.jpg?v=6ae5a513"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/hqdefault.jpg?v=6ae5a513"
-        }
-      },
-      "concurrentViewers": 49,
-      "startedAt": "2026-10-31T08:33:49Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "VnbhAW2C020",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "LIVE: Bhutan's Glacial Lake Explodes! Flood Fears Grip Eastern India | WION",
-      "description": "A glacial lake outburst in Bhutan has triggered flood fears across eastern India, putting areas of West Bengal and Assam on alert. The sudden release of water from the Himalayan lake has raised concerns about rising river levels, flash floods and possible downstream impact.\n\n\n#bhutan #bhutanglacial…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VnbhAW2C020/default.jpg?v=6ae59e95"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VnbhAW2C020/mqdefault.jpg?v=6ae59e95"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VnbhAW2C020/hqdefault.jpg?v=6ae59e95"
-        }
-      },
-      "concurrentViewers": 47,
-      "startedAt": "2026-10-31T07:54:32Z",
       "regionRestriction": null
     },
     {
@@ -538,15 +538,63 @@
           "url": "https://i.ytimg.com/vi/7WXU55m93ZE/hqdefault.jpg?v=6ae1e72c"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 22,
       "startedAt": "2026-10-31T07:16:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QkO2jq2ZL4E",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "US Iran War LIVE: IRGC Says 4 Oil Tankers Catch Fire In Strait Of Hormuz | WION",
+      "description": "US Iran War LIVE: IRGC Says 4 Oil Tankers Catch Fire In Strait Of Hormuz | WION\n\nIran's Revolutionary Guards Navy claims four oil tankers caught fire and exploded in the Strait of Hormuz while using what it called unauthorised routes. In its latest statement, the IRGC said a fourth tanker carrying …",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/default.jpg?v=6ae5a513"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/mqdefault.jpg?v=6ae5a513"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/hqdefault.jpg?v=6ae5a513"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-10-31T08:33:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "iDsBsv9qpl4",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "PM Modi In Gujarat's Banaskantha: I Will Continue Serving People Until My Last Breath",
+      "description": "Prime Minister Narendra Modi said he would continue serving the people of India until his last breath while addressing a gathering in Bhildi, Gujarat's Banaskantha district. His remarks came days after Congress president Mallikarjun Kharge's comment, “Modi ka baap bhi jayega”. The Prime Minister wa…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iDsBsv9qpl4/default.jpg?v=6ae5f256"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iDsBsv9qpl4/mqdefault.jpg?v=6ae5f256"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iDsBsv9qpl4/hqdefault.jpg?v=6ae5f256"
+        }
+      },
+      "concurrentViewers": 142,
+      "startedAt": "2026-10-31T13:52:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "NPK8fLyEvfI",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: Bhutan Lake Outburst | Delhi Weather | National Unity Day | CEC Public Impeachment",
-      "description": "News of a sudden discharge of water from the Shintaphu Lake in Bhutan, following a glacial lake outburst flood (GLOF), triggered panic among residents living near the banks of the Sankosh River along the Assam-West Bengal border on Thursday evening.\n\nFears of flooding gripped residents of places su…",
+      "title": "NDTV LIVE: INDIA Bloc Rally | Gyanesh Kumar | National Unity Day | PM Modi | Bhutan News",
+      "description": "The Congress-led INDIA bloc began what it called a \"public impeachment\" of Chief Election Commissioner Gyanesh Kumar, reiterating its central allegation that the BJP-led NDA government is \"illegitimate\" as recent elections have been \"stolen\". Congress president Mallikarjun Kharge moved the \"motion\"…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
@@ -562,15 +610,39 @@
           "url": "https://i.ytimg.com/vi/NPK8fLyEvfI/hqdefault.jpg?v=6ae54a92"
         }
       },
-      "concurrentViewers": 148,
+      "concurrentViewers": 86,
       "startedAt": "2026-10-31T01:56:13Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hUaXUK5ICLM",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "PM Modi Hails Sardar Patel's Legacy, Targets Opposition On Unity Day | Full Speech",
+      "description": "Addressing the National Unity Day celebrations at the Statue of Unity, Prime Minister Narendra Modi paid tribute to Sardar Vallabhbhai Patel for unifying over 550 princely states and shaping modern India. Modi highlighted achievements ranging from the elimination of Left-wing extremism in affected …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hUaXUK5ICLM/default.jpg?v=6ae5fdc5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hUaXUK5ICLM/mqdefault.jpg?v=6ae5fdc5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hUaXUK5ICLM/hqdefault.jpg?v=6ae5fdc5"
+        }
+      },
+      "concurrentViewers": 34,
+      "startedAt": "2026-10-31T14:41:27Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: PM Modi | ISRO | Gyanesh Kumar Row | Rahul Gandhi | Amit Shah | Trump",
-      "description": "India Today TV LIVE: PM Modi | ISRO | Gyanesh Kumar Row | Rahul Gandhi | Amit Shah | Trump\n\n\nAll five passengers and the pilot were killed on Friday afternoon after a helicopter carrying them from the temple town of Badrinath crashed in Uttarakhand's Chamoli district, officials said.\n\nA search and …",
+      "title": "India Today TV LIVE: Gyanesh Kumar Impeachment | Rahul Gandhi | Amit Shah | Trump | US Midterms",
+      "description": "India Today TV LIVE: Gyanesh Kumar Impeachment | Rahul Gandhi | Amit Shah | Trump | US Midterms \n\nRahul Gandhi has appealed to supporters to join the November 1 Chalo Dilli march from Minto Road via Ajmeri Gate to Ramlila Maidan at 12 PM. The appeal comes amid continued objections from Delhi trader…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -586,15 +658,39 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 535,
+      "concurrentViewers": 793,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "b9nwNvTesyY",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Abhishek Manu Singhvi Exclusive | INDIA vs NDA Showdown Over CEC Gyanesh Kumar Impeachment",
+      "description": "LIVE: Abhishek Manu Singhvi Exclusive | INDIA vs NDA Showdown Over CEC Gyanesh Kumar Impeachment \n\n#indiabloc #gyaneshkumar #rahulgandhi #mallikarjunkharge #meirakumar #electioncommission #publicimpeachment #sir #voterlist #november1rally #delhi #INDIABloc #GyaneshKumar #CEC #AbhishekManuSinghvi #S…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b9nwNvTesyY/default.jpg?v=6ae5ff37"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b9nwNvTesyY/mqdefault.jpg?v=6ae5ff37"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b9nwNvTesyY/hqdefault.jpg?v=6ae5ff37"
+        }
+      },
+      "concurrentViewers": 220,
+      "startedAt": "2026-10-31T14:58:31Z",
       "regionRestriction": null
     },
     {
       "videoId": "waAy4HH0Vk4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: ISRO's Satellite Launch | Gyanesh Kumar Row | Rahul Gandhi | PM Modi | Trump",
-      "description": "India Today TV LIVE: ISRO's Satellite Launch | Gyanesh Kumar Row | Rahul Gandhi | PM Modi | Trump\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade Dea…",
+      "title": "India Today TV LIVE: Gyanesh Kumar Impeachment | Rahul Gandhi | Amit Shah | Trump | US Midterms",
+      "description": "India Today TV LIVE: Gyanesh Kumar Impeachment | Rahul Gandhi | Amit Shah | Trump | US Midterms\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the DelhiAQI , China Earthquke, Diljit Delhi Show, US-India Trade Deal …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,39 +706,15 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 101,
       "startedAt": "2026-10-01T02:10:33Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qnFCPrl8ZAI",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: ISRO Launches NVS-03 | India's Homegrown GPS Navic Gets A Major Boost | India Today",
-      "description": "India has strengthened its indigenous satellite navigation capabilities with the successful launch of NVS-03 by ISRO. The satellite was carried into space aboard the GSLV-F18 rocket from the Satish Dhawan Space Centre in Sriharikota.\n\nNVS-03 is part of the next-generation satellite series designed …",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qnFCPrl8ZAI/default.jpg?v=6ae54747"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qnFCPrl8ZAI/mqdefault.jpg?v=6ae54747"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qnFCPrl8ZAI/hqdefault.jpg?v=6ae54747"
-        }
-      },
-      "concurrentViewers": 26,
-      "startedAt": "2026-10-31T01:38:52Z",
       "regionRestriction": null
     },
     {
       "videoId": "eLrPiGikPvM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: INDIA Alliance Mock Parliament | Rahul Gandhi | PM Modi | ISRO | Hindi News",
-      "description": "SIR और वोट चोरी के आरोपों पर अमित शाह की राहुल-अखिलेश को चुनौती-कहा, हम संसद में चर्चा को तैयार, बुला लेते हैं विशेष सत्र- कांग्रेस का जवाब...ज्ञानेश के इस्तीफे से कम मंजूर नहीं \n\nदिल्ली में 1 नवंबर को रैली बनाम रैली- इंडिया गठबंधन की जनसभा के खिलाफ बीजेपी भी निकालेगी मार्च- कई बाजार संघों ने भी रा…",
+      "title": "Aaj Tak LIVE TV: Rahul Gandhi | PM Modi | INDIA Alliance Mock Parliament | Gyanesh Kumar |Hindi News",
+      "description": "राष्ट्रीय एकता दिवस के मौके पर एकता नगर में शाम 5 बजे परेड शुरू हो गई है. इस बार परेड को पहले के मुकाबले ज्यादा भव्य और विविधतापूर्ण बनाया गया है. परेड में कुल 15 झांकियां शामिल हैं, जो कार्यक्रम का प्रमुख आकर्षण हैं. एकता दिवस पर बोले प्रधानमंत्री मोदी, कहा कि सरदार पटेल के बिना आज के भारत की कल्प…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -658,32 +730,56 @@
           "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
         }
       },
-      "concurrentViewers": 1852,
+      "concurrentViewers": 2901,
       "startedAt": "2026-10-01T01:07:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Z6iS8pGk4kM",
+      "videoId": "B_6doMZuboU",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "ISRO NVS-03 Launch Live: भारत का GPS सैटेलाइट लॉन्च LIVE | Space Mission 2026 | Aaj Tak News",
-      "description": "इसरो ने 30 अक्टूबर 2026 की रात 11.51 बजे GSLV-F18 रॉकेट के जरिए NVS-03 सैटेलाइट को सफलतापूर्वक लॉन्च किया. लॉन्चिंग श्रीहरिकोटा के सतीश धवन स्पेस सेंटर में लॉन्च पैड 2 से हुई. इस सैटेलाइट को इसरो 170 किलोमीटर के पेरिजी और 37023 किलोमीटर की एपोजी वाले ऑर्बिट में तैनात करेगा.\n#isro #nvs03 #gslvf18 #s…",
+      "title": "Rahul Gandhi Live in Mock Parliament: CEC के खिलाफ राहुल गांधी का बड़ा बयान | Rahul Gandhi | Aaj Tak",
+      "description": "इंडिया ब्लॉक का नई दिल्ली में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ प्रतीकात्मक सार्वजनिक 'इम्पीचमेंट' शुरू हो गया है. इसमें करीब 21 विपक्षी दल शामिल होंगे. कार्यक्रम में SIR और कथित चुनावी अनियमितताओं को लेकर ज्ञानेश कुमार के इस्तीफे की मांग की जाएगी. पूर्व लोकसभा अध्यक्ष मीरा कुमार कार्यवाही …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Z6iS8pGk4kM/default.jpg?v=6ae4dded"
+          "url": "https://i.ytimg.com/vi/B_6doMZuboU/default.jpg?v=6ae5ebbc"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Z6iS8pGk4kM/mqdefault.jpg?v=6ae4dded"
+          "url": "https://i.ytimg.com/vi/B_6doMZuboU/mqdefault.jpg?v=6ae5ebbc"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Z6iS8pGk4kM/hqdefault.jpg?v=6ae4dded"
+          "url": "https://i.ytimg.com/vi/B_6doMZuboU/hqdefault.jpg?v=6ae5ebbc"
         }
       },
-      "concurrentViewers": 422,
-      "startedAt": "2026-10-30T18:12:48Z",
+      "concurrentViewers": 1383,
+      "startedAt": "2026-10-31T13:22:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "RKF26z4br4U",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Adbhut Avishvasniya Akalpniya With Sweta Singh LIVE: तोते जो पढ़ते हैं हनुमान चालीसा | Aaj Tak LIVE",
+      "description": "Adbhut Avishvasniya Akalpniya With Sweta Singh LIVE: तोते जो पढ़ते हैं हनुमान चालीसा | Aaj Tak LIVE\nप्रकृति के अनमोल जीवों में तोते की बुद्धिमत्ता हमेशा से इंसानों को हैरान करती रही है, लेकिन सोशल मीडिया पर इन दिनों कुछ ऐसे अद्भुत तोते छाए हुए हैं जो अपनी बातचीत, हनुमान चालीसा के पाठ और हैरान कर दे…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RKF26z4br4U/default.jpg?v=6ae5fb36"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RKF26z4br4U/mqdefault.jpg?v=6ae5fb36"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RKF26z4br4U/hqdefault.jpg?v=6ae5fb36"
+        }
+      },
+      "concurrentViewers": 510,
+      "startedAt": "2026-10-31T14:29:50Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 485,
+      "concurrentViewers": 404,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 167,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1264,
+      "concurrentViewers": 524,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
