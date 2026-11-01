@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T22:45:27.395Z",
+  "generatedAt": "2026-11-01T01:55:54.108Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2691,
+      "concurrentViewers": 1886,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 264,
+      "concurrentViewers": 192,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1828,
+      "concurrentViewers": 1294,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 21,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/GkQTef2ZDzk/hqdefault.jpg?v=6ae4d9af"
         }
       },
-      "concurrentViewers": 702,
+      "concurrentViewers": 575,
       "startedAt": "2026-10-30T21:59:39Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 613,
+      "concurrentViewers": 585,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/O_xDTLIv-FI/hqdefault.jpg?v=6ae5d0ed"
         }
       },
-      "concurrentViewers": 577,
+      "concurrentViewers": 462,
       "startedAt": "2026-10-31T11:29:51Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 725,
+      "concurrentViewers": 411,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 909,
+      "concurrentViewers": 853,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 21,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5256,
+      "concurrentViewers": 4294,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 314,
+      "concurrentViewers": 302,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 955,
+      "concurrentViewers": 745,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5718,
+      "concurrentViewers": 3291,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 94,
+      "concurrentViewers": 86,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 43,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 96,
+      "concurrentViewers": 134,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -433,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38dcf"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38df5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38dcf"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38df5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38dcf"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38df5"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 16,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,56 +466,8 @@
           "url": "https://i.ytimg.com/vi/iwAKp82hJmQ/hqdefault.jpg?v=6ae62d21"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 54,
       "startedAt": "2026-10-31T18:11:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QkO2jq2ZL4E",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Iran War LIVE: IRGC Says 4 Oil Tankers Catch Fire In Strait Of Hormuz | WION",
-      "description": "US Iran War LIVE: IRGC Says 4 Oil Tankers Catch Fire In Strait Of Hormuz | WION\n\nIran's Revolutionary Guards Navy claims four oil tankers caught fire and exploded in the Strait of Hormuz while using what it called unauthorised routes. In its latest statement, the IRGC said a fourth tanker carrying …",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/default.jpg?v=6ae5a513"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/mqdefault.jpg?v=6ae5a513"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QkO2jq2ZL4E/hqdefault.jpg?v=6ae5a513"
-        }
-      },
-      "concurrentViewers": 4,
-      "startedAt": "2026-10-31T08:33:49Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "NPK8fLyEvfI",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: INDIA Bloc Rally | Gyanesh Kumar | National Unity Day | PM Modi | Bhutan News",
-      "description": "The Congress-led INDIA bloc began what it called a \"public impeachment\" of Chief Election Commissioner Gyanesh Kumar, reiterating its central allegation that the BJP-led NDA government is \"illegitimate\" as recent elections have been \"stolen\". Congress president Mallikarjun Kharge moved the \"motion\"…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NPK8fLyEvfI/default.jpg?v=6ae54a92"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NPK8fLyEvfI/mqdefault.jpg?v=6ae54a92"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NPK8fLyEvfI/hqdefault.jpg?v=6ae54a92"
-        }
-      },
-      "concurrentViewers": 25,
-      "startedAt": "2026-10-31T01:56:13Z",
       "regionRestriction": null
     },
     {
@@ -538,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/iDsBsv9qpl4/hqdefault.jpg?v=6ae5f256"
         }
       },
-      "concurrentViewers": null,
+      "concurrentViewers": 1,
       "startedAt": "2026-10-31T13:52:19Z",
       "regionRestriction": null
     },
@@ -586,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 71,
+      "concurrentViewers": 265,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -610,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/waAy4HH0Vk4/hqdefault.jpg?v=6abdc0fa"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 30,
       "startedAt": "2026-10-01T02:10:33Z",
       "regionRestriction": null
     },
@@ -634,56 +586,80 @@
           "url": "https://i.ytimg.com/vi/b9nwNvTesyY/hqdefault.jpg?v=6ae5ff37"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 13,
       "startedAt": "2026-10-31T14:58:31Z",
       "regionRestriction": null
     },
     {
-      "videoId": "eLrPiGikPvM",
+      "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Rahul Gandhi | INDIA Bloc Rally | Delhi Chalo Rally | PM Modi |Gyanesh Kumar",
-      "description": "दिल्ली के रामलीला मैदान में रविवार को होने वाली INDIA ब्लॉक की मेगा रैली को लेकर तैयारियां तेज हो गई हैं. विपक्षी दलों के नेता और अलग-अलग राज्यों से समर्थक दिल्ली पहुंचने लगे हैं. इस बीच कांग्रेस नेता राहुल गांधी ने शनिवार देर शाम सोशल मीडिया मंच 'एक्स' पर पोस्ट कर दिल्ली आने वाले लोगों से रैली और …",
+      "title": "Aaj Tak LIVE TV: INDIA Alliance Ramlila Maidan Rally | Rahul Gandhi | PM Modi | Gyanesh Kumar",
+      "description": "दिल्ली के रामलीला मैदान में आज मुख्य चुनाव आयुक्त ज्ञानेश कुमार और एसआईआर के विरोध में इंडिया गठबंधन की रैली- 250 CCTV कैमरों से होगी निगरानी, चप्पे-चप्पे पर पुलिस की नजर\n\nदिल्ली में विपक्ष की रैली के जवाब में बीजेपी दिग्गजों का मोर्चा... दिल्ली में बीजेपी अध्यक्ष निकालेंगे लोकतंत्र बचाओ अराजकता हट…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/default.jpg?v=6abdb196"
+          "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/default.jpg?v=6ae694a6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/mqdefault.jpg?v=6abdb196"
+          "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/mqdefault.jpg?v=6ae694a6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/eLrPiGikPvM/hqdefault.jpg?v=6abdb196"
+          "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 263,
-      "startedAt": "2026-10-01T01:07:39Z",
+      "concurrentViewers": 1642,
+      "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "B_6doMZuboU",
+      "videoId": "twoVXlBqbxU",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Rahul Gandhi Live in Mock Parliament: CEC के खिलाफ राहुल गांधी का बड़ा बयान | Rahul Gandhi | Aaj Tak",
-      "description": "इंडिया ब्लॉक का नई दिल्ली में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ प्रतीकात्मक सार्वजनिक 'इम्पीचमेंट' शुरू हो गया है. इसमें करीब 21 विपक्षी दल शामिल होंगे. कार्यक्रम में SIR और कथित चुनावी अनियमितताओं को लेकर ज्ञानेश कुमार के इस्तीफे की मांग की जाएगी. पूर्व लोकसभा अध्यक्ष मीरा कुमार कार्यवाही …",
+      "title": "INDIA Bloc Rally News LIVE: रैली में शामिल होने वाले लोगों से राहुल गांधी की अपील | Ramlila Maidan",
+      "description": "आज दिल्ली के रामलीला मैदान में इंडिया गठबंधन की महारैली है जो मुख्य चुनाव आयुक्त और SIR के खिलाफ है। रैली को लेकर राहुल गांधी ने सोशल मीडिया पर नया वीडियो डाला है.. जिसमे उन्होंने कहा है कि लाखों लोग रामलीला मार्च के लिए दिल्ली आ रहे हैं और मैं चाहता हूं कि जो लाखों लोग यहां आ रहे हैं, वो यहां खरीद…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/B_6doMZuboU/default.jpg?v=6ae5ebbc"
+          "url": "https://i.ytimg.com/vi/twoVXlBqbxU/default.jpg?v=6ae695dc"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/B_6doMZuboU/mqdefault.jpg?v=6ae5ebbc"
+          "url": "https://i.ytimg.com/vi/twoVXlBqbxU/mqdefault.jpg?v=6ae695dc"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/B_6doMZuboU/hqdefault.jpg?v=6ae5ebbc"
+          "url": "https://i.ytimg.com/vi/twoVXlBqbxU/hqdefault.jpg?v=6ae695dc"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-10-31T13:22:00Z",
+      "concurrentViewers": 877,
+      "startedAt": "2026-11-01T01:30:02Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qwiO-N_ORNk",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "INDIA Bloc Rally At Ramlila Maidan News LIVE: Gyanesh Kumar और SIR के विरोध में विपक्ष की रैली आज",
+      "description": "दिल्ली के रामलीला मैदान में आज INDIA गठबंधन की बड़ी रैली होने जा रही है। राहुल गांधी के 'चलो दिल्ली' आह्वान पर विपक्षी दलों की महा रैली की तैयारियां पूरी हो चुकी हैं। मिंटो रोड से दोपहर 12 बजे मार्च शुरू होगा, जो रामलीला मैदान पहुंचेगा। इस रैली के जरिए विपक्ष कथित वोट चोरी, और SIR के मुद्दे पर केंद…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qwiO-N_ORNk/default.jpg?v=6ae691c7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qwiO-N_ORNk/mqdefault.jpg?v=6ae691c7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qwiO-N_ORNk/hqdefault.jpg?v=6ae691c7"
+        }
+      },
+      "concurrentViewers": 611,
+      "startedAt": "2026-11-01T01:18:20Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 393,
+      "concurrentViewers": 724,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 78,
+      "concurrentViewers": 87,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2343,
+      "concurrentViewers": 1379,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
