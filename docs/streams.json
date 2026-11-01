@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T20:18:02.167Z",
+  "generatedAt": "2026-11-01T23:47:36.149Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3219,
+      "concurrentViewers": 2443,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 368,
+      "concurrentViewers": 206,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1620,
+      "concurrentViewers": 1718,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8CkFAnldsUw",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Alex Armstrong Tonight Late Edition | Sunday 1st November",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8CkFAnldsUw/default.jpg?v=6ae7ab80"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8CkFAnldsUw/mqdefault.jpg?v=6ae7ab80"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8CkFAnldsUw/hqdefault.jpg?v=6ae7ab80"
+        }
+      },
+      "concurrentViewers": 639,
+      "startedAt": "2026-11-01T22:58:20Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 37,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/GkQTef2ZDzk/hqdefault.jpg?v=6ae4d9af"
         }
       },
-      "concurrentViewers": 705,
+      "concurrentViewers": 568,
       "startedAt": "2026-10-30T21:59:39Z",
       "regionRestriction": null
     },
@@ -146,31 +170,31 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 903,
+      "concurrentViewers": 774,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "xDIp4s-I984",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "TOP STORIES: Iran latest, midterm elections",
-      "description": "Iran’s strikes on more than two dozen U.S. bases in the Middle East focused on early-warning systems before hitting aircraft and buildings, causing billions of dollars in equipment damage, according to an Associated Press analysis. The AP independently verified damage to American targets using sate…",
+      "title": "LIVE: Trump midterm rally in Iowa, Election updates, Iran war latest, Florida plane crash, more",
+      "description": "We are watching today as President Donald Trump delivers remarks at a midterm rally in Dubuque, Iowa just days before November 3rd. You can watch live as President Trump addresses a crowd of supporters at the Five Flags Center as he continues to rally voters ahead of the upcoming elections. Trump i…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xDIp4s-I984/default.jpg?v=6ae72ab2"
+          "url": "https://i.ytimg.com/vi/xDIp4s-I984/default.jpg?v=6ae7b4c4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xDIp4s-I984/mqdefault.jpg?v=6ae72ab2"
+          "url": "https://i.ytimg.com/vi/xDIp4s-I984/mqdefault.jpg?v=6ae7b4c4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xDIp4s-I984/hqdefault.jpg?v=6ae72ab2"
+          "url": "https://i.ytimg.com/vi/xDIp4s-I984/hqdefault.jpg?v=6ae7b4c4"
         }
       },
-      "concurrentViewers": 680,
+      "concurrentViewers": 654,
       "startedAt": "2026-11-01T12:06:05Z",
       "regionRestriction": null
     },
@@ -194,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 649,
+      "concurrentViewers": 775,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1008,
+      "concurrentViewers": 1344,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 32,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6330,
+      "concurrentViewers": 5596,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 400,
+      "concurrentViewers": 312,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1333,
+      "concurrentViewers": 913,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6729,
+      "concurrentViewers": 4521,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 93,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 68,
+      "concurrentViewers": 43,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 182,
+      "concurrentViewers": 111,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -433,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38ed3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38efd"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38ed3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38efd"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38ed3"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38efd"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 18,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/e5sy0g_Phps/hqdefault.jpg?v=6ae7559f"
         }
       },
-      "concurrentViewers": 56,
+      "concurrentViewers": 52,
       "startedAt": "2026-11-01T15:09:32Z",
       "regionRestriction": null
     },
@@ -514,8 +538,32 @@
           "url": "https://i.ytimg.com/vi/ibQtBenLIoU/hqdefault.jpg?v=6ae6fb54"
         }
       },
-      "concurrentViewers": 4,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-01T08:46:58Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QigqshXj468",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Rahul Gandhi LIVE | Rahul Gandhi Speech | Rahul Gandhi Protest Today | Congress Rally | INDIA BLOC",
+      "description": "Leader of Opposition (Lok Sabha) Rahul Gandhi on Sunday said Gyanesh Kumar will be removed as Chief Election Commissioner and be jailed eventually, alleging that votes were stolen in the 2024 Lok Sabha elections through the electronic voting machines (EVMs) and manipulation of voter lists.\n\n#RahulG…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QigqshXj468/default.jpg?v=6ae759cf"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QigqshXj468/mqdefault.jpg?v=6ae759cf"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QigqshXj468/hqdefault.jpg?v=6ae759cf"
+        }
+      },
+      "concurrentViewers": 1,
+      "startedAt": "2026-11-01T16:06:46Z",
       "regionRestriction": null
     },
     {
@@ -538,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 116,
+      "concurrentViewers": 82,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -562,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 254,
+      "concurrentViewers": 157,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
@@ -586,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/4y9_Dzw-RR0/hqdefault.jpg?v=6ae711ed"
         }
       },
-      "concurrentViewers": 145,
+      "concurrentViewers": 65,
       "startedAt": "2026-11-01T10:19:24Z",
       "regionRestriction": null
     },
@@ -610,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 236,
+      "concurrentViewers": 1653,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -634,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 76,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -658,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2309,
+      "concurrentViewers": 2754,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
