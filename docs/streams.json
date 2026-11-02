@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T23:47:36.149Z",
+  "generatedAt": "2026-11-02T04:53:23.776Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2443,
+      "concurrentViewers": 2873,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 206,
+      "concurrentViewers": 189,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1718,
+      "concurrentViewers": 1455,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "8CkFAnldsUw",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Alex Armstrong Tonight Late Edition | Sunday 1st November",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8CkFAnldsUw/default.jpg?v=6ae7ab80"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8CkFAnldsUw/mqdefault.jpg?v=6ae7ab80"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8CkFAnldsUw/hqdefault.jpg?v=6ae7ab80"
-        }
-      },
-      "concurrentViewers": 639,
-      "startedAt": "2026-11-01T22:58:20Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 31,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/GkQTef2ZDzk/hqdefault.jpg?v=6ae4d9af"
         }
       },
-      "concurrentViewers": 568,
+      "concurrentViewers": 496,
       "startedAt": "2026-10-30T21:59:39Z",
       "regionRestriction": null
     },
@@ -170,15 +146,15 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 774,
+      "concurrentViewers": 585,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "xDIp4s-I984",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump midterm rally in Iowa, Election updates, Iran war latest, Florida plane crash, more",
-      "description": "We are watching today as President Donald Trump delivers remarks at a midterm rally in Dubuque, Iowa just days before November 3rd. You can watch live as President Trump addresses a crowd of supporters at the Five Flags Center as he continues to rally voters ahead of the upcoming elections. Trump i…",
+      "title": "LIVE: Trump midterm events, Election updates, Iran war latest, Florida plane crash, more",
+      "description": "We are watching this Sunday as President Donald Trump delivers remarks at a midterm rally in Dubuque, Iowa just days before November 3rd. President Trump addressed a crowd of supporters at the Five Flags Center as he continues to rally voters ahead of the upcoming elections. Trump also spoke at ano…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/xDIp4s-I984/hqdefault.jpg?v=6ae7b4c4"
         }
       },
-      "concurrentViewers": 654,
+      "concurrentViewers": 289,
       "startedAt": "2026-11-01T12:06:05Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 775,
+      "concurrentViewers": 272,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1344,
+      "concurrentViewers": 2307,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 26,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5596,
+      "concurrentViewers": 6488,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 312,
+      "concurrentViewers": 369,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 913,
+      "concurrentViewers": 982,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4521,
+      "concurrentViewers": 3814,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 122,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 49,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 111,
+      "concurrentViewers": 163,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -457,120 +433,168 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38efd"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=38f3a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38efd"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=38f3a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38efd"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=38f3a"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 30,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "e5sy0g_Phps",
+      "videoId": "Pv-RzVq6nak",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Ukraine War LIVE: Putin's NUCLEAR Signal? Russia Fires Ballistic Missile From Submarine | WION Live",
-      "description": "Ukraine War LIVE: Putin's NUCLEAR Signal? Russia Fires Ballistic Missile From Submarine | WION Live\n\nRussia has released footage showing a nuclear-powered submarine launching a ballistic missile across Russian territory, highlighting the country's strategic military capabilities. The launch undersc…",
+      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION",
+      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/e5sy0g_Phps/default.jpg?v=6ae7559f"
+          "url": "https://i.ytimg.com/vi/Pv-RzVq6nak/default.jpg?v=6ae7eaa5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/e5sy0g_Phps/mqdefault.jpg?v=6ae7559f"
+          "url": "https://i.ytimg.com/vi/Pv-RzVq6nak/mqdefault.jpg?v=6ae7eaa5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/e5sy0g_Phps/hqdefault.jpg?v=6ae7559f"
+          "url": "https://i.ytimg.com/vi/Pv-RzVq6nak/hqdefault.jpg?v=6ae7eaa5"
         }
       },
-      "concurrentViewers": 52,
-      "startedAt": "2026-11-01T15:09:32Z",
+      "concurrentViewers": 227,
+      "startedAt": "2026-11-02T01:37:49Z",
       "regionRestriction": null
     },
     {
-      "videoId": "DoCD3TykePA",
+      "videoId": "xEW7HA4ZlDc",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Delhi Protest LIVE: INDIA Bloc Holds Mega Rally At Ramlila Maidan Against CEC Gyanesh Kumar | WION",
-      "description": "Delhi Protest LIVE: INDIA Bloc Holds Mega Rally At Ramlila Maidan Against CEC Gyanesh Kumar | WION\n\n\nDelhi is on high alert as the Opposition INDIA bloc holds its mega 'Chalo Dilli' march and anti-CEC rally against Chief Election Commissioner Gyanesh Kumar. Nearly 10,000 police and paramilitary per…",
+      "title": "Saudi Under Attack LIVE: Riyadh Shaken By Explosions Again Amid Houthi Missile Threat | WION",
+      "description": "Saudi Arabia is on high alert after massive explosions were heard in the capital, Riyadh, amid escalating tensions with Yemen's Houthi rebels. Saudi air defence systems reportedly intercepted incoming Houthi missiles as blasts shook the city, raising fresh concerns over the security situation in th…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/DoCD3TykePA/default.jpg?v=6ae729c5"
+          "url": "https://i.ytimg.com/vi/xEW7HA4ZlDc/default.jpg?v=6ae7eaed"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/DoCD3TykePA/mqdefault.jpg?v=6ae729c5"
+          "url": "https://i.ytimg.com/vi/xEW7HA4ZlDc/mqdefault.jpg?v=6ae7eaed"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/DoCD3TykePA/hqdefault.jpg?v=6ae729c5"
+          "url": "https://i.ytimg.com/vi/xEW7HA4ZlDc/hqdefault.jpg?v=6ae7eaed"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-01T11:54:16Z",
+      "concurrentViewers": 180,
+      "startedAt": "2026-11-02T01:46:05Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ibQtBenLIoU",
+      "videoId": "2PoIQJxzyeM",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Deadly Houthi Missiles Target Key Bases In Saudi,War Expands To Wider Level",
+      "description": "Yemen’s Houthi group has claimed fresh attacks targeting King Khalid International Airport in Riyadh, Saudi Arabia. The latest claim comes amid rising regional tensions and concerns over Saudi Arabia’s air defence. The reported attack has not been independently verified.\n\n#KingKhalidAirport #Riyadh…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2PoIQJxzyeM/default.jpg?v=6ae7e60e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2PoIQJxzyeM/mqdefault.jpg?v=6ae7e60e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2PoIQJxzyeM/hqdefault.jpg?v=6ae7e60e"
+        }
+      },
+      "concurrentViewers": 88,
+      "startedAt": "2026-11-02T01:25:55Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "EDcQvup7e18",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: Rahul Gandhi Rally | Delhi Markets Shut Amid Political Protests, Traders Fear Losses",
-      "description": "Rahul Gandhi's rally: Delhi's markets are feeling the impact of political protests, with traders reporting losses as shops remain shut and customers stay away amid fears of road blockages and traffic jams.\n\n#DelhiTraders #VoteChori #RahulGandhi #MallikarjunKharge #GyaneshKumar #ElectionCommission #…",
+      "title": "NDTV LIVE: INDIA Bloc Rally | Gyanesh Kumar | Rahul Gandhi | PM Modi | Congress Rally",
+      "description": "The Opposition rally at Delhi's Ramlila Maidan is a flop show and the people left when Rahul Gandhi was speaking, the BJP has said. \"The Congress said there will be a crowd of 10 lakh, but 40 per cent of the ground was empty,\" the party said. The crowd shown at the rally was \"trick photography... t…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ibQtBenLIoU/default.jpg?v=6ae6fb54"
+          "url": "https://i.ytimg.com/vi/EDcQvup7e18/default.jpg?v=6ae7de8e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ibQtBenLIoU/mqdefault.jpg?v=6ae6fb54"
+          "url": "https://i.ytimg.com/vi/EDcQvup7e18/mqdefault.jpg?v=6ae7de8e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ibQtBenLIoU/hqdefault.jpg?v=6ae6fb54"
+          "url": "https://i.ytimg.com/vi/EDcQvup7e18/hqdefault.jpg?v=6ae7de8e"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-11-01T08:46:58Z",
+      "concurrentViewers": 217,
+      "startedAt": "2026-11-02T01:34:07Z",
       "regionRestriction": null
     },
     {
-      "videoId": "QigqshXj468",
+      "videoId": "WItwV9D_W1U",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi LIVE | Rahul Gandhi Speech | Rahul Gandhi Protest Today | Congress Rally | INDIA BLOC",
-      "description": "Leader of Opposition (Lok Sabha) Rahul Gandhi on Sunday said Gyanesh Kumar will be removed as Chief Election Commissioner and be jailed eventually, alleging that votes were stolen in the 2024 Lok Sabha elections through the electronic voting machines (EVMs) and manipulation of voter lists.\n\n#RahulG…",
+      "title": "INDIA Bloc Rally | Congress Shares Drone Visuals Of Nov 1 Rally | Rahul Gandhi | BJP | LIVE",
+      "description": "The BJP has launched a sharp attack on Rahul Gandhi and the Congress over their rally at Delhi's Ramlila Maidan, calling it a flop show and questioning the party's claims about the crowd size. The BJP alleged that people began leaving while Rahul Gandhi was addressing the gathering. In response, th…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/QigqshXj468/default.jpg?v=6ae759cf"
+          "url": "https://i.ytimg.com/vi/WItwV9D_W1U/default.jpg?v=6ae7fdc4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/QigqshXj468/mqdefault.jpg?v=6ae759cf"
+          "url": "https://i.ytimg.com/vi/WItwV9D_W1U/mqdefault.jpg?v=6ae7fdc4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/QigqshXj468/hqdefault.jpg?v=6ae759cf"
+          "url": "https://i.ytimg.com/vi/WItwV9D_W1U/hqdefault.jpg?v=6ae7fdc4"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-01T16:06:46Z",
+      "concurrentViewers": 60,
+      "startedAt": "2026-11-02T03:12:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zstLOBvkhAw",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Florida Learjet Crash | Private Jet Crash Florida, 9 Onboard Killed | LIVE | Jet Crash Florida",
+      "description": "\"We are out of time.\"\n\nThose were among the final words transmitted from a Learjet 60 before it plunged into a residential neighbourhood in Greenacres, Florida, on Sunday, leaving at least nine people dead.\n\nAir traffic control recordings reveal the aircraft encountered worsening weather conditions…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zstLOBvkhAw/default.jpg?v=6ae81470"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zstLOBvkhAw/mqdefault.jpg?v=6ae81470"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zstLOBvkhAw/hqdefault.jpg?v=6ae81470"
+        }
+      },
+      "concurrentViewers": 35,
+      "startedAt": "2026-11-02T04:44:36Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: INDIA Bloc Protest Rally | Rahul Gandhi vs CEC Gyanesh Kumar | US-Iran War",
-      "description": "India Today TV LIVE: INDIA Bloc Protest Rally | Rahul Gandhi vs CEC Gyanesh Kumar | US-Iran War\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the INDIA Bloc Rally, CJP To Support Cong Rally, US Midtearm, US Fresh …",
+      "title": "India Today TV LIVE: Florida Plane Crash | CEC Gyanesh Kumar Row | BJP Vs Congress | Iran War",
+      "description": "India Today TV LIVE: Florida Plane Crash | CEC Gyanesh Kumar Row | BJP Vs Congress | Iran War\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the Florida Plane Crash, US Halloween Massacre INDIA Bloc Rally, Iran War…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -586,15 +610,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 82,
+      "concurrentViewers": 612,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Rahul Gandhi | BJP | Ramlila Maidan Rally | Akhilesh Yadav | Gyanesh Kumar | BJP",
-      "description": "दिल्ली के रामलीला मैदान में 'INDIA' ब्लॉक की महारैली हो रही है. इस रैली में विपक्षी दलों के शीर्ष नेताओं के साथ-साथ कार्यकर्ता, छात्र संगठन और नागरिक समाज के प्रतिनिधि शामिल हुए हैं. INDIA ब्लॉक के नेता रामलीला मैदान पहुंच चुके हैं. रैली में बड़ी संख्या में समर्थक शामिल हुए है.\n\nराहुल गांधी ने महार…",
+      "title": "Aaj Tak LIVE TV: INDIA Alliance Rally | Rahul Gandhi | PM Modi | Gyanesh Kumar | BJP | Hindi News",
+      "description": "दिल्ली के रामलीला मैदान में INDIA गठबंधन की रैली पर सियासी घमासान, विपक्षी दलों ने चुनाव आयोग और सरकार को घेरा, बीजेपी का पलटवार- ड्रोन की तस्वीरें दिखाकर बताया- सुपर फ्लॉप शो\n\nचुनाव आयोग और SIR के खिलाफ विपक्षी हल्लाबोल को लेकर हैदराबाद में BJP का मोर्चा, दोपहर में पार्टी की 'लोकतंत्र बचाओ, अराजकत…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -610,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 157,
+      "concurrentViewers": 1829,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
@@ -634,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/4y9_Dzw-RR0/hqdefault.jpg?v=6ae711ed"
         }
       },
-      "concurrentViewers": 65,
+      "concurrentViewers": 214,
       "startedAt": "2026-11-01T10:19:24Z",
       "regionRestriction": null
     },
@@ -658,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1653,
+      "concurrentViewers": 1363,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 144,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -706,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2754,
+      "concurrentViewers": 1496,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
