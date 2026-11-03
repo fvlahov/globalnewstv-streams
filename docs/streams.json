@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T11:41:06.134Z",
+  "generatedAt": "2026-11-03T19:12:58.911Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,8 +22,56 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 7269,
+      "concurrentViewers": 5156,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "aPxWXFjcYXg",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "US Midterms | On the ground as Americans head to the polls",
+      "description": "Watch live as millions of Americans head to the polls for the pivotal 2026 midterm elections.\n\nControl of Congress hangs in the balance, with all 435 House seats and 35 Senate seats up for grabs. \n\nWhile President Donald Trump is not on the ballot, this election serves as a direct nationwide refere…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aPxWXFjcYXg/default.jpg?v=6ae9ecc9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aPxWXFjcYXg/mqdefault.jpg?v=6ae9ecc9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aPxWXFjcYXg/hqdefault.jpg?v=6ae9ecc9"
+        }
+      },
+      "concurrentViewers": 235,
+      "startedAt": "2026-11-03T10:53:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_QMBCjq5xCg",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Is the UK taking cybersecurity seriously enough? | The Cathy Newman Show",
+      "description": "The UK is “extremely likely” to experience a serious cybersecurity breach in the near future, says the country’s AI minister Kanishka Narayan.\n\nNarayan spoke to Bloomberg after it was revealed that fridges at meat processors and a fresh food wholesaler were hit by a cyber attack that caused tempera…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_QMBCjq5xCg/default.jpg?v=6aea2e9a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_QMBCjq5xCg/mqdefault.jpg?v=6aea2e9a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_QMBCjq5xCg/hqdefault.jpg?v=6aea2e9a"
+        }
+      },
+      "concurrentViewers": 182,
+      "startedAt": "2026-11-03T18:50:10Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 613,
+      "concurrentViewers": 714,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2945,
+      "concurrentViewers": 3703,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "DU3mg3vMlLA",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Farage | Tuesday 3rd of November",
+      "description": "Nigel Farage doesn't hold back in his GB News prime-time show. Hear his views and give your own in an action-packed hour of discussion and debate. Join Nigel as he takes on the big stories other media don't want to touch.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: htt…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DU3mg3vMlLA/default.jpg?v=6ae9c50e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DU3mg3vMlLA/mqdefault.jpg?v=6ae9c50e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DU3mg3vMlLA/hqdefault.jpg?v=6ae9c50e"
+        }
+      },
+      "concurrentViewers": 128,
+      "startedAt": "2026-11-03T19:10:46Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 511,
+      "concurrentViewers": 158,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,62 +194,14 @@
           "url": "https://i.ytimg.com/vi/LokrBxbKST8/hqdefault.jpg?v=6ae9bdf5"
         }
       },
-      "concurrentViewers": 70,
+      "concurrentViewers": 123,
       "startedAt": "2026-11-03T10:53:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7TfERuqEvCM",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Merz welcomes Zelenskiy with military honors",
-      "description": "German Chancellor Friedrich Merz receives Ukraine's President Volodymyr Zelenskiy with military honors at Berlin's chancellery.\n\n#ukraine #zelenskiy #berlin #germany #security   #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7TfERuqEvCM/default.jpg?v=6ae9c545"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7TfERuqEvCM/mqdefault.jpg?v=6ae9c545"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7TfERuqEvCM/hqdefault.jpg?v=6ae9c545"
-        }
-      },
-      "concurrentViewers": 23,
-      "startedAt": "2026-11-03T11:26:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Ef294ANm_5g",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Voters head to the polls in Ohio",
-      "description": "People head to the polls in Columbus, Ohio for the US Midterm elections.\n\nCompetitive Senate races are underway in Iowa, Nebraska, Ohio and South Carolina, all Republican-held seats.\n\n#ohio #senate #usa #us #vote #midterms #election #trump #republican #democrat #live #Reuters #News\n\nKeep up with th…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ef294ANm_5g/default.jpg?v=6ae9c640"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ef294ANm_5g/mqdefault.jpg?v=6ae9c640"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ef294ANm_5g/hqdefault.jpg?v=6ae9c640"
-        }
-      },
-      "concurrentViewers": 18,
-      "startedAt": "2026-11-03T11:31:13Z",
       "regionRestriction": null
     },
     {
       "videoId": "MTsZwFVKRfA",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 3",
+      "title": "LIVE: Decision 2026 Election Day Coverage | NBC News NOW - Nov. 3",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -194,8 +218,32 @@
           "url": "https://i.ytimg.com/vi/MTsZwFVKRfA/hqdefault.jpg?v=6ae9c4b8"
         }
       },
-      "concurrentViewers": 1150,
+      "concurrentViewers": 14893,
       "startedAt": "2026-11-03T11:29:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "wF8X-K_l5kY",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: Election Day in America: Vote 2026 | ABC News",
+      "description": "MIDTERMS 2026: The high-stakes midterm elections are Tuesday, Nov. 3. There are several key House and Senate races that could determine the balance of power in Congress as well as significant races for governor around the country. \n\nThe elections could ultimately determine how effective President T…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wF8X-K_l5kY/default.jpg?v=6ae8d60c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wF8X-K_l5kY/mqdefault.jpg?v=6ae8d60c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wF8X-K_l5kY/hqdefault.jpg?v=6ae8d60c"
+        }
+      },
+      "concurrentViewers": 14049,
+      "startedAt": "2026-11-03T12:59:39Z",
       "regionRestriction": null
     },
     {
@@ -218,12 +266,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 2243,
+      "concurrentViewers": 1759,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "28dhuNKlZqU",
+      "videoId": "74WjpIH4jeE",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -233,48 +281,48 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/28dhuNKlZqU/default.jpg?v=6ae91756"
+          "url": "https://i.ytimg.com/vi/74WjpIH4jeE/default.jpg?v=6ae9cc21"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/28dhuNKlZqU/mqdefault.jpg?v=6ae91756"
+          "url": "https://i.ytimg.com/vi/74WjpIH4jeE/mqdefault.jpg?v=6ae9cc21"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/28dhuNKlZqU/hqdefault.jpg?v=6ae91756"
+          "url": "https://i.ytimg.com/vi/74WjpIH4jeE/hqdefault.jpg?v=6ae9cc21"
         }
       },
-      "concurrentViewers": 913,
-      "startedAt": "2026-11-03T00:00:06Z",
+      "concurrentViewers": 1835,
+      "startedAt": "2026-11-03T11:59:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Y73UPPMQ9Y8",
+      "videoId": "QoS5Tr0aM2w",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Midterm elections latest, US strikes Iranian targets, Florida plane crash, more top stories",
-      "description": "We are learning new information this Monday amid reports that the United States struck Iran’s Qeshm Island in the Strait of Hormuz. According to officials, the strike was carried out in response to Iran firing at a U.S. aircraft this evening. Reports indicate that Qeshm Island is the location of an…",
+      "title": "LIVE NEWS: Midterm election day 2026, Tracking key Senate races, US strikes Iran & more",
+      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Y73UPPMQ9Y8/default.jpg?v=6ae95f8f"
+          "url": "https://i.ytimg.com/vi/QoS5Tr0aM2w/default.jpg?v=6ae9c325"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Y73UPPMQ9Y8/mqdefault.jpg?v=6ae95f8f"
+          "url": "https://i.ytimg.com/vi/QoS5Tr0aM2w/mqdefault.jpg?v=6ae9c325"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Y73UPPMQ9Y8/hqdefault.jpg?v=6ae95f8f"
+          "url": "https://i.ytimg.com/vi/QoS5Tr0aM2w/hqdefault.jpg?v=6ae9c325"
         }
       },
-      "concurrentViewers": 701,
-      "startedAt": "2026-11-02T13:55:35Z",
+      "concurrentViewers": 8384,
+      "startedAt": "2026-11-03T12:05:28Z",
       "regionRestriction": null
     },
     {
       "videoId": "MXosVElBUJQ",
       "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-      "title": "NEWSMAX2 LIVE | Real News for Real People",
-      "description": "Watch NEWSMAX2 LIVE for the latest news and analysis on today's top stories from your favorite NEWSMAX personalities.\n\nNEWSMAX2 WEEKDAY SCHEDULE: \n7 AM ET - First Edition\n9 AM ET - News Now\n10 AM ET - The Wendy Bell Show\n11 AM ET – National Update\nNoon ET - John Bachman Now\n2 PM ET - The National D…",
+      "title": "NEWSMAX2 LIVE | Vote For America Midterm Election Coverage",
+      "description": "Follow NEWSMAX2's 2026 Vote For America midterm election coverage with breaking updates, results from key Senate, House and gubernatorial races, live reporting, interviews and political analysis.\n\nWatch NEWSMAX2 LIVE for the latest news and analysis on today's top stories from your favorite NEWSMAX…",
       "channelTitle": "Newsmax",
       "country": "US",
       "language": "en",
@@ -290,8 +338,56 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 447,
+      "concurrentViewers": 2778,
       "startedAt": "2026-10-25T11:51:46Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "KwdWRr9p7DQ",
+      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
+      "title": "The Rob Carson Show LIVE (11/3/2026) | NEWSMAX Podcasts",
+      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
+      "channelTitle": "Newsmax",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KwdWRr9p7DQ/default.jpg?v=6ae91f0c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KwdWRr9p7DQ/mqdefault.jpg?v=6ae91f0c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KwdWRr9p7DQ/hqdefault.jpg?v=6ae91f0c"
+        }
+      },
+      "concurrentViewers": 146,
+      "startedAt": "2026-11-03T17:05:42Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "5B4dORVIvp4",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "Election 2026: LIVE voting across the US",
+      "description": "Watch live as voters cast their ballots on Election Day 2026. Democrats seek to reclaim majorities in both the House and Senate while Republicans hope to keep control of Congress.\n\nFollow live updates: https://bit.ly/4yULkpa \n\n#election #midterms #live #midterms2026",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5B4dORVIvp4/default.jpg?v=6ae99b90"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5B4dORVIvp4/mqdefault.jpg?v=6ae99b90"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5B4dORVIvp4/hqdefault.jpg?v=6ae99b90"
+        }
+      },
+      "concurrentViewers": 5255,
+      "startedAt": "2026-11-03T12:10:31Z",
       "regionRestriction": null
     },
     {
@@ -314,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 8176,
+      "concurrentViewers": 6964,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 24,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +458,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 10945,
+      "concurrentViewers": 13752,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 408,
+      "concurrentViewers": 493,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +510,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1431,
+      "concurrentViewers": 1874,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +534,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 8175,
+      "concurrentViewers": 10157,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +558,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 211,
+      "concurrentViewers": 200,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 108,
+      "concurrentViewers": 123,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 235,
+      "concurrentViewers": 225,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -529,16 +625,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=390ac"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39107"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=390ac"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39107"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=390ac"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39107"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 46,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -562,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/Pv-RzVq6nak/hqdefault.jpg?v=6ae7eaa5"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 35,
       "startedAt": "2026-11-02T01:37:49Z",
       "regionRestriction": null
     },
@@ -586,14 +682,14 @@
           "url": "https://i.ytimg.com/vi/DMu5k4JFIvw/hqdefault.jpg?v=6ae97b4c"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 27,
       "startedAt": "2026-11-03T08:44:17Z",
       "regionRestriction": null
     },
     {
       "videoId": "qCDDRw7ePac",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: US Midterms LIVE | NCP Meeting | Mahadev Betting App Scam | Andhra Pradesh Fire",
+      "title": "NDTV LIVE TV: US Elections Live | Andhra Election Results | Delhi AQI News | India Breaking News",
       "description": "The internal rift within the Ajit Pawar faction of the Nationalist Congress Party came to a head today, with a section meeting Union Home Minister Amit Shah. It was followed by an internal meeting of the party. Another one -- called by Sunetra Pawar -- is scheduled for Tuesday, which would clarify …",
       "channelTitle": "NDTV",
       "country": "IN",
@@ -610,56 +706,56 @@
           "url": "https://i.ytimg.com/vi/qCDDRw7ePac/hqdefault.jpg?v=6ae92ef9"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 30,
       "startedAt": "2026-11-03T01:48:48Z",
       "regionRestriction": null
     },
     {
-      "videoId": "lS6ZjfVAPyA",
+      "videoId": "pJnni31Oj4Q",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "INDIA Bloc Rally | Ramlila Rally | BJP Vs Congress | Rahul Gandhi | SIR | CEC Gyanesh Kumar",
-      "description": "S Gurumurthy, Editor, Thuglak described the Ramlila Maidan gathering as a significant shift from confrontation to democratic protest, saying the Opposition had returned to constitutional methods of political mobilisation. While acknowledging the rally's role in energising Opposition ranks, he argue…",
+      "title": "US Midterm Elections 2026 LIVE: Trump Faces Crucial Test | Who Will Control Congress? | NDTV",
+      "description": "The US Midterm Elections 2026 are underway, with millions of Americans voting in a high-stakes battle that could reshape the balance of power in Washington. Will Donald Trump's Republicans hold on to Congress, or will the Democrats make a comeback?\n\nWatch NDTV's LIVE coverage for the latest US midt…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lS6ZjfVAPyA/default.jpg?v=6ae940bc"
+          "url": "https://i.ytimg.com/vi/pJnni31Oj4Q/default.jpg?v=6aea0bfb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lS6ZjfVAPyA/mqdefault.jpg?v=6ae940bc"
+          "url": "https://i.ytimg.com/vi/pJnni31Oj4Q/mqdefault.jpg?v=6aea0bfb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lS6ZjfVAPyA/hqdefault.jpg?v=6ae940bc"
+          "url": "https://i.ytimg.com/vi/pJnni31Oj4Q/hqdefault.jpg?v=6aea0bfb"
         }
       },
-      "concurrentViewers": 9,
-      "startedAt": "2026-11-03T02:14:13Z",
+      "concurrentViewers": 28,
+      "startedAt": "2026-11-03T16:46:40Z",
       "regionRestriction": null
     },
     {
-      "videoId": "vkB3G7VtsGU",
+      "videoId": "IG73Jyajx9E",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "US Iran Attack LIVE | Multiple Explosions Reported On Iran's Qeshm Island | US Strikes Iran",
-      "description": "Multiple explosions were heard on Iran's Qeshm Island and in Bandar Lengeh in the country's south, near the strategically important Strait of Hormuz, amid heightened military tensions between Tehran and Washington.\n\nAccording to Al Jazeera, citing Iran's official IRNA news agency, five explosions w…",
+      "title": "Indian American Vote: Can The Diaspora Swing The US Midterm Elections? | NDTV World | US News LIVE",
+      "description": "The Indian American community is emerging as an increasingly influential force in US politics, with its voters, candidates and campaign donors playing a significant role in the 2026 midterm elections. As Democrats and Republicans battle for control of Congress, NDTV examines how the diaspora's poli…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vkB3G7VtsGU/default.jpg?v=6ae94966"
+          "url": "https://i.ytimg.com/vi/IG73Jyajx9E/default.jpg?v=6aea30ea"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vkB3G7VtsGU/mqdefault.jpg?v=6ae94966"
+          "url": "https://i.ytimg.com/vi/IG73Jyajx9E/mqdefault.jpg?v=6aea30ea"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vkB3G7VtsGU/hqdefault.jpg?v=6ae94966"
+          "url": "https://i.ytimg.com/vi/IG73Jyajx9E/hqdefault.jpg?v=6aea30ea"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-11-03T02:36:35Z",
+      "concurrentViewers": 23,
+      "startedAt": "2026-11-03T19:10:06Z",
       "regionRestriction": null
     },
     {
@@ -682,8 +778,32 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 436,
+      "concurrentViewers": 201,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "aXPO9gpZM9U",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Live: US Midterm Elections 2026-- Trump's Hold-or-Fold Test? Red Tide Or Blue Tsunami?",
+      "description": "US Midterm Elections are a crucial test for Donald Trump and the Republican Party. Will Republicans hold their ground, or will Democrats ride a blue wave to make major gains? Follow the latest developments, key contests and political reactions as America votes.\n\n#usmidterms #donaldtrump #republican…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aXPO9gpZM9U/default.jpg?v=6aea0c9d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aXPO9gpZM9U/mqdefault.jpg?v=6aea0c9d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aXPO9gpZM9U/hqdefault.jpg?v=6aea0c9d"
+        }
+      },
+      "concurrentViewers": 49,
+      "startedAt": "2026-11-03T16:35:47Z",
       "regionRestriction": null
     },
     {
@@ -706,39 +826,15 @@
           "url": "https://i.ytimg.com/vi/upJ8PurIkoQ/hqdefault.jpg?v=6ae93dd3"
         }
       },
-      "concurrentViewers": 123,
+      "concurrentViewers": 36,
       "startedAt": "2026-11-03T01:50:50Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QOfvALLzv8M",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "US Vs Iran War LIVE: US Strikes Iran's Qeshm Island As Trump Says Tehran Deal 'Could Happen' | WSJ",
-      "description": "US-Iran tensions remain high as the United States reportedly strikes Iran's Qeshm Island, even as President Donald Trump signals that a possible deal with Tehran could still happen. The latest attack raises fresh questions about Washington's next move and whether diplomatic efforts can prevent furt…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QOfvALLzv8M/default.jpg?v=6ae93ace"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QOfvALLzv8M/mqdefault.jpg?v=6ae93ace"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QOfvALLzv8M/hqdefault.jpg?v=6ae93ace"
-        }
-      },
-      "concurrentViewers": 102,
-      "startedAt": "2026-11-03T01:38:30Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Dangal | US Iran War | US Election | Cyclone Murasu | Delhi Pollution | PM Modi |",
-      "description": "अमेरिका ने एक बार फिर ईरान पर किया हमला.. केशम द्वीप पर बरसाईं मिसाइलें.. ईरानी सेना के ठिकानों को बनाया निशाना\n\nअमेरिका में मिडटर्म चुनाव की वोटिंग आज...ट्रम्प की रिपब्लिकन पार्टी पर हार का खतरा.. संसद में बिल पास कराना मुश्किल होगा \n\nआंध्र प्रदेश में चक्रवात 'मुरासु' का लैंडफॉल शुरू, 120 KM की रफ…",
+      "title": "Aaj Tak LIVE TV: US Iran War | US Election | Cyclone Murasu | Delhi Pollution | Dhirendra Shastri",
+      "description": "अमित शाह ने SIR पर विशेष सत्र बुलाकर चर्चा करने की चुनौती दी. राहुल गांधी ने प्रधानमंत्री मोदी को खुली बहस की याद दिलाई. अब सियासत में चुनौती बनाम चर्चा की जंग तेज हो गई है.\n\nउत्तर प्रदेश में दिवाली से पहले सियासी हलचल तेज है. बीजेपी पदयात्राओं के जरिए छह शहरों में माहौल बनाने में जुटी है. दिग्गज न…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -754,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1661,
+      "concurrentViewers": 408,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
@@ -778,32 +874,8 @@
           "url": "https://i.ytimg.com/vi/nf0PoLgxFdw/hqdefault.jpg?v=6ae9b80f"
         }
       },
-      "concurrentViewers": 741,
+      "concurrentViewers": 355,
       "startedAt": "2026-11-03T10:40:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "lhq7qRtOBrg",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "America Attacks Iran LIVE Updates: अमेरिका ने ईरान पर किया अटैक, केशम द्वीप पर बोला हमला | Aaj Tak",
-      "description": "ईरान पर यह हमला ऐसे समय में हुआ है जब अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोमवार को ही कहा था कि ईरान के साथ बड़ा युद्ध टल सकता है. उन्होंने दावा किया था कि इसी उम्मीद के चलते तेल की कीमतों में तेजी से गिरावट आई है.\n\n#america #iran #war #aajtakdigital #donaldtrump #mojtabakhamenei #iranuswar #iranu…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lhq7qRtOBrg/default.jpg?v=6ae993da"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lhq7qRtOBrg/mqdefault.jpg?v=6ae993da"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lhq7qRtOBrg/hqdefault.jpg?v=6ae993da"
-        }
-      },
-      "concurrentViewers": 130,
-      "startedAt": "2026-11-03T08:01:39Z",
       "regionRestriction": null
     },
     {
@@ -826,7 +898,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 695,
+      "concurrentViewers": 300,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -850,7 +922,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 125,
+      "concurrentViewers": 142,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -874,7 +946,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1219,
+      "concurrentViewers": 1345,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
