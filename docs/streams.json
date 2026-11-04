@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T06:52:56.369Z",
+  "generatedAt": "2026-11-04T15:12:17.934Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | US midterms: White House defends Trump's unusual final speech as Americans vote in crucial elections - https://trib.al/7Rel916\n\n🔴 WATCH | King addresses Commonwea…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 US midterms latest: Democrats win Senate and House to take control of Congress - as Trump admits war played part - https://trib.al/7Rel916\n\n🔴 Politics latest: 'We're com…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,56 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 8327,
+      "concurrentViewers": 7594,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "SbcKMHAMGwg",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Disaster for Trump as Democrats seize Congress | Sky News coverage and analysis",
+      "description": "The Democrats have won control of the two legislative chambers of the US Congress after a devastating night for the Republicans and Donald Trump.\n\nWinning control of the House would give the Democrats the ability to impeach Trump. In the Senate race, the Democrats have flipped key states, with some…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SbcKMHAMGwg/default.jpg?v=6aeb111c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SbcKMHAMGwg/mqdefault.jpg?v=6aeb111c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SbcKMHAMGwg/hqdefault.jpg?v=6aeb111c"
+        }
+      },
+      "concurrentViewers": 2008,
+      "startedAt": "2026-11-04T09:45:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "SFxxr-rNyNQ",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Watch LIVE: US 2026 Midterm Elections and Results | BBC News",
+      "description": "The midterm elections are under way in the US, as voters take part in a ballot that could have a major impact on the rest of Donald Trump's presidency.\n \nAmericans will choose members of Congress, which is made up of two parts - the House of Representatives and the Senate.\n\nSubscribe to our channel…",
+      "channelTitle": "BBC News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SFxxr-rNyNQ/default.jpg?v=6aea5f10"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SFxxr-rNyNQ/mqdefault.jpg?v=6aea5f10"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SFxxr-rNyNQ/hqdefault.jpg?v=6aea5f10"
+        }
+      },
+      "concurrentViewers": 4861,
+      "startedAt": "2026-11-03T23:26:00Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 636,
+      "concurrentViewers": 508,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2829,
+      "concurrentViewers": 2770,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lBV6xTNpKW4",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Martin Daubney |  Wednesday 4th November",
+      "description": "Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lBV6xTNpKW4/default.jpg?v=6aeb3576"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lBV6xTNpKW4/mqdefault.jpg?v=6aeb3576"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lBV6xTNpKW4/hqdefault.jpg?v=6aeb3576"
+        }
+      },
+      "concurrentViewers": 500,
+      "startedAt": "2026-11-04T14:55:00Z",
       "regionRestriction": null
     },
     {
@@ -98,104 +170,56 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 425,
+      "concurrentViewers": 336,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Lp8ea6bK_dg",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "Michigan Democratic Senate nominee Abdul El-Sayed reacts to election - watch live",
-      "description": "Subscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://support.theguardian.com/\n\nSign up to the Guardian's free new daily newsletter…",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Lp8ea6bK_dg/default.jpg?v=39"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Lp8ea6bK_dg/mqdefault.jpg?v=39"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Lp8ea6bK_dg/hqdefault.jpg?v=39"
-        }
-      },
-      "concurrentViewers": 37,
-      "startedAt": "2026-11-04T02:08:32Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "kPheGIFg0mA",
+      "videoId": "w0279uqz5jE",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Michigan Democratic Senate candidate Abdul El-Sayed’s midterms watch party in Detroit",
-      "description": "Michigan Democratic Senate candidate Abdul El-Sayed attends his midterm-election watch party in Detroit as he faces off with Republican Mike Rogers.\n \nRepublicans are more hopeful about flipping an open seat in Michigan as Democratic divisions have persisted in what could be the tightest race for a…",
+      "title": "LIVE: WHO brief media on global health issues",
+      "description": "World Health Organization director-general, Tedros Adhanom Ghebreyesus, and experts brief media on global health issues.\n\n#WHO #Health #GlobalHealth #Tedros #PressConference #Healthcare #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/kPheGIFg0mA/default.jpg?v=6aeacbbd"
+          "url": "https://i.ytimg.com/vi/w0279uqz5jE/default.jpg?v=4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/kPheGIFg0mA/mqdefault.jpg?v=6aeacbbd"
+          "url": "https://i.ytimg.com/vi/w0279uqz5jE/mqdefault.jpg?v=4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/kPheGIFg0mA/hqdefault.jpg?v=6aeacbbd"
+          "url": "https://i.ytimg.com/vi/w0279uqz5jE/hqdefault.jpg?v=4"
         }
       },
-      "concurrentViewers": 1508,
-      "startedAt": "2026-11-04T05:58:46Z",
+      "concurrentViewers": 14,
+      "startedAt": "2026-11-04T14:51:05Z",
       "regionRestriction": null
     },
     {
-      "videoId": "OtSPiTo00Xc",
+      "videoId": "dHkuksurAZk",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: US midterm election results reshaping Congress",
-      "description": "Americans vote in the midterm elections that will determine which political party will control Congress, with all 435 seats in the House of Representatives up for grabs and one-third of the Senate seats. Thirty-six states will also hold gubernatorial elections.\n\n#midterms #election #congress #us #p…",
+      "title": "LIVE: New York Stock Exchange opens after Democrats sweep midterms",
+      "description": "The New York Stock Exchange opening bell rings to start the day’s trading after Democrats lead in midterm voting.\n\n#unitedstates #midterms #nyse #stocks #democrats #republicans #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/OtSPiTo00Xc/default.jpg?v=6aea8927"
+          "url": "https://i.ytimg.com/vi/dHkuksurAZk/default.jpg?v=6aeb4708"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/OtSPiTo00Xc/mqdefault.jpg?v=6aea8927"
+          "url": "https://i.ytimg.com/vi/dHkuksurAZk/mqdefault.jpg?v=6aeb4708"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/OtSPiTo00Xc/hqdefault.jpg?v=6aea8927"
+          "url": "https://i.ytimg.com/vi/dHkuksurAZk/hqdefault.jpg?v=6aeb4708"
         }
       },
-      "concurrentViewers": 122,
-      "startedAt": "2026-11-04T01:14:30Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "b043z24ErQk",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "WATCH: Steve Kornacki analyzes midterm election results LIVE all night long",
-      "description": "Follow NBC News Chief Data Analyst Steve Kornacki on camera and behind-the-scenes as he breaks down real-time vote tallies for the 2026 midterm elections.\n\nFor more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\nEvery day, NBC News helps peo…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/b043z24ErQk/default.jpg?v=6ae45155"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/b043z24ErQk/mqdefault.jpg?v=6ae45155"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/b043z24ErQk/hqdefault.jpg?v=6ae45155"
-        }
-      },
-      "concurrentViewers": 171464,
-      "startedAt": "2026-11-03T22:00:07Z",
+      "concurrentViewers": 14,
+      "startedAt": "2026-11-04T14:29:55Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/B9i_01yEgt0/hqdefault.jpg?v=6ae8e557"
         }
       },
-      "concurrentViewers": 96145,
+      "concurrentViewers": 39251,
       "startedAt": "2026-11-03T20:55:56Z",
       "regionRestriction": null
     },
@@ -233,41 +257,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/yifzmO4ueG8/default.jpg?v=6ae0f3e5"
+          "url": "https://i.ytimg.com/vi/yifzmO4ueG8/default.jpg?v=6aeb4746"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/yifzmO4ueG8/mqdefault.jpg?v=6ae0f3e5"
+          "url": "https://i.ytimg.com/vi/yifzmO4ueG8/mqdefault.jpg?v=6aeb4746"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/yifzmO4ueG8/hqdefault.jpg?v=6ae0f3e5"
+          "url": "https://i.ytimg.com/vi/yifzmO4ueG8/hqdefault.jpg?v=6aeb4746"
         }
       },
-      "concurrentViewers": 62609,
+      "concurrentViewers": 29816,
       "startedAt": "2026-11-03T20:59:33Z",
       "regionRestriction": null
     },
     {
-      "videoId": "wF8X-K_l5kY",
+      "videoId": "1ViVnrjVtQY",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: Midterm Election Results 2026 | ABC News",
-      "description": "MIDTERM ELECTIONS 2026: The high-stakes midterm elections take place Tuesday, November 3. There are several key House and Senate races that could determine the balance of power in Congress as well as significant races for governor around the country. \n\nThe elections could ultimately determine how e…",
+      "title": "LIVE: ABC News Live - Wednesday, November 4",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
       "channelTitle": "ABC News",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wF8X-K_l5kY/default.jpg?v=6aea7858"
+          "url": "https://i.ytimg.com/vi/1ViVnrjVtQY/default.jpg?v=6adfc66d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wF8X-K_l5kY/mqdefault.jpg?v=6aea7858"
+          "url": "https://i.ytimg.com/vi/1ViVnrjVtQY/mqdefault.jpg?v=6adfc66d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wF8X-K_l5kY/hqdefault.jpg?v=6aea7858"
+          "url": "https://i.ytimg.com/vi/1ViVnrjVtQY/hqdefault.jpg?v=6adfc66d"
         }
       },
-      "concurrentViewers": 59372,
-      "startedAt": "2026-11-03T12:59:39Z",
+      "concurrentViewers": 5533,
+      "startedAt": "2026-11-04T10:57:39Z",
       "regionRestriction": null
     },
     {
@@ -290,60 +314,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 4145,
+      "concurrentViewers": 5373,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "zHlI3KJIWMA",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "Watch Live: Democrats win House and Senate as more election results roll in",
-      "description": "Democrats have won control of both the House and Senate, flipping multiple red states in the 2026 midterm elections. Here's the latest on the results and what they mean.\n\n#breakingnews #election #politics \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zHlI3KJIWMA/default.jpg?v=6aea2821"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zHlI3KJIWMA/mqdefault.jpg?v=6aea2821"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zHlI3KJIWMA/hqdefault.jpg?v=6aea2821"
-        }
-      },
-      "concurrentViewers": 24172,
-      "startedAt": "2026-11-03T23:04:55Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "psO-rZpWp7I",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "LIVE: Breaking down election results as Democrats take control of Congress",
-      "description": "Get the latest midterm election results, polling analysis and data on the races that determined control of Congress. CBS News' executive director of elections and surveys Anthony Salvanto and congressional correspondent Caitlin Huey-Burns break down the numbers in a YouTube election special.\n\n#midt…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/psO-rZpWp7I/default.jpg?v=6aeaa9b1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/psO-rZpWp7I/mqdefault.jpg?v=6aeaa9b1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/psO-rZpWp7I/hqdefault.jpg?v=6aeaa9b1"
-        }
-      },
-      "concurrentViewers": 11937,
-      "startedAt": "2026-11-03T21:59:14Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-lkBiIuYhvs",
+      "videoId": "JJJHa3WkINw",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -353,46 +329,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-lkBiIuYhvs/default.jpg?v=6aea2485"
+          "url": "https://i.ytimg.com/vi/JJJHa3WkINw/default.jpg?v=6aeb1d4d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-lkBiIuYhvs/mqdefault.jpg?v=6aea2485"
+          "url": "https://i.ytimg.com/vi/JJJHa3WkINw/mqdefault.jpg?v=6aeb1d4d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-lkBiIuYhvs/hqdefault.jpg?v=6aea2485"
+          "url": "https://i.ytimg.com/vi/JJJHa3WkINw/hqdefault.jpg?v=6aeb1d4d"
         }
       },
-      "concurrentViewers": 1721,
-      "startedAt": "2026-11-04T00:00:23Z",
-      "regionRestriction": {
-        "blocked": [
-          "AU",
-          "CA"
-        ]
-      }
+      "concurrentViewers": 2614,
+      "startedAt": "2026-11-04T12:00:19Z",
+      "regionRestriction": null
     },
     {
-      "videoId": "a_VXB1oT3jw",
+      "videoId": "Sh0tzShb-ac",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE COVERAGE: Midterm election night 2026",
-      "description": "LiveNOW provides live coverage of the 2026 Midterm Elections, including live, up-to-the-minute results, live speeches, and context. Watch the results live on LiveNOW from FOX!\n\nSubscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: http…",
+      "title": "LIVE: Midterms 2026 results, Capitol Hill power shift, Trump reacts, & more",
+      "description": "Democrats have taken control of both chambers of Congress after voters appeared to rebuke Pres. Trump at the ballot box in Tuesday's midterm elections. Tuesday night, Pres. Trump said Democrats did a \"good job\" and blamed Republican candidates for their losses. \n\nAmong the biggest wins for Democrat…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/a_VXB1oT3jw/default.jpg?v=6ae36207"
+          "url": "https://i.ytimg.com/vi/Sh0tzShb-ac/default.jpg?v=6aeb33d9"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/a_VXB1oT3jw/mqdefault.jpg?v=6ae36207"
+          "url": "https://i.ytimg.com/vi/Sh0tzShb-ac/mqdefault.jpg?v=6aeb33d9"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/a_VXB1oT3jw/hqdefault.jpg?v=6ae36207"
+          "url": "https://i.ytimg.com/vi/Sh0tzShb-ac/hqdefault.jpg?v=6aeb33d9"
         }
       },
-      "concurrentViewers": 3771,
-      "startedAt": "2026-11-03T20:56:20Z",
+      "concurrentViewers": 2757,
+      "startedAt": "2026-11-04T13:36:55Z",
       "regionRestriction": null
     },
     {
@@ -415,62 +386,14 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1274,
+      "concurrentViewers": 2822,
       "startedAt": "2026-10-25T11:51:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "tbAbicAzFU4",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "Election results 2026: LIVE AP race calls and Senate and House maps",
-      "description": "Watch live as The Associated Press makes race calls in the 2026 midterm election.  \n\nThe AP will have an updated view of the U.S. Senate and House balance of power maps and will be live from inside campaign events for James Talarico, Ken Paxton, Abdul El-Sayed, Mike Rogers, Jon Ossoff, Mike Collins…",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tbAbicAzFU4/default.jpg?v=6ae9ccf7"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tbAbicAzFU4/mqdefault.jpg?v=6ae9ccf7"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tbAbicAzFU4/hqdefault.jpg?v=6ae9ccf7"
-        }
-      },
-      "concurrentViewers": 12394,
-      "startedAt": "2026-11-03T20:59:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Oqj_4qjCjL4",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "Election 2026: LIVE U.S. Senate and House balance of power maps",
-      "description": "Watch results come in during the 2026 midterm election.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Oqj_4qjCjL4/default.jpg?v=6aea6dc4"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Oqj_4qjCjL4/mqdefault.jpg?v=6aea6dc4"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Oqj_4qjCjL4/hqdefault.jpg?v=6aea6dc4"
-        }
-      },
-      "concurrentViewers": 999,
-      "startedAt": "2026-11-03T23:28:07Z",
       "regionRestriction": null
     },
     {
       "videoId": "QB5BNdBFujE",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
-      "title": "Election Night 2026: Bloomberg Business News Live",
+      "title": "Bloomberg Business News Live",
       "description": "Programming schedule (EST):\n12:00 AM - 5:00 AM: Bloomberg Global Business News\n5:00 AM - 6:00 AM Bloomberg Brief\n6:00 AM - 9:00 AM: Bloomberg Surveillance\n9:00 AM - 10:00 AM: Bloomberg Open Interest\n10:00 AM - 12:00 PM: Bloomberg Intelligence\n12:00 PM - 2:00 PM: Balance of Power\n2:00 PM - 5:00 PM: …",
       "channelTitle": "Bloomberg Television",
       "country": "US",
@@ -487,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 5482,
+      "concurrentViewers": 10919,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -511,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 120,
+      "concurrentViewers": 49,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -535,7 +458,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 18550,
+      "concurrentViewers": 12691,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -563,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 354,
+      "concurrentViewers": 1058,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -587,7 +510,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1554,
+      "concurrentViewers": 1675,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -611,7 +534,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 12516,
+      "concurrentViewers": 10779,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -635,7 +558,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 248,
+      "concurrentViewers": 231,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -663,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 105,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -687,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/adUSssjOCLY/hqdefault.jpg?v=6addd1b2"
         }
       },
-      "concurrentViewers": 273,
+      "concurrentViewers": 77,
       "startedAt": "2026-10-25T09:56:07Z",
       "regionRestriction": null
     },
@@ -702,13 +625,13 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39193"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=391f8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39193"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=391f8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39193"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=391f8"
         }
       },
       "concurrentViewers": 40,
@@ -716,106 +639,106 @@
       "regionRestriction": null
     },
     {
-      "videoId": "Pv-RzVq6nak",
+      "videoId": "NBKkIj3O3BQ",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION",
-      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
+      "title": "LIVE: From Trump's Midterm Shock To South Africa's Power Struggle And India's Political Showdown!",
+      "description": "LIVE: From Trump's Midterm Shock To South Africa's Power Struggle And India's Political Showdown!\n\nOn The Show:\n\n- U.S. MIDTERMS 2026: Democrats celebrate sweeping victories as Donald Trump faces a new political reality. What happens to his final two years in the White House?\n\n- SOUTH AFRICA: Munic…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Pv-RzVq6nak/default.jpg?v=6ae7eaa5"
+          "url": "https://i.ytimg.com/vi/NBKkIj3O3BQ/default.jpg?v=6aeb3f27"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Pv-RzVq6nak/mqdefault.jpg?v=6ae7eaa5"
+          "url": "https://i.ytimg.com/vi/NBKkIj3O3BQ/mqdefault.jpg?v=6aeb3f27"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Pv-RzVq6nak/hqdefault.jpg?v=6ae7eaa5"
+          "url": "https://i.ytimg.com/vi/NBKkIj3O3BQ/hqdefault.jpg?v=6aeb3f27"
         }
       },
-      "concurrentViewers": 20,
-      "startedAt": "2026-11-02T01:37:49Z",
+      "concurrentViewers": 64,
+      "startedAt": "2026-11-04T14:34:35Z",
       "regionRestriction": null
     },
     {
-      "videoId": "iZZR8Ha4Cko",
+      "videoId": "w7T6KkET5bg",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE TV: US Elections Results | US Midterms | Democrats Vs Republicans | US Midterms",
-      "description": "Democrats have retaken control of the US Senate, delivering a decisive rebuke of Republican control of governance in Washington and ushering in a new era of congressional resistance to President Donald Trump. Both CNN and CNBC have also projected a Democratic House majority, giving the opposition t…",
+      "title": "NDTV LIVE TV: Rahul Gandhi News | Punjab Election News | Cockroach Janta Party | Agniveer Scheme",
+      "description": "The Delhi government has granted consent to initiate contempt of court proceedings against Ratna Singh, the legal head of the Cockroach Janata Party (CJP), over her controversial remarks about a judicial officer. Singh's alleged description of a judge as a \"serving master\" has drawn criticism, with…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iZZR8Ha4Cko/default.jpg?v=6aeac9f6"
+          "url": "https://i.ytimg.com/vi/w7T6KkET5bg/default.jpg?v=6aeb21b7"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iZZR8Ha4Cko/mqdefault.jpg?v=6aeac9f6"
+          "url": "https://i.ytimg.com/vi/w7T6KkET5bg/mqdefault.jpg?v=6aeb21b7"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iZZR8Ha4Cko/hqdefault.jpg?v=6aeac9f6"
+          "url": "https://i.ytimg.com/vi/w7T6KkET5bg/hqdefault.jpg?v=6aeb21b7"
         }
       },
-      "concurrentViewers": 319,
-      "startedAt": "2026-11-04T06:01:35Z",
+      "concurrentViewers": 515,
+      "startedAt": "2026-11-04T12:15:29Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ELOc-jua_gI",
+      "videoId": "zOTk9bgJgpo",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "US Midterm Elections | US Election Results LIVE | Trump's Reaction To Democrats' Win",
-      "description": "US President Donald Trump has posted a picture of a cap bearing the word “Veto” on Truth Social, following the Democrats' victories in the midterm elections. Trump had earlier threatened to become a “veto president” if Democrats took control of Congress. With Democrats now set to control both the S…",
+      "title": "Blue-Nami In America, Joy In India | THE BUCK STOPS HERE LIVE With Padmaja Joshi",
+      "description": "Blue-Nami In America, Joy In India | THE BUCK STOPS HERE LIVE With Padmaja Joshi\n\n#USMidTermElections #DonaldTrump #TrumpNews \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ELOc-jua_gI/default.jpg?v=6aeacaed"
+          "url": "https://i.ytimg.com/vi/zOTk9bgJgpo/default.jpg?v=6aeb40fe"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ELOc-jua_gI/mqdefault.jpg?v=6aeacaed"
+          "url": "https://i.ytimg.com/vi/zOTk9bgJgpo/mqdefault.jpg?v=6aeb40fe"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ELOc-jua_gI/hqdefault.jpg?v=6aeacaed"
+          "url": "https://i.ytimg.com/vi/zOTk9bgJgpo/hqdefault.jpg?v=6aeb40fe"
         }
       },
-      "concurrentViewers": 157,
-      "startedAt": "2026-11-04T06:07:10Z",
+      "concurrentViewers": 186,
+      "startedAt": "2026-11-04T14:28:53Z",
       "regionRestriction": null
     },
     {
-      "videoId": "-tcBC0dmVmw",
+      "videoId": "y5FYQhq-Sk0",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "US Midterm Elections Results 2026 LIVE | Democrats Win Senate Majority | US Midterm Election LIVE",
-      "description": "Democrats are making significant gains in the 2026 US midterm elections, moving within one seat of a Senate majority and leading Republicans in the early House count, according to the figures cited in this broadcast. NDTV's correspondent reports on voter concerns over inflation, healthcare, job los…",
+      "title": "US Midterm Results 2026 LIVE | US Midterm Results | US Elections | Donald Trump News | US Polls",
+      "description": "Democrats have retaken control of the US Senate, delivering a decisive rebuke of Republican control of governance in Washington and ushering in a new era of congressional resistance to President Donald Trump. The blue wave has also taken over the House, with Democrats crossing the majority mark of …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-tcBC0dmVmw/default.jpg?v=6aeab7b0"
+          "url": "https://i.ytimg.com/vi/y5FYQhq-Sk0/default.jpg?v=6aeaf931"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-tcBC0dmVmw/mqdefault.jpg?v=6aeab7b0"
+          "url": "https://i.ytimg.com/vi/y5FYQhq-Sk0/mqdefault.jpg?v=6aeaf931"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-tcBC0dmVmw/hqdefault.jpg?v=6aeab7b0"
+          "url": "https://i.ytimg.com/vi/y5FYQhq-Sk0/hqdefault.jpg?v=6aeaf931"
         }
       },
-      "concurrentViewers": 120,
-      "startedAt": "2026-11-04T04:44:03Z",
+      "concurrentViewers": 54,
+      "startedAt": "2026-11-04T10:18:35Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Donald Trump's Defeat In US Midterm Elections | PM Modi | SIR | US Vs Iran War",
-      "description": "India Today TV LIVE: Donald Trump's Defeat In US Midterm Elections | PM Modi | SIR | US Vs Iran War\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nUS strikes Iran'…",
+      "title": "India Today TV LIVE: US Midterm Elections | Trump | Democrats | Agniveers | SIR | Iran War | PM Modi",
+      "description": "India Today TV LIVE: US Midterm Elections | Trump | Democrats | Agniveers | SIR | Iran War | PM Modi\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nUS strikes Iran…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -831,14 +754,62 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 662,
+      "concurrentViewers": 1153,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zo2yKWO2j6c",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Live: Debate In Parl Vs Debate In Public | Rahul Gandhi | Amit Shah | SIR | CEC Gyanesh Kumar",
+      "description": "Live: Debate In Parl Vs Debate In Public | Rahul Gandhi | Amit Shah | SIR | CEC Gyanesh Kumar     \n\n#ParliamentDebate #PublicDebate #RahulGandhi #indiatodaylivestream  #AmitShah #SIR #GyaneshKumar #ElectionCommission #VoteChori #IndianPolitics #Parliament #IndiaTodayLive #PoliticalDebate \n\nSubscrib…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zo2yKWO2j6c/default.jpg?v=6aeb3556"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zo2yKWO2j6c/mqdefault.jpg?v=6aeb3556"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zo2yKWO2j6c/hqdefault.jpg?v=6aeb3556"
+        }
+      },
+      "concurrentViewers": 149,
+      "startedAt": "2026-11-04T13:41:55Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kBh1O2RDRlE",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Live: Will War Clouds Clear Now? America Bleeds Blue Midterms | Trump | Republicans | Democrats",
+      "description": "Live: Will War Clouds Clear Now? America Bleeds Blue Midterms | Trump | Republicans | Democrats  \n\n#USMidterms2026 #AmericaVotes #Trump #indiatodaylivestream  #DonaldTrump #Republicans #Democrats #BlueWave #USPolitics #MidtermElections #WarCrisis #AmericanPolitics #IndiaTodayLive \n\nSubscribe to Ind…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kBh1O2RDRlE/default.jpg?v=6aeb4094"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kBh1O2RDRlE/mqdefault.jpg?v=6aeb4094"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kBh1O2RDRlE/hqdefault.jpg?v=6aeb4094"
+        }
+      },
+      "concurrentViewers": 147,
+      "startedAt": "2026-11-04T14:30:35Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: US Midterm Election Results | US Iran War | Cyclone Murasu | Delhi Pollution |",
+      "title": "Aaj Tak LIVE TV: US Midterm Election Results | Donald Trump | Rahul Gandhi | UP Election  2027",
       "description": "अमित शाह ने SIR पर विशेष सत्र बुलाकर चर्चा करने की चुनौती दी. राहुल गांधी ने प्रधानमंत्री मोदी को खुली बहस की याद दिलाई. अब सियासत में चुनौती बनाम चर्चा की जंग तेज हो गई है.\n\nउत्तर प्रदेश में दिवाली से पहले सियासी हलचल तेज है. बीजेपी पदयात्राओं के जरिए छह शहरों में माहौल बनाने में जुटी है. दिग्गज न…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -855,8 +826,56 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 616,
+      "concurrentViewers": 3413,
       "startedAt": "2026-11-01T01:25:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "AJ3StkhD-vY",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "राहुल का मोर्चा मोदी से 'खुली चर्चा' ! | UP Election | PM Modi | Rahul Gandhi | Punjab Election",
+      "description": "राहुल का मोर्चा मोदी से 'खुली चर्चा' ! | UP Election | PM Modi | Rahul Gandhi | Punjab Election\n\nसंसद में नेता विपक्ष राहुल गांधी ने आज लगातार तीसरे दिन प्रधानमंत्री नरेंद्र मोदी को ओपन डिबेट की चुनौती दी है । इसके जवाब में बीजेपी ने संसद की बहस का सवाल खड़ा कर दिया है । केंद्रीय गृह मंत्री अमित शा…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AJ3StkhD-vY/default.jpg?v=6aeb466c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AJ3StkhD-vY/mqdefault.jpg?v=6aeb466c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AJ3StkhD-vY/hqdefault.jpg?v=6aeb466c"
+        }
+      },
+      "concurrentViewers": 1638,
+      "startedAt": "2026-11-04T12:19:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "X7jXk7dR3oo",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Khabardar With Sweta Singh LIVE : UP में हैट्रिक लगाने के लिए Yogi  का सबसे बड़ा दांव | UP Election",
+      "description": "बिना विधानसभा चुनाव लड़े बाद में विधान परिषद या उपचुनाव के जरिए मुख्यमंत्री बनने की रणनीति उत्तर प्रदेश की राजनीति में नई नहीं है. अखिलेश यादव से लेकर मायावती, मुलायम सिंह और योगी आदित्यनाथ तक सूबे के कई दिग्गज नेता इसी रास्ते से सत्ता के शीर्ष पद पर बैठ चुके हैं.\n\n#UPElection #samajwadiparty #akhi…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X7jXk7dR3oo/default.jpg?v=6aeb3eda"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X7jXk7dR3oo/mqdefault.jpg?v=6aeb3eda"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X7jXk7dR3oo/hqdefault.jpg?v=6aeb3eda"
+        }
+      },
+      "concurrentViewers": 1594,
+      "startedAt": "2026-11-04T14:21:54Z",
       "regionRestriction": null
     },
     {
@@ -879,7 +898,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 956,
+      "concurrentViewers": 540,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -903,7 +922,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 117,
+      "concurrentViewers": 166,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -927,7 +946,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2460,
+      "concurrentViewers": 630,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
