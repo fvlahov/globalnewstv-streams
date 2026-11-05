@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T09:06:00.610Z",
+  "generatedAt": "2026-11-05T17:33:59.209Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 8106,
+      "concurrentViewers": 6322,
       "startedAt": "2026-10-19T17:27:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "t0IrercCg6M",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Hegseth's future in question - as Vance distances himself from Iran war | Mornings",
-      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/t0IrercCg6M/default.jpg?v=6aec1faf"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/t0IrercCg6M/mqdefault.jpg?v=6aec1faf"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/t0IrercCg6M/hqdefault.jpg?v=6aec1faf"
-        }
-      },
-      "concurrentViewers": 875,
-      "startedAt": "2026-11-05T05:59:23Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 742,
+      "concurrentViewers": 634,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2924,
+      "concurrentViewers": 3206,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "F6ItMIhcJL4",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Breakfast with Stephen and Dawn | Thursday 5th November",
-      "description": "Join Stephen Dixon and Dawn Neesom to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: http…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/F6ItMIhcJL4/default.jpg?v=6aec1adf"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/F6ItMIhcJL4/mqdefault.jpg?v=6aec1adf"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/F6ItMIhcJL4/hqdefault.jpg?v=6aec1adf"
-        }
-      },
-      "concurrentViewers": 2079,
-      "startedAt": "2026-11-05T05:58:31Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 883,
+      "concurrentViewers": 267,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -170,14 +122,14 @@
           "url": "https://i.ytimg.com/vi/iWxNZp_gnNw/hqdefault.jpg?v=6aec2c33"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 247,
       "startedAt": "2026-11-05T07:11:11Z",
       "regionRestriction": null
     },
     {
-      "videoId": "I0wBL9pgX3c",
+      "videoId": "dD1jAjrBedI",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Nov. 5",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -185,17 +137,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/I0wBL9pgX3c/default.jpg?v=6aeb1728"
+          "url": "https://i.ytimg.com/vi/dD1jAjrBedI/default.jpg?v=6aeb8232"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/I0wBL9pgX3c/mqdefault.jpg?v=6aeb1728"
+          "url": "https://i.ytimg.com/vi/dD1jAjrBedI/mqdefault.jpg?v=6aeb8232"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/I0wBL9pgX3c/hqdefault.jpg?v=6aeb1728"
+          "url": "https://i.ytimg.com/vi/dD1jAjrBedI/hqdefault.jpg?v=6aeb8232"
         }
       },
-      "concurrentViewers": 2080,
-      "startedAt": "2026-11-04T22:58:56Z",
+      "concurrentViewers": 6401,
+      "startedAt": "2026-11-05T11:15:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "mVdM8bK8ibE",
+      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+      "title": "LIVE: Melania Trump delivers remarks on humanitarian ceasefire she brokered in Ukraine | NBC News",
+      "description": "Watch live coverage as first lady Melania Trump convenes representatives from Russia and Ukraine at the White House to discuss the humanitarian ceasefire she helped broker between the warring countries.\n\nFor more context and news coverage of the most important stories of our day, click here: https:…",
+      "channelTitle": "NBC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mVdM8bK8ibE/default.jpg?v=6aec9eb5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mVdM8bK8ibE/mqdefault.jpg?v=6aec9eb5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mVdM8bK8ibE/hqdefault.jpg?v=6aec9eb5"
+        }
+      },
+      "concurrentViewers": 55,
+      "startedAt": "2026-11-05T16:00:02Z",
       "regionRestriction": null
     },
     {
@@ -218,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1304,
+      "concurrentViewers": 1353,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "1w9CMPt0Sic",
+      "videoId": "S_-uVzcokmE",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -233,41 +209,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/1w9CMPt0Sic/default.jpg?v=6aebcef4"
+          "url": "https://i.ytimg.com/vi/S_-uVzcokmE/default.jpg?v=6aebcfae"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/1w9CMPt0Sic/mqdefault.jpg?v=6aebcef4"
+          "url": "https://i.ytimg.com/vi/S_-uVzcokmE/mqdefault.jpg?v=6aebcfae"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/1w9CMPt0Sic/hqdefault.jpg?v=6aebcef4"
+          "url": "https://i.ytimg.com/vi/S_-uVzcokmE/hqdefault.jpg?v=6aebcfae"
         }
       },
-      "concurrentViewers": 344,
-      "startedAt": "2026-11-05T00:34:50Z",
+      "concurrentViewers": 1218,
+      "startedAt": "2026-11-05T12:03:09Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Sh0tzShb-ac",
+      "videoId": "2Emp24rAosg",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Midterms 2026 results, Capitol Hill power shift, Trump reacts, & more",
-      "description": "Democrats have taken control of both chambers of Congress after voters appeared to rebuke Pres. Trump at the ballot box in Tuesday's midterm elections. Tuesday night, Pres. Trump said Democrats did a \"good job\" and blamed Republican candidates for their losses. \n\nAmong the biggest wins for Democrat…",
+      "title": "LIVE: Shakeup on Capitol Hill, 6 killed in NYC lithium-ion fire, Georgia floods, CitiBank shooting",
+      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Sh0tzShb-ac/default.jpg?v=6aeb33d9"
+          "url": "https://i.ytimg.com/vi/2Emp24rAosg/default.jpg?v=6aec829c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Sh0tzShb-ac/mqdefault.jpg?v=6aeb33d9"
+          "url": "https://i.ytimg.com/vi/2Emp24rAosg/mqdefault.jpg?v=6aec829c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Sh0tzShb-ac/hqdefault.jpg?v=6aeb33d9"
+          "url": "https://i.ytimg.com/vi/2Emp24rAosg/hqdefault.jpg?v=6aec829c"
         }
       },
-      "concurrentViewers": 279,
-      "startedAt": "2026-11-04T13:36:55Z",
+      "concurrentViewers": 1261,
+      "startedAt": "2026-11-05T13:19:49Z",
       "regionRestriction": null
     },
     {
@@ -290,8 +266,32 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 241,
+      "concurrentViewers": 1698,
       "startedAt": "2026-10-25T11:51:46Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "U9hbGO5f3lU",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Protests in France as trade unions hold nationwide strike",
+      "description": "Live from Paris as public service workers protest during a strike across France called by trade unions to oppose rising living costs, high fuel prices and public spending cuts. Students are expected to join the protests over poor school conditions and teacher shortages.\n\n#france #protest #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U9hbGO5f3lU/default.jpg?v=6aec5681"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U9hbGO5f3lU/mqdefault.jpg?v=6aec5681"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U9hbGO5f3lU/hqdefault.jpg?v=6aec5681"
+        }
+      },
+      "concurrentViewers": 1065,
+      "startedAt": "2026-11-05T10:29:32Z",
       "regionRestriction": null
     },
     {
@@ -314,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 4971,
+      "concurrentViewers": 10670,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 57,
+      "concurrentViewers": 46,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9409,
+      "concurrentViewers": 10333,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 876,
+      "concurrentViewers": 771,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1467,
+      "concurrentViewers": 1788,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7763,
+      "concurrentViewers": 7699,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 281,
+      "concurrentViewers": 186,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 145,
+      "concurrentViewers": 123,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 191,
+      "concurrentViewers": 213,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -529,16 +529,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=392cf"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39334"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=392cf"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39334"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=392cf"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39334"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 52,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -562,32 +562,32 @@
           "url": "https://i.ytimg.com/vi/YIZlwQatQ-o/hqdefault.jpg?v=6aebd9a7"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 12,
       "startedAt": "2026-11-05T01:19:55Z",
       "regionRestriction": null
     },
     {
-      "videoId": "kBUj2jfUETs",
+      "videoId": "aVDKh8MJJWo",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Midterms Elections 2026 LIVE: Iran War Backlash Rocks Trump, Democrats Gain Power | WION",
-      "description": "US Midterms Elections 2026 LIVE: Iran War Backlash Rocks Trump, Democrats Gain Power | WION\n\nThe 2026 US midterm elections have triggered a major political shake-up in Washington, with Democrats gaining ground and Republicans facing significant losses. As the Iran war becomes a key political flashp…",
+      "title": "France Protests LIVE: France Gripped By Nationwide Strike As Students, Workers Protest in Paris",
+      "description": "France Protests LIVE: France Gripped By Nationwide Strike As Students, Workers Protest in Paris\n\n\n\nFrance is bracing for a massive day of protests as students, workers and pensioners join nationwide marches and strikes. Five trade unions have called for action, with authorities expecting between 50…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/kBUj2jfUETs/default.jpg?v=6aebc9f5"
+          "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/default.jpg?v=6aec8933"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/kBUj2jfUETs/mqdefault.jpg?v=6aebc9f5"
+          "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/mqdefault.jpg?v=6aec8933"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/kBUj2jfUETs/hqdefault.jpg?v=6aebc9f5"
+          "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/hqdefault.jpg?v=6aec8933"
         }
       },
-      "concurrentViewers": 6,
-      "startedAt": "2026-11-05T00:13:41Z",
+      "concurrentViewers": 7,
+      "startedAt": "2026-11-05T13:49:20Z",
       "regionRestriction": null
     },
     {
@@ -610,87 +610,87 @@
           "url": "https://i.ytimg.com/vi/XrtpKYN2SR4/hqdefault.jpg?v=6aebda49"
         }
       },
-      "concurrentViewers": 4,
+      "concurrentViewers": 5,
       "startedAt": "2026-11-05T01:23:17Z",
       "regionRestriction": null
     },
     {
-      "videoId": "iMkJT8rfSzE",
+      "videoId": "zPF3bgVjP7M",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: Rajeev Chandrasekhar Addresses Press Conference At BJP HQ In New Delhi",
-      "description": "LIVE: Rajeev Chandrasekhar Addresses Press Conference At BJP HQ In New Delhi\n \n\n#BJP \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch big political d…",
+      "title": "UGC Equity Rules Under Review: Why The Sudden Reset? | The Buck Stops Here",
+      "description": "Ten months after defending the regulations, the Centre tells the Supreme Court it will revisit the rules. What changed, and who drove the rethink? \n\n#UGCEquityRules #UGCRegulations #UGC #UGCEquityRegulations #SupremeCourt #UGCRules #UGCControversy #HigherEducation\n\nAbout NDTV (English news channel)…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iMkJT8rfSzE/default.jpg?v=6aec3f57"
+          "url": "https://i.ytimg.com/vi/zPF3bgVjP7M/default.jpg?v=6aecb1e6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iMkJT8rfSzE/mqdefault.jpg?v=6aec3f57"
+          "url": "https://i.ytimg.com/vi/zPF3bgVjP7M/mqdefault.jpg?v=6aecb1e6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iMkJT8rfSzE/hqdefault.jpg?v=6aec3f57"
+          "url": "https://i.ytimg.com/vi/zPF3bgVjP7M/hqdefault.jpg?v=6aecb1e6"
         }
       },
-      "concurrentViewers": 21,
-      "startedAt": "2026-11-05T08:35:13Z",
+      "concurrentViewers": 32,
+      "startedAt": "2026-11-05T16:45:01Z",
       "regionRestriction": null
     },
     {
-      "videoId": "y2xkicMkc-I",
+      "videoId": "h8kHpyI0_B0",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "BJP News | 'Come Debate In Parliament': Amit Shah's Challenge On Rahul Gandhi's Dare",
-      "description": "Union Home Minister Amit Shah has hit out at Congress leader Rahul Gandhi for challenging Prime Minister Narendra Modi to a debate, telling him to debate in the Parliament and not on the streets.\n\n\"I want to challenge Rahul Gandhi directly. You challenge PM Modi for a discussion? If you want a disc…",
+      "title": "CJP Protest LIVE | CJP's Saurav Das, Ashutosh Ranka On Foreign Funding Claims | LIVE",
+      "description": "Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka addressed allegations of foreign funding, dismissing them as a political tactic. They said they would fully cooperate with the routine investigation scheduled for October 13.\n\nThe speakers urged the government to focus on issues affe…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/y2xkicMkc-I/default.jpg"
+          "url": "https://i.ytimg.com/vi/h8kHpyI0_B0/default.jpg?v=6aecaf4d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/y2xkicMkc-I/mqdefault.jpg"
+          "url": "https://i.ytimg.com/vi/h8kHpyI0_B0/mqdefault.jpg?v=6aecaf4d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/y2xkicMkc-I/hqdefault.jpg"
+          "url": "https://i.ytimg.com/vi/h8kHpyI0_B0/hqdefault.jpg?v=6aecaf4d"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-05T08:50:09Z",
+      "concurrentViewers": 20,
+      "startedAt": "2026-11-05T16:33:12Z",
       "regionRestriction": null
     },
     {
-      "videoId": "WU9b7Smn44w",
+      "videoId": "XmyIOjP9P8I",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "No Relief For Azam Khan From Supreme Court In Money Laundering Case",
-      "description": "The Supreme Court on Thursday refused to entertain senior Samajwadi Party leader Azam Khan's plea seeking bail in a fresh money laundering case registered by the Enforcement Directorate.\n\nA bench of Chief Justice Surya Kant and Justice Joymalya Bagchi transferred Khan's petition to the Allahabad Hi…",
+      "title": "Karnataka's Price Hike Season: Who Pays The Price? | The Southern View | NDTV LIVE",
+      "description": "Bus fares are up, dairy products are costlier, and political temperatures are rising. With the BJP blaming the Congress government's guarantees for emptying coffers and the government citing farmer welfare and rising costs, the battle over Karnataka's growing cost-of-living burden is intensifying.\n…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WU9b7Smn44w/default.jpg"
+          "url": "https://i.ytimg.com/vi/XmyIOjP9P8I/default.jpg?v=6aec9c7e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WU9b7Smn44w/mqdefault.jpg"
+          "url": "https://i.ytimg.com/vi/XmyIOjP9P8I/mqdefault.jpg?v=6aec9c7e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WU9b7Smn44w/hqdefault.jpg"
+          "url": "https://i.ytimg.com/vi/XmyIOjP9P8I/hqdefault.jpg?v=6aec9c7e"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-05T09:05:11Z",
+      "concurrentViewers": 9,
+      "startedAt": "2026-11-05T15:20:09Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: HM Shah's Rally In Karnal | US-Iran War | Delhi Air Quality | PM Modi News",
-      "description": "India Today TV LIVE: HM Shah's Rally In Karnal | US-Iran War | Delhi Air Quality | PM Modi News\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nUS strikes Iran's Qe…",
+      "title": "India Today TV LIVE: Ronaldo Retires | HM Shah's Rally In Karnal | Iran War | Delhi's AQI | PM Modi",
+      "description": "India Today TV LIVE: Ronaldo Retires | HM Shah's Rally In Karnal | Iran War | Delhi's AQI | PM Modi\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nUS strikes Iran'…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -706,62 +706,14 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 520,
+      "concurrentViewers": 498,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qHVwQKvaNdI",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Gyanesh Kumar Mock Arrest In Bengaluru | SIR Row | Election Commission Under Fire LIVE UPDATES",
-      "description": "A political protest in Bengaluru saw demonstrators stage a mock arrest of Chief Election Commissioner Gyanesh Kumar amid the ongoing controversy over the Special Intensive Revision (SIR) of electoral rolls. Watch the latest developments and political reactions LIVE.\n\n\n#GyaneshKumar #BengaluruProtes…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qHVwQKvaNdI/default.jpg?v=6aec1df8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qHVwQKvaNdI/mqdefault.jpg?v=6aec1df8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qHVwQKvaNdI/hqdefault.jpg?v=6aec1df8"
-        }
-      },
-      "concurrentViewers": 58,
-      "startedAt": "2026-11-05T06:12:45Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QmvLzL5AK5s",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: 'Loktantra Bachao' Rally: Amit Shah Leads Massive BJP Gathering In Karnal, Haryana | LIVE",
-      "description": "Union Home Minister Amit Shah leads a major 'Loktantra Bachao' rally in Karnal, Haryana. Watch LIVE coverage, key speeches, political reactions and the latest developments.\n\n\n#AmitShah #LoktantraBachao #Karnal #Haryana #BJPRally #BJP #HaryanaPolitics #IndiaToday #LiveNews #indiatodaylivestream \n\n\nS…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QmvLzL5AK5s/default.jpg?v=6aec34a0"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QmvLzL5AK5s/mqdefault.jpg?v=6aec34a0"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QmvLzL5AK5s/hqdefault.jpg?v=6aec34a0"
-        }
-      },
-      "concurrentViewers": 25,
-      "startedAt": "2026-11-05T07:48:45Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Amit Shah | Chandni Chowk Building Collapse | US Midterm Election | PM Modi",
+      "title": "Aaj Tak LIVE TV: Amit Shah | Chandni Chowk Building Collapse | US Midterm Election | Hindi News",
       "description": "यूपी चुनाव से पहले विपक्ष के खिलाफ गोरखपुर में नितिन नवीन की पदयात्रा...साथ मौजूद CM योगी ने कहा- नकारात्मक नीति से कांग्रेस और एसपी को जनता करती है खारिज\n\nसंगरुर की रैली से राहुल गांधी का अमित शाह पर निशाना- कहा, उन्होंने पंजाब को 3 साल में नशा मुक्त करने का किया है वादा लेकिन 1 साल के अंदर गिरेगी…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -778,56 +730,8 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 956,
+      "concurrentViewers": 2521,
       "startedAt": "2026-11-01T01:25:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "bpR-x9HQr8A",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Trump Impact Stock Market: Midterm Election में Trump की हार, भारतीय शेयर बाजार में तेजी | Aaj Tak",
-      "description": "गुरुवार को भारतीय शेयर बाजार में शानदार तेजी आई है, जिस कारण भारतीय बाजार में सेंसेक्‍स करीब 79000 लेवल के करीब पहुंच गया है, जबकि निफ्टी 24400 से ऊपर पहुंच गया है.\n\n#usmidtermelections #donaldtrump #america #jdvance #aajtakdigital #sharemarket \n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bpR-x9HQr8A/default.jpg?v=6aec38cc"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bpR-x9HQr8A/mqdefault.jpg?v=6aec38cc"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bpR-x9HQr8A/hqdefault.jpg?v=6aec38cc"
-        }
-      },
-      "concurrentViewers": 623,
-      "startedAt": "2026-11-05T08:10:20Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "xIgqUyBh6Tc",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "AAJTAK 2 LIVE | US MIDTERM ELECTION | TRUMP की हार पर JD VANCE का तगड़ा खुलासा! AT2",
-      "description": "#DonaldTrump #USMidtermElections #TariffWar #IranUSTension #USElectionUpdate #aajtak2 #AT2LIVE\nरिपब्लिकन पार्टी को मिली हार के बाद राष्ट्रपति डोनाल्ड ट्रंप ने ईरान युद्ध के असर को स्वीकार किया है. उन्होंने कहा कि अमेरिकी जनता ईरान के खिलाफ कार्रवाई का समर्थन करती है, लेकिन पेट्रोल की बढ़ती कीमतों क…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xIgqUyBh6Tc/default.jpg?v=6aec34c2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xIgqUyBh6Tc/mqdefault.jpg?v=6aec34c2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xIgqUyBh6Tc/hqdefault.jpg?v=6aec34c2"
-        }
-      },
-      "concurrentViewers": 569,
-      "startedAt": "2026-11-05T07:50:16Z",
       "regionRestriction": null
     },
     {
@@ -850,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 789,
+      "concurrentViewers": 368,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -874,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 158,
+      "concurrentViewers": 291,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -898,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1744,
+      "concurrentViewers": 580,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
