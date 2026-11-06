@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T11:52:47.674Z",
+  "generatedAt": "2026-11-06T17:59:59.719Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | Brand guilty of rape and sexual assault | Vodcast episode 16 - https://news.sky.com/video/brand-guilty-of-rape-and-sexual-assault-vodcast-episode-16-13608624\n\n🔴 …",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Markets plummet worldwide as US midterm results add to AI fears - https://news.sky.com/story/midterms-trump-latest-live-house-senate-democrats-republicans-win-13575072\n\n\ud83d…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 6901,
+      "concurrentViewers": 5636,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 662,
+      "concurrentViewers": 569,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2434,
+      "concurrentViewers": 2590,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bbEeYASOO9o",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "LIVE: Thomas Markle arrest latest | Dewbs & Co Friday 6th November",
+      "description": "Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News …",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bbEeYASOO9o/default.jpg?v=1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bbEeYASOO9o/mqdefault.jpg?v=1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bbEeYASOO9o/hqdefault.jpg?v=1"
+        }
+      },
+      "concurrentViewers": 279,
+      "startedAt": "2026-11-06T17:55:00Z",
       "regionRestriction": null
     },
     {
@@ -98,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 492,
+      "concurrentViewers": 162,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "aY4HPPIAfNk",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Bus crashes in eastern France",
-      "description": "Rescue efforts at a bus crash in eastern France near Switzerland that resulted in 'several victims,' according to local authorities. The French Education Minister Edouard Geffray said the crash involved a bus believed to be transporting school pupils. The local prefecture said the collision involve…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aY4HPPIAfNk/default.jpg?v=6aedabc2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aY4HPPIAfNk/mqdefault.jpg?v=6aedabc2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aY4HPPIAfNk/hqdefault.jpg?v=6aedabc2"
-        }
-      },
-      "concurrentViewers": 17,
-      "startedAt": "2026-11-06T10:20:19Z",
       "regionRestriction": null
     },
     {
@@ -146,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/rLQn87cLJTE/hqdefault.jpg?v=6aedbbf9"
         }
       },
-      "concurrentViewers": 1801,
+      "concurrentViewers": 4124,
       "startedAt": "2026-11-06T11:38:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "1YXN4bsps9Y",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Friday, November 6",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1YXN4bsps9Y/default.jpg?v=6adfc7fa"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1YXN4bsps9Y/mqdefault.jpg?v=6adfc7fa"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1YXN4bsps9Y/hqdefault.jpg?v=6adfc7fa"
+        }
+      },
+      "concurrentViewers": 2040,
+      "startedAt": "2026-11-06T10:59:15Z",
       "regionRestriction": null
     },
     {
@@ -170,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1176,
+      "concurrentViewers": 902,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "hs3DWpXnq1U",
+      "videoId": "qnTjYpH1FOY",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -185,23 +209,23 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hs3DWpXnq1U/default.jpg?v=6aecfc75"
+          "url": "https://i.ytimg.com/vi/qnTjYpH1FOY/default.jpg?v=6aed5ca6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hs3DWpXnq1U/mqdefault.jpg?v=6aecfc75"
+          "url": "https://i.ytimg.com/vi/qnTjYpH1FOY/mqdefault.jpg?v=6aed5ca6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hs3DWpXnq1U/hqdefault.jpg?v=6aecfc75"
+          "url": "https://i.ytimg.com/vi/qnTjYpH1FOY/hqdefault.jpg?v=6aed5ca6"
         }
       },
-      "concurrentViewers": 683,
-      "startedAt": "2026-11-05T23:59:51Z",
+      "concurrentViewers": 920,
+      "startedAt": "2026-11-06T12:00:15Z",
       "regionRestriction": null
     },
     {
-      "videoId": "2Emp24rAosg",
+      "videoId": "GzNHGPqpyss",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Shakeup on Capitol Hill, 6 killed in NYC lithium-ion fire, Georgia floods, CitiBank shooting",
+      "title": "LIVE: Trump speaks in Florida, Denver officer killed, Stock Market drops, New jobs numbers & more",
       "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
@@ -209,17 +233,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2Emp24rAosg/default.jpg?v=6aec829c"
+          "url": "https://i.ytimg.com/vi/GzNHGPqpyss/default.jpg?v=6aeddae8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2Emp24rAosg/mqdefault.jpg?v=6aec829c"
+          "url": "https://i.ytimg.com/vi/GzNHGPqpyss/mqdefault.jpg?v=6aeddae8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2Emp24rAosg/hqdefault.jpg?v=6aec829c"
+          "url": "https://i.ytimg.com/vi/GzNHGPqpyss/hqdefault.jpg?v=6aeddae8"
         }
       },
-      "concurrentViewers": 374,
-      "startedAt": "2026-11-05T13:19:49Z",
+      "concurrentViewers": 1391,
+      "startedAt": "2026-11-06T13:50:33Z",
       "regionRestriction": null
     },
     {
@@ -242,8 +266,32 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 348,
+      "concurrentViewers": 1532,
       "startedAt": "2026-10-25T11:51:46Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "P5w-HrYJvsM",
+      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
+      "title": "The Rob Carson Show LIVE (11/6/2026) | NEWSMAX Podcasts",
+      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
+      "channelTitle": "Newsmax",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P5w-HrYJvsM/default.jpg?v=6aed0ad1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P5w-HrYJvsM/mqdefault.jpg?v=6aed0ad1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P5w-HrYJvsM/hqdefault.jpg?v=6aed0ad1"
+        }
+      },
+      "concurrentViewers": 88,
+      "startedAt": "2026-11-06T17:05:39Z",
       "regionRestriction": null
     },
     {
@@ -266,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 8506,
+      "concurrentViewers": 7285,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 43,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8003,
+      "concurrentViewers": 8466,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 549,
+      "concurrentViewers": 559,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1266,
+      "concurrentViewers": 1609,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7062,
+      "concurrentViewers": 6897,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 254,
+      "concurrentViewers": 166,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 152,
+      "concurrentViewers": 68,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 196,
+      "concurrentViewers": 151,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -481,16 +529,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39411"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3945a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39411"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3945a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39411"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3945a"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 36,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -514,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/KmfzSF7ewj8/hqdefault.jpg?v=6aeda3f4"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 34,
       "startedAt": "2026-11-06T10:08:30Z",
       "regionRestriction": null
     },
@@ -543,51 +591,27 @@
       "regionRestriction": null
     },
     {
-      "videoId": "XrtpKYN2SR4",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Midterm Elections 2026 LIVE:  Chris Pappas Becomes First Openly Gay Senator-Elect From N.H.",
-      "description": "The US Supreme Court has rejected Donald Trump's challenge concerning California's ballot measures. The decision comes amid heightened political tensions ahead of the US midterm elections. The ruling adds another legal development to the ongoing battle over election-related issues in the United Sta…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XrtpKYN2SR4/default.jpg?v=6aebda49"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XrtpKYN2SR4/mqdefault.jpg?v=6aebda49"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XrtpKYN2SR4/hqdefault.jpg?v=6aebda49"
-        }
-      },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-05T01:23:17Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "f5oVewDY3e4",
+      "videoId": "e8U_ycmM-_Q",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Bollywood Diwali Party | Saif Ali Khan & Kareena Kapoor At Diwali Party | Aishwarya Rai Bachchan",
-      "description": "Abhishek Bachchan and Aishwarya Rai treated fans and followers to a pleasant Diwali surprise when they arrived at ace designer Manish Malhotra's Diwali party, held in Mumbai last night, hand-in-hand. After years of speculation about their marital rift, the Bachchans made one of the rare joint appea…",
+      "title": "Rahul Gandhi News LIVE | 'Don't Run Away, Rahul Gandhi Ji': Assam BJP's Fresh Swipe",
+      "description": "The Assam BJP took a swipe at Rahul Gandhi through a social media post urging him not to \"run away\" and instead debate in Parliament. The jibe comes after Union Home Minister Amit Shah accepted Rahul Gandhi's challenge for a discussion on the SIR row, escalating the political war of words between t…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/default.jpg?v=6aed9ed9"
+          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/default.jpg?v=6aedb932"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/mqdefault.jpg?v=6aed9ed9"
+          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/mqdefault.jpg?v=6aedb932"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/hqdefault.jpg?v=6aed9ed9"
+          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/hqdefault.jpg?v=6aedb932"
         }
       },
-      "concurrentViewers": 51,
-      "startedAt": "2026-11-06T09:38:36Z",
+      "concurrentViewers": 7,
+      "startedAt": "2026-11-06T11:45:31Z",
       "regionRestriction": null
     },
     {
@@ -610,39 +634,39 @@
           "url": "https://i.ytimg.com/vi/xwpU9Rx231s/hqdefault.jpg?v=6aedb67e"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 5,
       "startedAt": "2026-11-06T11:14:54Z",
       "regionRestriction": null
     },
     {
-      "videoId": "e8U_ycmM-_Q",
+      "videoId": "f5oVewDY3e4",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi News LIVE | 'Don't Run Away, Rahul Gandhi Ji': Assam BJP's Fresh Swipe",
-      "description": "The Assam BJP took a swipe at Rahul Gandhi through a social media post urging him not to \"run away\" and instead debate in Parliament. The jibe comes after Union Home Minister Amit Shah accepted Rahul Gandhi's challenge for a discussion on the SIR row, escalating the political war of words between t…",
+      "title": "Bollywood Diwali Party | Saif Ali Khan & Kareena Kapoor At Diwali Party | Aishwarya Rai Bachchan",
+      "description": "Abhishek Bachchan and Aishwarya Rai treated fans and followers to a pleasant Diwali surprise when they arrived at ace designer Manish Malhotra's Diwali party, held in Mumbai last night, hand-in-hand. After years of speculation about their marital rift, the Bachchans made one of the rare joint appea…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/default.jpg?v=6aedb932"
+          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/default.jpg?v=6aed9ed9"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/mqdefault.jpg?v=6aedb932"
+          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/mqdefault.jpg?v=6aed9ed9"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/hqdefault.jpg?v=6aedb932"
+          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/hqdefault.jpg?v=6aed9ed9"
         }
       },
-      "concurrentViewers": 26,
-      "startedAt": "2026-11-06T11:45:31Z",
+      "concurrentViewers": 1,
+      "startedAt": "2026-11-06T09:38:36Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Omar-Farooq Face Rebel | Salman Khan | Amitabh Bachchan | Delhi's AQI | Iran War",
-      "description": "India Today LIVE: Omar-Farooq Face Rebel | Big B Gets Bomb Threat | Delhi AQI Rises | US-Iran War \n\nJammu and Kashmir National Conference president Farooq Abdullah has responded to demands raised by disgruntled party MLAs following the recent cabinet expansion. Amid growing internal dissent and cal…",
+      "title": "India Today LIVE: CBSE Datesheet | Omar-Farooq Face Rebel | Salman Khan | Delhi's AQI | Rahul Gandhi",
+      "description": "India Today LIVE: CBSE Datesheet | Omar-Farooq Face Rebel | Salman Khan | Delhi's AQI | Rahul Gandhi\nThe Central Board of Secondary Education (CBSE) has released the date sheet for the Class 10 and Class 12 board examinations 2027. The examinations will begin on February 16, 2027, with both sets of…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -658,15 +682,39 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 438,
+      "concurrentViewers": 272,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "JUsMs6vLfu0",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm",
+      "description": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm\n\n#RajdeepSardesai #MehdiHasan #DonaldTrump #indiatodaylivestream  #Trump #TrumpEra #USMidterms #USMidtermElections #AmericanPolitics #USPolitics #TrumpAdministration #Democrats #Republicans #BlueWave #Poli…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/default.jpg?v=6aedf385"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/mqdefault.jpg?v=6aedf385"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/hqdefault.jpg?v=6aedf385"
+        }
+      },
+      "concurrentViewers": 61,
+      "startedAt": "2026-11-06T15:36:39Z",
       "regionRestriction": null
     },
     {
       "videoId": "ztg8TuMrouA",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Delhi Air Quality | US-Iran War | Big B Bomb Threat | US-Iran War | PM Modi",
-      "description": "India Today TV LIVE: Delhi Air Quality | US-Iran War | Big B Bomb Threat | US-Iran War | PM Modi\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nCristiano Ronaldo h…",
+      "title": "India Today TV LIVE: CBSE Datesheet | Salman Khan | Amitabh Bachchan | US-Iran War | PM Modi",
+      "description": "India Today TV LIVE: CBSE Datesheet | Salman Khan | Amitabh Bachchan | US-Iran War | PM Modi\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nSalman Khan broke his s…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -682,15 +730,15 @@
           "url": "https://i.ytimg.com/vi/ztg8TuMrouA/hqdefault.jpg?v=6aed27fe"
         }
       },
-      "concurrentViewers": 102,
+      "concurrentViewers": 35,
       "startedAt": "2026-11-06T01:32:53Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Dangal | Dhanteras 2026 | Delhi Air Pollution | UGC | Rahul Gandhi | Hindi News",
-      "description": "पंजाब के राजपुरा के पास अमृतसर- न्यू जलपाईगुड़ी कर्मभूमि एक्सप्रेस में लगी आग..लपटों में घिरी 4 बोगियां..ट्रेन रोक कर मुसाफिरों को बाहर निकाला गय़ा\n\nसुप्रीम कोर्ट में उठा दिल्ली में खतरनाक प्रदूषण का मुद्दा..CJI ने कहा- दिवाली गिफ्ट खरीदने वाली गाड़ियों से लग रहा है जाम और बढ़ रहा है पॉल्यूशन..एमिकस…",
+      "title": "Aaj Tak LIVE TV: Dhanteras 2026 | Delhi Air Pollution | Rahul Gandhi | BJP | PM Modi | Hindi News",
+      "description": "झारखंड के मंत्री इरफान के भड़काऊ बयान पर नितिन नवीन ने राहुल गांधी को घेरा- कहा, देश को अराजकता में झोंकना चाहती है कांग्रेस...पूछा- क्या आपकी मौन सहमति है.\n\nललन सिंह के वोटर ID वाले बयान पर सुलगी सियासत- राहुल का आरोप, योजनाओं का लाभ छीनने की साजिश- केंद्रीय मंत्री का पलटवार- तथ्यों को तोड़ने-मरोड…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -706,8 +754,56 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1885,
+      "concurrentViewers": 2315,
       "startedAt": "2026-11-01T01:25:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Usbkw_3K5-w",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Black and White with Anjana Om Kashyap LIVE: Dhanteras 2026 | Delhi Air Pollution | SIR Controversy",
+      "description": "Black and White with Anjana Om Kashyap LIVE: Dhanteras 2026 | Delhi Air Pollution | SIR Controversy\n\nआज ब्लैक एंड व्हाइट में तीन बड़े मुद्दों पर होगी खास चर्चा। सबसे पहले बात धनतेरस की, जब देश में सोना-चांदी की खरीदारी का आंकड़ा 66 हजार करोड़ रुपये तक पहुंचने की बात सामने आई। इसके बाद जानेंगे कि दि…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Usbkw_3K5-w/default.jpg?v=6aedd15b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Usbkw_3K5-w/mqdefault.jpg?v=6aedd15b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Usbkw_3K5-w/hqdefault.jpg?v=6aedd15b"
+        }
+      },
+      "concurrentViewers": 1515,
+      "startedAt": "2026-11-06T15:23:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hFAbCieFwHQ",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "AajTak LIVE: Midterm Elections में Trump की पार्टी को झटका, क्या अब तीसरी बार चलेगा महाभियोग?",
+      "description": "AajTak LIVE: Midterm Elections में Trump की पार्टी को झटका, क्या अब तीसरी बार चलेगा महाभियोग?\n\nअमेरिका में मिडटर्म चुनाव के नतीजों के बाद राष्ट्रपति डोनाल्ड ट्रंप की मुश्किलें बढ़ती नजर आ रही हैं। पैकेज में दिए गए चुनावी नतीजों के मुताबिक, अमेरिकी संसद के दोनों सदनों में ट्रंप की रिपब्लिकन पार्टी न…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hFAbCieFwHQ/default.jpg?v=6aee046a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hFAbCieFwHQ/mqdefault.jpg?v=6aee046a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hFAbCieFwHQ/hqdefault.jpg?v=6aee046a"
+        }
+      },
+      "concurrentViewers": 526,
+      "startedAt": "2026-11-06T16:59:52Z",
       "regionRestriction": null
     },
     {
@@ -730,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 603,
+      "concurrentViewers": 300,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 193,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +874,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 969,
+      "concurrentViewers": 572,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
