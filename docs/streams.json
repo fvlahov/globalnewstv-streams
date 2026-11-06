@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T18:59:38.838Z",
+  "generatedAt": "2026-11-06T23:42:09.975Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Markets plummet worldwide as US midterm results add to AI fears - https://news.sky.com/story/midterms-trump-latest-live-house-senate-democrats-republicans-win-13575072\n\n\ud83d…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Thomas Markle: Duchess of Sussex's father appears in court after being arrested by FBI over child sex abuse material - https://news.sky.com/story/thomas-markle-lat…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4979,
+      "concurrentViewers": 2974,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 528,
+      "concurrentViewers": 256,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2506,
+      "concurrentViewers": 1837,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,12 +98,36 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 109,
+      "concurrentViewers": 39,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "rLQn87cLJTE",
+      "videoId": "G6kRCAPyxTE",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Pope Leo begins Latin America visit in Uruguay",
+      "description": "Pope Leo arrives in Uruguay to kick off an ambitious 12-day trip across South America, which comes just weeks after the 71-year-old pontiff underwent lung surgery. Latin America remains the world's largest Catholic stronghold even as Catholic identity in the region steadily shrinks.\n \n#popeleo #leo…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G6kRCAPyxTE/default.jpg?v=6aee2f7b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G6kRCAPyxTE/mqdefault.jpg?v=6aee2f7b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G6kRCAPyxTE/hqdefault.jpg?v=6aee2f7b"
+        }
+      },
+      "concurrentViewers": 11,
+      "startedAt": "2026-11-06T19:18:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4a4IWlRVth0",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Nov. 6",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -113,17 +137,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rLQn87cLJTE/default.jpg?v=6aedbbf9"
+          "url": "https://i.ytimg.com/vi/4a4IWlRVth0/default.jpg?v=6aee4eeb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rLQn87cLJTE/mqdefault.jpg?v=6aedbbf9"
+          "url": "https://i.ytimg.com/vi/4a4IWlRVth0/mqdefault.jpg?v=6aee4eeb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rLQn87cLJTE/hqdefault.jpg?v=6aedbbf9"
+          "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 3576,
-      "startedAt": "2026-11-06T11:38:12Z",
+      "concurrentViewers": 2660,
+      "startedAt": "2026-11-06T22:59:01Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/1YXN4bsps9Y/hqdefault.jpg?v=6adfc7fa"
         }
       },
-      "concurrentViewers": 1885,
+      "concurrentViewers": 1233,
       "startedAt": "2026-11-06T10:59:15Z",
       "regionRestriction": null
     },
@@ -170,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 877,
+      "concurrentViewers": 823,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/qnTjYpH1FOY/hqdefault.jpg?v=6aed5ca6"
         }
       },
-      "concurrentViewers": 845,
+      "concurrentViewers": 644,
       "startedAt": "2026-11-06T12:00:15Z",
       "regionRestriction": null
     },
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/GzNHGPqpyss/hqdefault.jpg?v=6aeddae8"
         }
       },
-      "concurrentViewers": 1292,
+      "concurrentViewers": 784,
       "startedAt": "2026-11-06T13:50:33Z",
       "regionRestriction": null
     },
@@ -242,32 +266,32 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1369,
+      "concurrentViewers": 1190,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
     {
-      "videoId": "P5w-HrYJvsM",
-      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-      "title": "The Rob Carson Show LIVE (11/6/2026) | NEWSMAX Podcasts",
-      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
-      "channelTitle": "Newsmax",
+      "videoId": "W1K79fqWh5k",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Pope Leo XIV arrives in Uruguay",
+      "description": "Watch live as Pope Leo XIV arrives at Carrasco International Airport in Montevideo for an official welcome ceremony, followed by a ceremony at Plaza Independencia, where he is expected to be greeted by local officials and deliver remarks. Read more: https://bit.ly/4z1u8P6\n\n#popeleoxiv",
+      "channelTitle": "Associated Press",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/P5w-HrYJvsM/default.jpg?v=6aed0ad1"
+          "url": "https://i.ytimg.com/vi/W1K79fqWh5k/default.jpg?v=6aee5d76"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/P5w-HrYJvsM/mqdefault.jpg?v=6aed0ad1"
+          "url": "https://i.ytimg.com/vi/W1K79fqWh5k/mqdefault.jpg?v=6aee5d76"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/P5w-HrYJvsM/hqdefault.jpg?v=6aed0ad1"
+          "url": "https://i.ytimg.com/vi/W1K79fqWh5k/hqdefault.jpg?v=6aee5d76"
         }
       },
-      "concurrentViewers": 87,
-      "startedAt": "2026-11-06T17:05:39Z",
+      "concurrentViewers": 643,
+      "startedAt": "2026-11-06T19:03:42Z",
       "regionRestriction": null
     },
     {
@@ -290,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 6610,
+      "concurrentViewers": 1642,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -314,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 47,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -338,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8861,
+      "concurrentViewers": 5210,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 517,
+      "concurrentViewers": 357,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -390,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1478,
+      "concurrentViewers": 978,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -414,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5383,
+      "concurrentViewers": 4816,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -438,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 163,
+      "concurrentViewers": 119,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -466,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 92,
+      "concurrentViewers": 54,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -490,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 130,
+      "concurrentViewers": 132,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -505,16 +529,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39466"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3949f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39466"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3949f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39466"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3949f"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 31,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -538,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/KmfzSF7ewj8/hqdefault.jpg?v=6aeda3f4"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 11,
       "startedAt": "2026-11-06T10:08:30Z",
       "regionRestriction": null
     },
@@ -562,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/hqdefault.jpg?v=6aec8933"
         }
       },
-      "concurrentViewers": 2,
+      "concurrentViewers": null,
       "startedAt": "2026-11-05T13:49:20Z",
       "regionRestriction": null
     },
@@ -591,54 +615,6 @@
       "regionRestriction": null
     },
     {
-      "videoId": "f5oVewDY3e4",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Bollywood Diwali Party | Saif Ali Khan & Kareena Kapoor At Diwali Party | Aishwarya Rai Bachchan",
-      "description": "Abhishek Bachchan and Aishwarya Rai treated fans and followers to a pleasant Diwali surprise when they arrived at ace designer Manish Malhotra's Diwali party, held in Mumbai last night, hand-in-hand. After years of speculation about their marital rift, the Bachchans made one of the rare joint appea…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/default.jpg?v=6aed9ed9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/mqdefault.jpg?v=6aed9ed9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/f5oVewDY3e4/hqdefault.jpg?v=6aed9ed9"
-        }
-      },
-      "concurrentViewers": 3,
-      "startedAt": "2026-11-06T09:38:36Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "xwpU9Rx231s",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "The Royal Barge Procession | Thailand's King Joins Grand Royal Barge Procession On Chao Phraya River",
-      "description": "Thailand's King takes part in the spectacular Royal Barge Procession, one of the country's most revered and visually stunning ceremonies. Held on Bangkok's Chao Phraya River, the centuries-old tradition features ornate royal barges, ceremonial rituals, and a display of Thailand's rich cultural heri…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xwpU9Rx231s/default.jpg?v=6aedb67e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xwpU9Rx231s/mqdefault.jpg?v=6aedb67e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xwpU9Rx231s/hqdefault.jpg?v=6aedb67e"
-        }
-      },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-06T11:14:54Z",
-      "regionRestriction": null
-    },
-    {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
       "title": "India Today LIVE: Mohd Shami | CBSE Datesheet | CM Omar | Salman Khan | Delhi's AQI | Rahul Gandhi",
@@ -658,32 +634,8 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 184,
+      "concurrentViewers": 76,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "JUsMs6vLfu0",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm",
-      "description": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm\n\n#RajdeepSardesai #MehdiHasan #DonaldTrump #indiatodaylivestream  #Trump #TrumpEra #USMidterms #USMidtermElections #AmericanPolitics #USPolitics #TrumpAdministration #Democrats #Republicans #BlueWave #Poli…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/default.jpg?v=6aedf385"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/mqdefault.jpg?v=6aedf385"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/hqdefault.jpg?v=6aedf385"
-        }
-      },
-      "concurrentViewers": 32,
-      "startedAt": "2026-11-06T15:36:39Z",
       "regionRestriction": null
     },
     {
@@ -706,8 +658,32 @@
           "url": "https://i.ytimg.com/vi/ztg8TuMrouA/hqdefault.jpg?v=6aed27fe"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 19,
       "startedAt": "2026-11-06T01:32:53Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "JUsMs6vLfu0",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm",
+      "description": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm\n\n#RajdeepSardesai #MehdiHasan #DonaldTrump #indiatodaylivestream  #Trump #TrumpEra #USMidterms #USMidtermElections #AmericanPolitics #USPolitics #TrumpAdministration #Democrats #Republicans #BlueWave #Poli…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/default.jpg?v=6aedf385"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/mqdefault.jpg?v=6aedf385"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/hqdefault.jpg?v=6aedf385"
+        }
+      },
+      "concurrentViewers": 6,
+      "startedAt": "2026-11-06T15:36:39Z",
       "regionRestriction": null
     },
     {
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1025,
+      "concurrentViewers": 199,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
@@ -754,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/Usbkw_3K5-w/hqdefault.jpg?v=6aedd15b"
         }
       },
-      "concurrentViewers": 835,
+      "concurrentViewers": 142,
       "startedAt": "2026-11-06T15:23:25Z",
       "regionRestriction": null
     },
@@ -778,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/hFAbCieFwHQ/hqdefault.jpg?v=6aee046a"
         }
       },
-      "concurrentViewers": 197,
+      "concurrentViewers": 27,
       "startedAt": "2026-11-06T16:59:52Z",
       "regionRestriction": null
     },
@@ -802,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 292,
+      "concurrentViewers": 711,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -826,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 149,
+      "concurrentViewers": 111,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -850,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 667,
+      "concurrentViewers": 2127,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
