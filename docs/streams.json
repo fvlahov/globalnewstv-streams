@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T17:33:59.209Z",
+  "generatedAt": "2026-11-06T03:33:42.661Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 US midterms latest: Trump war secretary's job on line - as strategist says JD Vance now 'has no future' - https://trib.al/xfec2kv\n\n🔴 Politics latest: Euro optional if UK…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | Brand guilty of rape and sexual assault | Vodcast episode 16 - https://news.sky.com/video/brand-guilty-of-rape-and-sexual-assault-vodcast-episode-16-13608624\n\n🔴 …",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 6322,
+      "concurrentViewers": 2360,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Ber_fjQ3u7I",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Russell Brand faces years in prison for raping one of his fans | The Wrap with Anna Botting",
+      "description": "Russell Brand is in custody after he was convicted of rape and and three counts of sexual assault. \n\nFollow latest ➡️ https://news.sky.com/story/russell-brand-guilty-rape-sexual-assault-trial-live-latest-13592674\n\nThe Wrap will focus on debating, analysing and making sense of the day's news, not ju…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ber_fjQ3u7I/default.jpg?v=6aecdfe1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ber_fjQ3u7I/mqdefault.jpg?v=6aecdfe1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ber_fjQ3u7I/hqdefault.jpg?v=6aecdfe1"
+        }
+      },
+      "concurrentViewers": 183,
+      "startedAt": "2026-11-05T21:54:22Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 634,
+      "concurrentViewers": 202,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3206,
+      "concurrentViewers": 1082,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,38 +122,38 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 267,
+      "concurrentViewers": 23,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "iWxNZp_gnNw",
+      "videoId": "U5VPmMCzS6c",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: French students, workers and pensioners protest in Paris",
-      "description": "Hundreds of thousands of protesters are expected to march through French cities and public workers to strike on November 5, in a fresh test for President Emmanuel Macron, after weeks of unrest that have rattled his government and dominated the agenda five months ahead of a presidential election\n\n#p…",
+      "title": "LIVE: Kilauea volcano spews lava",
+      "description": "Kilauea volcano in Hawaii spews lava into the sky\n\n#Kilauea #volcano #Hawaii #Kilaueavolcano #live #Reuters #news\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iWxNZp_gnNw/default.jpg?v=6aec2c33"
+          "url": "https://i.ytimg.com/vi/U5VPmMCzS6c/default.jpg?v=6aed3693"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iWxNZp_gnNw/mqdefault.jpg?v=6aec2c33"
+          "url": "https://i.ytimg.com/vi/U5VPmMCzS6c/mqdefault.jpg?v=6aed3693"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iWxNZp_gnNw/hqdefault.jpg?v=6aec2c33"
+          "url": "https://i.ytimg.com/vi/U5VPmMCzS6c/hqdefault.jpg?v=6aed3693"
         }
       },
-      "concurrentViewers": 247,
-      "startedAt": "2026-11-05T07:11:11Z",
+      "concurrentViewers": 40,
+      "startedAt": "2026-11-06T02:07:44Z",
       "regionRestriction": null
     },
     {
-      "videoId": "dD1jAjrBedI",
+      "videoId": "0uwAtfBIVx0",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 5",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -137,41 +161,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/dD1jAjrBedI/default.jpg?v=6aeb8232"
+          "url": "https://i.ytimg.com/vi/0uwAtfBIVx0/default.jpg?v=6aecfb95"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/dD1jAjrBedI/mqdefault.jpg?v=6aeb8232"
+          "url": "https://i.ytimg.com/vi/0uwAtfBIVx0/mqdefault.jpg?v=6aecfb95"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/dD1jAjrBedI/hqdefault.jpg?v=6aeb8232"
+          "url": "https://i.ytimg.com/vi/0uwAtfBIVx0/hqdefault.jpg?v=6aecfb95"
         }
       },
-      "concurrentViewers": 6401,
-      "startedAt": "2026-11-05T11:15:04Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "mVdM8bK8ibE",
-      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: Melania Trump delivers remarks on humanitarian ceasefire she brokered in Ukraine | NBC News",
-      "description": "Watch live coverage as first lady Melania Trump convenes representatives from Russia and Ukraine at the White House to discuss the humanitarian ceasefire she helped broker between the warring countries.\n\nFor more context and news coverage of the most important stories of our day, click here: https:…",
-      "channelTitle": "NBC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mVdM8bK8ibE/default.jpg?v=6aec9eb5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mVdM8bK8ibE/mqdefault.jpg?v=6aec9eb5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mVdM8bK8ibE/hqdefault.jpg?v=6aec9eb5"
-        }
-      },
-      "concurrentViewers": 55,
-      "startedAt": "2026-11-05T16:00:02Z",
+      "concurrentViewers": 2041,
+      "startedAt": "2026-11-05T22:59:03Z",
       "regionRestriction": null
     },
     {
@@ -194,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1353,
+      "concurrentViewers": 761,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "S_-uVzcokmE",
+      "videoId": "hs3DWpXnq1U",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -209,17 +209,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/S_-uVzcokmE/default.jpg?v=6aebcfae"
+          "url": "https://i.ytimg.com/vi/hs3DWpXnq1U/default.jpg?v=6aecfc75"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/S_-uVzcokmE/mqdefault.jpg?v=6aebcfae"
+          "url": "https://i.ytimg.com/vi/hs3DWpXnq1U/mqdefault.jpg?v=6aecfc75"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/S_-uVzcokmE/hqdefault.jpg?v=6aebcfae"
+          "url": "https://i.ytimg.com/vi/hs3DWpXnq1U/hqdefault.jpg?v=6aecfc75"
         }
       },
-      "concurrentViewers": 1218,
-      "startedAt": "2026-11-05T12:03:09Z",
+      "concurrentViewers": 486,
+      "startedAt": "2026-11-05T23:59:51Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/2Emp24rAosg/hqdefault.jpg?v=6aec829c"
         }
       },
-      "concurrentViewers": 1261,
+      "concurrentViewers": 408,
       "startedAt": "2026-11-05T13:19:49Z",
       "regionRestriction": null
     },
@@ -266,32 +266,8 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1698,
+      "concurrentViewers": 472,
       "startedAt": "2026-10-25T11:51:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "U9hbGO5f3lU",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Protests in France as trade unions hold nationwide strike",
-      "description": "Live from Paris as public service workers protest during a strike across France called by trade unions to oppose rising living costs, high fuel prices and public spending cuts. Students are expected to join the protests over poor school conditions and teacher shortages.\n\n#france #protest #live",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/U9hbGO5f3lU/default.jpg?v=6aec5681"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/U9hbGO5f3lU/mqdefault.jpg?v=6aec5681"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/U9hbGO5f3lU/hqdefault.jpg?v=6aec5681"
-        }
-      },
-      "concurrentViewers": 1065,
-      "startedAt": "2026-11-05T10:29:32Z",
       "regionRestriction": null
     },
     {
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 10670,
+      "concurrentViewers": 1764,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 36,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 10333,
+      "concurrentViewers": 6213,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 771,
+      "concurrentViewers": 387,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1788,
+      "concurrentViewers": 862,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7699,
+      "concurrentViewers": 3800,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 186,
+      "concurrentViewers": 120,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 123,
+      "concurrentViewers": 57,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 213,
+      "concurrentViewers": 99,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -529,41 +505,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39334"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=393ac"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39334"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=393ac"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39334"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=393ac"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "YIZlwQatQ-o",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "LIVE: Saudi Arabia Strikes Yemen's Biggest Houthi-Held Port, Houthis Cry 'War Crime' | WION",
-      "description": "Saudi Arabia has launched strikes on Yemen's biggest port under Houthi control, escalating tensions in the region. The Houthi group has condemned the attack, calling it a \"war crime\" and raising fears of further retaliation. What does the strike mean for Yemen, the Houthis and regional security? Wa…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YIZlwQatQ-o/default.jpg?v=6aebd9a7"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YIZlwQatQ-o/mqdefault.jpg?v=6aebd9a7"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YIZlwQatQ-o/hqdefault.jpg?v=6aebd9a7"
-        }
-      },
-      "concurrentViewers": 12,
-      "startedAt": "2026-11-05T01:19:55Z",
       "regionRestriction": null
     },
     {
@@ -586,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/hqdefault.jpg?v=6aec8933"
         }
       },
-      "concurrentViewers": 7,
+      "concurrentViewers": 10,
       "startedAt": "2026-11-05T13:49:20Z",
       "regionRestriction": null
     },
@@ -610,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/XrtpKYN2SR4/hqdefault.jpg?v=6aebda49"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-05T01:23:17Z",
       "regionRestriction": null
     },
@@ -634,32 +586,8 @@
           "url": "https://i.ytimg.com/vi/zPF3bgVjP7M/hqdefault.jpg?v=6aecb1e6"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-05T16:45:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "h8kHpyI0_B0",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Protest LIVE | CJP's Saurav Das, Ashutosh Ranka On Foreign Funding Claims | LIVE",
-      "description": "Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka addressed allegations of foreign funding, dismissing them as a political tactic. They said they would fully cooperate with the routine investigation scheduled for October 13.\n\nThe speakers urged the government to focus on issues affe…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/h8kHpyI0_B0/default.jpg?v=6aecaf4d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/h8kHpyI0_B0/mqdefault.jpg?v=6aecaf4d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/h8kHpyI0_B0/hqdefault.jpg?v=6aecaf4d"
-        }
-      },
-      "concurrentViewers": 20,
-      "startedAt": "2026-11-05T16:33:12Z",
       "regionRestriction": null
     },
     {
@@ -682,15 +610,15 @@
           "url": "https://i.ytimg.com/vi/XmyIOjP9P8I/hqdefault.jpg?v=6aec9c7e"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": null,
       "startedAt": "2026-11-05T15:20:09Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Ronaldo Retires | HM Shah's Rally In Karnal | Iran War | Delhi's AQI | PM Modi",
-      "description": "India Today TV LIVE: Ronaldo Retires | HM Shah's Rally In Karnal | Iran War | Delhi's AQI | PM Modi\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nUS strikes Iran'…",
+      "title": "India Today LIVE: Democrats Wins Midterms | Trump News | Delhi AQI Rises | US-Iran War | Modi |Rahul",
+      "description": "India Today LIVE: Democrats Wins Midterms | Trump News | Delhi AQI Rises | US-Iran War | Modi |Rahul\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nUS strikes Iran…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -706,15 +634,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 498,
+      "concurrentViewers": 563,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ztg8TuMrouA",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today TV LIVE: Delhi Air Quality | US-Iran War | Donald Trump News | US-Iran War | PM Modi",
+      "description": "India Today TV LIVE: Delhi Air Quality | US-Iran War | Donald Trump News | US-Iran War | PM Modi \n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\nCristiano Ronaldo …",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ztg8TuMrouA/default.jpg?v=6aed27fe"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ztg8TuMrouA/mqdefault.jpg?v=6aed27fe"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ztg8TuMrouA/hqdefault.jpg?v=6aed27fe"
+        }
+      },
+      "concurrentViewers": 359,
+      "startedAt": "2026-11-06T01:32:53Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "YbAkTPsh7r8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Ghaffar Market Fire LIVE: Massive Blaze Engulfs Shops in Delhi's Karol Bagh | 22 Fire Tenders Sent",
+      "description": "A massive fire broke out at Puri Plaza in Delhi's Ghaffar Market, Karol Bagh, triggering a major firefighting operation. More than 22 fire service units were deployed as flames spread to adjoining shops in the densely packed commercial area. Firefighters battled the blaze for over seven hours amid …",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YbAkTPsh7r8/default.jpg?v=6aed3d8d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YbAkTPsh7r8/mqdefault.jpg?v=6aed3d8d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YbAkTPsh7r8/hqdefault.jpg?v=6aed3d8d"
+        }
+      },
+      "concurrentViewers": 56,
+      "startedAt": "2026-11-06T02:39:00Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Amit Shah | Chandni Chowk Building Collapse | US Midterm Election | Hindi News",
-      "description": "यूपी चुनाव से पहले विपक्ष के खिलाफ गोरखपुर में नितिन नवीन की पदयात्रा...साथ मौजूद CM योगी ने कहा- नकारात्मक नीति से कांग्रेस और एसपी को जनता करती है खारिज\n\nसंगरुर की रैली से राहुल गांधी का अमित शाह पर निशाना- कहा, उन्होंने पंजाब को 3 साल में नशा मुक्त करने का किया है वादा लेकिन 1 साल के अंदर गिरेगी…",
+      "title": "Aaj Tak LIVE TV: Delhi Air Pollution | UGC | Amit Shah | PM Modi | Rahul Gandhi | Hindi News",
+      "description": "रिजीम चेंज पर घमासान के बीच झारखंड के मंत्री इरफान अंसारी के बयान पर विवाद, कहा- दिल्ली में 40 लाख छात्र सड़क पर उतरने को तैयार, राहुल ने उन्हें रोक रखा, केंद्रीय मंत्री नित्यानंद राय बोले-विदेशी ताकतों से ऑर्डर लेती है कांग्रेस\n\nUGC नियमों पर घमासान के बाद सुप्रीम कोर्ट को केंद्र ने दी जानकारी- फि…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -730,8 +706,32 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 2521,
+      "concurrentViewers": 1179,
       "startedAt": "2026-11-01T01:25:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "dDPgvf6qUFc",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "US Midterm Election News LIVE : रिजल्ट के बाद वाशिंगटन से देखिए रिपोर्ट | Donald Trump | America",
+      "description": "US Midterm Elections Counting Live Updates: अमेरिका में मध्यावधि चुनाव के बाद अब काउंटिंग पर सबकी नजरें हैं. यह चुनाव 2028 के राष्ट्रपति चुनाव की दिशा तय कर सकते हैं. जीत-हार का सिलसिला शुरू हो चुका है. मध्यावधि चुनाव के नतीजे ट्रंप की राजनीतिक स्थिति पर बड़ा प्रभाव डाल सकते हैं.\n\n#usmidtermelectio…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dDPgvf6qUFc/default.jpg?v=6aec57bc"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dDPgvf6qUFc/mqdefault.jpg?v=6aec57bc"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dDPgvf6qUFc/hqdefault.jpg?v=6aec57bc"
+        }
+      },
+      "concurrentViewers": 290,
+      "startedAt": "2026-11-05T10:19:15Z",
       "regionRestriction": null
     },
     {
@@ -754,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 368,
+      "concurrentViewers": 1391,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,8 +778,32 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 291,
+      "concurrentViewers": 98,
       "startedAt": "2026-08-14T01:21:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "o9yjk2HRIGI",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: Bayi Aerobatic Team to fly over the Great Wall at Huangyaguan",
+      "description": "Six J-10s are going to make a low-level pass above the Tianjin pass on Friday, trailing red, yellow and blue smoke as the PLA Air Force opens its 77th-anniversary programme. Join CGTN to take a look!",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o9yjk2HRIGI/default.jpg?v=6aed323c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o9yjk2HRIGI/mqdefault.jpg?v=6aed323c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o9yjk2HRIGI/hqdefault.jpg?v=6aed323c"
+        }
+      },
+      "concurrentViewers": 6,
+      "startedAt": "2026-11-06T03:11:00Z",
       "regionRestriction": null
     },
     {
@@ -802,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 580,
+      "concurrentViewers": 1796,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
