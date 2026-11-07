@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T23:42:09.975Z",
+  "generatedAt": "2026-11-07T05:00:25.148Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2974,
+      "concurrentViewers": 2686,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 256,
+      "concurrentViewers": 181,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1837,
+      "concurrentViewers": 1087,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,38 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 21,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "G6kRCAPyxTE",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Pope Leo begins Latin America visit in Uruguay",
-      "description": "Pope Leo arrives in Uruguay to kick off an ambitious 12-day trip across South America, which comes just weeks after the 71-year-old pontiff underwent lung surgery. Latin America remains the world's largest Catholic stronghold even as Catholic identity in the region steadily shrinks.\n \n#popeleo #leo…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/G6kRCAPyxTE/default.jpg?v=6aee2f7b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/G6kRCAPyxTE/mqdefault.jpg?v=6aee2f7b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/G6kRCAPyxTE/hqdefault.jpg?v=6aee2f7b"
-        }
-      },
-      "concurrentViewers": 11,
-      "startedAt": "2026-11-06T19:18:00Z",
       "regionRestriction": null
     },
     {
       "videoId": "4a4IWlRVth0",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 6",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -146,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 2660,
+      "concurrentViewers": 1050,
       "startedAt": "2026-11-06T22:59:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "1YXN4bsps9Y",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, November 6",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1YXN4bsps9Y/default.jpg?v=6adfc7fa"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1YXN4bsps9Y/mqdefault.jpg?v=6adfc7fa"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1YXN4bsps9Y/hqdefault.jpg?v=6adfc7fa"
-        }
-      },
-      "concurrentViewers": 1233,
-      "startedAt": "2026-11-06T10:59:15Z",
       "regionRestriction": null
     },
     {
@@ -194,32 +146,8 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 823,
+      "concurrentViewers": 737,
       "startedAt": "2026-10-24T03:13:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qnTjYpH1FOY",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qnTjYpH1FOY/default.jpg?v=6aed5ca6"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qnTjYpH1FOY/mqdefault.jpg?v=6aed5ca6"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qnTjYpH1FOY/hqdefault.jpg?v=6aed5ca6"
-        }
-      },
-      "concurrentViewers": 644,
-      "startedAt": "2026-11-06T12:00:15Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/GzNHGPqpyss/hqdefault.jpg?v=6aeddae8"
         }
       },
-      "concurrentViewers": 784,
+      "concurrentViewers": 359,
       "startedAt": "2026-11-06T13:50:33Z",
       "regionRestriction": null
     },
@@ -266,32 +194,8 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 1190,
+      "concurrentViewers": 345,
       "startedAt": "2026-10-25T11:51:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "W1K79fqWh5k",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Pope Leo XIV arrives in Uruguay",
-      "description": "Watch live as Pope Leo XIV arrives at Carrasco International Airport in Montevideo for an official welcome ceremony, followed by a ceremony at Plaza Independencia, where he is expected to be greeted by local officials and deliver remarks. Read more: https://bit.ly/4z1u8P6\n\n#popeleoxiv",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/W1K79fqWh5k/default.jpg?v=6aee5d76"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/W1K79fqWh5k/mqdefault.jpg?v=6aee5d76"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/W1K79fqWh5k/hqdefault.jpg?v=6aee5d76"
-        }
-      },
-      "concurrentViewers": 643,
-      "startedAt": "2026-11-06T19:03:42Z",
       "regionRestriction": null
     },
     {
@@ -314,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1642,
+      "concurrentViewers": 1074,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 24,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5210,
+      "concurrentViewers": 5742,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 357,
+      "concurrentViewers": 430,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 978,
+      "concurrentViewers": 789,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4816,
+      "concurrentViewers": 3596,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 119,
+      "concurrentViewers": 132,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 54,
+      "concurrentViewers": 59,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 155,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -529,96 +433,168 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3949f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=394df"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3949f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=394df"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3949f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=394df"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 29,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "KmfzSF7ewj8",
+      "videoId": "11jsLPJ273w",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Midterms 2026 LIVE: Trump on JD Vance’s 2028 Presidential Bid After Midterm Setback | WION",
-      "description": "US Midterms 2026 LIVE: Trump on JD Vance’s 2028 Presidential Bid After Midterm Setback | WION\n\nUS President Donald Trump has cast uncertainty over Vice President JD Vance's potential 2028 presidential bid, saying, \"Maybe he won't run.\" Trump's remarks came after Republicans suffered major losses in…",
+      "title": "Japan Earthquake LIVE: Powerful 6.1 Quake Rattles Coast Near Tokyo | WION",
+      "description": "Japan Earthquake LIVE: Powerful 6.1 Quake Rattles Coast Near Tokyo | WION \n\nA powerful magnitude-6.1 earthquake has struck off the coast near Tokyo, Japan, triggering tremors across the region. Stay tuned to WION for the latest updates, ground reports and developments as authorities assess the impa…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KmfzSF7ewj8/default.jpg?v=6aeda3f4"
+          "url": "https://i.ytimg.com/vi/11jsLPJ273w/default.jpg?v=6aee7fd8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KmfzSF7ewj8/mqdefault.jpg?v=6aeda3f4"
+          "url": "https://i.ytimg.com/vi/11jsLPJ273w/mqdefault.jpg?v=6aee7fd8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KmfzSF7ewj8/hqdefault.jpg?v=6aeda3f4"
+          "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aee7fd8"
         }
       },
-      "concurrentViewers": 11,
-      "startedAt": "2026-11-06T10:08:30Z",
+      "concurrentViewers": 91,
+      "startedAt": "2026-11-07T01:37:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "aVDKh8MJJWo",
+      "videoId": "-ZZBNSZIPIU",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "France Protests LIVE: France Gripped By Nationwide Strike As Students, Workers Protest in Paris",
-      "description": "France Protests LIVE: France Gripped By Nationwide Strike As Students, Workers Protest in Paris\n\n\n\nFrance is bracing for a massive day of protests as students, workers and pensioners join nationwide marches and strikes. Five trade unions have called for action, with authorities expecting between 50…",
+      "title": "Russia-Ukraine War LIVE: Ukraine's Energy War Turns Explosive, Nuclear Fears Rise | WION",
+      "description": "Russia-Ukraine War LIVE: Ukraine's Energy War Turns Explosive, Nuclear Fears Rise | WION \n\nUkraine has accused Russia of targeting a substation critical to the operation of the Khmelnytskyi nuclear power plant, raising concerns over nuclear safety across Europe. The allegation comes amid a massive …",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/default.jpg?v=6aec8933"
+          "url": "https://i.ytimg.com/vi/-ZZBNSZIPIU/default.jpg?v=6aee7f2c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/mqdefault.jpg?v=6aec8933"
+          "url": "https://i.ytimg.com/vi/-ZZBNSZIPIU/mqdefault.jpg?v=6aee7f2c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aVDKh8MJJWo/hqdefault.jpg?v=6aec8933"
+          "url": "https://i.ytimg.com/vi/-ZZBNSZIPIU/hqdefault.jpg?v=6aee7f2c"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-05T13:49:20Z",
+      "concurrentViewers": 75,
+      "startedAt": "2026-11-07T01:31:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "e8U_ycmM-_Q",
+      "videoId": "dtWvySy4-d4",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Strikes Yemen LIVE: Houthis Claim 30 Killed in Deadly Market Attack | WION",
+      "description": "Saudi Strikes Yemen LIVE: Houthis Claim 30 Killed in Deadly Market Attack | WION\n\nSaudi airstrikes have reportedly hit a market in Yemen's Taiz province, with the Houthis claiming that at least 30 people were killed in the attack. The strikes have raised fresh tensions in the region as questions em…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dtWvySy4-d4/default.jpg?v=6aee8e25"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dtWvySy4-d4/mqdefault.jpg?v=6aee8e25"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dtWvySy4-d4/hqdefault.jpg?v=6aee8e25"
+        }
+      },
+      "concurrentViewers": 45,
+      "startedAt": "2026-11-07T02:35:14Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "BW0cmqP6Nds",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi News LIVE | 'Don't Run Away, Rahul Gandhi Ji': Assam BJP's Fresh Swipe",
-      "description": "The Assam BJP took a swipe at Rahul Gandhi through a social media post urging him not to \"run away\" and instead debate in Parliament. The jibe comes after Union Home Minister Amit Shah accepted Rahul Gandhi's challenge for a discussion on the SIR row, escalating the political war of words between t…",
+      "title": "NDTV LIVE TV: France Student Protests | Delhi AQI | Rahul Gandhi | BJP | Deepotsav 2026",
+      "description": "Police fired tear gas and clashed with protesters in Paris and elsewhere on Saturday as hundreds of thousands marched across France against soaring living costs and police violence, with some demonstrators dressed as clowns and witches for Halloween.\n\nWhile the third consecutive weekend of nationwi…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/default.jpg?v=6aedb932"
+          "url": "https://i.ytimg.com/vi/BW0cmqP6Nds/default.jpg?v=6aee742a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/mqdefault.jpg?v=6aedb932"
+          "url": "https://i.ytimg.com/vi/BW0cmqP6Nds/mqdefault.jpg?v=6aee742a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/e8U_ycmM-_Q/hqdefault.jpg?v=6aedb932"
+          "url": "https://i.ytimg.com/vi/BW0cmqP6Nds/hqdefault.jpg?v=6aee742a"
         }
       },
-      "concurrentViewers": 6,
-      "startedAt": "2026-11-06T11:45:31Z",
+      "concurrentViewers": 192,
+      "startedAt": "2026-11-07T01:29:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6OiW_T1pYmU",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Karnataka News LIVE | Bengaluru's Hiring Battle: Jobs, Identity, And Intimidation? | DK Shivakumar",
+      "description": "Shiv Aroor discusses how the Karnataka Rakshana Vedike's campaign targeting major employers in Bengaluru has reignited questions over jobs, language politics and the state's investment climate, raising a larger question: who ultimately decides hiring in India's tech capital, elected governments or …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6OiW_T1pYmU/default.jpg?v=6aeea7b6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6OiW_T1pYmU/mqdefault.jpg?v=6aeea7b6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6OiW_T1pYmU/hqdefault.jpg?v=6aeea7b6"
+        }
+      },
+      "concurrentViewers": 31,
+      "startedAt": "2026-11-07T04:25:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vBE9eNhYGOM",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Vasundhara Outpost Explosion LIVE | Ghaziabad Police Outpost Blast | UP ATS Begins Probe In The Case",
+      "description": "The Uttar Pradesh Anti-Terrorism Squad (ATS) has begun a probe into an explosion at the Vasundhara Police Outpost in Ghaziabad on Friday night. The blast, which occurred around 9 pm, damaged the police facility, shattering two glass panes and cracking a wall. A delivery agent was injured in the exp…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vBE9eNhYGOM/default.jpg?v=6aeeaef4"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vBE9eNhYGOM/mqdefault.jpg?v=6aeeaef4"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vBE9eNhYGOM/hqdefault.jpg?v=6aeeaef4"
+        }
+      },
+      "concurrentViewers": 25,
+      "startedAt": "2026-11-07T04:51:56Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Mohd Shami | CBSE Datesheet | CM Omar | Salman Khan | Delhi's AQI | Rahul Gandhi",
-      "description": "India Today LIVE: CBSE Datesheet | Omar-Farooq Face Rebel | Salman Khan | Delhi's AQI | Rahul Gandhi\nThe Central Board of Secondary Education (CBSE) has released the date sheet for the Class 10 and Class 12 board examinations 2027. The examinations will begin on February 16, 2027, with both sets of…",
+      "title": "India Today LIVE: Mohd Shami | Delhi Pollution | Delhi's AQI | Rahul Gandhi | Donald Trump | Diwali",
+      "description": "India Today LIVE: Mohd Shami | Delhi Pollution | Delhi's AQI | Rahul Gandhi | Donald Trump | Diwali\n\nThe Central Board of Secondary Education (CBSE) has released the date sheet for the Class 10 and Class 12 board examinations 2027. The examinations will begin on February 16, 2027, with both sets of…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -634,63 +610,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 422,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ztg8TuMrouA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today TV LIVE: Mohd Shami Retires | CBSE Datesheet | Salman Khan | US-Iran War | PM Modi",
-      "description": "India Today TV LIVE: CBSE Datesheet | Salman Khan | Amitabh Bachchan | US-Iran War | PM Modi\n\nWatch India Today TV LIVE for the latest breaking news and top developments from India and around the world. Major stories include the US Midterm Results, Donald Trump Strikes Iran\n\n\nMohammed Shami has ann…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ztg8TuMrouA/default.jpg?v=6aed27fe"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ztg8TuMrouA/mqdefault.jpg?v=6aed27fe"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ztg8TuMrouA/hqdefault.jpg?v=6aed27fe"
-        }
-      },
-      "concurrentViewers": 19,
-      "startedAt": "2026-11-06T01:32:53Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "JUsMs6vLfu0",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm",
-      "description": "Rajdeep Sardesai Show Live: Is The Trumpian Era Ending? Mehdi Hasan Excl | Trump | US Midterm\n\n#RajdeepSardesai #MehdiHasan #DonaldTrump #indiatodaylivestream  #Trump #TrumpEra #USMidterms #USMidtermElections #AmericanPolitics #USPolitics #TrumpAdministration #Democrats #Republicans #BlueWave #Poli…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/default.jpg?v=6aedf385"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/mqdefault.jpg?v=6aedf385"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JUsMs6vLfu0/hqdefault.jpg?v=6aedf385"
-        }
-      },
-      "concurrentViewers": 6,
-      "startedAt": "2026-11-06T15:36:39Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Mohammed Shami Retirement | Dhanteras 2026 | Delhi Air Pollution | BJP | Hindi News",
-      "description": "भारतीय तेज गेंदबाज मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास लेने का ऐलान किया है। वह लंबे समय से भारतीय टेस्ट टीम से बाहर चल रहे थे। सोशल मीडिया पर एक वीडियो पोस्ट करके उन्होंने इस फैसले की जानकारी दी।\n\n\nझारखंड के मंत्री इरफान के भड़काऊ बयान पर नितिन नवीन ने राहुल गांधी को घेरा- कहा, देश को अराजकता …",
+      "title": "Aaj Tak LIVE TV: Ayodhya Deepotsav | PM Modi | Rahul Gandhi | Delhi Air Pollution | BJP | Hindi News",
+      "description": "आज देशभर में छोटी दिवाली यानी नरक चतुर्दशी का पर्व श्रद्धा और उल्लास के साथ मनाया जा रहा है... पांच दिवसीय दीपोत्सव का ये दूसरा दिन है, वहीं आज अयोध्या में 10वें भव्य दीपोत्सव के जरिए वर्ल्ड रेकॉर्ड बनाने की कोशिश की जाएगी \n\nPM मोदी को फिर से खुली बहस की चुनौती देने वाले राहुल गांधी पर भड़के शिक्षा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -706,56 +634,8 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 199,
+      "concurrentViewers": 1157,
       "startedAt": "2026-11-01T01:25:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Usbkw_3K5-w",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Black and White with Anjana Om Kashyap LIVE: Dhanteras 2026 | Delhi Air Pollution | SIR Controversy",
-      "description": "Black and White with Anjana Om Kashyap LIVE: Dhanteras 2026 | Delhi Air Pollution | SIR Controversy\n\nआज ब्लैक एंड व्हाइट में तीन बड़े मुद्दों पर होगी खास चर्चा। सबसे पहले बात धनतेरस की, जब देश में सोना-चांदी की खरीदारी का आंकड़ा 66 हजार करोड़ रुपये तक पहुंचने की बात सामने आई। इसके बाद जानेंगे कि दि…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Usbkw_3K5-w/default.jpg?v=6aedd15b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Usbkw_3K5-w/mqdefault.jpg?v=6aedd15b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Usbkw_3K5-w/hqdefault.jpg?v=6aedd15b"
-        }
-      },
-      "concurrentViewers": 142,
-      "startedAt": "2026-11-06T15:23:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "hFAbCieFwHQ",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Donald Trump News: क्या ट्रंप के खिलाफ आने वाला है महाभियोग | America | Aaj Tak Hindi",
-      "description": "Donald Trump News: क्या ट्रंप के खिलाफ आने वाला है महाभियोग | America | Aaj Tak Hindi\nअमेरिका के मिडटर्म चुनावों में डेमोक्रेटिक पार्टी द्वारा संसद के दोनों सदनों (हाउस ऑफ रिप्रेजेंटेटिव्स और सीनेट) में बहुमत हासिल करने के बाद राष्ट्रपति डोनाल्ड ट्रंप के खिलाफ महाभियोग या कड़ी जांच-पड़ताल की चर्चाए…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hFAbCieFwHQ/default.jpg?v=6aee046a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hFAbCieFwHQ/mqdefault.jpg?v=6aee046a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hFAbCieFwHQ/hqdefault.jpg?v=6aee046a"
-        }
-      },
-      "concurrentViewers": 27,
-      "startedAt": "2026-11-06T16:59:52Z",
       "regionRestriction": null
     },
     {
@@ -778,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 711,
+      "concurrentViewers": 649,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -802,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 111,
+      "concurrentViewers": 126,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -826,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2127,
+      "concurrentViewers": 1050,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
