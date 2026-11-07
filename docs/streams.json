@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T17:31:43.352Z",
+  "generatedAt": "2026-11-07T21:32:39.285Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 5400,
+      "concurrentViewers": 2921,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 487,
+      "concurrentViewers": 391,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2038,
+      "concurrentViewers": 1508,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 118,
+      "concurrentViewers": 34,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 1421,
+      "concurrentViewers": 868,
       "startedAt": "2026-11-06T22:59:01Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 583,
+      "concurrentViewers": 527,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/hqdefault.jpg?v=6aef3cf5"
         }
       },
-      "concurrentViewers": 1070,
+      "concurrentViewers": 795,
       "startedAt": "2026-11-07T14:59:43Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 679,
+      "concurrentViewers": 711,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1158,
+      "concurrentViewers": 1002,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 25,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8156,
+      "concurrentViewers": 6849,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 411,
+      "concurrentViewers": 342,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1241,
+      "concurrentViewers": 999,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5558,
+      "concurrentViewers": 5662,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 154,
+      "concurrentViewers": 133,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 71,
+      "concurrentViewers": 59,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 169,
+      "concurrentViewers": 170,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39576"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=395a7"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39576"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=395a7"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39576"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=395a7"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 19,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aee7fd8"
         }
       },
-      "concurrentViewers": 115,
+      "concurrentViewers": 110,
       "startedAt": "2026-11-07T01:37:32Z",
       "regionRestriction": null
     },
@@ -490,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/9p89ru5L5Yc/hqdefault.jpg?v=6aef453e"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 40,
       "startedAt": "2026-11-07T15:36:22Z",
       "regionRestriction": null
     },
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/dtWvySy4-d4/hqdefault.jpg?v=6aee8e25"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 7,
       "startedAt": "2026-11-07T02:35:14Z",
       "regionRestriction": null
     },
@@ -538,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/BW0cmqP6Nds/hqdefault.jpg?v=6aee742a"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 33,
       "startedAt": "2026-11-07T01:29:30Z",
       "regionRestriction": null
     },
@@ -562,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/rohsZ0HqPMs/hqdefault.jpg?v=6aef2b29"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 10,
       "startedAt": "2026-11-07T13:45:13Z",
       "regionRestriction": null
     },
@@ -586,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/J9ty72DbC6k/hqdefault.jpg?v=6aef2ea3"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-07T14:00:55Z",
       "regionRestriction": null
     },
@@ -610,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 288,
+      "concurrentViewers": 75,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -634,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/pIzjk4IG9VM/hqdefault.jpg?v=6aef07df"
         }
       },
-      "concurrentViewers": 6,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-07T11:38:37Z",
       "regionRestriction": null
     },
@@ -658,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1103,
+      "concurrentViewers": 191,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
@@ -682,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/6-7yjLHqwkc/hqdefault.jpg?v=6aef1aee"
         }
       },
-      "concurrentViewers": 862,
+      "concurrentViewers": 58,
       "startedAt": "2026-11-07T11:28:41Z",
       "regionRestriction": null
     },
@@ -706,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/nrgUkZfMbiQ/hqdefault.jpg?v=6aef0395"
         }
       },
-      "concurrentViewers": 183,
+      "concurrentViewers": 14,
       "startedAt": "2026-11-07T10:56:06Z",
       "regionRestriction": null
     },
@@ -730,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 267,
+      "concurrentViewers": 270,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 166,
+      "concurrentViewers": 114,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 466,
+      "concurrentViewers": 1899,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
