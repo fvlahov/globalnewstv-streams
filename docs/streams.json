@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T05:00:25.148Z",
+  "generatedAt": "2026-11-07T11:51:57.626Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2686,
+      "concurrentViewers": 5391,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 181,
+      "concurrentViewers": 482,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1087,
+      "concurrentViewers": 1986,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "TTewWvO2xMY",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Saturday Morning Live | Saturday 7th November",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TTewWvO2xMY/default.jpg?v=6aeee2fb"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TTewWvO2xMY/mqdefault.jpg?v=6aeee2fb"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TTewWvO2xMY/hqdefault.jpg?v=6aeee2fb"
+        }
+      },
+      "concurrentViewers": 803,
+      "startedAt": "2026-11-07T10:00:25Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": 286,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 1050,
+      "concurrentViewers": 828,
       "startedAt": "2026-11-06T22:59:01Z",
       "regionRestriction": null
     },
@@ -146,14 +170,14 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 737,
+      "concurrentViewers": 725,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "GzNHGPqpyss",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump speaks in Florida, Denver officer killed, Stock Market drops, New jobs numbers & more",
+      "title": "LIVE: White House staffing shakeup, midterm reaction, jobs report & more",
       "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
@@ -170,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/GzNHGPqpyss/hqdefault.jpg?v=6aeddae8"
         }
       },
-      "concurrentViewers": 359,
+      "concurrentViewers": 276,
       "startedAt": "2026-11-06T13:50:33Z",
       "regionRestriction": null
     },
@@ -194,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 345,
+      "concurrentViewers": 243,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1074,
+      "concurrentViewers": 1413,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 18,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5742,
+      "concurrentViewers": 7180,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 430,
+      "concurrentViewers": 357,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 789,
+      "concurrentViewers": 1183,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3596,
+      "concurrentViewers": 6069,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 168,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 59,
+      "concurrentViewers": 93,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 155,
+      "concurrentViewers": 153,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=394df"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39532"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=394df"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39532"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=394df"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39532"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 38,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aee7fd8"
         }
       },
-      "concurrentViewers": 91,
+      "concurrentViewers": 88,
       "startedAt": "2026-11-07T01:37:32Z",
       "regionRestriction": null
     },
@@ -490,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/-ZZBNSZIPIU/hqdefault.jpg?v=6aee7f2c"
         }
       },
-      "concurrentViewers": 75,
+      "concurrentViewers": 24,
       "startedAt": "2026-11-07T01:31:13Z",
       "regionRestriction": null
     },
@@ -514,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/dtWvySy4-d4/hqdefault.jpg?v=6aee8e25"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 10,
       "startedAt": "2026-11-07T02:35:14Z",
       "regionRestriction": null
     },
@@ -538,63 +562,15 @@
           "url": "https://i.ytimg.com/vi/BW0cmqP6Nds/hqdefault.jpg?v=6aee742a"
         }
       },
-      "concurrentViewers": 192,
+      "concurrentViewers": 101,
       "startedAt": "2026-11-07T01:29:30Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "6OiW_T1pYmU",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Karnataka News LIVE | Bengaluru's Hiring Battle: Jobs, Identity, And Intimidation? | DK Shivakumar",
-      "description": "Shiv Aroor discusses how the Karnataka Rakshana Vedike's campaign targeting major employers in Bengaluru has reignited questions over jobs, language politics and the state's investment climate, raising a larger question: who ultimately decides hiring in India's tech capital, elected governments or …",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6OiW_T1pYmU/default.jpg?v=6aeea7b6"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6OiW_T1pYmU/mqdefault.jpg?v=6aeea7b6"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6OiW_T1pYmU/hqdefault.jpg?v=6aeea7b6"
-        }
-      },
-      "concurrentViewers": 31,
-      "startedAt": "2026-11-07T04:25:57Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "vBE9eNhYGOM",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Vasundhara Outpost Explosion LIVE | Ghaziabad Police Outpost Blast | UP ATS Begins Probe In The Case",
-      "description": "The Uttar Pradesh Anti-Terrorism Squad (ATS) has begun a probe into an explosion at the Vasundhara Police Outpost in Ghaziabad on Friday night. The blast, which occurred around 9 pm, damaged the police facility, shattering two glass panes and cracking a wall. A delivery agent was injured in the exp…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vBE9eNhYGOM/default.jpg?v=6aeeaef4"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vBE9eNhYGOM/mqdefault.jpg?v=6aeeaef4"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vBE9eNhYGOM/hqdefault.jpg?v=6aeeaef4"
-        }
-      },
-      "concurrentViewers": 25,
-      "startedAt": "2026-11-07T04:51:56Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Mohd Shami | Delhi Pollution | Delhi's AQI | Rahul Gandhi | Donald Trump | Diwali",
-      "description": "India Today LIVE: Mohd Shami | Delhi Pollution | Delhi's AQI | Rahul Gandhi | Donald Trump | Diwali\n\nThe Central Board of Secondary Education (CBSE) has released the date sheet for the Class 10 and Class 12 board examinations 2027. The examinations will begin on February 16, 2027, with both sets of…",
+      "title": "India Today LIVE: Delhi Pollution | Delhi's AQI | Rahul Gandhi | Donald Trump | Diwali | Iran War",
+      "description": "India Today LIVE: Delhi Pollution | Delhi's AQI | Rahul Gandhi | Donald Trump | Diwali | Iran War\n\n\nThe Central Board of Secondary Education (CBSE) has released the date sheet for the Class 10 and Class 12 board examinations 2027. The examinations will begin on February 16, 2027, with both sets of …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,14 +586,62 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 422,
+      "concurrentViewers": 319,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "pIzjk4IG9VM",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Delhi Air Pollution | BJP vs AAP | Do Netas Care About AQI? | Rajdeep Sardesai | Gaurav Sawant",
+      "description": "LIVE: Delhi Air Pollution | BJP vs AAP | Do Netas Care About AQI? | Rajdeep Sardesai | Gaurav Sawant\n\n#DemocraticNewsroom #PollutionSOS #DelhiAQI  #DelhiPollution #AirPollution #PollutionCrisis #DelhiAirQuality #RajdeepSardesai #DelhiSmog #AirQualityIndex #PollutionEmergency #Netas #PoliticalAccoun…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pIzjk4IG9VM/default.jpg?v=6aef07df"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pIzjk4IG9VM/mqdefault.jpg?v=6aef07df"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pIzjk4IG9VM/hqdefault.jpg?v=6aef07df"
+        }
+      },
+      "concurrentViewers": 39,
+      "startedAt": "2026-11-07T11:38:37Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "AaDahw5VhaE",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai Live: Mehdi Hasan Exclusive Interview | US Midterms End Of Trump's MAGA Movement?",
+      "description": "Rajdeep Sardesai Live: Medhi Hasan Exclusive Interview | US Midterms End Of Trump's MAGA Movement?\n#RajdeepSardesai #MehdiHasan #Trump #DonaldTrump #USMidterms2026 #USMidtermElections #MAGA #MAGAMovement #Trump2028 #USPolitics #AmericanPolitics #Republicans #Democrats #USMidtermResults #TrumpDefeat…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AaDahw5VhaE/default.jpg?v=6aef052a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AaDahw5VhaE/mqdefault.jpg?v=6aef052a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AaDahw5VhaE/hqdefault.jpg?v=6aef052a"
+        }
+      },
+      "concurrentViewers": 25,
+      "startedAt": "2026-11-07T11:03:11Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Ayodhya Deepotsav | PM Modi | Rahul Gandhi | Delhi Air Pollution | BJP | Hindi News",
+      "title": "Aaj Tak LIVE TV: Dangal | Ayodhya Deepotsav | CM Yogi | Diwali 2026 | PM Modi | Rahul Gandhi |",
       "description": "आज देशभर में छोटी दिवाली यानी नरक चतुर्दशी का पर्व श्रद्धा और उल्लास के साथ मनाया जा रहा है... पांच दिवसीय दीपोत्सव का ये दूसरा दिन है, वहीं आज अयोध्या में 10वें भव्य दीपोत्सव के जरिए वर्ल्ड रेकॉर्ड बनाने की कोशिश की जाएगी \n\nPM मोदी को फिर से खुली बहस की चुनौती देने वाले राहुल गांधी पर भड़के शिक्षा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -634,8 +658,56 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1157,
+      "concurrentViewers": 1746,
       "startedAt": "2026-11-01T01:25:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6-7yjLHqwkc",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Ayodhya Deepotsav LIVE Updates: रामनगरी अयोध्या से सीएम योगी LIVE| CM Yogi | Aaj Tak",
+      "description": "रामनगरी अयोध्या में दीपोत्सव को लेकर भव्य तैयारियां हैं। मुख्यमंत्री योगी आदित्यनाथ दो दिन अयोध्या में रहेंगे और कई कार्यक्रमों में शामिल होंगे।  सीएम योगी रामजन्मभूमि में दर्शन-पूजन के बाद रामकथा पार्क में श्रीराम राज्याभिषेक और संत सम्मान समारोह में शामिल होंगे। शाम को सरयू आरती और राम की पैड़ी प…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6-7yjLHqwkc/default.jpg?v=6aef0b4a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6-7yjLHqwkc/mqdefault.jpg?v=6aef0b4a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6-7yjLHqwkc/hqdefault.jpg?v=6aef0b4a"
+        }
+      },
+      "concurrentViewers": 497,
+      "startedAt": "2026-11-07T11:28:41Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "nrgUkZfMbiQ",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Diwali 2026 Ayodhya Deepotsav LIVE News: दिवाली को लेकर Ayodhya में कैसी है तैयारियां देखिए | UP",
+      "description": "Ayodhya Deepotsav 2026 Live: अयोध्या में शनिवार को राम मंदिर में दीपोत्सव का तीसरा संस्करण आयोजित किया जा रहा है, जिसमें सरयू के 56 घाटों पर 30 लाख दीप प्रज्वलित किए जाएंगे।\n\n#ayodhyadeepotsav #ayodhya #rammandir #deepotsav2026 #saryughat #ramnagari #uttarpradesh #diwali #aajtak\n\nayodhya deepotsav …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nrgUkZfMbiQ/default.jpg?v=6aef0395"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nrgUkZfMbiQ/mqdefault.jpg?v=6aef0395"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nrgUkZfMbiQ/hqdefault.jpg?v=6aef0395"
+        }
+      },
+      "concurrentViewers": 490,
+      "startedAt": "2026-11-07T10:56:06Z",
       "regionRestriction": null
     },
     {
@@ -658,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 649,
+      "concurrentViewers": 243,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,8 +754,32 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 126,
+      "concurrentViewers": 125,
       "startedAt": "2026-08-14T01:21:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "H58ohOoKPNA",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: Enchanting nighttime views of Shanghai along Huangpu River - Ep. 2",
+      "description": "As night blankets Hongkou District in Shanghai, the Huangpu River shimmers with endless neon lights. The iconic landmarks of Lujiazui pierce the dark sky, while White Magnolia Plaza stands gracefully on the North Bund, forming an elegant and stunning riverside skyline. The ninth China International…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H58ohOoKPNA/default.jpg?v=6aeefe0a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H58ohOoKPNA/mqdefault.jpg?v=6aeefe0a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H58ohOoKPNA/hqdefault.jpg?v=6aeefe0a"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-11-07T11:00:12Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1050,
+      "concurrentViewers": 762,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
