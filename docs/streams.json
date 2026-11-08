@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T19:22:49.500Z",
+  "generatedAt": "2026-11-08T23:00:26.096Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3585,
+      "concurrentViewers": 3105,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 503,
+      "concurrentViewers": 310,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1738,
+      "concurrentViewers": 1783,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 74,
+      "concurrentViewers": 47,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 830,
+      "concurrentViewers": 705,
       "startedAt": "2026-11-06T22:59:01Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/l2CF4rOllmU/hqdefault.jpg?v=6adfc8b6"
         }
       },
-      "concurrentViewers": 973,
+      "concurrentViewers": 591,
       "startedAt": "2026-11-08T12:59:44Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 598,
+      "concurrentViewers": 494,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/71Eq2VrASig/hqdefault.jpg?v=6af07aed"
         }
       },
-      "concurrentViewers": 696,
+      "concurrentViewers": 584,
       "startedAt": "2026-11-08T13:38:40Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1091,
+      "concurrentViewers": 1187,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 27,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7859,
+      "concurrentViewers": 5365,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 393,
+      "concurrentViewers": 247,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1285,
+      "concurrentViewers": 958,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7564,
+      "concurrentViewers": 4977,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 118,
+      "concurrentViewers": 108,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 60,
+      "concurrentViewers": 49,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 138,
+      "concurrentViewers": 127,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,41 +433,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=396ab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=396d6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=396ab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=396d6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=396ab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=396d6"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 30,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "11jsLPJ273w",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Japan Earthquake LIVE: 5.7 Magnitude Quake Hits Again, Dozens Injured | WION",
-      "description": "Japan Earthquake LIVE: 5.7 Magnitude Quake Hits Again, Dozens Injured | WION\n\nA powerful magnitude-6.1 earthquake has struck off the coast near Tokyo, Japan, triggering tremors across the region. Stay tuned to WION for the latest updates, ground reports and developments as authorities assess the im…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/11jsLPJ273w/default.jpg?v=6aefd3cb"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/11jsLPJ273w/mqdefault.jpg?v=6aefd3cb"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aefd3cb"
-        }
-      },
-      "concurrentViewers": 40,
-      "startedAt": "2026-11-07T01:37:32Z",
       "regionRestriction": null
     },
     {
@@ -490,32 +466,104 @@
           "url": "https://i.ytimg.com/vi/9p89ru5L5Yc/hqdefault.jpg?v=6aef453e"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 25,
       "startedAt": "2026-11-07T15:36:22Z",
       "regionRestriction": null
     },
     {
-      "videoId": "qGKChlDgpIs",
+      "videoId": "11jsLPJ273w",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Houthis Strike Saudi LIVE: Saudi-Led Coalition Destroys Houthi Cruise Missile Over Riyadh | WION",
-      "description": "Saudi Strikes Yemen LIVE: Houthis Claim 30 Killed in Deadly Market Attack | WION\n\nSaudi Arabia's air defences have intercepted and destroyed a Houthi cruise missile launched towards the Riyadh region, the Saudi-led coalition said. Coalition spokesman Major General Turki al-Maliki confirmed the inte…",
+      "title": "Japan Earthquake LIVE: 5.7 Magnitude Quake Hits Again, Dozens Injured | WION",
+      "description": "Japan Earthquake LIVE: 5.7 Magnitude Quake Hits Again, Dozens Injured | WION\n\nA powerful magnitude-6.1 earthquake has struck off the coast near Tokyo, Japan, triggering tremors across the region. Stay tuned to WION for the latest updates, ground reports and developments as authorities assess the im…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qGKChlDgpIs/default.jpg?v=6aefd689"
+          "url": "https://i.ytimg.com/vi/11jsLPJ273w/default.jpg?v=6aefd3cb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qGKChlDgpIs/mqdefault.jpg?v=6aefd689"
+          "url": "https://i.ytimg.com/vi/11jsLPJ273w/mqdefault.jpg?v=6aefd3cb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qGKChlDgpIs/hqdefault.jpg?v=6aefd689"
+          "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aefd3cb"
         }
       },
-      "concurrentViewers": 16,
-      "startedAt": "2026-11-08T02:16:42Z",
+      "concurrentViewers": 20,
+      "startedAt": "2026-11-07T01:37:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "t2AqbQPlfUQ",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Houthi War LIVE: Saudi Arabia Under Attack! Houthis Claim Strikes on Riyadh Airport, Aramco",
+      "description": "Saudi Houthi War LIVE: Saudi Arabia Under Attack! Houthis Claim Strikes on Riyadh Airport, Aramco\n\nIran-backed Houthis claim six military operations against Saudi Arabia, targeting Riyadh's Khalid International Airport, Aramco oil facilities and Saudi military positions. The group says it used ball…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t2AqbQPlfUQ/default.jpg?v=6af08c5a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t2AqbQPlfUQ/mqdefault.jpg?v=6af08c5a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t2AqbQPlfUQ/hqdefault.jpg?v=6af08c5a"
+        }
+      },
+      "concurrentViewers": 19,
+      "startedAt": "2026-11-08T14:51:48Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "1JQlxBCw4Og",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Diwali 2026 | NDTV LIVE | Deepotsav 2026 | Deepawali LIVE | India Celebrates Diwali | WATCH LIVE",
+      "description": "India celebrates Diwali 2026, the festival of lights, with prayers, festivities and celebrations across the country. Watch NDTV LIVE for the latest visuals and updates from Deepotsav 2026 in Ayodhya and Diwali celebrations across India.\n\n#Diwali2026 #Deepotsav2026 #DiwaliCelebrations #Deepawali #ND…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1JQlxBCw4Og/default.jpg?v=6aef7257"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1JQlxBCw4Og/mqdefault.jpg?v=6aef7257"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1JQlxBCw4Og/hqdefault.jpg?v=6aef7257"
+        }
+      },
+      "concurrentViewers": 5,
+      "startedAt": "2026-11-08T14:02:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "UcJZCXMInEQ",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "LIVE: PM Modi Celebrates Diwali With Security Forces In Bastar, Chhattisgarh | Diwali 2026",
+      "description": "PM Modi Celebrates Diwali With Security Forces In Bastar, Chhattisgarh | PM Modi LIVE\n\n\n#PMMODI #diwali #bastar #pmmodi \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and ar…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/default.jpg?v=6af01df5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/mqdefault.jpg?v=6af01df5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/hqdefault.jpg?v=6af01df5"
+        }
+      },
+      "concurrentViewers": 1,
+      "startedAt": "2026-11-08T06:56:20Z",
       "regionRestriction": null
     },
     {
@@ -543,30 +591,6 @@
       "regionRestriction": null
     },
     {
-      "videoId": "UcJZCXMInEQ",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: PM Modi Celebrates Diwali With Security Forces In Bastar, Chhattisgarh | Diwali 2026",
-      "description": "PM Modi Celebrates Diwali With Security Forces In Bastar, Chhattisgarh | PM Modi LIVE\n\n\n#PMMODI #diwali #bastar #pmmodi \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and ar…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/default.jpg?v=6af01df5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/mqdefault.jpg?v=6af01df5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/hqdefault.jpg?v=6af01df5"
-        }
-      },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-08T06:56:20Z",
-      "regionRestriction": null
-    },
-    {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
       "title": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive",
@@ -586,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 72,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -610,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/HtOfK8GQopM/hqdefault.jpg?v=6af04caf"
         }
       },
-      "concurrentViewers": 6,
+      "concurrentViewers": 5,
       "startedAt": "2026-11-08T10:21:10Z",
       "regionRestriction": null
     },
@@ -634,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 568,
+      "concurrentViewers": 169,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
@@ -658,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/ivKIauGaOLs/hqdefault.jpg?v=6af061ab"
         }
       },
-      "concurrentViewers": 169,
+      "concurrentViewers": 58,
       "startedAt": "2026-11-08T12:28:09Z",
       "regionRestriction": null
     },
@@ -682,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 241,
+      "concurrentViewers": 724,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -706,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 102,
+      "concurrentViewers": 81,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -730,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1377,
+      "concurrentViewers": 2859,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
