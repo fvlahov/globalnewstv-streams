@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T07:46:40.786Z",
+  "generatedAt": "2026-11-08T14:49:51.494Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4464,
+      "concurrentViewers": 4118,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 351,
+      "concurrentViewers": 421,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2279,
+      "concurrentViewers": 2120,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ruhzoqb5mjE",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Weekend | Sunday 8th November",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ruhzoqb5mjE/default.jpg?v=6af06409"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ruhzoqb5mjE/mqdefault.jpg?v=6af06409"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ruhzoqb5mjE/hqdefault.jpg?v=6af06409"
+        }
+      },
+      "concurrentViewers": 490,
+      "startedAt": "2026-11-08T13:00:40Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 272,
+      "concurrentViewers": 141,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 431,
+      "concurrentViewers": 700,
       "startedAt": "2026-11-06T22:59:01Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "l2CF4rOllmU",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Sunday, November 8",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/default.jpg?v=6adfc8b6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/mqdefault.jpg?v=6adfc8b6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/hqdefault.jpg?v=6adfc8b6"
+        }
+      },
+      "concurrentViewers": 1002,
+      "startedAt": "2026-11-08T12:59:44Z",
       "regionRestriction": null
     },
     {
@@ -146,32 +194,32 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 619,
+      "concurrentViewers": 724,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "XtLl_wi6H3A",
+      "videoId": "71Eq2VrASig",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Middle East latest, Trump White House updates, Melania Trump visits LSU-Alabama game, more",
-      "description": "We are learning more this week after the announcement that Gadi Eisenkot, the man who ran as Israeli Prime Minister Benjamin Netanyahu’s main opponent in last month’s election, will get the first opportunity to form a new government. This announcement came on Saturday from the nation’s president, I…",
+      "title": "TOP STORIES: Iran war latest, pending midterm results, UFC’s Dana White for press secretary",
+      "description": "U.S. Central Command said late Saturday it disabled a St. Kitts-flagged ship after it ignored multiple warnings and attempted to leave the region after visiting an Iranian port. U.S. forces have been enforcing a naval blockade on Iran for months in and around the Strait of Hormuz, a crucial strateg…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/default.jpg?v=6aefc818"
+          "url": "https://i.ytimg.com/vi/71Eq2VrASig/default.jpg?v=6af07aed"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/mqdefault.jpg?v=6aefc818"
+          "url": "https://i.ytimg.com/vi/71Eq2VrASig/mqdefault.jpg?v=6af07aed"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/hqdefault.jpg?v=6aefc818"
+          "url": "https://i.ytimg.com/vi/71Eq2VrASig/hqdefault.jpg?v=6af07aed"
         }
       },
-      "concurrentViewers": 250,
-      "startedAt": "2026-11-07T14:59:43Z",
+      "concurrentViewers": 1086,
+      "startedAt": "2026-11-08T13:38:40Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 187,
+      "concurrentViewers": 667,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -218,8 +266,32 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1042,
+      "concurrentViewers": 1438,
       "startedAt": "2026-06-14T10:32:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "dOHU1_D0z04",
+      "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+      "title": "Midterm Election Fallout; Oval Office Shakeup | Bloomberg This Weekend: Nov 8th, 2026",
+      "description": "Listen to Bloomberg This Weekend for unique conversations spanning news, politics, lifestyle and culture.  \n\nDavid Gura, Lisa Mateo and Nathan Hager bring you unique discussions and in-depth conversations with lawmakers, business leaders and cultural icons.  \nBloomberg This Weekend gives you insigh…",
+      "channelTitle": "Bloomberg Television",
+      "country": "US",
+      "language": "en",
+      "category": "business",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dOHU1_D0z04/default.jpg?v=6af055ee"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dOHU1_D0z04/mqdefault.jpg?v=6af055ee"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dOHU1_D0z04/hqdefault.jpg?v=6af055ee"
+        }
+      },
+      "concurrentViewers": 297,
+      "startedAt": "2026-11-08T12:25:47Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 14,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7868,
+      "concurrentViewers": 7422,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 342,
+      "concurrentViewers": 338,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1334,
+      "concurrentViewers": 1097,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5511,
+      "concurrentViewers": 4999,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 183,
+      "concurrentViewers": 159,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 85,
+      "concurrentViewers": 76,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 159,
+      "concurrentViewers": 165,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,16 +505,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39622"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39675"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39622"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39675"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39622"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39675"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 32,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aefd3cb"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 71,
       "startedAt": "2026-11-07T01:37:32Z",
       "regionRestriction": null
     },
@@ -490,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/qGKChlDgpIs/hqdefault.jpg?v=6aefd689"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 41,
       "startedAt": "2026-11-08T02:16:42Z",
       "regionRestriction": null
     },
@@ -514,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/9p89ru5L5Yc/hqdefault.jpg?v=6aef453e"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 22,
       "startedAt": "2026-11-07T15:36:22Z",
       "regionRestriction": null
     },
@@ -538,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/Oc-yGMUNQGI/hqdefault.jpg?v=6af00fd4"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-08T07:34:31Z",
       "regionRestriction": null
     },
@@ -562,39 +634,15 @@
           "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/hqdefault.jpg?v=6af01df5"
         }
       },
-      "concurrentViewers": 17,
+      "concurrentViewers": null,
       "startedAt": "2026-11-08T06:56:20Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "rohsZ0HqPMs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Israel New Prime Minister | Israel Prime Minister News | LIVE: Gadi Eisenkot Vs Netanyahu | LIVE",
-      "description": "Israel's election has opened the door to a dramatic political realignment. Former military chief Gadi Eisenkot now appears best placed to form the next government, backed by Arab-led parties that hold the balance of power in the Knesset. With Benjamin Netanyahu reduced to just 46 supporters and his…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rohsZ0HqPMs/default.jpg?v=6aef2b29"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rohsZ0HqPMs/mqdefault.jpg?v=6aef2b29"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rohsZ0HqPMs/hqdefault.jpg?v=6aef2b29"
-        }
-      },
-      "concurrentViewers": 16,
-      "startedAt": "2026-11-07T13:45:13Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Yogi Excl | Israel New Govt | Diwali | Delhi Pollution | Rahul Gandhi | US Vs Iran",
-      "description": "India Today LIVE: Yogi Excl | Israel New Govt | Diwali | Delhi Pollution | Rahul Gandhi | US Vs Iran \n\nIsrael's political deadlock has taken a decisive turn after President Isaac Herzog chose opposition leader and former military chief Gadi Eisenkot to try to form the country's next government, dea…",
+      "title": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive",
+      "description": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive\n\nIndia celebrates Diwali 2026 with festivities and major developments from across the country and the world. PM Modi celebrates Diwali with security personnel in Bastar, Chhattisgarh, honouring India…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,14 +658,62 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 449,
+      "concurrentViewers": 462,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "K5teMxxhrt8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Netanyahu's Bloc Falls Short: Gadi Eisenkot Gets 28 Days To Form Israel Government | India Today",
+      "description": "Netanyahu's Bloc Falls Short: Gadi Eisenkot Gets 28 Days To Form Israel Government | India Today\n\n\nIsraeli President Isaac Herzog has tasked opposition leader Gadi Eisenkot with forming the country's next government after the October 27 elections resulted in a hung Knesset. With Netanyahu's bloc fa…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K5teMxxhrt8/default.jpg?v=6af07f63"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K5teMxxhrt8/mqdefault.jpg?v=6af07f63"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K5teMxxhrt8/hqdefault.jpg?v=6af07f63"
+        }
+      },
+      "concurrentViewers": 119,
+      "startedAt": "2026-11-08T13:56:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "HtOfK8GQopM",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive",
+      "description": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive\n\nIndia celebrates Diwali 2026 with festivities and major developments from across the country and the world. PM Modi celebrates Diwali with security personnel in Bastar, Chhattisgarh, honouring India…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HtOfK8GQopM/default.jpg?v=6af04caf"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HtOfK8GQopM/mqdefault.jpg?v=6af04caf"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HtOfK8GQopM/hqdefault.jpg?v=6af04caf"
+        }
+      },
+      "concurrentViewers": 42,
+      "startedAt": "2026-11-08T10:21:10Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: CM Yogi Exclusive | Diwali 2026 | Ayodhya | PM Modi | Rahul Gandhi | Hindi News",
+      "title": "Aaj Tak LIVE TV: RRRR | CM Yogi | Diwali 2026 | Ayodhya | PM Modi | Rahul Gandhi | Hindi News",
       "description": "देशभर में आज रोशनी का महापर्व दीपावली मनाई जा रही है... मां लक्ष्मी और भगवान गणेश की पूजा का विशेष महत्व रहता है...बाजारों में दिखी गजब की रौनक\n\nपीएम मोदी का दिवाली पर शुभकामना संदेश- कहा, ये बुराई और अंधकार के खिलाफ भारत के मजबूत संकल्प को दर्शाता है- बोले- इस साल भी जवानों संग मनाऊंगा रोशनी का त्…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -634,8 +730,56 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1409,
+      "concurrentViewers": 1964,
       "startedAt": "2026-11-01T01:25:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ivKIauGaOLs",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Round Table With Anjana Om Kashyap LIVE: UP के चुनाव में किसकी Diwali? | UP Election | SP | BJP",
+      "description": "क्या वाकई में ओवैसी बन गए हैं अखिलेश की टेंशन? AIMIM लंबे समय से मुसलमानों की लीडरशिप का सवाल उठाकर कह रही है कि अब्दुल दरी नहीं बिछाएगा. Owaisi यूपी में मुस्लिम वोटों के आधार वाली समाजवादी पार्टी पर जोरदार निशाना साधते रहे हैं. अयोध्या में सीएम योगी ने अखिलेश पर दागा सियासी तीर- कहा, रामभक्तों पर …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ivKIauGaOLs/default.jpg?v=6af061ab"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ivKIauGaOLs/mqdefault.jpg?v=6af061ab"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ivKIauGaOLs/hqdefault.jpg?v=6af061ab"
+        }
+      },
+      "concurrentViewers": 954,
+      "startedAt": "2026-11-08T12:28:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "blio1LqZYYI",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Vishesh Full Show: जवानों संग PM Modi की Diwali | PM Modi Celebrates Diwali With Security Forces",
+      "description": "हर दिवाली की तरह इस बार भी प्रधानमंत्री नरेन्द्र मोदी ने देश के जवानों के बीच ही दिवाली मनाई. प्रधानमंत्री की दिवाली इस बार छत्तीसगढ़ के उस बस्तर में मनी, जो कभी हेडलाइन में तभी आता था, जब वहां नक्सली हमले होते थे लेकिन पहली बार सिर्फ बस्तर ही नहीं, बल्कि पूरा देश नक्सलमुक्त है. 2026 की दिवाली इसील…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/blio1LqZYYI/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/blio1LqZYYI/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/blio1LqZYYI/hqdefault.jpg"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-11-08T14:41:15Z",
       "regionRestriction": null
     },
     {
@@ -658,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 388,
+      "concurrentViewers": 524,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 122,
+      "concurrentViewers": 111,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -706,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1207,
+      "concurrentViewers": 567,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
