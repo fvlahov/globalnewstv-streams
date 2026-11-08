@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T21:32:39.285Z",
+  "generatedAt": "2026-11-08T01:09:44.752Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2921,
+      "concurrentViewers": 2466,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 391,
+      "concurrentViewers": 234,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1508,
+      "concurrentViewers": 1208,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "IPikLXzF29E",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Saturday 7th November",
+      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IPikLXzF29E/default.jpg?v=6aef4de4"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IPikLXzF29E/mqdefault.jpg?v=6aef4de4"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IPikLXzF29E/hqdefault.jpg?v=6aef4de4"
+        }
+      },
+      "concurrentViewers": 263,
+      "startedAt": "2026-11-07T23:58:27Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 38,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 868,
+      "concurrentViewers": 729,
       "startedAt": "2026-11-06T22:59:01Z",
       "regionRestriction": null
     },
@@ -146,31 +170,31 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 527,
+      "concurrentViewers": 823,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
       "videoId": "XtLl_wi6H3A",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump-Iran latest, Midterm final results, Albania & France protests, College football & more",
-      "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1\nWhere to watch LiveNOW from FOX: https://www.livenowfox.com\nFollow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox\n\nRaw and unfiltered. Watch a non-stop stream of breaking news, live events and stories…",
+      "title": "LIVE: Middle East latest, Trump White House updates, Melania Trump visits LSU-Alabama game, more",
+      "description": "We are learning more this week after the announcement that Gadi Eisenkot, the man who ran as Israeli Prime Minister Benjamin Netanyahu’s main opponent in last month’s election, will get the first opportunity to form a new government. This announcement came on Saturday from the nation’s president, I…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/default.jpg?v=6aef3cf5"
+          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/default.jpg?v=6aefc818"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/mqdefault.jpg?v=6aef3cf5"
+          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/mqdefault.jpg?v=6aefc818"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/hqdefault.jpg?v=6aef3cf5"
+          "url": "https://i.ytimg.com/vi/XtLl_wi6H3A/hqdefault.jpg?v=6aefc818"
         }
       },
-      "concurrentViewers": 795,
+      "concurrentViewers": 622,
       "startedAt": "2026-11-07T14:59:43Z",
       "regionRestriction": null
     },
@@ -194,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/MXosVElBUJQ/hqdefault.jpg?v=6added2e"
         }
       },
-      "concurrentViewers": 711,
+      "concurrentViewers": 566,
       "startedAt": "2026-10-25T11:51:46Z",
       "regionRestriction": null
     },
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1002,
+      "concurrentViewers": 836,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 28,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6849,
+      "concurrentViewers": 5211,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 342,
+      "concurrentViewers": 304,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 999,
+      "concurrentViewers": 818,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5662,
+      "concurrentViewers": 4277,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 133,
+      "concurrentViewers": 92,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 59,
+      "concurrentViewers": 37,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 170,
+      "concurrentViewers": 123,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=395a7"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=395d2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=395a7"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=395d2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=395a7"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=395d2"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 26,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aee7fd8"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 163,
       "startedAt": "2026-11-07T01:37:32Z",
       "regionRestriction": null
     },
@@ -490,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/9p89ru5L5Yc/hqdefault.jpg?v=6aef453e"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 48,
       "startedAt": "2026-11-07T15:36:22Z",
       "regionRestriction": null
     },
@@ -514,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/dtWvySy4-d4/hqdefault.jpg?v=6aee8e25"
         }
       },
-      "concurrentViewers": 7,
+      "concurrentViewers": 9,
       "startedAt": "2026-11-07T02:35:14Z",
       "regionRestriction": null
     },
@@ -538,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/BW0cmqP6Nds/hqdefault.jpg?v=6aee742a"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 47,
       "startedAt": "2026-11-07T01:29:30Z",
       "regionRestriction": null
     },
@@ -562,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/rohsZ0HqPMs/hqdefault.jpg?v=6aef2b29"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 26,
       "startedAt": "2026-11-07T13:45:13Z",
       "regionRestriction": null
     },
@@ -586,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/J9ty72DbC6k/hqdefault.jpg?v=6aef2ea3"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": 4,
       "startedAt": "2026-11-07T14:00:55Z",
       "regionRestriction": null
     },
@@ -610,8 +634,32 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 75,
+      "concurrentViewers": 98,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "KKmufkx2JyQ",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai Live: Will Trump End or Escalate War In Iran After Huge Midterm Loss? | India Today",
+      "description": "Rajdeep Sardesai Live: What Does Trump's Midterm Defeat Mean For India And The World? | India Today  #DonaldTrump #Trump #USMidterms2026 #USMidtermResults #TrumpDefeat #TrumpLameDuck #TrumpPresidency #USPolitics #AmericanPolitics #TrumpForeignPolicy #IndiaUSRelations #IndiaUS #IndiaAmericaRelations…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KKmufkx2JyQ/default.jpg?v=6aef5256"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KKmufkx2JyQ/mqdefault.jpg?v=6aef5256"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KKmufkx2JyQ/hqdefault.jpg?v=6aef5256"
+        }
+      },
+      "concurrentViewers": 9,
+      "startedAt": "2026-11-07T16:32:08Z",
       "regionRestriction": null
     },
     {
@@ -634,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/pIzjk4IG9VM/hqdefault.jpg?v=6aef07df"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-07T11:38:37Z",
       "regionRestriction": null
     },
@@ -658,56 +706,56 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 191,
+      "concurrentViewers": 487,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "6-7yjLHqwkc",
+      "videoId": "JxXPzXzrFqA",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Ayodhya Deepotsav LIVE Updates:अयोध्या में दीपोत्सव कार्यक्रम LIVE| Diwali 2026 | CM Yogi | Aaj Tak",
-      "description": "रामनगरी अयोध्या में दीपोत्सव को लेकर भव्य तैयारियां हैं। मुख्यमंत्री योगी आदित्यनाथ दो दिन अयोध्या में रहेंगे और कई कार्यक्रमों में शामिल होंगे। अयोध्या में दीपोत्सव का कार्यक्रम जारी है, सरयू नदी पर लेजर शो का भी आयोजन होगा\n\n#ayodhya #deepotsav #rammandir #upnews #ayodhyadeepotsav #cmyogi  #aajtak…",
+      "title": "Ayodhya Deepotsav 2026 Live: Ayodhya Ramlala Mandir | Diwali 2026 | CM Yogi | Aaj Tak Hindi News",
+      "description": "Ayodhya Deepotsav 2026 Live: अयोध्या में शनिवार को राम मंदिर में दीपोत्सव का तीसरा संस्करण आयोजित किया जा रहा है, जिसमें सरयू के 56 घाटों पर 30 लाख दीप प्रज्वलित किए गए\n#ayodhyadeepotsav2025 #saryu #ramlalamandir #diwali2026 #yogiadityanath #aajtakdigital \n\n\nआजतक के साथ देखिये देश-विदेश की सभी महत्…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6-7yjLHqwkc/default.jpg?v=6aef1aee"
+          "url": "https://i.ytimg.com/vi/JxXPzXzrFqA/default.jpg?v=6aef6576"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6-7yjLHqwkc/mqdefault.jpg?v=6aef1aee"
+          "url": "https://i.ytimg.com/vi/JxXPzXzrFqA/mqdefault.jpg?v=6aef6576"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6-7yjLHqwkc/hqdefault.jpg?v=6aef1aee"
+          "url": "https://i.ytimg.com/vi/JxXPzXzrFqA/hqdefault.jpg?v=6aef6576"
         }
       },
-      "concurrentViewers": 58,
-      "startedAt": "2026-11-07T11:28:41Z",
+      "concurrentViewers": 106,
+      "startedAt": "2026-11-07T17:53:45Z",
       "regionRestriction": null
     },
     {
-      "videoId": "nrgUkZfMbiQ",
+      "videoId": "dvssPktU18s",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Diwali 2026 Ayodhya Deepotsav LIVE News: दिवाली को लेकर Ayodhya में कैसी है तैयारियां देखिए | UP",
-      "description": "Ayodhya Deepotsav 2026 Live: अयोध्या में शनिवार को राम मंदिर में दीपोत्सव का तीसरा संस्करण आयोजित किया जा रहा है, जिसमें सरयू के 56 घाटों पर 30 लाख दीप प्रज्वलित किए जाएंगे।\n\n#ayodhyadeepotsav #ayodhya #rammandir #deepotsav2026 #saryughat #ramnagari #uttarpradesh #diwali #aajtak\n\nayodhya deepotsav …",
+      "title": "Ayodhya Deepotsav 2026 Live: Ayodhya Ramlala Mandir | Diwali 2026 | CM Yogi | Aaj Tak Hindi News",
+      "description": "Ayodhya Deepotsav 2026 Live: अयोध्या में शनिवार को राम मंदिर में दीपोत्सव का तीसरा संस्करण आयोजित किया जा रहा है, जिसमें सरयू के 56 घाटों पर 30 लाख दीप प्रज्वलित किए गए\n#ayodhyadeepotsav2025 #saryu #ramlalamandir #diwali2026 #yogiadityanath #aajtakdigital \n\n\nआजतक के साथ देखिये देश-विदेश की सभी महत्…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/nrgUkZfMbiQ/default.jpg?v=6aef0395"
+          "url": "https://i.ytimg.com/vi/dvssPktU18s/default.jpg?v=6aef5b74"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/nrgUkZfMbiQ/mqdefault.jpg?v=6aef0395"
+          "url": "https://i.ytimg.com/vi/dvssPktU18s/mqdefault.jpg?v=6aef5b74"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/nrgUkZfMbiQ/hqdefault.jpg?v=6aef0395"
+          "url": "https://i.ytimg.com/vi/dvssPktU18s/hqdefault.jpg?v=6aef5b74"
         }
       },
-      "concurrentViewers": 14,
-      "startedAt": "2026-11-07T10:56:06Z",
+      "concurrentViewers": 24,
+      "startedAt": "2026-11-07T17:11:32Z",
       "regionRestriction": null
     },
     {
@@ -730,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 270,
+      "concurrentViewers": 818,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 114,
+      "concurrentViewers": 116,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1899,
+      "concurrentViewers": 1710,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
