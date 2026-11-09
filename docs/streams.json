@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T23:00:26.096Z",
+  "generatedAt": "2026-11-09T02:53:43.443Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3105,
+      "concurrentViewers": 2296,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 310,
+      "concurrentViewers": 185,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1783,
+      "concurrentViewers": 1141,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0HDiBPO_rkk",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Sunday 8th November",
+      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0HDiBPO_rkk/default.jpg?v=6af0a092"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0HDiBPO_rkk/mqdefault.jpg?v=6af0a092"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0HDiBPO_rkk/hqdefault.jpg?v=6af0a092"
+        }
+      },
+      "concurrentViewers": 260,
+      "startedAt": "2026-11-08T23:57:04Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 47,
+      "concurrentViewers": 20,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,32 +146,8 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 705,
+      "concurrentViewers": 774,
       "startedAt": "2026-11-06T22:59:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "l2CF4rOllmU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Sunday, November 8",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/default.jpg?v=6adfc8b6"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/mqdefault.jpg?v=6adfc8b6"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/hqdefault.jpg?v=6adfc8b6"
-        }
-      },
-      "concurrentViewers": 591,
-      "startedAt": "2026-11-08T12:59:44Z",
       "regionRestriction": null
     },
     {
@@ -170,31 +170,55 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 494,
+      "concurrentViewers": 470,
       "startedAt": "2026-10-24T03:13:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "l2CF4rOllmU",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Sunday, November 8",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/default.jpg?v=6adfc8b6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/mqdefault.jpg?v=6adfc8b6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/hqdefault.jpg?v=6adfc8b6"
+        }
+      },
+      "concurrentViewers": 394,
+      "startedAt": "2026-11-08T12:59:44Z",
       "regionRestriction": null
     },
     {
       "videoId": "71Eq2VrASig",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "TOP STORIES: Iran war latest, pending midterm results, UFC’s Dana White for press secretary",
-      "description": "U.S. Central Command said late Saturday it disabled a St. Kitts-flagged ship after it ignored multiple warnings and attempted to leave the region after visiting an Iranian port. U.S. forces have been enforcing a naval blockade on Iran for months in and around the Strait of Hormuz, a crucial strateg…",
+      "title": "LIVE: Trump returns to White House, Midterm results, Iran war latest, more top stories",
+      "description": "We were watching on LiveNOW this Sunday as President Donald Trump left Florida and headed back to the White House. Before leaving the Sunshine State, Trump took questions from reporters on a number of topics. Most of the questions related to the recent election victories that saw Democrats take bac…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/71Eq2VrASig/default.jpg?v=6af07aed"
+          "url": "https://i.ytimg.com/vi/71Eq2VrASig/default.jpg?v=6af10e43"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/71Eq2VrASig/mqdefault.jpg?v=6af07aed"
+          "url": "https://i.ytimg.com/vi/71Eq2VrASig/mqdefault.jpg?v=6af10e43"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/71Eq2VrASig/hqdefault.jpg?v=6af07aed"
+          "url": "https://i.ytimg.com/vi/71Eq2VrASig/hqdefault.jpg?v=6af10e43"
         }
       },
-      "concurrentViewers": 584,
+      "concurrentViewers": 404,
       "startedAt": "2026-11-08T13:38:40Z",
       "regionRestriction": null
     },
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1187,
+      "concurrentViewers": 2011,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 29,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5365,
+      "concurrentViewers": 5095,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 247,
+      "concurrentViewers": 272,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 958,
+      "concurrentViewers": 757,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4977,
+      "concurrentViewers": 2865,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 108,
+      "concurrentViewers": 110,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 49,
+      "concurrentViewers": 32,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 127,
+      "concurrentViewers": 130,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,89 +457,89 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=396d6"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39705"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=396d6"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39705"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=396d6"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39705"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 25,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "9p89ru5L5Yc",
+      "videoId": "h_8I4YKLAXE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Ukraine's Power Battle Turns EXPLOSIVE! Is Nuclear RISK Rising? | WION Live",
-      "description": "Russia-Ukraine War LIVE: Ukraine's Power Battle Turns EXPLOSIVE! Is Nuclear RISK Rising? | WION Live\n\nUkraine has accused Russia of targeting a substation critical to the operation of the Khmelnytskyi nuclear power plant, raising concerns over nuclear safety across Europe. The allegation comes amid…",
+      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile Terror On Ukraine, Blasts Shake Kyiv",
+      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9p89ru5L5Yc/default.jpg?v=6aef453e"
+          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/default.jpg?v=6af12021"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9p89ru5L5Yc/mqdefault.jpg?v=6aef453e"
+          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/mqdefault.jpg?v=6af12021"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9p89ru5L5Yc/hqdefault.jpg?v=6aef453e"
+          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/hqdefault.jpg?v=6af12021"
         }
       },
-      "concurrentViewers": 25,
-      "startedAt": "2026-11-07T15:36:22Z",
+      "concurrentViewers": 178,
+      "startedAt": "2026-11-09T01:23:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "11jsLPJ273w",
+      "videoId": "YriJcs4LSEE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Japan Earthquake LIVE: 5.7 Magnitude Quake Hits Again, Dozens Injured | WION",
-      "description": "Japan Earthquake LIVE: 5.7 Magnitude Quake Hits Again, Dozens Injured | WION\n\nA powerful magnitude-6.1 earthquake has struck off the coast near Tokyo, Japan, triggering tremors across the region. Stay tuned to WION for the latest updates, ground reports and developments as authorities assess the im…",
+      "title": "Saudi Under Attack LIVE: Houthis Claim Deadly Missile Attack On King Khalid Airport Again | WION",
+      "description": "Yemen’s Houthi group has claimed fresh attacks targeting King Khalid International Airport in Riyadh, Saudi Arabia. The latest claim comes amid rising regional tensions and concerns over Saudi Arabia’s air defence. The reported attack has not been independently verified.\n\n#KingKhalidAirport #Riyadh…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/11jsLPJ273w/default.jpg?v=6aefd3cb"
+          "url": "https://i.ytimg.com/vi/YriJcs4LSEE/default.jpg?v=6af12213"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/11jsLPJ273w/mqdefault.jpg?v=6aefd3cb"
+          "url": "https://i.ytimg.com/vi/YriJcs4LSEE/mqdefault.jpg?v=6af12213"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/11jsLPJ273w/hqdefault.jpg?v=6aefd3cb"
+          "url": "https://i.ytimg.com/vi/YriJcs4LSEE/hqdefault.jpg?v=6af12213"
         }
       },
-      "concurrentViewers": 20,
-      "startedAt": "2026-11-07T01:37:32Z",
+      "concurrentViewers": 135,
+      "startedAt": "2026-11-09T01:30:50Z",
       "regionRestriction": null
     },
     {
-      "videoId": "t2AqbQPlfUQ",
+      "videoId": "qH0wC8cibOo",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Houthi War LIVE: Saudi Arabia Under Attack! Houthis Claim Strikes on Riyadh Airport, Aramco",
-      "description": "Saudi Houthi War LIVE: Saudi Arabia Under Attack! Houthis Claim Strikes on Riyadh Airport, Aramco\n\nIran-backed Houthis claim six military operations against Saudi Arabia, targeting Riyadh's Khalid International Airport, Aramco oil facilities and Saudi military positions. The group says it used ball…",
+      "title": "Saudi Under Attack LIVE: Fresh Round Of Explosions Shake Riyadh Amid Houthi Missile Threat | WION",
+      "description": "Saudi Arabia is on high alert after massive explosions were heard in the capital, Riyadh, amid escalating tensions with Yemen's Houthi rebels. Saudi air defence systems reportedly intercepted incoming Houthi missiles as blasts shook the city, raising fresh concerns over the security situation in th…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/t2AqbQPlfUQ/default.jpg?v=6af08c5a"
+          "url": "https://i.ytimg.com/vi/qH0wC8cibOo/default.jpg?v=6af11cda"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/t2AqbQPlfUQ/mqdefault.jpg?v=6af08c5a"
+          "url": "https://i.ytimg.com/vi/qH0wC8cibOo/mqdefault.jpg?v=6af11cda"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/t2AqbQPlfUQ/hqdefault.jpg?v=6af08c5a"
+          "url": "https://i.ytimg.com/vi/qH0wC8cibOo/hqdefault.jpg?v=6af11cda"
         }
       },
-      "concurrentViewers": 19,
-      "startedAt": "2026-11-08T14:51:48Z",
+      "concurrentViewers": 123,
+      "startedAt": "2026-11-09T01:12:18Z",
       "regionRestriction": null
     },
     {
@@ -538,32 +562,8 @@
           "url": "https://i.ytimg.com/vi/1JQlxBCw4Og/hqdefault.jpg?v=6aef7257"
         }
       },
-      "concurrentViewers": 5,
+      "concurrentViewers": null,
       "startedAt": "2026-11-08T14:02:16Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "UcJZCXMInEQ",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: PM Modi Celebrates Diwali With Security Forces In Bastar, Chhattisgarh | Diwali 2026",
-      "description": "PM Modi Celebrates Diwali With Security Forces In Bastar, Chhattisgarh | PM Modi LIVE\n\n\n#PMMODI #diwali #bastar #pmmodi \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and ar…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/default.jpg?v=6af01df5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/mqdefault.jpg?v=6af01df5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UcJZCXMInEQ/hqdefault.jpg?v=6af01df5"
-        }
-      },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-08T06:56:20Z",
       "regionRestriction": null
     },
     {
@@ -593,8 +593,8 @@
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive",
-      "description": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive\n\nIndia celebrates Diwali 2026 with festivities and major developments from across the country and the world. PM Modi celebrates Diwali with security personnel in Bastar, Chhattisgarh, honouring India…",
+      "title": "India Today LIVE: Delhi Air Pollution | PM Modi | Delhi AQI | Rahul Gandhi | US Vs Iran | World News",
+      "description": "India Today LIVE: Delhi Air Pollution | PM Modi | Delhi AQI | Rahul Gandhi | US Vs Iran | World News\n\nA day after Diwali, air quality across the national capital remained severely polluted on Monday, with 15 monitoring stations recording an Air Quality Index (AQI) above 400. Delhi's overall AQI sto…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,39 +610,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 395,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "HtOfK8GQopM",
+      "videoId": "c646neMvtoA",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive",
-      "description": "India Today LIVE: Diwali 2026, Japan Earthquake, Parvinder Jhota, PM Modi Bastar, CM Yogi Exclusive\n\nIndia celebrates Diwali 2026 with festivities and major developments from across the country and the world. PM Modi celebrates Diwali with security personnel in Bastar, Chhattisgarh, honouring India…",
+      "title": "Delhi Pollution Crisis LIVE: Delhi's Air Quality Worsens After Diwali, Pollution Levels Rise | AQI",
+      "description": "Delhi's air quality has worsened after Diwali, raising fresh concerns over pollution levels across the national capital. As post-Diwali pollution takes a toll, Delhi residents face deteriorating air quality and rising health concerns. \n\n\n#DelhiPollution #DelhiAQI #AirPollution #Diwali #DelhiAirPoll…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HtOfK8GQopM/default.jpg?v=6af04caf"
+          "url": "https://i.ytimg.com/vi/c646neMvtoA/default.jpg?v=6af12545"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HtOfK8GQopM/mqdefault.jpg?v=6af04caf"
+          "url": "https://i.ytimg.com/vi/c646neMvtoA/mqdefault.jpg?v=6af12545"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HtOfK8GQopM/hqdefault.jpg?v=6af04caf"
+          "url": "https://i.ytimg.com/vi/c646neMvtoA/hqdefault.jpg?v=6af12545"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-11-08T10:21:10Z",
+      "concurrentViewers": 65,
+      "startedAt": "2026-11-09T01:44:20Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "IVzUDhSuzWE",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Diwali Firecracker Accidents LIVE: 3 Killed In Firecracker Accidents, Blazes Across India",
+      "description": "Fires broke out across several Indian cities during Diwali, damaging shops, homes and commercial establishments. Three, including a child, died in firecracker-related accidents, while a separate Mumbai blaze claimed one life.\n\n\n#diwali #fireaccidents #firecrackeraccidents #india #mumbaifire #breaki…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IVzUDhSuzWE/default.jpg?v=6af12b51"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IVzUDhSuzWE/mqdefault.jpg?v=6af12b51"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IVzUDhSuzWE/hqdefault.jpg?v=6af12b51"
+        }
+      },
+      "concurrentViewers": 36,
+      "startedAt": "2026-11-09T02:14:11Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: CM Yogi | Diwali 2026 | Ayodhya | PM Modi | Rahul Gandhi | Congress | Hindi News",
-      "description": "दिवाली पर जगमगाया पूरा देश...रोशनी का अद्भुत नज़ारा, कहीं आतिशबाज़ी की चमक, भगवान राम की नगरी अयोध्या में आस्था का अनूठा उजाला, सरहद पर जवानों ने मनाई दिवाली.\n\nपीएम मोदी ने लगातार 13वीं बार जवानों के साथ मनाई दिवाली...बस्तर में जवानों के बीच बोले-नक्सलियों का अंत लेकिन 'दिमागी नक्सलियों' का कई संगठ…",
+      "title": "Aaj Tak LIVE TV: Delhi Air Pollution | PM Modi | Rahul Gandhi | CM Yogi | Kharge | Hindi News",
+      "description": "दिवाली के बाद पहली सुबह दिल्ली में प्रदूषण का गंभीर स्तर बरकरार, कई इलाकों में AQI 400 के करीब, सबसे खतरनाक स्तर चांदनी चौक में, 419 AQI दर्ज, ITO, पंजाबी बाग और अन्य इलाकों में भी खतरा\n\nदेश के कई हिस्सों में दिवाली की रात लगी भीषण आग, मुंबई में तीन इलाकों में हुए हादसों में बड़ी तबाही, कई इमारतें …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -658,32 +682,56 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 169,
+      "concurrentViewers": 1207,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ivKIauGaOLs",
+      "videoId": "1rEZUMJ-GV4",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Round Table With Anjana Om Kashyap LIVE: UP के चुनाव में किसकी Diwali? | UP Election | SP | BJP",
-      "description": "क्या वाकई में ओवैसी बन गए हैं अखिलेश की टेंशन? AIMIM लंबे समय से मुसलमानों की लीडरशिप का सवाल उठाकर कह रही है कि अब्दुल दरी नहीं बिछाएगा. Owaisi यूपी में मुस्लिम वोटों के आधार वाली समाजवादी पार्टी पर जोरदार निशाना साधते रहे हैं. अयोध्या में सीएम योगी ने अखिलेश पर दागा सियासी तीर- कहा, रामभक्तों पर …",
+      "title": "Fire Incidents At Diwali Night: दिवाली पर देशभर में आग लगने की घटनाएं, 3 की मौत | Aaj Tak News",
+      "description": "महाराष्ट्र में दिवाली की रात आग ने जमकर तबाही मचाई... मुंबई के डोंगरी, विद्याविहार और जोगेश्वरी समेत ठाणे और नवी मुंबई के कई इलाकों में आग की घटनाएं सामने आईं... डोंगरी के नूर बाग में आग से 30 से ज्यादा झोपड़े और दुकानें जलकर खाक हो गईं... विद्याविहार में एक कमर्शियल इमारत की तीन मंजिलें आग की चपेट…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ivKIauGaOLs/default.jpg?v=6af061ab"
+          "url": "https://i.ytimg.com/vi/1rEZUMJ-GV4/default.jpg?v=6af11d38"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ivKIauGaOLs/mqdefault.jpg?v=6af061ab"
+          "url": "https://i.ytimg.com/vi/1rEZUMJ-GV4/mqdefault.jpg?v=6af11d38"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ivKIauGaOLs/hqdefault.jpg?v=6af061ab"
+          "url": "https://i.ytimg.com/vi/1rEZUMJ-GV4/hqdefault.jpg?v=6af11d38"
         }
       },
-      "concurrentViewers": 58,
-      "startedAt": "2026-11-08T12:28:09Z",
+      "concurrentViewers": 822,
+      "startedAt": "2026-11-09T01:14:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "g52iJJ_vn94",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Delhi-NCR Fog Alert News LIVE: दिल्ली में घने कोहरे की चेतावनी, IMD ने जारी किया अलर्ट | Pollution",
+      "description": "दिवाली के बाद सोमवार सुबह दिल्ली-NCR की हवा बेहद खराब हो गई. दिल्ली का औसत AQI 366 दर्ज किया गया, जबकि 15 मॉनिटरिंग स्टेशनों पर AQI 400 के पार पहुंच गया.\n\n#delhipollution #diwali #delhiaqi  #aajtakdigital #delhischoolnews #fog #imd\n\n\n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़ी खबरें | Wa…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g52iJJ_vn94/default.jpg?v=6af12fd3"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g52iJJ_vn94/mqdefault.jpg?v=6af12fd3"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g52iJJ_vn94/hqdefault.jpg?v=6af12fd3"
+        }
+      },
+      "concurrentViewers": 486,
+      "startedAt": "2026-11-09T02:29:59Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 724,
+      "concurrentViewers": 941,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 81,
+      "concurrentViewers": 83,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2859,
+      "concurrentViewers": 2062,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
