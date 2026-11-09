@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T02:53:43.443Z",
+  "generatedAt": "2026-11-09T11:00:03.052Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2296,
+      "concurrentViewers": 10362,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 185,
+      "concurrentViewers": 867,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1141,
+      "concurrentViewers": 3566,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "0HDiBPO_rkk",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Sunday 8th November",
-      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0HDiBPO_rkk/default.jpg?v=6af0a092"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0HDiBPO_rkk/mqdefault.jpg?v=6af0a092"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0HDiBPO_rkk/hqdefault.jpg?v=6af0a092"
-        }
-      },
-      "concurrentViewers": 260,
-      "startedAt": "2026-11-08T23:57:04Z",
       "regionRestriction": null
     },
     {
@@ -122,8 +98,56 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 597,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "J86sYCT0Al8",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Pope Leo visits Argentina",
+      "description": "Pope Leo visits a charity center before holding Mass at the Monument of the Spanish in Argentina, the second stop on his South American tour.\n\n#popeleo #pope #argentina #catholic #vatican #southamerica #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J86sYCT0Al8/default.jpg?v=6af19c1d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J86sYCT0Al8/mqdefault.jpg?v=6af19c1d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J86sYCT0Al8/hqdefault.jpg?v=6af19c1d"
+        }
+      },
+      "concurrentViewers": 23,
+      "startedAt": "2026-11-09T10:10:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6I0mPyFNzuw",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: G7 foreign ministers meet in France",
+      "description": "The foreign ministers of G7 countries, Britain, Canada, France, Germany, Italy, Japan and the US, meet in Paris, France. They will also be joined by counterparts from Saudi Arabia, Egypt, South Korea, Kenya, Brazil and Ukraine.\n\n#G7 #foreignpolicy #france #paris #live #Reuters #News\n\nKeep up with t…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6I0mPyFNzuw/default.jpg?v=6af1a15d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6I0mPyFNzuw/mqdefault.jpg?v=6af1a15d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6I0mPyFNzuw/hqdefault.jpg?v=6af1a15d"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-11-09T10:33:11Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg?v=6aee4eeb"
         }
       },
-      "concurrentViewers": 774,
+      "concurrentViewers": 1110,
       "startedAt": "2026-11-06T22:59:01Z",
       "regionRestriction": null
     },
@@ -170,32 +194,8 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 470,
+      "concurrentViewers": 1380,
       "startedAt": "2026-10-24T03:13:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "l2CF4rOllmU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Sunday, November 8",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/default.jpg?v=6adfc8b6"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/mqdefault.jpg?v=6adfc8b6"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/l2CF4rOllmU/hqdefault.jpg?v=6adfc8b6"
-        }
-      },
-      "concurrentViewers": 394,
-      "startedAt": "2026-11-08T12:59:44Z",
       "regionRestriction": null
     },
     {
@@ -218,8 +218,32 @@
           "url": "https://i.ytimg.com/vi/71Eq2VrASig/hqdefault.jpg?v=6af10e43"
         }
       },
-      "concurrentViewers": 404,
+      "concurrentViewers": 292,
       "startedAt": "2026-11-08T13:38:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hj91hVEtb4E",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: G7 foreign ministers' meeting in Paris",
+      "description": "Watch live from Paris as U.S. Secretary of State Marco Rubio meets his counterparts from leading industrialized countries during the two days of talks among the U.S., Britain, Canada, France, Germany, Italy and Japan. Read more: https://bit.ly/3XdNnYk \n\n#g7 #paris #rubio #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hj91hVEtb4E/default.jpg?v=6af1748a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hj91hVEtb4E/mqdefault.jpg?v=6af1748a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hj91hVEtb4E/hqdefault.jpg?v=6af1748a"
+        }
+      },
+      "concurrentViewers": 181,
+      "startedAt": "2026-11-09T10:34:22Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 2011,
+      "concurrentViewers": 6378,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 10,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5095,
+      "concurrentViewers": 9282,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 272,
+      "concurrentViewers": 457,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 757,
+      "concurrentViewers": 1429,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 2865,
+      "concurrentViewers": 7150,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 271,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 135,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 130,
+      "concurrentViewers": 196,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -457,65 +481,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39705"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39766"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39705"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39766"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39705"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39766"
         }
       },
-      "concurrentViewers": 25,
+      "concurrentViewers": 38,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "h_8I4YKLAXE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile Terror On Ukraine, Blasts Shake Kyiv",
-      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/default.jpg?v=6af12021"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/mqdefault.jpg?v=6af12021"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/hqdefault.jpg?v=6af12021"
-        }
-      },
-      "concurrentViewers": 178,
-      "startedAt": "2026-11-09T01:23:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "YriJcs4LSEE",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Claim Deadly Missile Attack On King Khalid Airport Again | WION",
-      "description": "Yemen’s Houthi group has claimed fresh attacks targeting King Khalid International Airport in Riyadh, Saudi Arabia. The latest claim comes amid rising regional tensions and concerns over Saudi Arabia’s air defence. The reported attack has not been independently verified.\n\n#KingKhalidAirport #Riyadh…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YriJcs4LSEE/default.jpg?v=6af12213"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YriJcs4LSEE/mqdefault.jpg?v=6af12213"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YriJcs4LSEE/hqdefault.jpg?v=6af12213"
-        }
-      },
-      "concurrentViewers": 135,
-      "startedAt": "2026-11-09T01:30:50Z",
       "regionRestriction": null
     },
     {
@@ -538,56 +514,104 @@
           "url": "https://i.ytimg.com/vi/qH0wC8cibOo/hqdefault.jpg?v=6af11cda"
         }
       },
-      "concurrentViewers": 123,
+      "concurrentViewers": 111,
       "startedAt": "2026-11-09T01:12:18Z",
       "regionRestriction": null
     },
     {
-      "videoId": "1JQlxBCw4Og",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Diwali 2026 | NDTV LIVE | Deepotsav 2026 | Deepawali LIVE | India Celebrates Diwali | WATCH LIVE",
-      "description": "India celebrates Diwali 2026, the festival of lights, with prayers, festivities and celebrations across the country. Watch NDTV LIVE for the latest visuals and updates from Deepotsav 2026 in Ayodhya and Diwali celebrations across India.\n\n#Diwali2026 #Deepotsav2026 #DiwaliCelebrations #Deepawali #ND…",
-      "channelTitle": "NDTV",
+      "videoId": "h_8I4YKLAXE",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile Terror On Ukraine, Blasts Shake Kyiv",
+      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
+      "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/1JQlxBCw4Og/default.jpg?v=6aef7257"
+          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/default.jpg?v=6af12021"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/1JQlxBCw4Og/mqdefault.jpg?v=6aef7257"
+          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/mqdefault.jpg?v=6af12021"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/1JQlxBCw4Og/hqdefault.jpg?v=6aef7257"
+          "url": "https://i.ytimg.com/vi/h_8I4YKLAXE/hqdefault.jpg?v=6af12021"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-08T14:02:16Z",
+      "concurrentViewers": 83,
+      "startedAt": "2026-11-09T01:23:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Oc-yGMUNQGI",
+      "videoId": "G4pfaF0Ehgo",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Diwali Muhurat Trading LIVE | NSE Muhurat Trading 2026 | Stock Market LIVE | Muhurat Trading 2026",
-      "description": "Every Diwali, thousands of investors make a beeline for the stock market. For some, buying a share during Muhurat trading is as much a part of the festivities as lighting diyas, exchanging gifts and worshipping Goddess Lakshmi. Even a small investment is seen as an auspicious beginning to the new S…",
+      "title": "Delhi NCR News LIVE | Delhi Boy, 10, Dies After Fireracker Explodes In Hand, Hits Him In Chest",
+      "description": "Diwali celebrations turned into mourning for a family in Delhi's Narela after their 10-year-old son died while bursting firecrackers on Sunday night. The boy, identified as Rishi, was bursting crackers with his family when the incident occured.\n\nRishi was reportedly lighting a skyrocket, a type of …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Oc-yGMUNQGI/default.jpg?v=6af00fd4"
+          "url": "https://i.ytimg.com/vi/G4pfaF0Ehgo/default.jpg?v=6af1a0ac"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Oc-yGMUNQGI/mqdefault.jpg?v=6af00fd4"
+          "url": "https://i.ytimg.com/vi/G4pfaF0Ehgo/mqdefault.jpg?v=6af1a0ac"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Oc-yGMUNQGI/hqdefault.jpg?v=6af00fd4"
+          "url": "https://i.ytimg.com/vi/G4pfaF0Ehgo/hqdefault.jpg?v=6af1a0ac"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-08T07:34:31Z",
+      "concurrentViewers": 106,
+      "startedAt": "2026-11-09T10:39:20Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "WeubtlfcLOE",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Maharashtra Fire LIVE | Major Fire Breaks Out At Thane's Raheja Garden, 50 Rescued | Watch Now",
+      "description": "A major fire broke out at Raheja Garden in Thane, triggering a rescue operation in which around 50 people were rescued. Maharashtra Deputy Chief Minister Eknath Shinde reached the spot to take stock of the situation. Emergency teams responded to the incident as rescue and firefighting efforts conti…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WeubtlfcLOE/default.jpg?v=6af18966"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WeubtlfcLOE/mqdefault.jpg?v=6af18966"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WeubtlfcLOE/hqdefault.jpg?v=6af18966"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-11-09T09:17:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "BlbyZGoPvyA",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Breaking Ground LIVE | Delhi's Pollution Data Blackout | Delhi's AQI | Jensen Huang Affair",
+      "description": "Delhi's Pollution Data Blackout | Delhi's AQI | Jensen Huang Affair | US Iran War \n\n#delhi #pollution #aqi #jensenhuang #usiranwar \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within Ind…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BlbyZGoPvyA/default.jpg?v=6af19991"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BlbyZGoPvyA/mqdefault.jpg?v=6af19991"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BlbyZGoPvyA/hqdefault.jpg?v=6af19991"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-11-09T10:10:07Z",
       "regionRestriction": null
     },
     {
@@ -610,56 +634,8 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 395,
+      "concurrentViewers": 384,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "c646neMvtoA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Delhi Pollution Crisis LIVE: Delhi's Air Quality Worsens After Diwali, Pollution Levels Rise | AQI",
-      "description": "Delhi's air quality has worsened after Diwali, raising fresh concerns over pollution levels across the national capital. As post-Diwali pollution takes a toll, Delhi residents face deteriorating air quality and rising health concerns. \n\n\n#DelhiPollution #DelhiAQI #AirPollution #Diwali #DelhiAirPoll…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/c646neMvtoA/default.jpg?v=6af12545"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/c646neMvtoA/mqdefault.jpg?v=6af12545"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/c646neMvtoA/hqdefault.jpg?v=6af12545"
-        }
-      },
-      "concurrentViewers": 65,
-      "startedAt": "2026-11-09T01:44:20Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "IVzUDhSuzWE",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Diwali Firecracker Accidents LIVE: 3 Killed In Firecracker Accidents, Blazes Across India",
-      "description": "Fires broke out across several Indian cities during Diwali, damaging shops, homes and commercial establishments. Three, including a child, died in firecracker-related accidents, while a separate Mumbai blaze claimed one life.\n\n\n#diwali #fireaccidents #firecrackeraccidents #india #mumbaifire #breaki…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IVzUDhSuzWE/default.jpg?v=6af12b51"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IVzUDhSuzWE/mqdefault.jpg?v=6af12b51"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IVzUDhSuzWE/hqdefault.jpg?v=6af12b51"
-        }
-      },
-      "concurrentViewers": 36,
-      "startedAt": "2026-11-09T02:14:11Z",
       "regionRestriction": null
     },
     {
@@ -682,56 +658,8 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1207,
+      "concurrentViewers": 1022,
       "startedAt": "2026-11-01T01:25:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "1rEZUMJ-GV4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Fire Incidents At Diwali Night: दिवाली पर देशभर में आग लगने की घटनाएं, 3 की मौत | Aaj Tak News",
-      "description": "महाराष्ट्र में दिवाली की रात आग ने जमकर तबाही मचाई... मुंबई के डोंगरी, विद्याविहार और जोगेश्वरी समेत ठाणे और नवी मुंबई के कई इलाकों में आग की घटनाएं सामने आईं... डोंगरी के नूर बाग में आग से 30 से ज्यादा झोपड़े और दुकानें जलकर खाक हो गईं... विद्याविहार में एक कमर्शियल इमारत की तीन मंजिलें आग की चपेट…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1rEZUMJ-GV4/default.jpg?v=6af11d38"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1rEZUMJ-GV4/mqdefault.jpg?v=6af11d38"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1rEZUMJ-GV4/hqdefault.jpg?v=6af11d38"
-        }
-      },
-      "concurrentViewers": 822,
-      "startedAt": "2026-11-09T01:14:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "g52iJJ_vn94",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Delhi-NCR Fog Alert News LIVE: दिल्ली में घने कोहरे की चेतावनी, IMD ने जारी किया अलर्ट | Pollution",
-      "description": "दिवाली के बाद सोमवार सुबह दिल्ली-NCR की हवा बेहद खराब हो गई. दिल्ली का औसत AQI 366 दर्ज किया गया, जबकि 15 मॉनिटरिंग स्टेशनों पर AQI 400 के पार पहुंच गया.\n\n#delhipollution #diwali #delhiaqi  #aajtakdigital #delhischoolnews #fog #imd\n\n\n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़ी खबरें | Wa…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/g52iJJ_vn94/default.jpg?v=6af12fd3"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/g52iJJ_vn94/mqdefault.jpg?v=6af12fd3"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/g52iJJ_vn94/hqdefault.jpg?v=6af12fd3"
-        }
-      },
-      "concurrentViewers": 486,
-      "startedAt": "2026-11-09T02:29:59Z",
       "regionRestriction": null
     },
     {
@@ -754,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 941,
+      "concurrentViewers": 761,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 83,
+      "concurrentViewers": 161,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -802,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2062,
+      "concurrentViewers": 1194,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
