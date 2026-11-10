@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T03:43:25.029Z",
+  "generatedAt": "2026-11-10T12:14:57.223Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Russell Brand: Comedian jailed for 10 years and six months for rape and sexual assault - https://news.sky.com/story/russell-brand-sentencing-jail-guilty-rape-sexual-assau…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | US moves aircraft from UK airbase 'over Iran threat' - https://news.sky.com/story/iran-threat-latest-us-moves-aircraft-from-uk-airbase-over-reported-threat-from-ir…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2554,
+      "concurrentViewers": 7926,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 184,
+      "concurrentViewers": 696,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1152,
+      "concurrentViewers": 3552,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "uX0MKjD1tX4",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Good Afternoon Britain | Tuesday 10th November",
+      "description": "Tackling the big stories from all angles and perspectives. Weekdays from midday, Christopher Hope and Emily Carver bring you the most compelling stories from across the United Kingdom.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uX0MKjD1tX4/default.jpg?v=6af30379"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uX0MKjD1tX4/mqdefault.jpg?v=6af30379"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uX0MKjD1tX4/hqdefault.jpg?v=6af30379"
+        }
+      },
+      "concurrentViewers": 500,
+      "startedAt": "2026-11-10T12:05:27Z",
       "regionRestriction": null
     },
     {
@@ -98,14 +122,62 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 581,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "lrZ_C9B4hZs",
+      "videoId": "_bF47UB-dww",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Pope Leo's Argentina visit continues",
+      "description": "Pope Leo continues the Argentina leg of his three-country South American tour, celebrating Mass in Cordoba before meeting religious officials and returning to Buenos Aires for a youth vigil. \n \n#popeleo #pope #southamerica #argentina #buenosaires #live #Reuters #News\n\nKeep up with the latest news f…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_bF47UB-dww/default.jpg?v=6af30528"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_bF47UB-dww/mqdefault.jpg?v=6af30528"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_bF47UB-dww/hqdefault.jpg?v=6af30528"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-11-10T11:33:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "jQ-3gcLKqjk",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Day 2 of COP31 summit in Turkey's Antalya",
+      "description": "COP31 host Turkey will urge countries to place a goal to expand the share of electricity in global energy use at the centre of the conference's final agreement despite criticism the plan could do little to cut emissions.\n\n#COP31 #Antalya #Turkey #climatechange #live #Reuters #news\n\nKeep up with the…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jQ-3gcLKqjk/default.jpg?v=6af2bd93"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jQ-3gcLKqjk/mqdefault.jpg?v=6af2bd93"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jQ-3gcLKqjk/hqdefault.jpg?v=6af2bd93"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-11-10T06:45:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "FQ0NTvfhK18",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Nov. 10",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -113,17 +185,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lrZ_C9B4hZs/default.jpg?v=6af219dc"
+          "url": "https://i.ytimg.com/vi/FQ0NTvfhK18/default.jpg?v=6af21a4b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lrZ_C9B4hZs/mqdefault.jpg?v=6af219dc"
+          "url": "https://i.ytimg.com/vi/FQ0NTvfhK18/mqdefault.jpg?v=6af21a4b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lrZ_C9B4hZs/hqdefault.jpg?v=6af219dc"
+          "url": "https://i.ytimg.com/vi/FQ0NTvfhK18/hqdefault.jpg?v=6af21a4b"
         }
       },
-      "concurrentViewers": 1206,
-      "startedAt": "2026-11-09T22:59:09Z",
+      "concurrentViewers": 3296,
+      "startedAt": "2026-11-10T11:20:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6QFVhVT187M",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Tuesday, November 10",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6QFVhVT187M/default.jpg?v=6adfc99a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6QFVhVT187M/mqdefault.jpg?v=6adfc99a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6QFVhVT187M/hqdefault.jpg?v=6adfc99a"
+        }
+      },
+      "concurrentViewers": 1534,
+      "startedAt": "2026-11-10T10:59:09Z",
       "regionRestriction": null
     },
     {
@@ -146,36 +242,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 789,
+      "concurrentViewers": 1268,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "AbH2x_OYasU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Monday, November 9",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AbH2x_OYasU/default.jpg?v=6adfc933"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AbH2x_OYasU/mqdefault.jpg?v=6adfc933"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AbH2x_OYasU/hqdefault.jpg?v=6adfc933"
-        }
-      },
-      "concurrentViewers": 559,
-      "startedAt": "2026-11-09T10:57:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "iR0lwp9hrz8",
+      "videoId": "YLofRVL0rS4",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -185,23 +257,18 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iR0lwp9hrz8/default.jpg?v=6af23c26"
+          "url": "https://i.ytimg.com/vi/YLofRVL0rS4/default.jpg?v=6af306e7"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iR0lwp9hrz8/mqdefault.jpg?v=6af23c26"
+          "url": "https://i.ytimg.com/vi/YLofRVL0rS4/mqdefault.jpg?v=6af306e7"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iR0lwp9hrz8/hqdefault.jpg?v=6af23c26"
+          "url": "https://i.ytimg.com/vi/YLofRVL0rS4/hqdefault.jpg?v=6af306e7"
         }
       },
-      "concurrentViewers": 330,
-      "startedAt": "2026-11-09T23:59:49Z",
-      "regionRestriction": {
-        "blocked": [
-          "AU",
-          "CA"
-        ]
-      }
+      "concurrentViewers": 346,
+      "startedAt": "2026-11-10T11:59:28Z",
+      "regionRestriction": null
     },
     {
       "videoId": "71Eq2VrASig",
@@ -223,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/71Eq2VrASig/hqdefault.jpg?v=6af26e19"
         }
       },
-      "concurrentViewers": 271,
+      "concurrentViewers": 379,
       "startedAt": "2026-11-08T13:38:40Z",
       "regionRestriction": null
     },
@@ -247,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/E0m_jmWb_yg/hqdefault.jpg?v=6af1bc90"
         }
       },
-      "concurrentViewers": 339,
+      "concurrentViewers": 559,
       "startedAt": "2026-11-09T12:29:57Z",
       "regionRestriction": null
     },
@@ -271,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1686,
+      "concurrentViewers": 9048,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 10,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5576,
+      "concurrentViewers": 8183,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -347,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 306,
+      "concurrentViewers": 465,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -371,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1002,
+      "concurrentViewers": 1625,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -395,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3281,
+      "concurrentViewers": 7625,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -419,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 244,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -447,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 52,
+      "concurrentViewers": 138,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -471,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 105,
+      "concurrentViewers": 228,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -486,16 +553,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3982d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39894"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3982d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39894"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3982d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39894"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 38,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -519,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/qH0wC8cibOo/hqdefault.jpg?v=6af11cda"
         }
       },
-      "concurrentViewers": 69,
+      "concurrentViewers": 54,
       "startedAt": "2026-11-09T01:12:18Z",
       "regionRestriction": null
     },
@@ -543,56 +610,8 @@
           "url": "https://i.ytimg.com/vi/Wg9Q_gcNqPA/hqdefault.jpg?v=6af268f7"
         }
       },
-      "concurrentViewers": 297,
+      "concurrentViewers": 165,
       "startedAt": "2026-11-10T01:31:49Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5bfKIcpPFKs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: Will Gadi Eisenkot Become the Next PM of Israel? | Benjamin Netanyahu | Israel Govt News",
-      "description": "Former Israeli military chief Gadi Eisenkot is increasingly being discussed as a potential contender for Israel's top political office. But who is he, and why are many observers viewing him as a possible alternative to Prime Minister Benjamin Netanyahu? \n\n#Israel #GadiEisenkot #BenjaminNetanyahu #I…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5bfKIcpPFKs/default.jpg?v=6af282f8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5bfKIcpPFKs/mqdefault.jpg?v=6af282f8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5bfKIcpPFKs/hqdefault.jpg?v=6af282f8"
-        }
-      },
-      "concurrentViewers": 34,
-      "startedAt": "2026-11-10T02:51:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5tjRdoJCxz8",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "UP Elections | LIVE | Ayodhya Again At Centre Of UP Politics As Akhilesh Yadav Plans Temple Visit",
-      "description": "With the Uttar Pradesh elections approaching, Ayodhya has once again emerged as the epicentre of a high-stakes political battle. Samajwadi Party chief Akhilesh Yadav's planned visit to the Ram Janmabhoomi temple has triggered a sharp BJP response, reviving memories of the 1990 firing on karsevaks u…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5tjRdoJCxz8/default.jpg?v=6af26cf7"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5tjRdoJCxz8/mqdefault.jpg?v=6af26cf7"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5tjRdoJCxz8/hqdefault.jpg?v=6af26cf7"
-        }
-      },
-      "concurrentViewers": 10,
-      "startedAt": "2026-11-10T01:13:53Z",
       "regionRestriction": null
     },
     {
@@ -615,39 +634,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 526,
+      "concurrentViewers": 427,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "bqS_CcmU9xI",
+      "videoId": "ce_KIEu6flg",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: BJP vs SP In Poll Bound Uttar Pradesh | Who Has The Edge? |CM Yogi Adityanath on SIR Exclusive",
-      "description": "LIVE: BJP vs SP In Poll Bound Uttar Pradesh | Who Has The Edge? |CM Yogi Adityanath on SIR Exclusive\n#BJPvsSP #UttarPradeshPolitics #UPPolitics #UPElections2027 #YogiAdityanath #AkhileshYadav #YogiVsAkhilesh #SIR #SIRExercise #SpecialIntensiveRevision #VoterList #ElectionCommission #GyaneshKumar #V…",
+      "title": "LIVE: Operation Smog Syndicate | India Today Investigation | Delhi AQI | BJP vs AAP | 5ive LIVE",
+      "description": "LIVE: Operation Smog Syndicate | India Today Investigation | Delhi AQI | BJP vs AAP | 5ive LIVE   \n#DelhiPollution #DelhiAQI #DelhiAirQuality #DelhiSmog #ToxicAir #DelhiPollutionCrisis #PostDiwaliPollution #DiwaliPollution #BJPvsAAP #AAPvsBJP #DelhiGovernment #RekhaGupta #bhagwantmann  #ArvindKejri…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/bqS_CcmU9xI/default.jpg?v=6af1cd77"
+          "url": "https://i.ytimg.com/vi/ce_KIEu6flg/default.jpg?v=6af30314"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/bqS_CcmU9xI/mqdefault.jpg?v=6af1cd77"
+          "url": "https://i.ytimg.com/vi/ce_KIEu6flg/mqdefault.jpg?v=6af30314"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/bqS_CcmU9xI/hqdefault.jpg?v=6af1cd77"
+          "url": "https://i.ytimg.com/vi/ce_KIEu6flg/hqdefault.jpg?v=6af30314"
         }
       },
-      "concurrentViewers": 10,
-      "startedAt": "2026-11-09T13:43:47Z",
+      "concurrentViewers": 43,
+      "startedAt": "2026-11-10T11:43:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Pk5e5PZe8Z4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Yogi Adityanath Exclusive Interview Ahead Of UP 2027 Polls | SIR | BJP vs SP | Ram Mandir | LIVE",
+      "description": "Yogi Adityanath Exclusive Interview Ahead Of UP 2027 Polls | SIR | BJP vs SP | Ram Mandir | LIVE \n#YogiAdityanath #YogiExclusive #YogiInterview #SwetaSingh #IndiaToday #UPElections2027 #UPPolitics #UttarPradesh #BJPvsSP #BJPvsSamajwadiParty #SamajwadiParty #AkhileshYadav #YogiVsAkhilesh #SIR #SIREx…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pk5e5PZe8Z4/default.jpg?v=6af30958"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pk5e5PZe8Z4/mqdefault.jpg?v=6af30958"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pk5e5PZe8Z4/hqdefault.jpg?v=6af30958"
+        }
+      },
+      "concurrentViewers": 23,
+      "startedAt": "2026-11-10T12:11:20Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Delhi Air Pollution | PM Modi | Rahul Gandhi | Mallikarjun Kharge | Hindi News",
-      "description": "पीएम मोदी को राहुल गांधी का फिर खुला चैलेंज, नक्सली और देशद्रोही के मुद्दे पर हो डिबेट, प्रधानमंत्री के बस्तर दौरे को लेकर कहा-CRPF जवानों को भी पीएम पर भरोसा नहीं.\n\nदीपावली को 'खुशियों की ईद' बताने पर घिरे खरगे, BJP का बड़ा हमला-रग-रग में तुष्टिकरण, गांधी परिवार की बोल रहे भाषा, कांग्रेस की सफाई-ई…",
+      "title": "Aaj Tak LIVE TV: Halla Bol | Delhi Air Pollution | PM Modi | Rahul Gandhi | Mallikarjun Kharge |",
+      "description": "पीएम मोदी को राहुल गांधी का फिर खुला चैलेंज, नक्सली और देशद्रोही के मुद्दे पर हो डिबेट, प्रधानमंत्री के बस्तर दौरे को लेकर कहा-CRPF जवानों को भी पीएम पर भरोसा नहीं  \n\nअखिलेश के अयोध्या दौरे से पहले समाजवादी पार्टी सांसद सनातन पांडे का बड़ा बयान, बोले- संविधान की रक्षा के लिए मुलायम सिंह यादव ने चला…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -663,8 +706,56 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1343,
+      "concurrentViewers": 1283,
       "startedAt": "2026-11-01T01:25:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "cjTQqj4R9oQ",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Dangal With Sahil Joshi LIVE: Ayodhya में राम के नाम पर सियासी संग्राम! | Akhilesh Yadav |Ram Mandir",
+      "description": "दंगल में आज चर्चा अयोध्या की सियासत की, जहां राम मंदिर, बाबरी मस्जिद और संविधान के नाम पर राजनीतिक संग्राम तेज हो गया है. समाजवादी पार्टी प्रमुख अखिलेश यादव के 12 दिसंबर को सपरिवार रामलला के दर्शन करने जाने के प्रस्तावित कार्यक्रम ने यूपी की राजनीति में नई हलचल पैदा कर दी है. बीजेपी कारसेवकों पर हु…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cjTQqj4R9oQ/default.jpg?v=6af2ff4f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cjTQqj4R9oQ/mqdefault.jpg?v=6af2ff4f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cjTQqj4R9oQ/hqdefault.jpg?v=6af2ff4f"
+        }
+      },
+      "concurrentViewers": 451,
+      "startedAt": "2026-11-10T11:25:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vdVz3ikPsik",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Jammu Kashmir Politics LIVE: उमर सरकार पर दबाव या डैमेज कंट्रोल? | Farooq Abdullah | Omar Abdullah",
+      "description": "जम्मू-कश्मीर की राजनीति में नेशनल कॉन्फ्रेंस के भीतर जारी खींचतान के बीच बड़ा घटनाक्रम सामने आया है. आज तक को बागी विधायकों के नाम फारूक अब्दुल्ला का लिखा पत्र मिला है. इसमें उन्होंने विधायकों से 14 दिनों के भीतर अपनी पसंद के मंत्रियों के नाम प्राथमिकता के क्रम में लिखित रूप से देने को कहा है. इसके…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vdVz3ikPsik/default.jpg?v=6af30857"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vdVz3ikPsik/mqdefault.jpg?v=6af30857"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vdVz3ikPsik/hqdefault.jpg?v=6af30857"
+        }
+      },
+      "concurrentViewers": 263,
+      "startedAt": "2026-11-10T12:06:01Z",
       "regionRestriction": null
     },
     {
@@ -687,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1418,
+      "concurrentViewers": 1087,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -711,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 107,
+      "concurrentViewers": 171,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -735,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1576,
+      "concurrentViewers": 945,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
