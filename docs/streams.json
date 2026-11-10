@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T12:14:57.223Z",
+  "generatedAt": "2026-11-10T19:55:21.057Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 7926,
+      "concurrentViewers": 4769,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 696,
+      "concurrentViewers": 532,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3552,
+      "concurrentViewers": 3047,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "uX0MKjD1tX4",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Good Afternoon Britain | Tuesday 10th November",
-      "description": "Tackling the big stories from all angles and perspectives. Weekdays from midday, Christopher Hope and Emily Carver bring you the most compelling stories from across the United Kingdom.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uX0MKjD1tX4/default.jpg?v=6af30379"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uX0MKjD1tX4/mqdefault.jpg?v=6af30379"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uX0MKjD1tX4/hqdefault.jpg?v=6af30379"
-        }
-      },
-      "concurrentViewers": 500,
-      "startedAt": "2026-11-10T12:05:27Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 581,
+      "concurrentViewers": 114,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/_bF47UB-dww/hqdefault.jpg?v=6af30528"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-10T11:33:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "jQ-3gcLKqjk",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Day 2 of COP31 summit in Turkey's Antalya",
-      "description": "COP31 host Turkey will urge countries to place a goal to expand the share of electricity in global energy use at the centre of the conference's final agreement despite criticism the plan could do little to cut emissions.\n\n#COP31 #Antalya #Turkey #climatechange #live #Reuters #news\n\nKeep up with the…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jQ-3gcLKqjk/default.jpg?v=6af2bd93"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jQ-3gcLKqjk/mqdefault.jpg?v=6af2bd93"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jQ-3gcLKqjk/hqdefault.jpg?v=6af2bd93"
-        }
-      },
-      "concurrentViewers": 13,
-      "startedAt": "2026-11-10T06:45:16Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/FQ0NTvfhK18/hqdefault.jpg?v=6af21a4b"
         }
       },
-      "concurrentViewers": 3296,
+      "concurrentViewers": 3154,
       "startedAt": "2026-11-10T11:20:11Z",
       "regionRestriction": null
     },
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/6QFVhVT187M/hqdefault.jpg?v=6adfc99a"
         }
       },
-      "concurrentViewers": 1534,
+      "concurrentViewers": 1425,
       "startedAt": "2026-11-10T10:59:09Z",
       "regionRestriction": null
     },
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1268,
+      "concurrentViewers": 852,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -266,32 +218,32 @@
           "url": "https://i.ytimg.com/vi/YLofRVL0rS4/hqdefault.jpg?v=6af306e7"
         }
       },
-      "concurrentViewers": 346,
+      "concurrentViewers": 725,
       "startedAt": "2026-11-10T11:59:28Z",
       "regionRestriction": null
     },
     {
-      "videoId": "71Eq2VrASig",
+      "videoId": "Lhk3Gu0YeRs",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Trump gives White House briefing, Iran war, Tyler Robinson trial, Russell Brand latest, more",
-      "description": "We are learning more updates on the Iran war this Monday after President Donald Trump reportedly said that Qatar and Saudi Arabia were eagerly looking for a ​peaceful solution to the conflict. During a press briefing at the White House, Trump said that the United ⁠States was “locked and loaded” and…",
+      "title": "LIVE: Hegseth responds to impeachment threat, Trump vows to stand with Hegseth, Iran & Nvidia",
+      "description": "President Trump will attend several policy meetings on Tuesday. Trump also said he will stand by Secretary Hegseth if he is impeached.\n\nNvidia and its CEO is facing a lawsuit by a shareholder. Nvidia is accused of ‘deceiving investors in their responses to media reports about Huang’s affair’ with a…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/71Eq2VrASig/default.jpg?v=6af26e19"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/default.jpg?v=6af3201c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/71Eq2VrASig/mqdefault.jpg?v=6af26e19"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/mqdefault.jpg?v=6af3201c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/71Eq2VrASig/hqdefault.jpg?v=6af26e19"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/hqdefault.jpg?v=6af3201c"
         }
       },
-      "concurrentViewers": 379,
-      "startedAt": "2026-11-08T13:38:40Z",
+      "concurrentViewers": 992,
+      "startedAt": "2026-11-10T13:47:30Z",
       "regionRestriction": null
     },
     {
@@ -314,8 +266,56 @@
           "url": "https://i.ytimg.com/vi/E0m_jmWb_yg/hqdefault.jpg?v=6af1bc90"
         }
       },
-      "concurrentViewers": 559,
+      "concurrentViewers": 1250,
       "startedAt": "2026-11-09T12:29:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "12dH37i6Jt0",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Bernie Sanders holds a press conference",
+      "description": "Watch live as Sen. Bernie Sanders holds a press conference. Senators from both parties returned to Washington on Monday with questions about the future of their leadership after last week’s election decisively gave Democrats a significant new majority.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/12dH37i6Jt0/default.jpg?v=6af373fe"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/12dH37i6Jt0/mqdefault.jpg?v=6af373fe"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/12dH37i6Jt0/hqdefault.jpg?v=6af373fe"
+        }
+      },
+      "concurrentViewers": 1196,
+      "startedAt": "2026-11-10T19:44:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "uMSPlBMAPKY",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Spain’s King Felipe VI and Queen Letizia attend state funeral for train crash victims",
+      "description": "Watch live as King Felipe VI and Queen Letizia of Spain attend a state funeral Mass at Toledo Cathedral for victims of the October high-speed train crash and their families. The chain of events leading to the disaster began when a communications system essential to the Madrid-Seville line’s safety …",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uMSPlBMAPKY/default.jpg?v=6af33628"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uMSPlBMAPKY/mqdefault.jpg?v=6af33628"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uMSPlBMAPKY/hqdefault.jpg?v=6af33628"
+        }
+      },
+      "concurrentViewers": 55,
+      "startedAt": "2026-11-10T18:22:00Z",
       "regionRestriction": null
     },
     {
@@ -338,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 9048,
+      "concurrentViewers": 6039,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -362,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -386,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8183,
+      "concurrentViewers": 8098,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -414,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 465,
+      "concurrentViewers": 438,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -438,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1625,
+      "concurrentViewers": 1415,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -462,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7625,
+      "concurrentViewers": 8254,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -486,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 244,
+      "concurrentViewers": 175,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 138,
+      "concurrentViewers": 88,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -538,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 228,
+      "concurrentViewers": 186,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -553,16 +553,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39894"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=398f0"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39894"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=398f0"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39894"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=398f0"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 48,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -586,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/qH0wC8cibOo/hqdefault.jpg?v=6af11cda"
         }
       },
-      "concurrentViewers": 54,
+      "concurrentViewers": 51,
       "startedAt": "2026-11-09T01:12:18Z",
       "regionRestriction": null
     },
@@ -610,8 +610,56 @@
           "url": "https://i.ytimg.com/vi/Wg9Q_gcNqPA/hqdefault.jpg?v=6af268f7"
         }
       },
-      "concurrentViewers": 165,
+      "concurrentViewers": 50,
       "startedAt": "2026-11-10T01:31:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "dahzxrc5_v0",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Sonia Gandhi Memoir | Memoir Or Political Manifesto? Sonia Gandhi's Take On India's Defining Crises",
+      "description": "In Belonging: A Journey of Love, Sonia Gandhi revisits some of the most defining and controversial moments in modern Indian history, from the Shah Bano case and the Babri Masjid demolition to the Godhra riots and beyond. \n\nThe memoir offers a detailed defence of key Congress-era decisions, sheds li…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dahzxrc5_v0/default.jpg?v=6af35a8f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dahzxrc5_v0/mqdefault.jpg?v=6af35a8f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dahzxrc5_v0/hqdefault.jpg?v=6af35a8f"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-11-10T17:56:27Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Q2mWbjItfRU",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Inside India's DNA Detective Lab: How Science Solves Crimes, Crashes And Disasters | NDTV Exclusive",
+      "description": "DNA fingerprinting has emerged as one of the most powerful tools in modern science, helping investigators identify disaster victims, solve crimes and uncover hidden clues from even the smallest biological samples. In this exclusive report, NDTV's Science Editor Pallava Bagla visits Hyderabad's Cent…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q2mWbjItfRU/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q2mWbjItfRU/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q2mWbjItfRU/hqdefault.jpg"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-11-10T19:30:07Z",
       "regionRestriction": null
     },
     {
@@ -634,62 +682,14 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 427,
+      "concurrentViewers": 124,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ce_KIEu6flg",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Operation Smog Syndicate | India Today Investigation | Delhi AQI | BJP vs AAP | 5ive LIVE",
-      "description": "LIVE: Operation Smog Syndicate | India Today Investigation | Delhi AQI | BJP vs AAP | 5ive LIVE   \n#DelhiPollution #DelhiAQI #DelhiAirQuality #DelhiSmog #ToxicAir #DelhiPollutionCrisis #PostDiwaliPollution #DiwaliPollution #BJPvsAAP #AAPvsBJP #DelhiGovernment #RekhaGupta #bhagwantmann  #ArvindKejri…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ce_KIEu6flg/default.jpg?v=6af30314"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ce_KIEu6flg/mqdefault.jpg?v=6af30314"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ce_KIEu6flg/hqdefault.jpg?v=6af30314"
-        }
-      },
-      "concurrentViewers": 43,
-      "startedAt": "2026-11-10T11:43:51Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Pk5e5PZe8Z4",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Yogi Adityanath Exclusive Interview Ahead Of UP 2027 Polls | SIR | BJP vs SP | Ram Mandir | LIVE",
-      "description": "Yogi Adityanath Exclusive Interview Ahead Of UP 2027 Polls | SIR | BJP vs SP | Ram Mandir | LIVE \n#YogiAdityanath #YogiExclusive #YogiInterview #SwetaSingh #IndiaToday #UPElections2027 #UPPolitics #UttarPradesh #BJPvsSP #BJPvsSamajwadiParty #SamajwadiParty #AkhileshYadav #YogiVsAkhilesh #SIR #SIREx…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Pk5e5PZe8Z4/default.jpg?v=6af30958"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Pk5e5PZe8Z4/mqdefault.jpg?v=6af30958"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Pk5e5PZe8Z4/hqdefault.jpg?v=6af30958"
-        }
-      },
-      "concurrentViewers": 23,
-      "startedAt": "2026-11-10T12:11:20Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Halla Bol | Delhi Air Pollution | PM Modi | Rahul Gandhi | Mallikarjun Kharge |",
+      "title": "Aaj Tak LIVE TV: Sonia Gandhi Book | Delhi Air Pollution | PM Modi | UP Election 2027 | Hindi News",
       "description": "पीएम मोदी को राहुल गांधी का फिर खुला चैलेंज, नक्सली और देशद्रोही के मुद्दे पर हो डिबेट, प्रधानमंत्री के बस्तर दौरे को लेकर कहा-CRPF जवानों को भी पीएम पर भरोसा नहीं  \n\nअखिलेश के अयोध्या दौरे से पहले समाजवादी पार्टी सांसद सनातन पांडे का बड़ा बयान, बोले- संविधान की रक्षा के लिए मुलायम सिंह यादव ने चला…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -706,56 +706,8 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 1283,
+      "concurrentViewers": 309,
       "startedAt": "2026-11-01T01:25:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cjTQqj4R9oQ",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Dangal With Sahil Joshi LIVE: Ayodhya में राम के नाम पर सियासी संग्राम! | Akhilesh Yadav |Ram Mandir",
-      "description": "दंगल में आज चर्चा अयोध्या की सियासत की, जहां राम मंदिर, बाबरी मस्जिद और संविधान के नाम पर राजनीतिक संग्राम तेज हो गया है. समाजवादी पार्टी प्रमुख अखिलेश यादव के 12 दिसंबर को सपरिवार रामलला के दर्शन करने जाने के प्रस्तावित कार्यक्रम ने यूपी की राजनीति में नई हलचल पैदा कर दी है. बीजेपी कारसेवकों पर हु…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cjTQqj4R9oQ/default.jpg?v=6af2ff4f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cjTQqj4R9oQ/mqdefault.jpg?v=6af2ff4f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cjTQqj4R9oQ/hqdefault.jpg?v=6af2ff4f"
-        }
-      },
-      "concurrentViewers": 451,
-      "startedAt": "2026-11-10T11:25:35Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "vdVz3ikPsik",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Jammu Kashmir Politics LIVE: उमर सरकार पर दबाव या डैमेज कंट्रोल? | Farooq Abdullah | Omar Abdullah",
-      "description": "जम्मू-कश्मीर की राजनीति में नेशनल कॉन्फ्रेंस के भीतर जारी खींचतान के बीच बड़ा घटनाक्रम सामने आया है. आज तक को बागी विधायकों के नाम फारूक अब्दुल्ला का लिखा पत्र मिला है. इसमें उन्होंने विधायकों से 14 दिनों के भीतर अपनी पसंद के मंत्रियों के नाम प्राथमिकता के क्रम में लिखित रूप से देने को कहा है. इसके…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vdVz3ikPsik/default.jpg?v=6af30857"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vdVz3ikPsik/mqdefault.jpg?v=6af30857"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vdVz3ikPsik/hqdefault.jpg?v=6af30857"
-        }
-      },
-      "concurrentViewers": 263,
-      "startedAt": "2026-11-10T12:06:01Z",
       "regionRestriction": null
     },
     {
@@ -778,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1087,
+      "concurrentViewers": 292,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -802,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 171,
+      "concurrentViewers": 119,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -826,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 945,
+      "concurrentViewers": 2071,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
