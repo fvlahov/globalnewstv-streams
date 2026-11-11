@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T06:59:14.751Z",
+  "generatedAt": "2026-11-11T15:03:42.317Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | Comedian Lucy Beaumont fears she may no longer work on TV after being whistleblower on Walliams - https://news.sky.com/video/comedian-lucy-beaumont-i-offered-to-p…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | David Walliams latest: Jonathan Ross 'horrified' by Walliams allegations and addresses joke he made in 2004 - https://trib.al/qqVaDE6\n\n🔴 Wednesday's newspaper fro…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 5879,
+      "concurrentViewers": 6284,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 564,
+      "concurrentViewers": 603,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3149,
+      "concurrentViewers": 3164,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lY9ukrGFQVE",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Martin Daubney |  Wednesday 11th November",
+      "description": "Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lY9ukrGFQVE/default.jpg?v=6af4797c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lY9ukrGFQVE/mqdefault.jpg?v=6af4797c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lY9ukrGFQVE/hqdefault.jpg?v=6af4797c"
+        }
+      },
+      "concurrentViewers": 286,
+      "startedAt": "2026-11-11T14:58:27Z",
       "regionRestriction": null
     },
     {
@@ -98,14 +122,110 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 380,
+      "concurrentViewers": 268,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "cX0nrZnRPJI",
+      "videoId": "c3ZQ-j4ZU-Q",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "World leaders arrive ahead of giving speeches at Cop31 summit – watch live",
+      "description": "World leaders arrive ahead of giving speeches at Cop31 summit\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://support.theguar…",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c3ZQ-j4ZU-Q/default.jpg?v=6af45a2f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c3ZQ-j4ZU-Q/mqdefault.jpg?v=6af45a2f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c3ZQ-j4ZU-Q/hqdefault.jpg?v=6af45a2f"
+        }
+      },
+      "concurrentViewers": 28,
+      "startedAt": "2026-11-11T09:09:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bf6GgVTAYE4",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Far-right march draws thousands in Warsaw",
+      "description": "The annual far-right Independence Day march takes place in Warsaw with prayers and speeches through the city marking Poland's national holiday.\n \n#poland #independenceday #warsaw #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bf6GgVTAYE4/default.jpg?v=6af45e9c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bf6GgVTAYE4/mqdefault.jpg?v=6af45e9c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bf6GgVTAYE4/hqdefault.jpg?v=6af45e9c"
+        }
+      },
+      "concurrentViewers": 185,
+      "startedAt": "2026-11-11T12:21:42Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "y8fJNDw4iYY",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: World leaders address COP31",
+      "description": "World leaders arrive at COP31 and will set out their climate priorities in speeches at the summit in Turkey as negotiators seek agreement on a plan to increase the share of electricity in global energy ‌use and revive stalled efforts to move away from fossil fuels.\n \n#cop31 #antalya #turkey #climat…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y8fJNDw4iYY/default.jpg?v=6af438e5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y8fJNDw4iYY/mqdefault.jpg?v=6af438e5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y8fJNDw4iYY/hqdefault.jpg?v=6af438e5"
+        }
+      },
+      "concurrentViewers": 56,
+      "startedAt": "2026-11-11T09:32:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PGc0cBUC3gg",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Nationwide general strike in Spain",
+      "description": "Spain’s trade unions called a nationwide general strike over housing affordability and demands for living wages, with picket lines and demonstrations emerging at midnight in major cities across Spain, including Barcelona, Madrid, Valencia, Seville and Zaragoza. Train drivers went on strike to deman…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PGc0cBUC3gg/default.jpg?v=6af435f9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PGc0cBUC3gg/mqdefault.jpg?v=6af435f9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PGc0cBUC3gg/hqdefault.jpg?v=6af435f9"
+        }
+      },
+      "concurrentViewers": 17,
+      "startedAt": "2026-11-11T08:56:58Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "JsaICjWKFY0",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Nov. 11",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -113,17 +233,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/cX0nrZnRPJI/default.jpg?v=6af3900f"
+          "url": "https://i.ytimg.com/vi/JsaICjWKFY0/default.jpg?v=6af4529e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/cX0nrZnRPJI/mqdefault.jpg?v=6af3900f"
+          "url": "https://i.ytimg.com/vi/JsaICjWKFY0/mqdefault.jpg?v=6af4529e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/cX0nrZnRPJI/hqdefault.jpg?v=6af3900f"
+          "url": "https://i.ytimg.com/vi/JsaICjWKFY0/hqdefault.jpg?v=6af4529e"
         }
       },
-      "concurrentViewers": 697,
-      "startedAt": "2026-11-10T22:58:46Z",
+      "concurrentViewers": 5539,
+      "startedAt": "2026-11-11T11:34:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "x1t_803BM7Y",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Wednesday, November 11",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x1t_803BM7Y/default.jpg?v=6adfc9f0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x1t_803BM7Y/mqdefault.jpg?v=6adfc9f0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x1t_803BM7Y/hqdefault.jpg?v=6adfc9f0"
+        }
+      },
+      "concurrentViewers": 2498,
+      "startedAt": "2026-11-11T10:58:05Z",
       "regionRestriction": null
     },
     {
@@ -146,12 +290,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 658,
+      "concurrentViewers": 1039,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "rL4Vt8PqvIM",
+      "videoId": "q8Puv82CkFw",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -161,17 +305,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rL4Vt8PqvIM/default.jpg?v=6af39b93"
+          "url": "https://i.ytimg.com/vi/q8Puv82CkFw/default.jpg?v=6af3c35e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rL4Vt8PqvIM/mqdefault.jpg?v=6af39b93"
+          "url": "https://i.ytimg.com/vi/q8Puv82CkFw/mqdefault.jpg?v=6af3c35e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rL4Vt8PqvIM/hqdefault.jpg?v=6af39b93"
+          "url": "https://i.ytimg.com/vi/q8Puv82CkFw/hqdefault.jpg?v=6af3c35e"
         }
       },
-      "concurrentViewers": 274,
-      "startedAt": "2026-11-10T23:58:40Z",
+      "concurrentViewers": 1186,
+      "startedAt": "2026-11-11T11:59:28Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/hqdefault.jpg?v=6af39ae4"
         }
       },
-      "concurrentViewers": 269,
+      "concurrentViewers": 702,
       "startedAt": "2026-11-10T13:47:30Z",
       "regionRestriction": null
     },
@@ -218,32 +362,8 @@
           "url": "https://i.ytimg.com/vi/E0m_jmWb_yg/hqdefault.jpg?v=6af1bc90"
         }
       },
-      "concurrentViewers": 199,
+      "concurrentViewers": 1474,
       "startedAt": "2026-11-09T12:29:57Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "tPtxzaEdPBc",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Spanish workers strike in Madrid over the housing crisis",
-      "description": "Watch live from a picket line at Legazpi metro station in Madrid as workers across Spain strike to demand government action on the country’s housing crisis. Read more: https://bit.ly/4k43r8C \n\n#madrid #protests #spain #housingcrisis #live",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tPtxzaEdPBc/default.jpg?v=6af404da"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tPtxzaEdPBc/mqdefault.jpg?v=6af404da"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tPtxzaEdPBc/hqdefault.jpg?v=6af404da"
-        }
-      },
-      "concurrentViewers": 81,
-      "startedAt": "2026-11-11T06:36:29Z",
       "regionRestriction": null
     },
     {
@@ -266,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 3541,
+      "concurrentViewers": 9522,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 26,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8069,
+      "concurrentViewers": 8347,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 399,
+      "concurrentViewers": 481,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1377,
+      "concurrentViewers": 1365,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +510,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6795,
+      "concurrentViewers": 6415,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +534,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 238,
+      "concurrentViewers": 212,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 107,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 183,
+      "concurrentViewers": 182,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -481,16 +601,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39975"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=399d5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39975"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=399d5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39975"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=399d5"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 37,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -514,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/D9ko31su3Bg/hqdefault.jpg?v=6af3c67e"
         }
       },
-      "concurrentViewers": 95,
+      "concurrentViewers": 34,
       "startedAt": "2026-11-11T01:38:22Z",
       "regionRestriction": null
     },
@@ -538,56 +658,8 @@
           "url": "https://i.ytimg.com/vi/ekvGoG-6pn0/hqdefault.jpg?v=6af3c512"
         }
       },
-      "concurrentViewers": 44,
+      "concurrentViewers": 8,
       "startedAt": "2026-11-11T01:31:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cCyUnIc2nY8",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Yemen Market Strike LIVE: Houthis Blame Saudi Arabia For Deadly Attack That Killed 30 | WION",
-      "description": "Yemen Market Strike LIVE: Houthis Blame Saudi Arabia For Deadly Attack That Killed 30 | WION \n\n\nSaudi airstrikes have reportedly hit a market in Yemen's Taiz province, with the Houthis claiming that at least 30 people were killed in the attack. The strikes have raised fresh tensions in the region a…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cCyUnIc2nY8/default.jpg?v=6af3dc75"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cCyUnIc2nY8/mqdefault.jpg?v=6af3dc75"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cCyUnIc2nY8/hqdefault.jpg?v=6af3dc75"
-        }
-      },
-      "concurrentViewers": 32,
-      "startedAt": "2026-11-11T03:40:22Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5PJ6Dd1L9v0",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "BJP's Sudhanshu Trivedi Slams Congress | Sonia Gandhi Memoir | Mallikarjun Kharge's Diwali Remark",
-      "description": "BJP's Sudhanshu Trivedi Slams Congress | Sonia Gandhi Memoir | Mallikarjun Kharge's Diwali Remark\n#bjp #congress #soniagandhi #soniagandhinews #sudhanshutrivedi\n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainmen…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5PJ6Dd1L9v0/default.jpg?v=6af408d5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5PJ6Dd1L9v0/mqdefault.jpg?v=6af408d5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5PJ6Dd1L9v0/hqdefault.jpg?v=6af408d5"
-        }
-      },
-      "concurrentViewers": 27,
-      "startedAt": "2026-11-11T06:12:18Z",
       "regionRestriction": null
     },
     {
@@ -610,39 +682,15 @@
           "url": "https://i.ytimg.com/vi/mfKU4iMRsxk/hqdefault.jpg?v=6af3fa71"
         }
       },
-      "concurrentViewers": 15,
+      "concurrentViewers": 10,
       "startedAt": "2026-11-11T05:22:42Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cAadROZB9Vw",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Delhi Pollution | CM Yogi Endorses Firecrackers | Delhi AQI | Breaking Ground LIVE",
-      "description": "Delhi Pollution | FMR WHO Chief Scientist On Pollution |Breaking Ground LIVE\n\n\n#SoniaGandhi #Congress #SoniaGandhiNews #pollution  #aqi  #delhi \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more fr…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cAadROZB9Vw/default.jpg?v=6af40c01"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cAadROZB9Vw/mqdefault.jpg?v=6af40c01"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cAadROZB9Vw/hqdefault.jpg?v=6af40c01"
-        }
-      },
-      "concurrentViewers": 14,
-      "startedAt": "2026-11-11T06:34:06Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Russia-Ukraine Talks | Donald Trump | Delhi Air Pollution | PM Modi | Iran War",
-      "description": "India Today LIVE: Russia-Ukraine Talks | Donald Trump | Delhi Air Pollution | PM Modi | Iran War\n\nThe current PM2.5 and PM10 levels in Pusa are 381 and 472, respectively.\nThe highest AQI recorded in Delhi is 473 at Pusa, while the lowest is 305 at Alipur.\nOn November 09, 2026, the average AQI in De…",
+      "title": "India Today LIVE: J&K Terror Attack | Russia-Ukraine Talks | Donald Trump | Delhi Air Pollution",
+      "description": "India Today LIVE: J&K Terror Attack | Russia-Ukraine Talks | Donald Trump | Delhi Air Pollution\n\nThe current PM2.5 and PM10 levels in Pusa are 381 and 472, respectively.\nThe highest AQI recorded in Delhi is 473 at Pusa, while the lowest is 305 at Alipur.\nOn November 09, 2026, the average AQI in Del…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -658,15 +706,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 425,
+      "concurrentViewers": 684,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hoHOB76mRZ0",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: NCP Merger Coming Soon? | Will Sharad Pawar Join NDA? | Sunetra Pawar | Maharashtra Politics",
+      "description": "LIVE: NCP Merger Coming Soon? | Will Sharad Pawar Join NDA? | Sunetra Pawar | Maharashtra Politics \n#SharadPawar #NCP #NCPSP #NDA #MaharashtraPolitics #SharadPawarNCP #pmmodi  #AjitPawar #sunetrapawar  #SupriyaSule #BJP #Maharashtra #NCPMerger #NCPAlliance #INDIABloc #OppositionCrisis #DevendraFadn…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hoHOB76mRZ0/default.jpg?v=6af4774d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hoHOB76mRZ0/mqdefault.jpg?v=6af4774d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hoHOB76mRZ0/hqdefault.jpg?v=6af4774d"
+        }
+      },
+      "concurrentViewers": 132,
+      "startedAt": "2026-11-11T14:12:29Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "FPlmi_bRCY8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Yogi Adityanath Defends Diwali From Critics | Kirti Azad Questions Ram | Is Oppn 'Anti-Hindu'?",
+      "description": "LIVE: Yogi Adityanath Defends Diwali From Critics | Kirti Azad Questions Ram | Is Oppn 'Anti-Hindu'?\n#YogiAdityanath #Diwali #DiwaliPollution #kirtiazad #tmc #tmcvsbjp #sanatandharm #rammandir #ayodhya #indiafirst #gauravsawant  #Firecrackers #AirPollution #DelhiPollution #AQI #AQISpike #PostDiwali…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FPlmi_bRCY8/default.jpg?v=6af47eb0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FPlmi_bRCY8/mqdefault.jpg?v=6af47eb0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FPlmi_bRCY8/hqdefault.jpg?v=6af47eb0"
+        }
+      },
+      "concurrentViewers": 94,
+      "startedAt": "2026-11-11T14:43:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Mohan Yadav LIVE | Sonia Gandhi | PM Modi | Akhilesh Ayodhya Visit | Hindi News",
-      "description": "भगवान राम पर ममता बनर्जी के सांसद का विवादास्पद बयान- कहा- मां सीता का त्याग करने वाले को नहीं मानता मर्यादा पुरुषोत्तम..अखिलेश के दूसरे सांसद बोले- कारसेवकों पर गोली चलाना ज़रूरी था...किसी धर्म का विरोध नहीं\n\nसोनिया गांधी की किताब को लेकर सियासी बवाल, आत्मकथा को लेकर BJP ने उठाए सवाल, कहा- बाबरी प…",
+      "title": "Aaj Tak LIVE TV: Kulgam Terrorist Attack | Chandrashekhar Owaisi Alliance | PM Modi | Hindi News",
+      "description": "जम्मू-कश्मीर के कुलगाम में आतंकियों ने अखरान के पास CRPF जवानों पर फायरिंग की. इस हमले में तीन CRPF जवानों के घायल होने की खबर है. जवानों ने भी जवाबी कार्रवाई करते हुए फायरिंग की. इलाके में काउंटर ऑपरेशन शुरू कर दिया गया है. क्विक रिएक्शन टीमों को भी मौके पर भेजा गया है.\n\nचुनाव से पहले यूपी में तीस…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -682,8 +778,32 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 824,
+      "concurrentViewers": 2855,
       "startedAt": "2026-11-01T01:25:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QrLZ9XydIlI",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Kulgam Terrorist Attack LIVE Updates: कुलगाम में सीआरपीएफ कैंप पर फायरिंग | Jammu Kashmir | Aaj Tak",
+      "description": "जम्मू-कश्मीर के कुलगाम में आतंकियों ने अखरान के पास CRPF जवानों पर फायरिंग की. इस हमले में 3 CRPF जवानों के घायल होने की खबर है. जवानों ने भी जवाबी कार्रवाई करते हुए फायरिंग की. इलाके में काउंटर ऑपरेशन शुरू कर दिया गया है. क्विक रिएक्शन टीमों को भी मौके पर भेजा गया है.\n\n#jammukashmir #terroristatta…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QrLZ9XydIlI/default.jpg?v=6af4333f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QrLZ9XydIlI/mqdefault.jpg?v=6af4333f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QrLZ9XydIlI/hqdefault.jpg?v=6af4333f"
+        }
+      },
+      "concurrentViewers": 1337,
+      "startedAt": "2026-11-11T09:21:09Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +826,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 915,
+      "concurrentViewers": 585,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 155,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +874,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1575,
+      "concurrentViewers": 565,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
