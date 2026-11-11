@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T19:55:21.057Z",
+  "generatedAt": "2026-11-11T00:28:01.540Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | US moves aircraft from UK airbase 'over Iran threat' - https://news.sky.com/story/iran-threat-latest-us-moves-aircraft-from-uk-airbase-over-reported-threat-from-ir…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | Comedian Lucy Beaumont fears she may no longer work on TV after being whistleblower on Walliams - https://news.sky.com/video/comedian-lucy-beaumont-i-offered-to-p…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4769,
+      "concurrentViewers": 2640,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 532,
+      "concurrentViewers": 303,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,56 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3047,
+      "concurrentViewers": 1672,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "3Tg4fuA9Vq0",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Patrick Christys Tonight Late Edition | Tuesday 10th November",
+      "description": "Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsO…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Tg4fuA9Vq0/default.jpg?v=6af35abd"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Tg4fuA9Vq0/mqdefault.jpg?v=6af35abd"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Tg4fuA9Vq0/hqdefault.jpg?v=6af35abd"
+        }
+      },
+      "concurrentViewers": 435,
+      "startedAt": "2026-11-10T22:54:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GkFHWtTG3mg",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Tuesday 10th November",
+      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GkFHWtTG3mg/default.jpg?v=6af346a2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GkFHWtTG3mg/mqdefault.jpg?v=6af346a2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GkFHWtTG3mg/hqdefault.jpg?v=6af346a2"
+        }
+      },
+      "concurrentViewers": 183,
+      "startedAt": "2026-11-10T23:55:06Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 114,
+      "concurrentViewers": 54,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,12 +170,12 @@
           "url": "https://i.ytimg.com/vi/_bF47UB-dww/hqdefault.jpg?v=6af30528"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": 15,
       "startedAt": "2026-11-10T11:33:56Z",
       "regionRestriction": null
     },
     {
-      "videoId": "FQ0NTvfhK18",
+      "videoId": "cX0nrZnRPJI",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Nov. 10",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -137,17 +185,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/FQ0NTvfhK18/default.jpg?v=6af21a4b"
+          "url": "https://i.ytimg.com/vi/cX0nrZnRPJI/default.jpg?v=6af3900f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/FQ0NTvfhK18/mqdefault.jpg?v=6af21a4b"
+          "url": "https://i.ytimg.com/vi/cX0nrZnRPJI/mqdefault.jpg?v=6af3900f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/FQ0NTvfhK18/hqdefault.jpg?v=6af21a4b"
+          "url": "https://i.ytimg.com/vi/cX0nrZnRPJI/hqdefault.jpg?v=6af3900f"
         }
       },
-      "concurrentViewers": 3154,
-      "startedAt": "2026-11-10T11:20:11Z",
+      "concurrentViewers": 5567,
+      "startedAt": "2026-11-10T22:58:46Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/6QFVhVT187M/hqdefault.jpg?v=6adfc99a"
         }
       },
-      "concurrentViewers": 1425,
+      "concurrentViewers": 1312,
       "startedAt": "2026-11-10T10:59:09Z",
       "regionRestriction": null
     },
@@ -194,12 +242,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 852,
+      "concurrentViewers": 750,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "YLofRVL0rS4",
+      "videoId": "rL4Vt8PqvIM",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -209,40 +257,40 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/YLofRVL0rS4/default.jpg?v=6af306e7"
+          "url": "https://i.ytimg.com/vi/rL4Vt8PqvIM/default.jpg?v=6af39b93"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/YLofRVL0rS4/mqdefault.jpg?v=6af306e7"
+          "url": "https://i.ytimg.com/vi/rL4Vt8PqvIM/mqdefault.jpg?v=6af39b93"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/YLofRVL0rS4/hqdefault.jpg?v=6af306e7"
+          "url": "https://i.ytimg.com/vi/rL4Vt8PqvIM/hqdefault.jpg?v=6af39b93"
         }
       },
-      "concurrentViewers": 725,
-      "startedAt": "2026-11-10T11:59:28Z",
+      "concurrentViewers": 684,
+      "startedAt": "2026-11-10T23:58:40Z",
       "regionRestriction": null
     },
     {
       "videoId": "Lhk3Gu0YeRs",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: Hegseth responds to impeachment threat, Trump vows to stand with Hegseth, Iran & Nvidia",
-      "description": "President Trump will attend several policy meetings on Tuesday. Trump also said he will stand by Secretary Hegseth if he is impeached.\n\nNvidia and its CEO is facing a lawsuit by a shareholder. Nvidia is accused of ‘deceiving investors in their responses to media reports about Huang’s affair’ with a…",
+      "title": "LIVE: House GOP blocks effort to impeach Hegseth, Iran war updates, Nvidia CEO investigation, more",
+      "description": "Defense Secretary Pete Hegseth gave his first news conference from the Pentagon in six months on Tuesday, just a day after Rep. Thomas Massie, a Kentucky Republican lawmaker, launched an effort to impeach him over his handling of the unpopular war against Iran and other actions. Hegseth called the …",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/default.jpg?v=6af3201c"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/default.jpg?v=6af39ae4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/mqdefault.jpg?v=6af3201c"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/mqdefault.jpg?v=6af39ae4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/hqdefault.jpg?v=6af3201c"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/hqdefault.jpg?v=6af39ae4"
         }
       },
-      "concurrentViewers": 992,
+      "concurrentViewers": 453,
       "startedAt": "2026-11-10T13:47:30Z",
       "regionRestriction": null
     },
@@ -266,56 +314,8 @@
           "url": "https://i.ytimg.com/vi/E0m_jmWb_yg/hqdefault.jpg?v=6af1bc90"
         }
       },
-      "concurrentViewers": 1250,
+      "concurrentViewers": 1119,
       "startedAt": "2026-11-09T12:29:57Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "12dH37i6Jt0",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Bernie Sanders holds a press conference",
-      "description": "Watch live as Sen. Bernie Sanders holds a press conference. Senators from both parties returned to Washington on Monday with questions about the future of their leadership after last week’s election decisively gave Democrats a significant new majority.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/12dH37i6Jt0/default.jpg?v=6af373fe"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/12dH37i6Jt0/mqdefault.jpg?v=6af373fe"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/12dH37i6Jt0/hqdefault.jpg?v=6af373fe"
-        }
-      },
-      "concurrentViewers": 1196,
-      "startedAt": "2026-11-10T19:44:35Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "uMSPlBMAPKY",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Spain’s King Felipe VI and Queen Letizia attend state funeral for train crash victims",
-      "description": "Watch live as King Felipe VI and Queen Letizia of Spain attend a state funeral Mass at Toledo Cathedral for victims of the October high-speed train crash and their families. The chain of events leading to the disaster began when a communications system essential to the Madrid-Seville line’s safety …",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uMSPlBMAPKY/default.jpg?v=6af33628"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uMSPlBMAPKY/mqdefault.jpg?v=6af33628"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uMSPlBMAPKY/hqdefault.jpg?v=6af33628"
-        }
-      },
-      "concurrentViewers": 55,
-      "startedAt": "2026-11-10T18:22:00Z",
       "regionRestriction": null
     },
     {
@@ -338,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 6039,
+      "concurrentViewers": 1616,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -362,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 64,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -386,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8098,
+      "concurrentViewers": 5776,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -414,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 438,
+      "concurrentViewers": 348,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -438,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1415,
+      "concurrentViewers": 890,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -462,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 8254,
+      "concurrentViewers": 4497,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -486,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 175,
+      "concurrentViewers": 105,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 88,
+      "concurrentViewers": 62,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -538,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 186,
+      "concurrentViewers": 148,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -553,16 +553,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=398f0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39926"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=398f0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39926"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=398f0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39926"
         }
       },
-      "concurrentViewers": 48,
+      "concurrentViewers": 31,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -586,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/qH0wC8cibOo/hqdefault.jpg?v=6af11cda"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 25,
       "startedAt": "2026-11-09T01:12:18Z",
       "regionRestriction": null
     },
@@ -610,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/Wg9Q_gcNqPA/hqdefault.jpg?v=6af268f7"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 47,
       "startedAt": "2026-11-10T01:31:49Z",
       "regionRestriction": null
     },
@@ -634,32 +634,8 @@
           "url": "https://i.ytimg.com/vi/dahzxrc5_v0/hqdefault.jpg?v=6af35a8f"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 7,
       "startedAt": "2026-11-10T17:56:27Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Q2mWbjItfRU",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Inside India's DNA Detective Lab: How Science Solves Crimes, Crashes And Disasters | NDTV Exclusive",
-      "description": "DNA fingerprinting has emerged as one of the most powerful tools in modern science, helping investigators identify disaster victims, solve crimes and uncover hidden clues from even the smallest biological samples. In this exclusive report, NDTV's Science Editor Pallava Bagla visits Hyderabad's Cent…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Q2mWbjItfRU/default.jpg"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Q2mWbjItfRU/mqdefault.jpg"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Q2mWbjItfRU/hqdefault.jpg"
-        }
-      },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-10T19:30:07Z",
       "regionRestriction": null
     },
     {
@@ -682,15 +658,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 124,
+      "concurrentViewers": 112,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "FKA6DDo7cOc",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: NVIDIA Spygate Scandal Will Jensen Huang Resign? | What Next For NVIDIA & AI Race? | NewsTrack",
+      "description": "LIVE: NVIDIA Spygate Scandal Will Jensen Huang Resign? | What Next For NVIDIA & AI Race? | NewsTrack\n#NVIDIA #JensenHuang #NVIDIAScandal #Spygate #NVIDIANews #JensenHuangResign #TechNews #AIScandal #ArtificialIntelligence #AIIndustry #Semiconductors #ChipIndustry #ChinaUSRelations #SiliconValley #T…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FKA6DDo7cOc/default.jpg?v=6af346b6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FKA6DDo7cOc/mqdefault.jpg?v=6af346b6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FKA6DDo7cOc/hqdefault.jpg?v=6af346b6"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-11-10T16:32:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "KpDIiyHm-tQ",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rajdeep Sardesai LIVE: Will NVIDIA's Spygate Scandal Impact AI Race? | Jensen Huang | Alice Huang",
+      "description": "Rajdeep Sardesai LIVE: Will NVIDIA's Spygate Scandal Impact AI Race? | Jensen Huang | Alice Huang\n#rajdeepsardesai #newstoday  #NVIDIA #JensenHuang #NVIDIAScandal #Spygate #NVIDIANews #JensenHuangResign #TechNews #AIScandal #ArtificialIntelligence #AIIndustry #Semiconductors #ChipIndustry #ChinaUSR…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KpDIiyHm-tQ/default.jpg?v=6af342b5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KpDIiyHm-tQ/mqdefault.jpg?v=6af342b5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KpDIiyHm-tQ/hqdefault.jpg?v=6af342b5"
+        }
+      },
+      "concurrentViewers": 6,
+      "startedAt": "2026-11-10T16:18:32Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
       "title": "Aaj Tak LIVE TV: Sonia Gandhi Book | Delhi Air Pollution | PM Modi | UP Election 2027 | Hindi News",
-      "description": "पीएम मोदी को राहुल गांधी का फिर खुला चैलेंज, नक्सली और देशद्रोही के मुद्दे पर हो डिबेट, प्रधानमंत्री के बस्तर दौरे को लेकर कहा-CRPF जवानों को भी पीएम पर भरोसा नहीं  \n\nअखिलेश के अयोध्या दौरे से पहले समाजवादी पार्टी सांसद सनातन पांडे का बड़ा बयान, बोले- संविधान की रक्षा के लिए मुलायम सिंह यादव ने चला…",
+      "description": "कांग्रेस की पूर्व अध्यक्ष सोनिया गांधी की आत्मकथा Belonging: A Journey of Love को लेकर सियासत गरमा गई है. किताब में सोनिया गांधी ने अपने राजनीतिक सफर, 2004 में प्रधानमंत्री पद ठुकराने के फैसले और गांधी परिवार से जुड़े कई अनुभव साझा किए हैं.\n\nउत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ बुधवार को 1,14…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -706,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 309,
+      "concurrentViewers": 269,
       "startedAt": "2026-11-01T01:25:39Z",
       "regionRestriction": null
     },
@@ -730,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 292,
+      "concurrentViewers": 2040,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 119,
+      "concurrentViewers": 111,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2071,
+      "concurrentViewers": 2509,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
