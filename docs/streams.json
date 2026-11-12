@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T22:08:10.029Z",
+  "generatedAt": "2026-11-12T03:15:41.844Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3908,
+      "concurrentViewers": 2623,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 530,
+      "concurrentViewers": 209,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2463,
+      "concurrentViewers": 1166,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,62 +98,38 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 93,
+      "concurrentViewers": 34,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "1rBixLdUZco",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "Giant ocean liner sunk to become the world’s largest artificial reef - watch live",
-      "description": "The SS United States will sink off the coast of Destin, Florida to become an artificial reef, ending long-running wrangle over its fate\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nHistoric ocean liner to ‘live on’ beneath waves as world’s b…",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1rBixLdUZco/default.jpg?v=6af4b48d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1rBixLdUZco/mqdefault.jpg?v=6af4b48d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1rBixLdUZco/hqdefault.jpg?v=6af4b48d"
-        }
-      },
-      "concurrentViewers": 646,
-      "startedAt": "2026-11-11T18:01:07Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "HZ0AtlzOwHU",
+      "videoId": "wllGuJdylHs",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Historic ocean liner SS United States to be sunk off Florida to become artificial reef",
-      "description": "The SS United States, a historic ocean liner, is being intentionally sunk off the coast of Destin-Fort Walton Beach, Florida coast to create an artificial reef. Livestream courtesy of Destin-Fort Walton Beach, Florida.\n\n#SSunitedStates #artificialreef #florida #oceanliner\n\nKeep up with the latest n…",
+      "title": "LIVE: Emergency crews scour debris after Brooklyn building collapses",
+      "description": "Emergency crews scour the site of a building collapse in Flatbush, Brooklyn, New York.\n \n#emergency #newyork #newyorkcity #brooklyn #building\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HZ0AtlzOwHU/default.jpg?v=11"
+          "url": "https://i.ytimg.com/vi/wllGuJdylHs/default.jpg?v=2f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HZ0AtlzOwHU/mqdefault.jpg?v=11"
+          "url": "https://i.ytimg.com/vi/wllGuJdylHs/mqdefault.jpg?v=2f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HZ0AtlzOwHU/hqdefault.jpg?v=11"
+          "url": "https://i.ytimg.com/vi/wllGuJdylHs/hqdefault.jpg?v=2f"
         }
       },
-      "concurrentViewers": 407,
-      "startedAt": "2026-11-11T20:39:00Z",
+      "concurrentViewers": 2028,
+      "startedAt": "2026-11-11T23:19:54Z",
       "regionRestriction": null
     },
     {
-      "videoId": "JsaICjWKFY0",
+      "videoId": "D_pDLnaeFVw",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 11",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -161,17 +137,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JsaICjWKFY0/default.jpg?v=6af4529e"
+          "url": "https://i.ytimg.com/vi/D_pDLnaeFVw/default.jpg?v=6af4bea8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JsaICjWKFY0/mqdefault.jpg?v=6af4529e"
+          "url": "https://i.ytimg.com/vi/D_pDLnaeFVw/mqdefault.jpg?v=6af4bea8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JsaICjWKFY0/hqdefault.jpg?v=6af4529e"
+          "url": "https://i.ytimg.com/vi/D_pDLnaeFVw/hqdefault.jpg?v=6af4bea8"
         }
       },
-      "concurrentViewers": 3163,
-      "startedAt": "2026-11-11T11:34:19Z",
+      "concurrentViewers": 1458,
+      "startedAt": "2026-11-11T22:59:18Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/x1t_803BM7Y/hqdefault.jpg?v=6adfc9f0"
         }
       },
-      "concurrentViewers": 1118,
+      "concurrentViewers": 788,
       "startedAt": "2026-11-11T10:58:05Z",
       "regionRestriction": null
     },
@@ -218,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 680,
+      "concurrentViewers": 735,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "q8Puv82CkFw",
+      "videoId": "_0ato-fy2sM",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -233,40 +209,40 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/q8Puv82CkFw/default.jpg?v=6af3c35e"
+          "url": "https://i.ytimg.com/vi/_0ato-fy2sM/default.jpg?v=6af4f6ba"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/q8Puv82CkFw/mqdefault.jpg?v=6af3c35e"
+          "url": "https://i.ytimg.com/vi/_0ato-fy2sM/mqdefault.jpg?v=6af4f6ba"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/q8Puv82CkFw/hqdefault.jpg?v=6af3c35e"
+          "url": "https://i.ytimg.com/vi/_0ato-fy2sM/hqdefault.jpg?v=6af4f6ba"
         }
       },
-      "concurrentViewers": 556,
-      "startedAt": "2026-11-11T11:59:28Z",
+      "concurrentViewers": 392,
+      "startedAt": "2026-11-12T00:00:02Z",
       "regionRestriction": null
     },
     {
       "videoId": "Lhk3Gu0YeRs",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: House GOP blocks effort to impeach Hegseth, Iran war updates, Nvidia CEO investigation, more",
-      "description": "Defense Secretary Pete Hegseth gave his first news conference from the Pentagon in six months on Tuesday, just a day after Rep. Thomas Massie, a Kentucky Republican lawmaker, launched an effort to impeach him over his handling of the unpopular war against Iran and other actions. Hegseth called the …",
+      "title": "LIVE: Deadly building collapse in NYC, Scott Colom wins MS Senate race, Nvidia latest updates, more",
+      "description": "We are learning now that two people have died, and several people are left injured, after a building in New York City collapsed on Wednesday afternoon. Mayor Zohran Mamdani was alongside a number of other city officials, previously asking on social media that the city should join him in \"holding ou…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/default.jpg?v=6af39ae4"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/default.jpg?v=6af52337"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/mqdefault.jpg?v=6af39ae4"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/mqdefault.jpg?v=6af52337"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/hqdefault.jpg?v=6af39ae4"
+          "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/hqdefault.jpg?v=6af52337"
         }
       },
-      "concurrentViewers": 541,
+      "concurrentViewers": 315,
       "startedAt": "2026-11-10T13:47:30Z",
       "regionRestriction": null
     },
@@ -290,56 +266,32 @@
           "url": "https://i.ytimg.com/vi/E0m_jmWb_yg/hqdefault.jpg?v=6af1bc90"
         }
       },
-      "concurrentViewers": 1101,
+      "concurrentViewers": 397,
       "startedAt": "2026-11-09T12:29:57Z",
       "regionRestriction": null
     },
     {
-      "videoId": "3cJLBcsdx3I",
+      "videoId": "4hsKADioqGI",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: SS United States sinks to create the world’s largest artificial reef",
-      "description": "Watch live as SS United States, an ocean liner that is longer than the Titanic and was once the fastest on the seas, is sunk off the coast of the Florida Panhandle in the Gulf of Mexico, turning it into the world’s largest artificial reef. Read more here: https://bit.ly/4AtBVq7\n\nCredit: Destin-Fort…",
+      "title": "LIVE: Scott Colom speaks after winning the Senate race in Mississippi",
+      "description": "Watch live as Democrat Scott Colom speaks after defeating Republican Sen. Cindy Hyde-Smith in Mississippi’s closely contested U.S. Senate race. Colom will be Mississippi’s first Black senator since the post-Civil War Reconstruction era.",
       "channelTitle": "Associated Press",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3cJLBcsdx3I/default.jpg?v=6af486aa"
+          "url": "https://i.ytimg.com/vi/4hsKADioqGI/default.jpg?v=6af50683"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3cJLBcsdx3I/mqdefault.jpg?v=6af486aa"
+          "url": "https://i.ytimg.com/vi/4hsKADioqGI/mqdefault.jpg?v=6af50683"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3cJLBcsdx3I/hqdefault.jpg?v=6af486aa"
+          "url": "https://i.ytimg.com/vi/4hsKADioqGI/hqdefault.jpg?v=6af50683"
         }
       },
-      "concurrentViewers": 39267,
-      "startedAt": "2026-11-11T17:14:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_6lM7bHQfYo",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Pope Leo XIV arrives in Peru",
-      "description": "Watch live as Pope Leo XIV arrives in Callao near Lima ahead of a welcome ceremony at the Peruvian Government Palace in Lima.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_6lM7bHQfYo/default.jpg?v=6af4e23d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_6lM7bHQfYo/mqdefault.jpg?v=6af4e23d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_6lM7bHQfYo/hqdefault.jpg?v=6af4e23d"
-        }
-      },
-      "concurrentViewers": 1314,
-      "startedAt": "2026-11-11T21:47:35Z",
+      "concurrentViewers": 29687,
+      "startedAt": "2026-11-12T01:27:20Z",
       "regionRestriction": null
     },
     {
@@ -362,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 3644,
+      "concurrentViewers": 1661,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -386,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 34,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -410,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6470,
+      "concurrentViewers": 5934,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -438,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 363,
+      "concurrentViewers": 306,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -462,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1131,
+      "concurrentViewers": 891,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -486,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6841,
+      "concurrentViewers": 3195,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -510,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 142,
+      "concurrentViewers": 88,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -538,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 74,
+      "concurrentViewers": 41,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -562,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 143,
+      "concurrentViewers": 106,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -577,65 +529,65 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39a2a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39a68"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39a2a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39a68"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39a2a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39a68"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 18,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "D9ko31su3Bg",
+      "videoId": "LfdCEZXK2nA",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile Terror On Ukraine, Blasts Shake Kyiv",
-      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
+      "title": "Saudi Under Attack LIVE: Houthis Unleash Drone Strike on Saudi Arabia’s Oil Lifeline | WION",
+      "description": "Saudi Arabia is on alert after Yemen's Houthi rebels claimed a drone attack on the strategically important Yanbu pumping station. The alleged strike has raised fresh concerns over the security of Saudi Arabia's critical oil infrastructure and its energy supply routes.\n\nYanbu is a key oil export hub…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/D9ko31su3Bg/default.jpg?v=6af3c67e"
+          "url": "https://i.ytimg.com/vi/LfdCEZXK2nA/default.jpg?v=6af5183b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/D9ko31su3Bg/mqdefault.jpg?v=6af3c67e"
+          "url": "https://i.ytimg.com/vi/LfdCEZXK2nA/mqdefault.jpg?v=6af5183b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/D9ko31su3Bg/hqdefault.jpg?v=6af3c67e"
+          "url": "https://i.ytimg.com/vi/LfdCEZXK2nA/hqdefault.jpg?v=6af5183b"
         }
       },
-      "concurrentViewers": 23,
-      "startedAt": "2026-11-11T01:38:22Z",
+      "concurrentViewers": 128,
+      "startedAt": "2026-11-12T01:37:28Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ekvGoG-6pn0",
+      "videoId": "UUHIReVuMYw",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Strike Aramco Tower After Yemen Attack Kills Dozens | WION",
-      "description": "Saudi Arabia is on high alert after massive explosions were heard in the capital, Riyadh, amid escalating tensions with Yemen's Houthi rebels. Saudi air defence systems reportedly intercepted incoming Houthi missiles as blasts shook the city, raising fresh concerns over the security situation in th…",
+      "title": "Russia-Ukraine War LIVE: Putin Rains Hypersonic Missiles on Ukraine, Explosions Rock Kyiv | WION",
+      "description": "Russia-Ukraine War LIVE: Putin Rains Hypersonic Missiles on Ukraine, Explosions Rock Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ekvGoG-6pn0/default.jpg?v=6af3c512"
+          "url": "https://i.ytimg.com/vi/UUHIReVuMYw/default.jpg?v=6af51af4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ekvGoG-6pn0/mqdefault.jpg?v=6af3c512"
+          "url": "https://i.ytimg.com/vi/UUHIReVuMYw/mqdefault.jpg?v=6af51af4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ekvGoG-6pn0/hqdefault.jpg?v=6af3c512"
+          "url": "https://i.ytimg.com/vi/UUHIReVuMYw/hqdefault.jpg?v=6af51af4"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-11-11T01:31:21Z",
+      "concurrentViewers": 106,
+      "startedAt": "2026-11-12T01:49:09Z",
       "regionRestriction": null
     },
     {
@@ -658,63 +610,15 @@
           "url": "https://i.ytimg.com/vi/mPlN3uG3wU8/hqdefault.jpg?v=6af4c231"
         }
       },
-      "concurrentViewers": 6,
+      "concurrentViewers": 10,
       "startedAt": "2026-11-11T19:31:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Wl2grxLaoHs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Sonia Gandhi Book | Op Blue Star & 'Tears Of Pain': 'Remorse' Or 'Political Whitewash'? | LIVE",
-      "description": "Watch The Buck Stops Here with Padmaja Joshi only on NDTV. \n\n#TheBuckStopsHere #LIVE \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch big political…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Wl2grxLaoHs/default.jpg?v=6af4c1a0"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Wl2grxLaoHs/mqdefault.jpg?v=6af4c1a0"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Wl2grxLaoHs/hqdefault.jpg?v=6af4c1a0"
-        }
-      },
-      "concurrentViewers": 6,
-      "startedAt": "2026-11-11T19:29:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "mfKU4iMRsxk",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Assam Train Accident LIVE | Watch Train Driver's Last Moments Before Assam Derailment | Assam News",
-      "description": "A video recorded inside the locomotive of the Kolkata-Sairang Express moments before its derailment in Assam has surfaced. The footage reportedly captures the train driver saying that the braking system was not working, raising questions about the circumstances leading up to the accident. Five coac…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mfKU4iMRsxk/default.jpg?v=6af3fa71"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mfKU4iMRsxk/mqdefault.jpg?v=6af3fa71"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mfKU4iMRsxk/hqdefault.jpg?v=6af3fa71"
-        }
-      },
-      "concurrentViewers": 4,
-      "startedAt": "2026-11-11T05:22:42Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: J&K Terror Attack | Russia-Ukraine Talks | Donald Trump | Delhi Air Pollution",
-      "description": "India Today LIVE: J&K Terror Attack | Russia-Ukraine Talks | Donald Trump | Delhi Air Pollution\n\nThe current PM2.5 and PM10 levels in Pusa are 381 and 472, respectively.\nThe highest AQI recorded in Delhi is 473 at Pusa, while the lowest is 305 at Alipur.\nOn November 09, 2026, the average AQI in Del…",
+      "title": "India Today LIVE: Terror Attack In J&K | Kulgam Attack | Russia-Ukraine Talks | Trump | PM Modi",
+      "description": "India Today LIVE: Terror Attack In J&K | Kulgam Attack | Russia-Ukraine Talks | Trump | PM Modi\n\nThree CRPF personnel were injured when motorcycle-borne terrorists opened fire at a security checkpoint near Mir Bazar in Jammu and Kashmir’s Kulgam district\n\nKulgam terror attack, J&K terror attack, La…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -730,15 +634,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 70,
+      "concurrentViewers": 411,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Ah5q4aCcJ6Y",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Kulgam Terror Attack LIVE: LeT Commander Latif Bhat Suspected Behind Attack On CRPF | J&K",
+      "description": "Security agencies suspect Lashkar-e-Taiba (LeT) local commander Mohammed Lateef Bhat, also known as Latif Bhat, of being behind the November 2026 terror attack on a CRPF party in the Akhran area of Kulgam district, Jammu and Kashmir.\n\nThree CRPF personnel were injured after the attack. Investigator…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ah5q4aCcJ6Y/default.jpg?v=6af526a1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ah5q4aCcJ6Y/mqdefault.jpg?v=6af526a1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ah5q4aCcJ6Y/hqdefault.jpg?v=6af526a1"
+        }
+      },
+      "concurrentViewers": 104,
+      "startedAt": "2026-11-12T02:39:17Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "onUPQPaYfAw",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today LIVE: Terror Attack In J&K | Kulgam Attack | Russia-Ukraine Talks | Trump | PM Modi",
+      "description": "India Today LIVE: Terror Attack In J&K | Kulgam Attack | Russia-Ukraine Talks | Trump | PM Modi\n\n\nThree CRPF personnel were injured when motorcycle-borne terrorists opened fire at a security checkpoint near Mir Bazar in Jammu and Kashmir’s Kulgam district\n\nDelhi pollution, Delhi air pollution, Delh…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/onUPQPaYfAw/default.jpg?v=6af51e76"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/onUPQPaYfAw/mqdefault.jpg?v=6af51e76"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/onUPQPaYfAw/hqdefault.jpg?v=6af51e76"
+        }
+      },
+      "concurrentViewers": 82,
+      "startedAt": "2026-11-12T02:04:02Z",
       "regionRestriction": null
     },
     {
       "videoId": "CO2bQt-aPVI",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Kulgam Terrorist Attack | Chandrashekhar Owaisi Alliance | Amul Milk Price",
-      "description": "अखिलेश पर CM योगी का बड़ा हमला- कहा, अगर उत्तराखंड की बेटी न होती तो वो सैफई में भैंस चरा रहे होते- पहले एसपी अध्यक्ष ने इशारों में योगी को कहा था घुसपैठिया \n\nमणिपुर विधानसभा चुनाव के लिए कांग्रेस पदाधिकारियों की लिस्ट में JNU के आरोपी प्रोफेसर और सांसद अकोइजम भी शामिल- बीजेपी बोली...कांग्रेस का DN…",
+      "title": "Aaj Tak LIVE TV: Kulgam Terrorist Attack | UP Election 2027 | Milk Price Hike | CM Yogi | Hindi News",
+      "description": "दिल्ली के भारत मंडपम में किसान तक भारत एग्रीकल्चर कॉन्फ्रेंस का आज दूसरा और आखिरी दिन, रात 8 बजे प्रधानमंत्री मोदी मोदी होंगे शामिल, विकसित भारत को लेकर बताएंगे रोडमैप \n\nयूपी चुनाव को लेकर नया सियासी मोर्चा, साथ आएंगे असदुद्दीन ओवैसी और चंद्रशेखर, 150 सीटों पर चुनाव लड़ने की तैयारी, आज दोपहर 12 बजे…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -754,32 +706,8 @@
           "url": "https://i.ytimg.com/vi/CO2bQt-aPVI/hqdefault.jpg?v=6ae694a6"
         }
       },
-      "concurrentViewers": 146,
+      "concurrentViewers": 1200,
       "startedAt": "2026-11-01T01:25:39Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QrLZ9XydIlI",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Kulgam Terrorist Attack LIVE Updates: कुलगाम में सीआरपीएफ कैंप पर फायरिंग | Jammu Kashmir | Aaj Tak",
-      "description": "जम्मू-कश्मीर के कुलगाम में आतंकियों ने अखरान के पास CRPF जवानों पर फायरिंग की. इस हमले में 3 CRPF जवानों के घायल होने की खबर है. जवानों ने भी जवाबी कार्रवाई करते हुए फायरिंग की. इलाके में काउंटर ऑपरेशन शुरू कर दिया गया है. क्विक रिएक्शन टीमों को भी मौके पर भेजा गया है.\n\n#jammukashmir #terroristatta…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QrLZ9XydIlI/default.jpg?v=6af4333f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QrLZ9XydIlI/mqdefault.jpg?v=6af4333f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QrLZ9XydIlI/hqdefault.jpg?v=6af4333f"
-        }
-      },
-      "concurrentViewers": 109,
-      "startedAt": "2026-11-11T09:21:09Z",
       "regionRestriction": null
     },
     {
@@ -802,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 430,
+      "concurrentViewers": 1383,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -826,8 +754,32 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 101,
       "startedAt": "2026-08-14T01:21:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "j5i5eMn_sdE",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: APEC 2026 special – See the future here (Ep. 3)",
+      "description": "As APEC Economic Leaders' Week draws near, Shenzhen in south China's Guangdong Province is gearing up for a series of high-level meetings, including the APEC CEO Summit and the Economic Leaders' Meeting. Join CGTN as we explore the city's vibrant atmosphere and discover how Shenzhen is opening up n…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j5i5eMn_sdE/default.jpg?v=6af516f9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j5i5eMn_sdE/mqdefault.jpg?v=6af516f9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j5i5eMn_sdE/hqdefault.jpg?v=6af516f9"
+        }
+      },
+      "concurrentViewers": 15,
+      "startedAt": "2026-11-12T02:59:50Z",
       "regionRestriction": null
     },
     {
@@ -850,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 3026,
+      "concurrentViewers": 1916,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
