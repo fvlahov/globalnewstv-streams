@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T15:57:20.812Z",
+  "generatedAt": "2026-11-13T21:53:24.489Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 Angela Rayner has approved plans to house migrants at MoD site near Piddington: https://news.sky.com/story/politics-latest-budget-healey-burnham-labour-badenoch-farage-da…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 David Walliams to be investigated over alleged 'serious' sexual offences - https://trib.al/nTMSa9U\n \n🔴 LIVE | Microsoft outage: NHS, police and schools affected - https:…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,56 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 5865,
+      "concurrentViewers": 4367,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ms2im36eCbQ",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Emergency crews race against time to rescue passengers from tanker crash in New Orleans",
+      "description": "Emergency services are working to rescue passengers after a tanker crashed into a cruise ship in the US.\n\nAmerican Cruise Lines said its river boat, American Heritage, was involved in a collision while it was docked in New Orleans.\n\nThe cruise had 129 passengers on board.\n\nLatest ➡️ https://news.sk…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ms2im36eCbQ/default.jpg?v=6af784ee"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ms2im36eCbQ/mqdefault.jpg?v=6af784ee"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ms2im36eCbQ/hqdefault.jpg?v=6af784ee"
+        }
+      },
+      "concurrentViewers": 269,
+      "startedAt": "2026-11-13T21:27:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7Z_EfuVgJBg",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Police investigating David Walliams over alleged sexual offences | The Wrap with Barbara Serra",
+      "description": "The Wrap with Barbara Serra will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight.\n\nThe Wrap will feature high-profile panellists, from leading experts and journalists to special guests, for a live, fast-moving conversatio…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7Z_EfuVgJBg/default.jpg?v=6af7650c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7Z_EfuVgJBg/mqdefault.jpg?v=6af7650c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7Z_EfuVgJBg/hqdefault.jpg?v=6af7650c"
+        }
+      },
+      "concurrentViewers": 100,
+      "startedAt": "2026-11-13T21:50:31Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 534,
+      "concurrentViewers": 1251,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2707,
+      "concurrentViewers": 3069,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "5Ynxp6qN1SM",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Patrick Christys Tonight | Friday 13th November",
+      "description": "Join Patrick for two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Ynxp6qN1SM/default.jpg?v=6af736ae"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Ynxp6qN1SM/mqdefault.jpg?v=6af736ae"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Ynxp6qN1SM/hqdefault.jpg?v=6af736ae"
+        }
+      },
+      "concurrentViewers": 2478,
+      "startedAt": "2026-11-13T20:56:37Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 200,
+      "concurrentViewers": 60,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,14 +194,14 @@
           "url": "https://i.ytimg.com/vi/8NvHdj-F_j8/hqdefault.jpg?v=6af6fc9a"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 23,
       "startedAt": "2026-11-13T11:59:33Z",
       "regionRestriction": null
     },
     {
       "videoId": "65kQUIlyM-4",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 13",
+      "title": "BREAKING: FAA issues nationwide groundstop at all airports | NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -137,17 +209,65 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/65kQUIlyM-4/default.jpg?v=6af60fb2"
+          "url": "https://i.ytimg.com/vi/65kQUIlyM-4/default.jpg?v=6af781ea"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/65kQUIlyM-4/mqdefault.jpg?v=6af60fb2"
+          "url": "https://i.ytimg.com/vi/65kQUIlyM-4/mqdefault.jpg?v=6af781ea"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/65kQUIlyM-4/hqdefault.jpg?v=6af60fb2"
+          "url": "https://i.ytimg.com/vi/65kQUIlyM-4/hqdefault.jpg?v=6af781ea"
         }
       },
-      "concurrentViewers": 5839,
+      "concurrentViewers": 22303,
       "startedAt": "2026-11-13T11:57:13Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Btn-Eg3JXL4",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "SPECIAL REPORT: FAA issues nationwide ground stop; tanker collides with riverboat in New Orleans",
+      "description": "The Federal Aviation Administration ordered a nationwide ground stop Friday for all airports due a communication issue affecting air traffic control. https://abcnews.link/6C7YfYt\n\nIn Louisiana, emergency crews are responding to a collision involving a docked riverboat carrying more than 100 people …",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Btn-Eg3JXL4/default.jpg?v=6af78089"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Btn-Eg3JXL4/mqdefault.jpg?v=6af78089"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Btn-Eg3JXL4/hqdefault.jpg?v=6af78089"
+        }
+      },
+      "concurrentViewers": 9556,
+      "startedAt": "2026-11-13T21:04:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "sq9r3gFKphU",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Friday, November 13",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sq9r3gFKphU/default.jpg?v=6adfca81"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sq9r3gFKphU/mqdefault.jpg?v=6adfca81"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sq9r3gFKphU/hqdefault.jpg?v=6adfca81"
+        }
+      },
+      "concurrentViewers": 2467,
+      "startedAt": "2026-11-13T11:22:29Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1001,
+      "concurrentViewers": 1941,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/b0ZhJhN_Sn8/hqdefault.jpg?v=6af6fbc6"
         }
       },
-      "concurrentViewers": 1136,
+      "concurrentViewers": 3759,
       "startedAt": "2026-11-13T12:00:58Z",
       "regionRestriction": null
     },
@@ -218,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/z8wdRIvy2Fw/hqdefault.jpg?v=6af706c6"
         }
       },
-      "concurrentViewers": 710,
+      "concurrentViewers": 1744,
       "startedAt": "2026-11-13T13:11:52Z",
       "regionRestriction": null
     },
@@ -242,104 +362,32 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1183,
+      "concurrentViewers": 1931,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
     {
-      "videoId": "JXmaQYMf4Qs",
-      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-      "title": "The Gerry Callahan Show LIVE (11/13/2026) | NEWSMAX Podcasts",
-      "description": "Get Gerry's latest takes on the hottest news and headlines from behind enemy lines in deep blue Boston on today's LIVE edition of The Gerry Callahan Show.  Subscribe to the show's podcast for FREE at http://newsmax.com/listen.\n\nListen to Newsmax LIVE and see our entire podcast lineup at http://News…",
-      "channelTitle": "Newsmax",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JXmaQYMf4Qs/default.jpg?v=6af648c8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JXmaQYMf4Qs/mqdefault.jpg?v=6af648c8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JXmaQYMf4Qs/hqdefault.jpg?v=6af648c8"
-        }
-      },
-      "concurrentViewers": 38,
-      "startedAt": "2026-11-13T15:37:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "vUoSPo5H1pM",
+      "videoId": "yJl5iujO76g",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Authorities brief media after Brooklyn building collapse kills 8",
-      "description": "Watch live as authorities provide an update on the building collapse in Brooklyn that killed eight people on Wednesday.\nInvestigators are examining the cause after the fire department ended rescue operations Thursday, when the last victim was recovered from the wreckage.",
+      "title": "LIVE: SpaceX 15th Starship test flight aims for a double catch at the launch pad",
+      "description": "SpaceX is launching Starship into orbit in its boldest test yet: a 22-hour flight that aims to recapture the entire rocket.\n\nIf all goes well, the massive booster will return to its pad six minutes after blasting off and the spacecraft will steer there the next day. Both will be plucked from midair…",
       "channelTitle": "Associated Press",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vUoSPo5H1pM/default.jpg?v=6af728cf"
+          "url": "https://i.ytimg.com/vi/yJl5iujO76g/default.jpg?v=6af758b3"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vUoSPo5H1pM/mqdefault.jpg?v=6af728cf"
+          "url": "https://i.ytimg.com/vi/yJl5iujO76g/mqdefault.jpg?v=6af758b3"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vUoSPo5H1pM/hqdefault.jpg?v=6af728cf"
+          "url": "https://i.ytimg.com/vi/yJl5iujO76g/hqdefault.jpg?v=6af758b3"
         }
       },
-      "concurrentViewers": 260,
-      "startedAt": "2026-11-13T15:19:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "lisNaZfNpeg",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Nvidia stock price a day after Jensen Huang resigns as CEO",
-      "description": "Watch Nvidia’s stock price a day after CEO Jensen Huang stepped down following reports of extramarital affairs, including with a suspected Chinese spy. Read more: https://bit.ly/4zMhwg3\n\nCredit: Nasdaq",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lisNaZfNpeg/default.jpg?v=6af71913"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lisNaZfNpeg/mqdefault.jpg?v=6af71913"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lisNaZfNpeg/hqdefault.jpg?v=6af71913"
-        }
-      },
-      "concurrentViewers": 205,
-      "startedAt": "2026-11-13T14:41:10Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ae4ZfZtJ5xA",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Democrats gather in Denver for a second day to discuss the party’s future",
-      "description": "Watch live as Democratic officials and strategists gather in Denver for the two-day “What’s Next” conference to discuss their party’s future after its best electoral performance in half a century. Speakers include Texas Sen.-elect James Talarico, House Democratic Leader Hakeem Jeffries, former U.S.…",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ae4ZfZtJ5xA/default.jpg?v=6af7293c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ae4ZfZtJ5xA/mqdefault.jpg?v=6af7293c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ae4ZfZtJ5xA/hqdefault.jpg?v=6af7293c"
-        }
-      },
-      "concurrentViewers": 158,
-      "startedAt": "2026-11-13T15:46:11Z",
+      "concurrentViewers": 242,
+      "startedAt": "2026-11-13T21:39:57Z",
       "regionRestriction": null
     },
     {
@@ -362,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 9849,
+      "concurrentViewers": 4380,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -386,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -410,7 +458,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8569,
+      "concurrentViewers": 6276,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -438,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 430,
+      "concurrentViewers": 347,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -462,7 +510,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1249,
+      "concurrentViewers": 987,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -486,7 +534,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5367,
+      "concurrentViewers": 5764,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -510,7 +558,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 188,
+      "concurrentViewers": 133,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -538,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 102,
+      "concurrentViewers": 61,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -562,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 143,
+      "concurrentViewers": 112,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -577,16 +625,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39c26"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39c6d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39c26"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39c6d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39c26"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39c6d"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -610,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/c6k22Y2m0gs/hqdefault.jpg?v=6af6659e"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 20,
       "startedAt": "2026-11-13T01:20:10Z",
       "regionRestriction": null
     },
@@ -634,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/Z9IAiQk6mOk/hqdefault.jpg?v=6af66ba2"
         }
       },
-      "concurrentViewers": 14,
+      "concurrentViewers": 15,
       "startedAt": "2026-11-13T01:47:11Z",
       "regionRestriction": null
     },
@@ -658,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/hqdefault.jpg?v=6af667b9"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 5,
       "startedAt": "2026-11-13T01:32:53Z",
       "regionRestriction": null
     },
@@ -682,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/u3R-ROX6tjg/hqdefault.jpg?v=6af6fa24"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 7,
       "startedAt": "2026-11-13T15:30:10Z",
       "regionRestriction": null
     },
@@ -706,39 +754,15 @@
           "url": "https://i.ytimg.com/vi/fGDKGBBY9po/hqdefault.jpg?v=6af6c7b9"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": null,
       "startedAt": "2026-11-13T13:47:01Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "7qFqckXfOxs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Walk The Talk With Rahul Kanwal LIVE | Sunil Bharti Mittal | LIVE",
-      "description": "Watch Walk The Talk with Rahul Kanwal LIVE on NDTV.\n\n#WalkTheTalk #LIVE \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch big political debates, exc…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7qFqckXfOxs/default.jpg?v=6af72ae9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7qFqckXfOxs/mqdefault.jpg?v=6af72ae9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7qFqckXfOxs/hqdefault.jpg?v=6af72ae9"
-        }
-      },
-      "concurrentViewers": 15,
-      "startedAt": "2026-11-13T15:26:56Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Rahu's 'Phone Tapping' Charges | Assam Accident | Microsoft | Nvidia | PM Modi",
-      "description": "India Today LIVE: Rahu's 'Phone Tapping' Charges | Assam Accident | Microsoft | Nvidia | PM Modi\n\n\n\nNvidia CEO Jensen Huang has resigned from his positions as president, chief executive officer and board member of the company with immediate effect, the company's board of directors announced on Thur…",
+      "title": "India Today LIVE: Rahu's 'Phone Tapping' Charges | Kaziranga Accident | Microsoft | Nvidia | PM Modi",
+      "description": "India Today LIVE: Rahu's 'Phone Tapping' Charges | Kaziranga Accident | Microsoft | Nvidia | PM Modi\n\nA head-on collision between a truck and a mini-bus in Assam's Kaziranga has left 26 people dead and 20 injured, with most of the victims reportedly students. Rescue teams are still retrieving bodie…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -754,8 +778,56 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 1441,
+      "concurrentViewers": 84,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bNaJP7t7lQ8",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Microsoft Outage Live News: What Caused The Outage | Outlook | Microsoft 365 Services | Internet",
+      "description": "Microsoft says its 365 services are gradually recovering after a global outage disrupted Outlook, Teams, Copilot and other products. However, email delays could continue as the company processes pending messages, with the timeout window extended to 48 hours.\n#microsoftserver #MicrosoftOutage #Micro…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bNaJP7t7lQ8/default.jpg?v=6af74d71"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bNaJP7t7lQ8/mqdefault.jpg?v=6af74d71"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bNaJP7t7lQ8/hqdefault.jpg?v=6af74d71"
+        }
+      },
+      "concurrentViewers": 16,
+      "startedAt": "2026-11-13T17:49:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4XElbQSJ-HQ",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Live: Can AI Survive Without The Chip King? Jenseng Huang | Chipmaker | Trump | China | Espionage",
+      "description": "Jensen Huang admitted having an affair in a statement on November 8, issued after reports emerged about his relationship with Alice Huang. He did not identify the woman by name. Days later, he resigned from Nvidia after 33 years at the company he co-founded and helped turn into a big force in the g…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4XElbQSJ-HQ/default.jpg?v=6af74047"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4XElbQSJ-HQ/mqdefault.jpg?v=6af74047"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4XElbQSJ-HQ/hqdefault.jpg?v=6af74047"
+        }
+      },
+      "concurrentViewers": 3,
+      "startedAt": "2026-11-13T16:51:16Z",
       "regionRestriction": null
     },
     {
@@ -778,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/9O2gwqE9Vok/hqdefault.jpg?v=6af6b6a1"
         }
       },
-      "concurrentViewers": 679,
+      "concurrentViewers": 99,
       "startedAt": "2026-11-13T07:07:22Z",
       "regionRestriction": null
     },
@@ -802,7 +874,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 414,
+      "concurrentViewers": 322,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -826,7 +898,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 154,
+      "concurrentViewers": 108,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -850,7 +922,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 513,
+      "concurrentViewers": 2192,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
