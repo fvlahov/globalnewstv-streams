@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T00:55:42.912Z",
+  "generatedAt": "2026-11-13T07:40:39.173Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2560,
+      "concurrentViewers": 7368,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xMboXwD4MJs",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Rayner approves plans to house more than 1,250 asylum seekers near Piddington | Mornings",
+      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xMboXwD4MJs/default.jpg?v=6af6a698"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xMboXwD4MJs/mqdefault.jpg?v=6af6a698"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xMboXwD4MJs/hqdefault.jpg?v=6af6a698"
+        }
+      },
+      "concurrentViewers": 393,
+      "startedAt": "2026-11-13T06:03:21Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 242,
+      "concurrentViewers": 734,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1453,
+      "concurrentViewers": 3234,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bWBWTO4vc2M",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Breakfast with Stephen and Anne | Friday 13th November",
+      "description": "Join Stephen Dixon and Anne Diamond to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bWBWTO4vc2M/default.jpg?v=6af6a4e6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bWBWTO4vc2M/mqdefault.jpg?v=6af6a4e6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bWBWTO4vc2M/hqdefault.jpg?v=6af6a4e6"
+        }
+      },
+      "concurrentViewers": 2353,
+      "startedAt": "2026-11-13T05:55:49Z",
       "regionRestriction": null
     },
     {
@@ -98,62 +146,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 424,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "6BG7czSwcMk",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Pope Leo carries out official engagements Peru",
-      "description": "Pope Leo carries out official engagements in Lima, Peru.\n\n#PopeLeo #Peru #Lima #Vatican #WorldNews\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6BG7czSwcMk/default.jpg?v=6af6307c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6BG7czSwcMk/mqdefault.jpg?v=6af6307c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6BG7czSwcMk/hqdefault.jpg?v=6af6307c"
-        }
-      },
-      "concurrentViewers": 32,
-      "startedAt": "2026-11-12T21:16:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "8oqEmeFSy3w",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Senator-elect James Talarico speaks at Democrats’ Denver event",
-      "description": "State Representative James Talarico, who won the US Senate race in Texas, discusses the Democrats’ wins in the midterm elections earlier this month at an event in Denver, Colorado.\n \n#JamesTalarico #Talarico #Midterms2026 #Texas #Democrats\n\nKeep up with the latest news from around the world: https:…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8oqEmeFSy3w/default.jpg?v=6af635a7"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8oqEmeFSy3w/mqdefault.jpg?v=6af635a7"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8oqEmeFSy3w/hqdefault.jpg?v=6af635a7"
-        }
-      },
-      "concurrentViewers": 10,
-      "startedAt": "2026-11-12T21:49:47Z",
       "regionRestriction": null
     },
     {
       "videoId": "g4vI3ZplCys",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 12",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/g4vI3ZplCys/hqdefault.jpg?v=6af60f4e"
         }
       },
-      "concurrentViewers": 1966,
+      "concurrentViewers": 469,
       "startedAt": "2026-11-12T22:59:00Z",
       "regionRestriction": null
     },
@@ -194,32 +194,8 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 823,
+      "concurrentViewers": 752,
       "startedAt": "2026-10-24T03:13:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "8JK_3tFkXe0",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Thursday, November 12",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8JK_3tFkXe0/default.jpg?v=6adfca36"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8JK_3tFkXe0/mqdefault.jpg?v=6adfca36"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8JK_3tFkXe0/hqdefault.jpg?v=6adfca36"
-        }
-      },
-      "concurrentViewers": 789,
-      "startedAt": "2026-11-12T10:57:54Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/7IhhvdVUlKM/hqdefault.jpg?v=6af62c96"
         }
       },
-      "concurrentViewers": 564,
+      "concurrentViewers": 319,
       "startedAt": "2026-11-12T23:59:48Z",
       "regionRestriction": {
         "blocked": [
@@ -271,7 +247,7 @@
           "url": "https://i.ytimg.com/vi/Lhk3Gu0YeRs/hqdefault.jpg?v=6af52337"
         }
       },
-      "concurrentViewers": 440,
+      "concurrentViewers": 273,
       "startedAt": "2026-11-10T13:47:30Z",
       "regionRestriction": null
     },
@@ -295,32 +271,8 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 917,
+      "concurrentViewers": 117,
       "startedAt": "2026-11-12T21:30:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "EocFRMaTT-c",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Democrats gather in Denver to discuss the party’s future",
-      "description": "Watch live as Democrats gather for the What’s Next conference in Denver, held over several days, to discuss their party’s future after successful midterm elections.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EocFRMaTT-c/default.jpg?v=6af65712"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EocFRMaTT-c/mqdefault.jpg?v=6af65712"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EocFRMaTT-c/hqdefault.jpg?v=6af65712"
-        }
-      },
-      "concurrentViewers": 601,
-      "startedAt": "2026-11-12T21:21:41Z",
       "regionRestriction": null
     },
     {
@@ -343,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1715,
+      "concurrentViewers": 4399,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -367,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 25,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -391,7 +343,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5175,
+      "concurrentViewers": 7200,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -419,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 316,
+      "concurrentViewers": 380,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -443,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 756,
+      "concurrentViewers": 1501,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -467,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3701,
+      "concurrentViewers": 6965,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -491,7 +443,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 121,
+      "concurrentViewers": 275,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -519,7 +471,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 117,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -543,7 +495,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 112,
+      "concurrentViewers": 183,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -558,120 +510,168 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39b6d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39bbf"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39b6d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39bbf"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39b6d"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39bbf"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 42,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "UUHIReVuMYw",
+      "videoId": "Z9IAiQk6mOk",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Putin Rains Hypersonic Missiles on Ukraine, Explosions Rock Kyiv | WION",
-      "description": "Russia-Ukraine War LIVE: Putin Rains Hypersonic Missiles on Ukraine, Explosions Rock Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
+      "title": "Hormuz Explosion LIVE: Four Tankers Rocked by Massive Blasts in Strait of Hormuz | WION",
+      "description": "Hormuz Explosion LIVE: Four Tankers Rocked by Massive Blasts in Strait of Hormuz | WION\n\nTensions are escalating in the Strait of Hormuz after Iran reported explosions involving four oil tankers in the strategically vital waterway. The reported blasts have raised fresh concerns over maritime securi…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/UUHIReVuMYw/default.jpg?v=6af51af4"
+          "url": "https://i.ytimg.com/vi/Z9IAiQk6mOk/default.jpg?v=6af66ba2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/UUHIReVuMYw/mqdefault.jpg?v=6af51af4"
+          "url": "https://i.ytimg.com/vi/Z9IAiQk6mOk/mqdefault.jpg?v=6af66ba2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/UUHIReVuMYw/hqdefault.jpg?v=6af51af4"
+          "url": "https://i.ytimg.com/vi/Z9IAiQk6mOk/hqdefault.jpg?v=6af66ba2"
         }
       },
-      "concurrentViewers": 17,
-      "startedAt": "2026-11-12T01:49:09Z",
+      "concurrentViewers": 44,
+      "startedAt": "2026-11-13T01:47:11Z",
       "regionRestriction": null
     },
     {
-      "videoId": "LfdCEZXK2nA",
+      "videoId": "c6k22Y2m0gs",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Unleash Drone Strike on Saudi Arabia’s Oil Lifeline | WION",
-      "description": "Saudi Arabia is on alert after Yemen's Houthi rebels claimed a drone attack on the strategically important Yanbu pumping station. The alleged strike has raised fresh concerns over the security of Saudi Arabia's critical oil infrastructure and its energy supply routes.\n\nYanbu is a key oil export hub…",
+      "title": "Russia-Ukraine War LIVE: Russia Rains Missiles & Drones on Kyiv After Peace Talks Collapse | WION",
+      "description": "Russia-Ukraine War LIVE: Russia Rains Missiles & Drones on Kyiv After Peace Talks Collapse | WION\n\nRussia has launched a fresh wave of ballistic missile and drone attacks on Ukraine's capital, Kyiv, hours after peace talks came to an end. Explosions rocked the city as Russian forces unleashed anoth…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LfdCEZXK2nA/default.jpg?v=6af5183b"
+          "url": "https://i.ytimg.com/vi/c6k22Y2m0gs/default.jpg?v=6af6659e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LfdCEZXK2nA/mqdefault.jpg?v=6af5183b"
+          "url": "https://i.ytimg.com/vi/c6k22Y2m0gs/mqdefault.jpg?v=6af6659e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LfdCEZXK2nA/hqdefault.jpg?v=6af5183b"
+          "url": "https://i.ytimg.com/vi/c6k22Y2m0gs/hqdefault.jpg?v=6af6659e"
         }
       },
-      "concurrentViewers": 3,
-      "startedAt": "2026-11-12T01:37:28Z",
+      "concurrentViewers": 38,
+      "startedAt": "2026-11-13T01:20:10Z",
       "regionRestriction": null
     },
     {
-      "videoId": "9N8IMDBQAe0",
+      "videoId": "_2o6M5PHf7I",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Houthis Unleash Missile & Drone Fury on Oil Sites | WION",
+      "description": "Saudi Arabia is facing fresh threats as Yemen's Houthi rebels claim attacks targeting oil facilities and military sites. The Houthis have claimed a new wave of missile and drone operations, putting Saudi Arabia's critical energy infrastructure and security on alert.\n\nWith tensions escalating across…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/default.jpg?v=6af667b9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/mqdefault.jpg?v=6af667b9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/hqdefault.jpg?v=6af667b9"
+        }
+      },
+      "concurrentViewers": 33,
+      "startedAt": "2026-11-13T01:32:53Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qQaWpqaclwA",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Kulgam Attack Today | Kulgam Encounter | Kulgam Attack Raise Fresh Security Concerns In J&K | LIVE",
-      "description": "Jammu and Kashmir faces fresh security concerns after a series of violent incidents in two days. Three CRPF personnel were injured when terrorists opened fire on a CRPF camp in Kulgam on November 11. In a separate incident, the bodies of two missing Special Police Officers were recovered in Kishtwa…",
+      "title": "Microsoft Crash | Microsoft Crash News | MICROSOFT Issue News | Microsoft News | Microsoft Outage",
+      "description": "A major Microsoft outage has disrupted workplaces across the world, affecting Outlook, Teams, Copilot, Word, Excel and other Microsoft 365 services. Down Detector recorded widespread reports of problems across 74 countries, with Outlook complaints peaking at nearly 140,000, according to the figures…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9N8IMDBQAe0/default.jpg?v=6af5fb58"
+          "url": "https://i.ytimg.com/vi/qQaWpqaclwA/default.jpg?v=6af6b289"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9N8IMDBQAe0/mqdefault.jpg?v=6af5fb58"
+          "url": "https://i.ytimg.com/vi/qQaWpqaclwA/mqdefault.jpg?v=6af6b289"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9N8IMDBQAe0/hqdefault.jpg?v=6af5fb58"
+          "url": "https://i.ytimg.com/vi/qQaWpqaclwA/hqdefault.jpg?v=6af6b289"
         }
       },
-      "concurrentViewers": 25,
-      "startedAt": "2026-11-12T17:50:30Z",
+      "concurrentViewers": 281,
+      "startedAt": "2026-11-13T06:57:03Z",
       "regionRestriction": null
     },
     {
-      "videoId": "mvPORLbPJ0A",
+      "videoId": "9F6jjjgLwf0",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: NVIDIA Resign | NVIDIA CEO Resign | Jensen Huang Resignation | Jensen Huang Resign | LIVE",
-      "description": "Nvidia CEO Jensen Huang is facing fresh scrutiny after reports alleged that he had an extramarital affair with Kimberly Powell, the company's vice president of healthcare and a direct subordinate. The allegations emerge as Huang is already facing an investigation linked to a separate reported relat…",
+      "title": "PM Modi LIVE | PM Modi Flags Off B'luru Pink Line | Bengaluru Pink Line Metro | B'luru Metro",
+      "description": "PM Modi LIVE | PM Modi Flags Off B'luru Pink Line | Bengaluru Pink Line Metro | B'luru Metro \n\n#bengalurumetro #bengaluru #pmmodi \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within In…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/mvPORLbPJ0A/default.jpg?v=6af5f90f"
+          "url": "https://i.ytimg.com/vi/9F6jjjgLwf0/default.jpg?v=6af6990b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/mvPORLbPJ0A/mqdefault.jpg?v=6af5f90f"
+          "url": "https://i.ytimg.com/vi/9F6jjjgLwf0/mqdefault.jpg?v=6af6990b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/mvPORLbPJ0A/hqdefault.jpg?v=6af5f90f"
+          "url": "https://i.ytimg.com/vi/9F6jjjgLwf0/hqdefault.jpg?v=6af6990b"
         }
       },
-      "concurrentViewers": 4,
-      "startedAt": "2026-11-12T17:39:19Z",
+      "concurrentViewers": 28,
+      "startedAt": "2026-11-13T07:32:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qsRkWJ1nSjk",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "PM Modi LIVE | Golden Jubilee Celebrations Of Prashanti Kutiram | Bengaluru | PM Modi Speech",
+      "description": "PM Modi LIVE | Golden Jubilee Celebrations Of Prashanti Kutiram | Bengaluru | PM Modi Speech\n#pmmodi #pmmodispeech #bengaluru #bengalurumetro \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more fr…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qsRkWJ1nSjk/default.jpg?v=6af69dfc"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qsRkWJ1nSjk/mqdefault.jpg?v=6af69dfc"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qsRkWJ1nSjk/hqdefault.jpg?v=6af69dfc"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-11-13T05:22:05Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: PM Modi At Bharat Agriculture Conference | Nvidia CEO Jensen Huang Resigns",
-      "description": "India Today LIVE: PM Modi At Bharat Agriculture Conference | Nvidia CEO Jensen Huang Resigns\n\nNvidia CEO Jensen Huang has resigned from his positions as president, chief executive officer and board member of the company with immediate effect, the company's board of directors announced on Thursday.\n…",
+      "title": "India Today LIVE: Rahu's 'Phone Tapping' Charge On PM | Nvidia CEO Resigns | Delhi Air Pollution",
+      "description": "India Today LIVE: Rahu's 'Phone Tapping' Charge On PM | Nvidia CEO Resigns | Delhi Air Pollution\n\nNvidia CEO Jensen Huang has resigned from his positions as president, chief executive officer and board member of the company with immediate effect, the company's board of directors announced on Thursd…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -687,80 +687,128 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 101,
+      "concurrentViewers": 414,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "e8shegIBXaA",
+      "videoId": "KLAioOxLOvk",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai LIVE: Asaduddin Owaisi Exclusive Interview| AIMIM-Azad Samaj Alliance|UP 2027 Polls",
-      "description": "Rajdeep Sardesai LIVE: Asaduddin Owaisi Exclusive Interview| AIMIM-Azad Samaj Alliance|UP 2027 Polls\n#AIMIM #rajdeepsardesai #newstoday  #AzadSamajParty #AIMIMAlliance #AsaduddinOwaisi #ChandrashekharAzad #BhimArmy #UPElections2027 #UPPolitics #ThirdFront #UttarPradesh #PoliticalAlliance #DalitPoli…",
+      "title": "LIVE: PM Modi Visits Bengaluru To Launch New Metro Projects | Boosting K'taka's Connectivity | LIVE",
+      "description": "Prime Minister Narendra Modi visits Bengaluru to launch new metro projects, marking a major push for urban connectivity and public transport infrastructure in Karnataka.\n\n#PMModi #NarendraModi #BengaluruMetro #MetroLaunch #Bengaluru #Karnataka #MetroExpansion #UrbanTransport #IndiaNews #aajtak  #in…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/e8shegIBXaA/default.jpg?v=6af5f27a"
+          "url": "https://i.ytimg.com/vi/KLAioOxLOvk/default.jpg?v=6af69d9a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/e8shegIBXaA/mqdefault.jpg?v=6af5f27a"
+          "url": "https://i.ytimg.com/vi/KLAioOxLOvk/mqdefault.jpg?v=6af69d9a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/e8shegIBXaA/hqdefault.jpg?v=6af5f27a"
+          "url": "https://i.ytimg.com/vi/KLAioOxLOvk/hqdefault.jpg?v=6af69d9a"
         }
       },
-      "concurrentViewers": 13,
-      "startedAt": "2026-11-12T17:16:48Z",
+      "concurrentViewers": 244,
+      "startedAt": "2026-11-13T05:19:18Z",
       "regionRestriction": null
     },
     {
-      "videoId": "INTS_cWelKA",
+      "videoId": "BlxDKZUr79g",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai LIVE: Jensen Huang Resigns As CEO | What Next For NVIDIA & AI Race? | NewsToday",
-      "description": "Rajdeep Sardesai LIVE: Jensen Huang Resigns As CEO | What Next For NVIDIA & AI Race? | NewsToday \n#rajdeepsardesai #JensenHuang #NVIDIA #NVIDIAScandal #Spygate #JensenHuangResigns #NVIDIACEO #NVIDIABoard #LeadershipCrisis #KimberlyPowell #AliceHuang #ChinaSpyAllegations #TechScandal #AIIndustry #Ar…",
+      "title": "LIVE: Rahul Gandhi Accuses PM Modi Of Phone Tapping, Raises Fresh Questions Over Privacy LIVE UPDATE",
+      "description": "Congress leader Rahul Gandhi levels allegations against Prime Minister Narendra Modi over phone tapping, bringing the issue of privacy and alleged surveillance into the political spotlight.\n\n\n#RahulGandhi #PMModi #NarendraModi #PhoneTapping #Surveillance #Privacy #Congress #BJP #IndianPolitics #Pol…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/INTS_cWelKA/default.jpg?v=6af5ece4"
+          "url": "https://i.ytimg.com/vi/BlxDKZUr79g/default.jpg?v=6af6bd75"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/INTS_cWelKA/mqdefault.jpg?v=6af5ece4"
+          "url": "https://i.ytimg.com/vi/BlxDKZUr79g/mqdefault.jpg?v=6af6bd75"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/INTS_cWelKA/hqdefault.jpg?v=6af5ece4"
+          "url": "https://i.ytimg.com/vi/BlxDKZUr79g/hqdefault.jpg?v=6af6bd75"
         }
       },
-      "concurrentViewers": 4,
-      "startedAt": "2026-11-12T16:56:46Z",
+      "concurrentViewers": 79,
+      "startedAt": "2026-11-13T07:19:46Z",
       "regionRestriction": null
     },
     {
-      "videoId": "zI53woPsJjU",
+      "videoId": "9O2gwqE9Vok",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Jammu Kashmir Terrorist Attack News LIVE : जम्मू- कश्मीर आतंकी हमले पर बड़ा खुलासा | Kulgam | CRPF",
-      "description": "जम्मू-कश्मीर के कुलगाम में CRPF नाके पर हुए आतंकी हमले के बाद सुरक्षा एजेंसियां अलर्ट हैं. हमलावर पैदल ही करीब 50 मीटर दूर दलदली इलाके से नाके तक पहुंचे थे. उन्होंने AK-47 राइफल से CRPF जवानों पर अंधाधुंध फायरिंग की और फिर पेड़-पौधों और झाड़ियों की आड़ लेकर पैदल ही फरार हो गए. शुरुआती जांच में हमले…",
+      "title": "Kulgam Terrorist Attack LIVE Updates: कुलगाम में CRPF के कैंप पर आतंकी हमला, किसन रची साजिश?",
+      "description": "कुलगाम में CRPF पोस्ट पर हमले के पीछे लश्कर कमांडर मोहम्मद लतीफ बट का हाथ होने का शक है. अनंतनाग में पुलिसकर्मी और कुलगाम में छत्तीसगढ़ के दो मजदूरों की हत्या का भी आरोपी है. अब उस पर 15 लाख का इनाम घोषित है\n\n#jammukashmir #terroristattack #kulgam #aajtakdigital \n\n\nआजतक के साथ देखिये देश-विदेश की स…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zI53woPsJjU/default.jpg?v=6af58fe6"
+          "url": "https://i.ytimg.com/vi/9O2gwqE9Vok/default.jpg?v=6af6b6a1"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zI53woPsJjU/mqdefault.jpg?v=6af58fe6"
+          "url": "https://i.ytimg.com/vi/9O2gwqE9Vok/mqdefault.jpg?v=6af6b6a1"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zI53woPsJjU/hqdefault.jpg?v=6af58fe6"
+          "url": "https://i.ytimg.com/vi/9O2gwqE9Vok/hqdefault.jpg?v=6af6b6a1"
         }
       },
-      "concurrentViewers": 72,
-      "startedAt": "2026-11-12T10:08:40Z",
+      "concurrentViewers": 582,
+      "startedAt": "2026-11-13T07:07:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7YbxZ073fsA",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Rahul Gandhi Phone Tapping Allegations: राहुल गांधी ने लगाया PM Modi पर फोन टैप करने का आरोप",
+      "description": "कांग्रेस सांसद और लोकसभा में विपक्ष के नेता राहुल गांधी ने दावा किया कि उनका फोन टैप कराया जा रहा है. उन्होंने कहा, \"मेरे सभी आरोपों के सबूत मेरे फोन में हैं, जिसे प्रधानमंत्री टैप करा रहे हैं. वन-ऑन-वन बहस से यह साबित हो जाएगा कि विदेशी ताकतों के इशारे पर कौन काम कर रहा है, देश विरोधी कौन है और कब…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7YbxZ073fsA/default.jpg?v=6af6b942"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7YbxZ073fsA/mqdefault.jpg?v=6af6b942"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7YbxZ073fsA/hqdefault.jpg?v=6af6b942"
+        }
+      },
+      "concurrentViewers": 558,
+      "startedAt": "2026-11-13T07:20:14Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4ibCejfmH4Q",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Action On Azam Khan LIVE: यूपी चुनाव से पहले आजम खान पर एक्शन, Akhilesh-Shivpal ने उठाए सवाल",
+      "description": "उत्तर प्रदेश विधानसभा चुनाव 2027 से पहले सपा द्वारा आजम खान और उनके परिवार के प्रति बढ़ाई गई सक्रियता और ईडी रिमांड पर उनकी सुरक्षा पर उठाए जा रहे सवाल सियासी गलियारों में चर्चा का केंद्र बन गए हैं. सवाल उठता है कि अखिलेश यादव और शिवपाल यादव को आजम खान क्यों याद आने लगे.\n\n\n\n#upelection2027 #azamkha…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4ibCejfmH4Q/default.jpg?v=6af6bc05"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4ibCejfmH4Q/mqdefault.jpg?v=6af6bc05"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4ibCejfmH4Q/hqdefault.jpg?v=6af6bc05"
+        }
+      },
+      "concurrentViewers": 300,
+      "startedAt": "2026-11-13T07:29:32Z",
       "regionRestriction": null
     },
     {
@@ -783,7 +831,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1779,
+      "concurrentViewers": 981,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -807,7 +855,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 138,
+      "concurrentViewers": 149,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -831,7 +879,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2876,
+      "concurrentViewers": 1665,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
