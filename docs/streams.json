@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T08:53:23.131Z",
+  "generatedAt": "2026-11-14T15:37:33.516Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 LIVE | US Airspace reopened after 'extraordinary circumstances' grounded thousands of flights - https://trib.al/dV8kGYZ\n \n🔴 LIVE | SpaceX Starship launch as it happened:…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 LIVE |  Britons warned of disruption after all US flights were grounded\n - https://trib.al/dV8kGYZ\n \n🔴 Trump, Xi and Putin to hold unprecedented meeting, White House say…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,56 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 6984,
+      "concurrentViewers": 4566,
       "startedAt": "2026-10-19T17:27:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "YsBXc1jqg2E",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "US transport secretary gives update after major flight disruption",
+      "description": "US Transport Secretary Sean Duffy delivers a news conference as flights across the US take off again following a nationwide ground stop brought air travel to a standstill yesterday. He will be joined by Federal Aviation Administrator Bryan Bedford.\n\nLive updates | https://trib.al/ISkKswR\n\n#US #Tran…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YsBXc1jqg2E/default.jpg?v=6af8703e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YsBXc1jqg2E/mqdefault.jpg?v=6af8703e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YsBXc1jqg2E/hqdefault.jpg?v=6af8703e"
+        }
+      },
+      "concurrentViewers": 213,
+      "startedAt": "2026-11-14T15:25:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "huDipD3GbG4",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "SpaceX launches its 15th Starship flight as booster explodes in sea after lift-off",
+      "description": "Watch SpaceX's boldest Starship test flight yet, as Elon Musk's company navigates a dramatic turn of events during its 15th orbital mission from Starbase, Texas.\n \nOriginally described as an unprecedented \"double-catch\" test—aiming to achieve the first full recovery of an orbital rocket in history—…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/huDipD3GbG4/default.jpg?v=6af85c91"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/huDipD3GbG4/mqdefault.jpg?v=6af85c91"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/huDipD3GbG4/hqdefault.jpg?v=6af85c91"
+        }
+      },
+      "concurrentViewers": 59,
+      "startedAt": "2026-11-14T10:19:23Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 657,
+      "concurrentViewers": 543,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3614,
+      "concurrentViewers": 2120,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "WgOlpsw8Iis",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Weekend | Sunday 14th November",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WgOlpsw8Iis/default.jpg?v=6af84f6f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WgOlpsw8Iis/mqdefault.jpg?v=6af84f6f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WgOlpsw8Iis/hqdefault.jpg?v=6af84f6f"
+        }
+      },
+      "concurrentViewers": 507,
+      "startedAt": "2026-11-14T12:09:46Z",
       "regionRestriction": null
     },
     {
@@ -98,32 +170,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 462,
+      "concurrentViewers": 133,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "03WZomylSF8",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Flight activity over US after FAA issues ground stop",
-      "description": "A Flightradar24 map shows air activity over the US after the Federal Aviation Administration grounded all departing flights nationwide. A communications failure hit air traffic control centers across the country, disrupting thousands of flights. The ground stop means planes in the air may land, but…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/03WZomylSF8/default.jpg?v=6af79210"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/03WZomylSF8/mqdefault.jpg?v=6af79210"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/03WZomylSF8/hqdefault.jpg?v=6af79210"
-        }
-      },
-      "concurrentViewers": 9,
-      "startedAt": "2026-11-13T22:10:37Z",
       "regionRestriction": null
     },
     {
@@ -146,8 +194,32 @@
           "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 764,
+      "concurrentViewers": 1447,
       "startedAt": "2026-11-14T00:34:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "je3p8hTLWvc",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Saturday, November 14",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/je3p8hTLWvc/default.jpg?v=6adfcabe"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/je3p8hTLWvc/mqdefault.jpg?v=6adfcabe"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/je3p8hTLWvc/hqdefault.jpg?v=6adfcabe"
+        }
+      },
+      "concurrentViewers": 1689,
+      "startedAt": "2026-11-14T12:57:46Z",
       "regionRestriction": null
     },
     {
@@ -170,32 +242,32 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 791,
+      "concurrentViewers": 1057,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "z8wdRIvy2Fw",
+      "videoId": "Y4M0i8HT7mc",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: FAA lifts ground stop for all U.S. flights, Latest on the tanker collision in New Orleans",
-      "description": "BREAKING: Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy briefed reporters after the FAA lifted its nationwide ground stop at 8:25 p.m. ET. The restriction lasted more than four hours, and flight departures were cleared to resume. Officials said there was no in…",
+      "title": "LIVE: US ground stop flight delays & cancellations, Northeast Nor' easter, NOLA tanker collision",
+      "description": "LATEST FROM TRANSPORTATION SEC. DUFFY:\n\nOperations are slowly returning to normal this morning. Planes are pushing back, taxiing, and taking off, and it is safe to fly. We are in close coordination with the airlines to support the ongoing recovery. You will continue to see some delays and cancellat…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/z8wdRIvy2Fw/default.jpg?v=6af790d4"
+          "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/default.jpg?v=6af865f2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/z8wdRIvy2Fw/mqdefault.jpg?v=6af790d4"
+          "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/mqdefault.jpg?v=6af865f2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/z8wdRIvy2Fw/hqdefault.jpg?v=6af790d4"
+          "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/hqdefault.jpg?v=6af865f2"
         }
       },
-      "concurrentViewers": 613,
-      "startedAt": "2026-11-13T13:11:52Z",
+      "concurrentViewers": 1767,
+      "startedAt": "2026-11-14T13:58:43Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 208,
+      "concurrentViewers": 1087,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -242,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1319,
+      "concurrentViewers": 1536,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 32,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7906,
+      "concurrentViewers": 9150,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 359,
+      "concurrentViewers": 480,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 216,
+      "concurrentViewers": 122,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 2039,
+      "concurrentViewers": 483,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 230,
+      "concurrentViewers": 167,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 133,
+      "concurrentViewers": 103,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 140,
+      "concurrentViewers": 136,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -457,16 +529,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39cf2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39d43"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39cf2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39d43"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39cf2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39d43"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 24,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/hqdefault.jpg?v=6af667b9"
         }
       },
-      "concurrentViewers": 9,
+      "concurrentViewers": 4,
       "startedAt": "2026-11-13T01:32:53Z",
       "regionRestriction": null
     },
@@ -514,63 +586,15 @@
           "url": "https://i.ytimg.com/vi/hHYWM4es4dY/hqdefault.jpg?v=6af803e5"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 38,
       "startedAt": "2026-11-14T05:34:38Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "oibR7ZHxkIU",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Noel Tata Interview LIVE | Noel Tata Exclusive | Noel Tata At HT Leadership Summit 2026",
-      "description": "Noel Tata Interview LIVE | Noel Tata Exclusive | HT Summit 2026 | Noel Tata Interview\n\n#NoelTata \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch b…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/oibR7ZHxkIU/default.jpg?v=6af81e33"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/oibR7ZHxkIU/mqdefault.jpg?v=6af81e33"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/oibR7ZHxkIU/hqdefault.jpg?v=6af81e33"
-        }
-      },
-      "concurrentViewers": 28,
-      "startedAt": "2026-11-14T08:24:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "u3R-ROX6tjg",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Assam Bus Collision | 23 Feared Dead, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
-      "description": "Guwahati:\nAt least 23 people are feared to have been killed and several others injured after a truck collided with a minibus in Assam's Kaziranga on Thursday. The death count is likely to rise, with several injured passengers reported to be in critical condition.\n\nThe accident took place at Rongaja…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/u3R-ROX6tjg/default.jpg?v=6af6fa24"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/u3R-ROX6tjg/mqdefault.jpg?v=6af6fa24"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/u3R-ROX6tjg/hqdefault.jpg?v=6af6fa24"
-        }
-      },
-      "concurrentViewers": 16,
-      "startedAt": "2026-11-13T15:30:10Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: US Aviation Chaos | Rahul's Phone Tapping Claim | Delhi AQI News | SIR Row |Nvidia",
-      "description": "India Today LIVE: US Aviation Chaos | Rahul's Phone Tapping Claim | Delhi AQI News | SIR Row |Nvidia\n\n\nUS airports latest: All flights grounded by Federal Aviation Administration because of\n'extraordinary circumstances'\n\nA head-on collision between a truck and a mini-bus in Assam's Kaziranga has le…",
+      "title": "India Today LIVE: India defeats Pakistan | U19 | Rahul In Hyderabad | Delhi's AQI | SIR Row | Nvidia",
+      "description": "India Today LIVE: India defeats Pakistan | U19 | Rahul In Hyderabad | Delhi's AQI | SIR Row | Nvidia\n\nUS airports latest: All flights grounded by Federal Aviation Administration because of\n'extraordinary circumstances'\n\nIndia beat Pakistan by 1 wicket in thriller in the final to win their ninth tit…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -586,8 +610,80 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 405,
+      "concurrentViewers": 902,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "CgWcyzBnwi4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India vs Pakistan U19 Asia Cup Final Live: Ulva's Heroics Seal Dramatic Last-Ball Thriller | Cricket",
+      "description": "U19 Asia Cup Final: India beat Pakistan by 1 wicket in thriller in the final to win their ninth title. They chased down 338 off the last ball to have the last laugh.\n\n#IndiaVsPakistan #U19AsiaCup #U19AsiaCupFinal #indiatodaylivestream  #IndiaU19 #PakistanU19 #TeamIndia #Cricket #LastBallThriller #C…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/default.jpg?v=6af86ec9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/mqdefault.jpg?v=6af86ec9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/hqdefault.jpg?v=6af86ec9"
+        }
+      },
+      "concurrentViewers": 86,
+      "startedAt": "2026-11-14T14:24:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "2212243fzjc",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rahul Gandhi Live: Rahul Slams Govt | Bharat Summit | SIR Row  | Amit Shah | PM Modi | Democracy",
+      "description": "Congress MP Rahul Gandhi on Saturday said India was no longer a democracy, asserting that the country's democratic system was destroyed in 2014 and that the Opposition remained in shock for nearly a decade as the political and electoral landscape underwent a dramatic shift.\n\n#RahulGandhi #IndianDem…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2212243fzjc/default.jpg?v=6af87b0a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2212243fzjc/mqdefault.jpg?v=6af87b0a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2212243fzjc/hqdefault.jpg?v=6af87b0a"
+        }
+      },
+      "concurrentViewers": 82,
+      "startedAt": "2026-11-14T15:16:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fEs-CCV-Ctg",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak",
+      "description": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak\nअंडर-19 एशिया कप फाइनल में भारतीय टीम ने पाकिस्तान के खिलाफ कमाल की वापसी करते हुए खिताब जीत लिया. एक समय टीम इंडिया मुश्किल में थी और लगातार विकेट गंवा रही थी. ऐसे में मनल चौहान और मोहित उल्वा ने मोर्…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/default.jpg?v=6af85ed4"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/mqdefault.jpg?v=6af85ed4"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/hqdefault.jpg?v=6af85ed4"
+        }
+      },
+      "concurrentViewers": 2052,
+      "startedAt": "2026-11-14T13:15:50Z",
       "regionRestriction": null
     },
     {
@@ -610,32 +706,32 @@
           "url": "https://i.ytimg.com/vi/czdSnhpCPJ0/hqdefault.jpg?v=6af7b556"
         }
       },
-      "concurrentViewers": 750,
+      "concurrentViewers": 1415,
       "startedAt": "2026-11-14T01:26:44Z",
       "regionRestriction": null
     },
     {
-      "videoId": "tWm52tgl9fM",
+      "videoId": "BjeNo9g_Tu0",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "US Flight Shutdown Live Updates: अमेरिका में सभी उड़ानों पर अचानक ब्रेक, हजारों यात्री फंसे",
-      "description": "अमेरिका में FAA ने सुरक्षा कारणों से देश भर में सभी उड़ानों को तत्काल प्रभाव से रोक दिया है. इसे हवाई यातायात पूरी तरह ठप हो गया है. FAA ने बताया कि 22 ATC केंद्रों में तकनीकी खराबी के चलते ये फैसले लिया गया है. इससे पहले जनवरी 2023 में भी ऐसा किया गया था.\n\n#usflightshutdown #america #faa #aajtakdi…",
+      "title": "IND vs PAK U19 Asia Cup Final: आखिरी बॉल पर भारत ने पाकिस्तान को चटाई धूल | India Vs Pakistan",
+      "description": "एसीसी मेन्स अंडर-19 एशिया कप 2026 के फाइनल में शन‍िवार (14 नवंबर) को भारत ने पाकिस्तान के जबड़े से जीत छीन ली. भारतीय टीम ने 1 व‍िकेट से यह मैच जीता और टीम चैम्प‍ियन बनी. भारतीय टीम के जीत के सबसे बड़े हीरो मोह‍ित उल्वा (26 गेंदों पर 49 रन) और मोह‍ित चौहान (32 गेंदों पर 47 रन) रहे. ज‍िन्होंने अंत‍ि…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/tWm52tgl9fM/default.jpg?v=6af7b252"
+          "url": "https://i.ytimg.com/vi/BjeNo9g_Tu0/default.jpg?v=6af8624c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/tWm52tgl9fM/mqdefault.jpg?v=6af7b252"
+          "url": "https://i.ytimg.com/vi/BjeNo9g_Tu0/mqdefault.jpg?v=6af8624c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/tWm52tgl9fM/hqdefault.jpg?v=6af7b252"
+          "url": "https://i.ytimg.com/vi/BjeNo9g_Tu0/hqdefault.jpg?v=6af8624c"
         }
       },
-      "concurrentViewers": 548,
-      "startedAt": "2026-11-14T01:02:42Z",
+      "concurrentViewers": 1329,
+      "startedAt": "2026-11-14T13:31:16Z",
       "regionRestriction": null
     },
     {
@@ -658,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 487,
+      "concurrentViewers": 367,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 136,
+      "concurrentViewers": 151,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -706,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1225,
+      "concurrentViewers": 531,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
