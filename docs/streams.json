@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T01:59:38.143Z",
+  "generatedAt": "2026-11-14T08:53:23.131Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 David Walliams to be investigated over alleged 'serious' sexual offences - https://trib.al/nTMSa9U\n \n🔴 LIVE | Microsoft outage: NHS, police and schools affected - https:…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 LIVE | US Airspace reopened after 'extraordinary circumstances' grounded thousands of flights - https://trib.al/dV8kGYZ\n \n🔴 LIVE | SpaceX Starship launch as it happened:…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3641,
+      "concurrentViewers": 6984,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 526,
+      "concurrentViewers": 657,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1970,
+      "concurrentViewers": 3614,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,38 +98,38 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 31,
+      "concurrentViewers": 462,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "8NvHdj-F_j8",
+      "videoId": "03WZomylSF8",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Pope Leo vists Peruvian city where he served as bishop",
-      "description": "Pope Leo returns to Chiclayo, the Peruvian diocese where he worked as a bishop.\n\nCrowds in Chiclayo gathered ahead of the Pope's arrival for the centerpiece event of his 12-day South America tour, an outdoor Mass with the people who called him their bishop for eight years.\n\n#popeleo #peru #chiclayo…",
+      "title": "LIVE: Flight activity over US after FAA issues ground stop",
+      "description": "A Flightradar24 map shows air activity over the US after the Federal Aviation Administration grounded all departing flights nationwide. A communications failure hit air traffic control centers across the country, disrupting thousands of flights. The ground stop means planes in the air may land, but…",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8NvHdj-F_j8/default.jpg?v=6af6fc9a"
+          "url": "https://i.ytimg.com/vi/03WZomylSF8/default.jpg?v=6af79210"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8NvHdj-F_j8/mqdefault.jpg?v=6af6fc9a"
+          "url": "https://i.ytimg.com/vi/03WZomylSF8/mqdefault.jpg?v=6af79210"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8NvHdj-F_j8/hqdefault.jpg?v=6af6fc9a"
+          "url": "https://i.ytimg.com/vi/03WZomylSF8/hqdefault.jpg?v=6af79210"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-11-13T11:59:33Z",
+      "concurrentViewers": 9,
+      "startedAt": "2026-11-13T22:10:37Z",
       "regionRestriction": null
     },
     {
       "videoId": "Hz1cNNgtLtM",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "BREAKING: FAA lifts nationwide ground stop at all airports | NBC News NOW",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -137,41 +137,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/default.jpg?v=6af7b868"
+          "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/default.jpg?v=6af7c9c5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/mqdefault.jpg?v=6af7b868"
+          "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/mqdefault.jpg?v=6af7c9c5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7b868"
+          "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 28520,
+      "concurrentViewers": 764,
       "startedAt": "2026-11-14T00:34:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Btn-Eg3JXL4",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: FAA lifts nationwide ground stop l ABC News Live",
-      "description": "The Federal Aviation Administration ordered a nationwide ground stop Friday for all airports due a communication issue affecting air traffic control. https://abcnews.link/6C7YfYt\n\nIn Louisiana, emergency crews are responding to a collision involving a docked riverboat carrying more than 100 people …",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Btn-Eg3JXL4/default.jpg?v=6af7bb35"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Btn-Eg3JXL4/mqdefault.jpg?v=6af7bb35"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Btn-Eg3JXL4/hqdefault.jpg?v=6af7bb35"
-        }
-      },
-      "concurrentViewers": 20320,
-      "startedAt": "2026-11-13T21:04:04Z",
       "regionRestriction": null
     },
     {
@@ -194,63 +170,15 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1535,
+      "concurrentViewers": 791,
       "startedAt": "2026-10-24T03:13:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "sq9r3gFKphU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, November 13",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sq9r3gFKphU/default.jpg?v=6adfca81"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sq9r3gFKphU/mqdefault.jpg?v=6adfca81"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sq9r3gFKphU/hqdefault.jpg?v=6adfca81"
-        }
-      },
-      "concurrentViewers": 1201,
-      "startedAt": "2026-11-13T11:22:29Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "b0ZhJhN_Sn8",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/b0ZhJhN_Sn8/default.jpg?v=6af6fbc6"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/b0ZhJhN_Sn8/mqdefault.jpg?v=6af6fbc6"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/b0ZhJhN_Sn8/hqdefault.jpg?v=6af6fbc6"
-        }
-      },
-      "concurrentViewers": 3210,
-      "startedAt": "2026-11-13T12:00:58Z",
       "regionRestriction": null
     },
     {
       "videoId": "z8wdRIvy2Fw",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE:  FAA lifts ground stop for all U.S. flights, latest on the tanker collision in New Orleans",
-      "description": "BREAKING: In an extraordinary move made only one other time since 9/11, the FAA orders ALL flights nationwide grounded, bringing departures across the U.S. to a halt. The Federal Aviation Administration is directing all departing aircraft to remain on the ground until further notice, citing safety …",
+      "title": "LIVE: FAA lifts ground stop for all U.S. flights, Latest on the tanker collision in New Orleans",
+      "description": "BREAKING: Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy briefed reporters after the FAA lifted its nationwide ground stop at 8:25 p.m. ET. The restriction lasted more than four hours, and flight departures were cleared to resume. Officials said there was no in…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -266,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/z8wdRIvy2Fw/hqdefault.jpg?v=6af790d4"
         }
       },
-      "concurrentViewers": 5580,
+      "concurrentViewers": 613,
       "startedAt": "2026-11-13T13:11:52Z",
       "regionRestriction": null
     },
@@ -290,32 +218,8 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1157,
+      "concurrentViewers": 208,
       "startedAt": "2026-11-12T21:30:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "yJl5iujO76g",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: SpaceX attempt for a Starship double catch is thwarted (test flight 15)",
-      "description": "SpaceX launched Starship toward orbit Friday in its boldest test yet: a 22-hour flight that aimed to capture the entire rocket.\n\nBut Elon Musk’s company had to lower its expectations when the first part of the double catch flopped.\n\nThe first-stage booster malfunctioned and instead of returning to …",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yJl5iujO76g/default.jpg?v=6af79abc"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yJl5iujO76g/mqdefault.jpg?v=6af79abc"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yJl5iujO76g/hqdefault.jpg?v=6af79abc"
-        }
-      },
-      "concurrentViewers": 2494,
-      "startedAt": "2026-11-13T21:39:57Z",
       "regionRestriction": null
     },
     {
@@ -338,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1174,
+      "concurrentViewers": 1319,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -362,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 23,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -386,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9863,
+      "concurrentViewers": 7906,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -414,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 292,
+      "concurrentViewers": 359,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -438,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 727,
+      "concurrentViewers": 216,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -462,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3709,
+      "concurrentViewers": 2039,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -486,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 116,
+      "concurrentViewers": 230,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -514,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 133,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -538,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 117,
+      "concurrentViewers": 140,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -553,41 +457,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39c9f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39cf2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39c9f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39cf2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39c9f"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39cf2"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 35,
       "startedAt": "2020-11-18T09:26:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "c6k22Y2m0gs",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Russia Rains Missiles & Drones on Kyiv After Peace Talks Collapse | WION",
-      "description": "Russia-Ukraine War LIVE: Russia Rains Missiles & Drones on Kyiv After Peace Talks Collapse | WION\n\nRussia has launched a fresh wave of ballistic missile and drone attacks on Ukraine's capital, Kyiv, hours after peace talks came to an end. Explosions rocked the city as Russian forces unleashed anoth…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/c6k22Y2m0gs/default.jpg?v=6af6659e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/c6k22Y2m0gs/mqdefault.jpg?v=6af6659e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/c6k22Y2m0gs/hqdefault.jpg?v=6af6659e"
-        }
-      },
-      "concurrentViewers": 22,
-      "startedAt": "2026-11-13T01:20:10Z",
       "regionRestriction": null
     },
     {
@@ -610,8 +490,56 @@
           "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/hqdefault.jpg?v=6af667b9"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 9,
       "startedAt": "2026-11-13T01:32:53Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hHYWM4es4dY",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "PM Modi News | \"PM Doesn't Tap Phones\": Sam Pitroda Amid Rahul Gandhi's Big Charge",
+      "description": "After his warm public exchange with Prime Minister Narendra Modi generated buzz across political circles, Congress leader Sam Pitroda says there is no contradiction between personal respect and political opposition. Drawing a clear line between friendship and ideology, the Congress veteran explains…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hHYWM4es4dY/default.jpg?v=6af803e5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hHYWM4es4dY/mqdefault.jpg?v=6af803e5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hHYWM4es4dY/hqdefault.jpg?v=6af803e5"
+        }
+      },
+      "concurrentViewers": 55,
+      "startedAt": "2026-11-14T05:34:38Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "oibR7ZHxkIU",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Noel Tata Interview LIVE | Noel Tata Exclusive | Noel Tata At HT Leadership Summit 2026",
+      "description": "Noel Tata Interview LIVE | Noel Tata Exclusive | HT Summit 2026 | Noel Tata Interview\n\n#NoelTata \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch b…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oibR7ZHxkIU/default.jpg?v=6af81e33"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oibR7ZHxkIU/mqdefault.jpg?v=6af81e33"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oibR7ZHxkIU/hqdefault.jpg?v=6af81e33"
+        }
+      },
+      "concurrentViewers": 28,
+      "startedAt": "2026-11-14T08:24:31Z",
       "regionRestriction": null
     },
     {
@@ -634,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/u3R-ROX6tjg/hqdefault.jpg?v=6af6fa24"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 16,
       "startedAt": "2026-11-13T15:30:10Z",
       "regionRestriction": null
     },
@@ -658,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 321,
+      "concurrentViewers": 405,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -682,32 +610,8 @@
           "url": "https://i.ytimg.com/vi/czdSnhpCPJ0/hqdefault.jpg?v=6af7b556"
         }
       },
-      "concurrentViewers": 370,
+      "concurrentViewers": 750,
       "startedAt": "2026-11-14T01:26:44Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "CMeCZuQHlGU",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "US Flight Shutdown Live Updates: अमेरिका में ठप पड़ी फ्लाइट सर्विस, सभी उड़ानों पर रोक | Aaj Tak",
-      "description": "फेडरल एविएशन एडमिनिस्ट्रेशन यानी FAA ने देशभर में अचानक नेशनल ग्राउंड स्टॉप जारी कर दिया है। इसके चलते उड़ानों के संचालन पर रोक लगाई गई है। FAA ने यह फैसला सुरक्षा कारणों के चलते लिया है। इस आदेश का असर बोस्टन के लोगन एयरपोर्ट समेत कई एयरपोर्ट पर देखने को मिल रहा है। एयरपोर्ट पर बड़ी संख्या में यात…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/CMeCZuQHlGU/default.jpg?v=6af7bc1d"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/CMeCZuQHlGU/mqdefault.jpg?v=6af7bc1d"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/CMeCZuQHlGU/hqdefault.jpg?v=6af7bc1d"
-        }
-      },
-      "concurrentViewers": 246,
-      "startedAt": "2026-11-14T01:54:33Z",
       "regionRestriction": null
     },
     {
@@ -730,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/tWm52tgl9fM/hqdefault.jpg?v=6af7b252"
         }
       },
-      "concurrentViewers": 220,
+      "concurrentViewers": 548,
       "startedAt": "2026-11-14T01:02:42Z",
       "regionRestriction": null
     },
@@ -754,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 904,
+      "concurrentViewers": 487,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 136,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -802,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1970,
+      "concurrentViewers": 1225,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
