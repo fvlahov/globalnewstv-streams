@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T15:37:33.516Z",
+  "generatedAt": "2026-11-14T20:28:46.112Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 LIVE |  Britons warned of disruption after all US flights were grounded\n - https://trib.al/dV8kGYZ\n \n🔴 Trump, Xi and Putin to hold unprecedented meeting, White House say…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 US airports latest: Fault that forced order to ground all flights revealed by official - https://trib.al/dV8kGYZ\n \n🔴 Trump, Xi and Putin to hold unprecedented meeting, W…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4566,
+      "concurrentViewers": 3411,
       "startedAt": "2026-10-19T17:27:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "YsBXc1jqg2E",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "US transport secretary gives update after major flight disruption",
-      "description": "US Transport Secretary Sean Duffy delivers a news conference as flights across the US take off again following a nationwide ground stop brought air travel to a standstill yesterday. He will be joined by Federal Aviation Administrator Bryan Bedford.\n\nLive updates | https://trib.al/ISkKswR\n\n#US #Tran…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YsBXc1jqg2E/default.jpg?v=6af8703e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YsBXc1jqg2E/mqdefault.jpg?v=6af8703e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YsBXc1jqg2E/hqdefault.jpg?v=6af8703e"
-        }
-      },
-      "concurrentViewers": 213,
-      "startedAt": "2026-11-14T15:25:09Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/huDipD3GbG4/hqdefault.jpg?v=6af85c91"
         }
       },
-      "concurrentViewers": 59,
+      "concurrentViewers": 99,
       "startedAt": "2026-11-14T10:19:23Z",
       "regionRestriction": null
     },
@@ -94,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 543,
+      "concurrentViewers": 491,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -122,32 +98,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2120,
+      "concurrentViewers": 1963,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "WgOlpsw8Iis",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Weekend | Sunday 14th November",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WgOlpsw8Iis/default.jpg?v=6af84f6f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WgOlpsw8Iis/mqdefault.jpg?v=6af84f6f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WgOlpsw8Iis/hqdefault.jpg?v=6af84f6f"
-        }
-      },
-      "concurrentViewers": 507,
-      "startedAt": "2026-11-14T12:09:46Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 133,
+      "concurrentViewers": 50,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 1447,
+      "concurrentViewers": 967,
       "startedAt": "2026-11-14T00:34:06Z",
       "regionRestriction": null
     },
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/je3p8hTLWvc/hqdefault.jpg?v=6adfcabe"
         }
       },
-      "concurrentViewers": 1689,
+      "concurrentViewers": 835,
       "startedAt": "2026-11-14T12:57:46Z",
       "regionRestriction": null
     },
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1057,
+      "concurrentViewers": 664,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -266,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/hqdefault.jpg?v=6af865f2"
         }
       },
-      "concurrentViewers": 1767,
+      "concurrentViewers": 1156,
       "startedAt": "2026-11-14T13:58:43Z",
       "regionRestriction": null
     },
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1087,
+      "concurrentViewers": 665,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -314,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1536,
+      "concurrentViewers": 1058,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 29,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9150,
+      "concurrentViewers": 5492,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 480,
+      "concurrentViewers": 377,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 122,
+      "concurrentViewers": 841,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 483,
+      "concurrentViewers": 4758,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 167,
+      "concurrentViewers": 125,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 103,
+      "concurrentViewers": 79,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 136,
+      "concurrentViewers": 131,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -529,16 +481,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39d43"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39d7e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39d43"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39d7e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39d43"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39d7e"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -562,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/hqdefault.jpg?v=6af667b9"
         }
       },
-      "concurrentViewers": 4,
+      "concurrentViewers": 7,
       "startedAt": "2026-11-13T01:32:53Z",
       "regionRestriction": null
     },
@@ -586,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/hHYWM4es4dY/hqdefault.jpg?v=6af803e5"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 6,
       "startedAt": "2026-11-14T05:34:38Z",
       "regionRestriction": null
     },
@@ -610,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 902,
+      "concurrentViewers": 100,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -634,56 +586,8 @@
           "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/hqdefault.jpg?v=6af86ec9"
         }
       },
-      "concurrentViewers": 86,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-14T14:24:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "2212243fzjc",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rahul Gandhi Live: Rahul Slams Govt | Bharat Summit | SIR Row  | Amit Shah | PM Modi | Democracy",
-      "description": "Congress MP Rahul Gandhi on Saturday said India was no longer a democracy, asserting that the country's democratic system was destroyed in 2014 and that the Opposition remained in shock for nearly a decade as the political and electoral landscape underwent a dramatic shift.\n\n#RahulGandhi #IndianDem…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2212243fzjc/default.jpg?v=6af87b0a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2212243fzjc/mqdefault.jpg?v=6af87b0a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2212243fzjc/hqdefault.jpg?v=6af87b0a"
-        }
-      },
-      "concurrentViewers": 82,
-      "startedAt": "2026-11-14T15:16:35Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "fEs-CCV-Ctg",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak",
-      "description": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak\nअंडर-19 एशिया कप फाइनल में भारतीय टीम ने पाकिस्तान के खिलाफ कमाल की वापसी करते हुए खिताब जीत लिया. एक समय टीम इंडिया मुश्किल में थी और लगातार विकेट गंवा रही थी. ऐसे में मनल चौहान और मोहित उल्वा ने मोर्…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/default.jpg?v=6af85ed4"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/mqdefault.jpg?v=6af85ed4"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/hqdefault.jpg?v=6af85ed4"
-        }
-      },
-      "concurrentViewers": 2052,
-      "startedAt": "2026-11-14T13:15:50Z",
       "regionRestriction": null
     },
     {
@@ -706,32 +610,32 @@
           "url": "https://i.ytimg.com/vi/czdSnhpCPJ0/hqdefault.jpg?v=6af7b556"
         }
       },
-      "concurrentViewers": 1415,
+      "concurrentViewers": 126,
       "startedAt": "2026-11-14T01:26:44Z",
       "regionRestriction": null
     },
     {
-      "videoId": "BjeNo9g_Tu0",
+      "videoId": "fEs-CCV-Ctg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "IND vs PAK U19 Asia Cup Final: आखिरी बॉल पर भारत ने पाकिस्तान को चटाई धूल | India Vs Pakistan",
-      "description": "एसीसी मेन्स अंडर-19 एशिया कप 2026 के फाइनल में शन‍िवार (14 नवंबर) को भारत ने पाकिस्तान के जबड़े से जीत छीन ली. भारतीय टीम ने 1 व‍िकेट से यह मैच जीता और टीम चैम्प‍ियन बनी. भारतीय टीम के जीत के सबसे बड़े हीरो मोह‍ित उल्वा (26 गेंदों पर 49 रन) और मोह‍ित चौहान (32 गेंदों पर 47 रन) रहे. ज‍िन्होंने अंत‍ि…",
+      "title": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak",
+      "description": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak\nअंडर-19 एशिया कप फाइनल में भारतीय टीम ने पाकिस्तान के खिलाफ कमाल की वापसी करते हुए खिताब जीत लिया. एक समय टीम इंडिया मुश्किल में थी और लगातार विकेट गंवा रही थी. ऐसे में मनल चौहान और मोहित उल्वा ने मोर्…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/BjeNo9g_Tu0/default.jpg?v=6af8624c"
+          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/default.jpg?v=6af85ed4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/BjeNo9g_Tu0/mqdefault.jpg?v=6af8624c"
+          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/mqdefault.jpg?v=6af85ed4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/BjeNo9g_Tu0/hqdefault.jpg?v=6af8624c"
+          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/hqdefault.jpg?v=6af85ed4"
         }
       },
-      "concurrentViewers": 1329,
-      "startedAt": "2026-11-14T13:31:16Z",
+      "concurrentViewers": 100,
+      "startedAt": "2026-11-14T13:15:50Z",
       "regionRestriction": null
     },
     {
@@ -754,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 367,
+      "concurrentViewers": 267,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 151,
+      "concurrentViewers": 136,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -802,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 531,
+      "concurrentViewers": 1424,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
