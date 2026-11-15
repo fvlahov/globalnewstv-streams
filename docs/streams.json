@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T00:10:35.621Z",
+  "generatedAt": "2026-11-15T06:58:53.858Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2731,
+      "concurrentViewers": 3946,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 329,
+      "concurrentViewers": 344,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1627,
+      "concurrentViewers": 1730,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "dE23uy4YO3M",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Breakfast with Stephen and Anne | Sunday 15th November",
+      "description": "Join Stephen Dixon and Anne Diamond to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dE23uy4YO3M/default.jpg?v=6af8f516"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dE23uy4YO3M/mqdefault.jpg?v=6af8f516"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dE23uy4YO3M/hqdefault.jpg?v=6af8f516"
+        }
+      },
+      "concurrentViewers": 1080,
+      "startedAt": "2026-11-15T05:56:01Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 48,
+      "concurrentViewers": 208,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 704,
+      "concurrentViewers": 415,
       "startedAt": "2026-11-14T00:34:06Z",
       "regionRestriction": null
     },
@@ -146,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 986,
+      "concurrentViewers": 605,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/hqdefault.jpg?v=6af865f2"
         }
       },
-      "concurrentViewers": 849,
+      "concurrentViewers": 360,
       "startedAt": "2026-11-14T13:58:43Z",
       "regionRestriction": null
     },
@@ -194,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 659,
+      "concurrentViewers": 168,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 901,
+      "concurrentViewers": 1057,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5499,
+      "concurrentViewers": 6459,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 270,
+      "concurrentViewers": 353,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 575,
+      "concurrentViewers": 687,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3351,
+      "concurrentViewers": 3868,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 86,
+      "concurrentViewers": 157,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 69,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 128,
+      "concurrentViewers": 160,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,41 +457,89 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39dab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39dfc"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39dab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39dfc"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39dab"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39dfc"
         }
       },
-      "concurrentViewers": 22,
+      "concurrentViewers": 29,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "_2o6M5PHf7I",
+      "videoId": "xgxy6E8H4-M",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Unleash Missile & Drone Fury on Oil Sites | WION",
-      "description": "Saudi Arabia is facing fresh threats as Yemen's Houthi rebels claim attacks targeting oil facilities and military sites. The Houthis have claimed a new wave of missile and drone operations, putting Saudi Arabia's critical energy infrastructure and security on alert.\n\nWith tensions escalating across…",
+      "title": "US Iran War LIVE: Iran's IRGC Launches Drone Attack On US Base In Bahrain | WION",
+      "description": "US Iran War LIVE: Iran's IRGC Launches Drone Attack On US Base In Bahrain | WION\n\nBahrain issued two threat alerts on Sunday, its first since September, as Iran claimed it had attacked a US military base in the Gulf nation. Tehran said six drones targeted an air-defence radar at Al-Rifaa helicopter…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/default.jpg?v=6af667b9"
+          "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/default.jpg?v=6af94e61"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/mqdefault.jpg?v=6af667b9"
+          "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/mqdefault.jpg?v=6af94e61"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/hqdefault.jpg?v=6af667b9"
+          "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/hqdefault.jpg?v=6af94e61"
         }
       },
-      "concurrentViewers": 6,
-      "startedAt": "2026-11-13T01:32:53Z",
+      "concurrentViewers": 152,
+      "startedAt": "2026-11-15T06:22:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "wSVq43Pq6EQ",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Russia-Ukraine War LIVE: 7 Killed as Russia Launches Fresh Wave of Attacks on Ukraine | WION",
+      "description": "Russia-Ukraine War LIVE: 7 Killed as Russia Launches Fresh Wave of Attacks on Ukraine | WION\n\nAt least seven people have been killed and 80 others injured in a fresh wave of Russian attacks across Ukraine. Zaporizhzhia was among the worst-hit regions as Russian strikes targeted multiple areas, caus…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/default.jpg?v=6af9164c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/mqdefault.jpg?v=6af9164c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/hqdefault.jpg?v=6af9164c"
+        }
+      },
+      "concurrentViewers": 63,
+      "startedAt": "2026-11-15T02:18:07Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qp9uj9JM2Fw",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Microsoft Global Outage LIVE: Is the World Too Dependent on Big Tech? | WION",
+      "description": "Microsoft Global Outage LIVE: Is the World Too Dependent on Big Tech? | WION\n\nOne Microsoft outage. Millions affected. Governments disrupted. Businesses scrambling.\nA massive global Microsoft 365 outage has hit Outlook, Teams, Copilot and other services, exposing the world's growing dependence on B…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/default.jpg?v=6af911c6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/mqdefault.jpg?v=6af911c6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/hqdefault.jpg?v=6af911c6"
+        }
+      },
+      "concurrentViewers": 18,
+      "startedAt": "2026-11-15T01:59:11Z",
       "regionRestriction": null
     },
     {
@@ -490,56 +562,8 @@
           "url": "https://i.ytimg.com/vi/hHYWM4es4dY/hqdefault.jpg?v=6af803e5"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 26,
       "startedAt": "2026-11-14T05:34:38Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QSjINl9ePH8",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "S JAISHANKAR INTERVIEW | EAM Jaishankar On India-US Trade Deal Negotiations",
-      "description": "India and the US have sorted out the bulk of the issues relating to the proposed trade deal, including tariff lines, and the deal could be sealed \"soon\" as talks continue to resolve the last stretch of concerns, External Affairs Minister S Jaishankar said on Saturday.\n\nHis remarks come a month befo…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QSjINl9ePH8/default.jpg?v=6af895b5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QSjINl9ePH8/mqdefault.jpg?v=6af895b5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QSjINl9ePH8/hqdefault.jpg?v=6af895b5"
-        }
-      },
-      "concurrentViewers": 5,
-      "startedAt": "2026-11-14T17:13:37Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "yEGTIvYoj0Y",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "ASSAM KAZIRANGA ACCIDENT | 24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
-      "description": "At least 24 people have been killed and several others injured after a truck collided with a minibus in Assam's Kaziranga on Thursday. The death count is likely to rise, with several injured passengers reported to be in critical condition.\n\nThe accident took place at Rongajan, near Kaziranga, when …",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yEGTIvYoj0Y/default.jpg?v=6af89b74"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yEGTIvYoj0Y/mqdefault.jpg?v=6af89b74"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yEGTIvYoj0Y/hqdefault.jpg?v=6af89b74"
-        }
-      },
-      "concurrentViewers": 3,
-      "startedAt": "2026-11-14T17:17:18Z",
       "regionRestriction": null
     },
     {
@@ -562,80 +586,128 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 71,
+      "concurrentViewers": 174,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "CgWcyzBnwi4",
+      "videoId": "1LA3RQqNGNY",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India vs Pakistan U19 Asia Cup Final Live: Ulva's Heroics Seal Dramatic Last-Ball Thriller | Cricket",
-      "description": "U19 Asia Cup Final: India beat Pakistan by 1 wicket in thriller in the final to win their ninth title. They chased down 338 off the last ball to have the last laugh.\n\n#IndiaVsPakistan #U19AsiaCup #U19AsiaCupFinal #indiatodaylivestream  #IndiaU19 #PakistanU19 #TeamIndia #Cricket #LastBallThriller #C…",
+      "title": "Rajdeep Sardesai Live: Roundtable On Sonia Gandhi's Memoir | Sonia's Book | Belonging | Cong",
+      "description": "Live: Rajdeep Sardesai Hosts Roundtable On Sonia Gandhi's Memoir | Sonia's Book | Belonging | Cong\n\n#RajdeepSardesai #SoniaGandhi #SoniaGandhiMemoir #indiatodaylivestream #Belonging #SoniaBook #Congress #CongressParty #PoliticalRoundtable #IndianPolitics #PoliticsLive #BookDiscussion #IndiaNews #In…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/default.jpg?v=6af86ec9"
+          "url": "https://i.ytimg.com/vi/1LA3RQqNGNY/default.jpg?v=6af933cb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/mqdefault.jpg?v=6af86ec9"
+          "url": "https://i.ytimg.com/vi/1LA3RQqNGNY/mqdefault.jpg?v=6af933cb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/hqdefault.jpg?v=6af86ec9"
+          "url": "https://i.ytimg.com/vi/1LA3RQqNGNY/hqdefault.jpg?v=6af933cb"
         }
       },
-      "concurrentViewers": 3,
-      "startedAt": "2026-11-14T14:24:40Z",
+      "concurrentViewers": 33,
+      "startedAt": "2026-11-15T04:24:14Z",
       "regionRestriction": null
     },
     {
-      "videoId": "czdSnhpCPJ0",
+      "videoId": "qSDFmxjkYsA",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "UP Election 2027: Owaisi vs Akhilesh | AIMIM Chief Takes Fresh Dig at SP Ahead of UP Polls",
+      "description": "UP Election 2027: Owaisi vs Akhilesh | AIMIM Chief Takes Fresh Dig at SP Ahead of UP Polls\nAIMIM chief Asaduddin Owaisi has launched a fresh attack on Samajwadi Party chief Akhilesh Yadav at a public rally in Meerut, taking a dig at the SP's PDA slogan with the phrase \"Palat Diya Akhilesh\".\n\nOwaisi…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qSDFmxjkYsA/default.jpg?v=6af94c08"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qSDFmxjkYsA/mqdefault.jpg?v=6af94c08"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qSDFmxjkYsA/hqdefault.jpg?v=6af94c08"
+        }
+      },
+      "concurrentViewers": 28,
+      "startedAt": "2026-11-15T06:09:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "py3AVS5CeP4",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | UP Elections 2027 | PM Modi | Chhath Puja | Rahul",
-      "description": "बीजेपी की बैठक में नेताओं और कार्यकर्ताओं को CM योगी का निर्देश- नाम कटने वाले हर हिंदू वोटर को दोबारा जोड़ना जरुरी- कांग्रेस ने कसा तंज \n\nसरकार पर राहुल गांधी का संगीन आरोप, बोले- मेरा फोन कराया जा रहा टैप जिसमे सभी आरोपों के सबूत...पीएम पर निशाना- बीजेपी ने बताया घटिया राजनीति \n\n\n#pmmodi #rahulga…",
+      "title": "UP Tablet Distribution Scheme News LIVE: यूपी में 50 हजार छात्रों को मिलेंगे मुफ्त टैबलेट | CM Yogi",
+      "description": "यूपी में जारी चुनावी तैयारियों के बीच योगी सरकार Gen-Z युवाओं के डिजिटल सशक्तिकरण की दिशा में बड़ा कदम उठाने जा रही है। आज सीएम योगी 50 हजार छात्र-छात्राओं को टैबलेट वितरित करेंगे। स्वामी विवेकानंद युवा सशक्तिकरण योजना के तहत लखनऊ में छात्र-छात्राओं को टैबलेट बांटे जाएंगे। इस कार्यक्रम में लखनऊ, हर…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/czdSnhpCPJ0/default.jpg?v=6af7b556"
+          "url": "https://i.ytimg.com/vi/py3AVS5CeP4/default.jpg?v=6af95030"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/czdSnhpCPJ0/mqdefault.jpg?v=6af7b556"
+          "url": "https://i.ytimg.com/vi/py3AVS5CeP4/mqdefault.jpg?v=6af95030"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/czdSnhpCPJ0/hqdefault.jpg?v=6af7b556"
+          "url": "https://i.ytimg.com/vi/py3AVS5CeP4/hqdefault.jpg?v=6af95030"
         }
       },
-      "concurrentViewers": 73,
-      "startedAt": "2026-11-14T01:26:44Z",
+      "concurrentViewers": 211,
+      "startedAt": "2026-11-15T06:18:03Z",
       "regionRestriction": null
     },
     {
-      "videoId": "fEs-CCV-Ctg",
+      "videoId": "Eo5_6WtOyd0",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak",
-      "description": "India Vs Pakistan Asia Cup Final: अंडर 19 एशिया कप फाइनल में भारत ने पाकिस्तान को रौंदा | Aaj Tak\nअंडर-19 एशिया कप फाइनल में भारतीय टीम ने पाकिस्तान के खिलाफ कमाल की वापसी करते हुए खिताब जीत लिया. एक समय टीम इंडिया मुश्किल में थी और लगातार विकेट गंवा रही थी. ऐसे में मनल चौहान और मोहित उल्वा ने मोर्…",
+      "title": "Chhath Puja Samagri LIVE: छठ पूजा की तैयारी में न हो कोई चूक, संध्या अर्घ्य के लिए जरूरी सामान",
+      "description": "छठ महापर्व का हिंदू धर्म में खास महत्व है. यह पर्व भगवान सूर्य और छठी मैया को समर्पित है. चार दिनों तक चलने वाले इस पर्व की शुरुआत 13 नवंबर 2026 से हुई है. आज यानी 15 नवंबर को छठ पूजा का तीसरा दिन है. इस दिन व्रती शाम को डूबते सूर्य को अर्घ्य देते हैं. इसे संध्या अर्घ्य या पहला अर्घ्य कहा जाता है.\n…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/default.jpg?v=6af85ed4"
+          "url": "https://i.ytimg.com/vi/Eo5_6WtOyd0/default.jpg?v=6af956e4"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/mqdefault.jpg?v=6af85ed4"
+          "url": "https://i.ytimg.com/vi/Eo5_6WtOyd0/mqdefault.jpg?v=6af956e4"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/hqdefault.jpg?v=6af85ed4"
+          "url": "https://i.ytimg.com/vi/Eo5_6WtOyd0/hqdefault.jpg?v=6af956e4"
         }
       },
-      "concurrentViewers": 40,
-      "startedAt": "2026-11-14T13:15:50Z",
+      "concurrentViewers": 88,
+      "startedAt": "2026-11-15T06:54:29Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "j-DDW2zNXIA",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Tarn Taran Bus Accident LIVE: Punjab के तरनतारन में तीर्थयात्रियों की बसों में टक्कर, 5 लोगों की मौत",
+      "description": "पंजाब के तरन तारन में बठिंडा नेशनल हाईवे पर दो बसों की आमने-सामने जोरदार टक्कर हो गई. रन तारन में बठिंडा नेशनल हाईवे पर दो बसों की आमने-सामने जोरदार टक्कर हो गई.. इस हादसे का सीसीटीवी फुटेज भी सामने आया है जिसमें तेज रफ्तार में दोनों बसें टकराते दिख रही हैं. इस हादसे में 6 लोगों की मौत हो गई, जबकि …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j-DDW2zNXIA/default.jpg?v=6af94aa2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j-DDW2zNXIA/mqdefault.jpg?v=6af94aa2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j-DDW2zNXIA/hqdefault.jpg?v=6af94aa2"
+        }
+      },
+      "concurrentViewers": 43,
+      "startedAt": "2026-11-15T06:02:28Z",
       "regionRestriction": null
     },
     {
@@ -658,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 916,
+      "concurrentViewers": 413,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,8 +754,32 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 118,
       "startedAt": "2026-08-14T01:21:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "CpQT2Qmo9Jg",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: APEC Now – Innovation",
+      "description": "In this episode of CGTN's special livetreaming program, APEC Now, we zoom in on the driving force reshaping the entire Asia-Pacific: innovation. From artificial intelligence and the digital economy to green transitions and frontier tech, visionaries and trailblazers across all 21 APEC member econom…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CpQT2Qmo9Jg/default.jpg?v=6af907b2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CpQT2Qmo9Jg/mqdefault.jpg?v=6af907b2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CpQT2Qmo9Jg/hqdefault.jpg?v=6af907b2"
+        }
+      },
+      "concurrentViewers": 5,
+      "startedAt": "2026-11-15T01:59:48Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2287,
+      "concurrentViewers": 1301,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
