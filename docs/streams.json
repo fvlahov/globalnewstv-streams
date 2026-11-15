@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T20:28:46.112Z",
+  "generatedAt": "2026-11-15T00:10:35.621Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 US airports latest: Fault that forced order to ground all flights revealed by official - https://trib.al/dV8kGYZ\n \n🔴 Trump, Xi and Putin to hold unprecedented meeting, W…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 SpaceX Starship latest: SpaceX achieves historic 'catch' of Starship - https://trib.al/PR8p8i5\n\n🟡 US airports latest: Fault that forced order to ground all flights revea…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3411,
+      "concurrentViewers": 2731,
       "startedAt": "2026-10-19T17:27:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "huDipD3GbG4",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "SpaceX launches its 15th Starship flight as booster explodes in sea after lift-off",
-      "description": "Watch SpaceX's boldest Starship test flight yet, as Elon Musk's company navigates a dramatic turn of events during its 15th orbital mission from Starbase, Texas.\n \nOriginally described as an unprecedented \"double-catch\" test—aiming to achieve the first full recovery of an orbital rocket in history—…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/huDipD3GbG4/default.jpg?v=6af85c91"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/huDipD3GbG4/mqdefault.jpg?v=6af85c91"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/huDipD3GbG4/hqdefault.jpg?v=6af85c91"
-        }
-      },
-      "concurrentViewers": 99,
-      "startedAt": "2026-11-14T10:19:23Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 491,
+      "concurrentViewers": 329,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1963,
+      "concurrentViewers": 1627,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 48,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 967,
+      "concurrentViewers": 704,
       "startedAt": "2026-11-14T00:34:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "je3p8hTLWvc",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Saturday, November 14",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/je3p8hTLWvc/default.jpg?v=6adfcabe"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/je3p8hTLWvc/mqdefault.jpg?v=6adfcabe"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/je3p8hTLWvc/hqdefault.jpg?v=6adfcabe"
-        }
-      },
-      "concurrentViewers": 835,
-      "startedAt": "2026-11-14T12:57:46Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 664,
+      "concurrentViewers": 986,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/hqdefault.jpg?v=6af865f2"
         }
       },
-      "concurrentViewers": 1156,
+      "concurrentViewers": 849,
       "startedAt": "2026-11-14T13:58:43Z",
       "regionRestriction": null
     },
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 665,
+      "concurrentViewers": 659,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -266,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1058,
+      "concurrentViewers": 901,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 24,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5492,
+      "concurrentViewers": 5499,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 377,
+      "concurrentViewers": 270,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 841,
+      "concurrentViewers": 575,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4758,
+      "concurrentViewers": 3351,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 125,
+      "concurrentViewers": 86,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 46,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 128,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -481,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39d7e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39dab"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39d7e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39dab"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39d7e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39dab"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 22,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -514,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/_2o6M5PHf7I/hqdefault.jpg?v=6af667b9"
         }
       },
-      "concurrentViewers": 7,
+      "concurrentViewers": 6,
       "startedAt": "2026-11-13T01:32:53Z",
       "regionRestriction": null
     },
@@ -538,8 +490,56 @@
           "url": "https://i.ytimg.com/vi/hHYWM4es4dY/hqdefault.jpg?v=6af803e5"
         }
       },
-      "concurrentViewers": 6,
+      "concurrentViewers": 19,
       "startedAt": "2026-11-14T05:34:38Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QSjINl9ePH8",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "S JAISHANKAR INTERVIEW | EAM Jaishankar On India-US Trade Deal Negotiations",
+      "description": "India and the US have sorted out the bulk of the issues relating to the proposed trade deal, including tariff lines, and the deal could be sealed \"soon\" as talks continue to resolve the last stretch of concerns, External Affairs Minister S Jaishankar said on Saturday.\n\nHis remarks come a month befo…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QSjINl9ePH8/default.jpg?v=6af895b5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QSjINl9ePH8/mqdefault.jpg?v=6af895b5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QSjINl9ePH8/hqdefault.jpg?v=6af895b5"
+        }
+      },
+      "concurrentViewers": 5,
+      "startedAt": "2026-11-14T17:13:37Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "yEGTIvYoj0Y",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "ASSAM KAZIRANGA ACCIDENT | 24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
+      "description": "At least 24 people have been killed and several others injured after a truck collided with a minibus in Assam's Kaziranga on Thursday. The death count is likely to rise, with several injured passengers reported to be in critical condition.\n\nThe accident took place at Rongajan, near Kaziranga, when …",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yEGTIvYoj0Y/default.jpg?v=6af89b74"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yEGTIvYoj0Y/mqdefault.jpg?v=6af89b74"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yEGTIvYoj0Y/hqdefault.jpg?v=6af89b74"
+        }
+      },
+      "concurrentViewers": 3,
+      "startedAt": "2026-11-14T17:17:18Z",
       "regionRestriction": null
     },
     {
@@ -562,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 100,
+      "concurrentViewers": 71,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -586,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/CgWcyzBnwi4/hqdefault.jpg?v=6af86ec9"
         }
       },
-      "concurrentViewers": 2,
+      "concurrentViewers": 3,
       "startedAt": "2026-11-14T14:24:40Z",
       "regionRestriction": null
     },
@@ -610,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/czdSnhpCPJ0/hqdefault.jpg?v=6af7b556"
         }
       },
-      "concurrentViewers": 126,
+      "concurrentViewers": 73,
       "startedAt": "2026-11-14T01:26:44Z",
       "regionRestriction": null
     },
@@ -634,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/fEs-CCV-Ctg/hqdefault.jpg?v=6af85ed4"
         }
       },
-      "concurrentViewers": 100,
+      "concurrentViewers": 40,
       "startedAt": "2026-11-14T13:15:50Z",
       "regionRestriction": null
     },
@@ -658,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 267,
+      "concurrentViewers": 916,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 136,
+      "concurrentViewers": 132,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -706,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1424,
+      "concurrentViewers": 2287,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
