@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T06:58:53.858Z",
+  "generatedAt": "2026-11-15T14:40:09.789Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 SpaceX Starship latest: SpaceX achieves historic 'catch' of Starship - https://trib.al/PR8p8i5\n\n🟡 US airports latest: Fault that forced order to ground all flights revea…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Minister says 'changing age of consent deserves proper consideration' after Brand allegations - https://trib.al/TYo3dtk\n\n🔴 US asked if Ukraine would give up parts of Don…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 3946,
+      "concurrentViewers": 4296,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 344,
+      "concurrentViewers": 478,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1730,
+      "concurrentViewers": 2317,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "dE23uy4YO3M",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Breakfast with Stephen and Anne | Sunday 15th November",
-      "description": "Join Stephen Dixon and Anne Diamond to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: htt…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dE23uy4YO3M/default.jpg?v=6af8f516"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dE23uy4YO3M/mqdefault.jpg?v=6af8f516"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dE23uy4YO3M/hqdefault.jpg?v=6af8f516"
-        }
-      },
-      "concurrentViewers": 1080,
-      "startedAt": "2026-11-15T05:56:01Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 208,
+      "concurrentViewers": 161,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 415,
+      "concurrentViewers": 646,
       "startedAt": "2026-11-14T00:34:06Z",
       "regionRestriction": null
     },
@@ -170,32 +146,32 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 605,
+      "concurrentViewers": 775,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Y4M0i8HT7mc",
+      "videoId": "0TtsQz8oOv4",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE: US ground stop flight delays & cancellations, Northeast Nor' easter, NOLA tanker collision",
-      "description": "LATEST FROM TRANSPORTATION SEC. DUFFY:\n\nOperations are slowly returning to normal this morning. Planes are pushing back, taxiing, and taking off, and it is safe to fly. We are in close coordination with the airlines to support the ongoing recovery. You will continue to see some delays and cancellat…",
+      "title": "TOP STORIES: FAA ground stop fallout, Democrat leadership shakeup",
+      "description": "Airlines canceled thousands of flights across the U.S. on Saturday as they worked to recover from a nationwide ground stop that left passengers scrambling for seats and disrupted travel around the world. The U.S. air travel schedule should be back to normal by the end of Sunday, two days after what…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/default.jpg?v=6af865f2"
+          "url": "https://i.ytimg.com/vi/0TtsQz8oOv4/default.jpg?v=6af9affb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/mqdefault.jpg?v=6af865f2"
+          "url": "https://i.ytimg.com/vi/0TtsQz8oOv4/mqdefault.jpg?v=6af9affb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Y4M0i8HT7mc/hqdefault.jpg?v=6af865f2"
+          "url": "https://i.ytimg.com/vi/0TtsQz8oOv4/hqdefault.jpg?v=6af9affb"
         }
       },
-      "concurrentViewers": 360,
-      "startedAt": "2026-11-14T13:58:43Z",
+      "concurrentViewers": 767,
+      "startedAt": "2026-11-15T13:15:55Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 168,
+      "concurrentViewers": 563,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1057,
+      "concurrentViewers": 1561,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 16,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6459,
+      "concurrentViewers": 7416,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 353,
+      "concurrentViewers": 349,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 687,
+      "concurrentViewers": 1011,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3868,
+      "concurrentViewers": 5198,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 157,
+      "concurrentViewers": 139,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 69,
+      "concurrentViewers": 62,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 160,
+      "concurrentViewers": 151,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -457,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39dfc"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39e5a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39dfc"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39e5a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39dfc"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39e5a"
         }
       },
-      "concurrentViewers": 29,
+      "concurrentViewers": 26,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/hqdefault.jpg?v=6af94e61"
         }
       },
-      "concurrentViewers": 152,
+      "concurrentViewers": 78,
       "startedAt": "2026-11-15T06:22:49Z",
       "regionRestriction": null
     },
@@ -514,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/hqdefault.jpg?v=6af9164c"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 27,
       "startedAt": "2026-11-15T02:18:07Z",
       "regionRestriction": null
     },
@@ -538,8 +514,56 @@
           "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/hqdefault.jpg?v=6af911c6"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 23,
       "startedAt": "2026-11-15T01:59:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kksnjta7s7c",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Total Chess World Championship 2026 LIVE | Day 6: World Championship Tour",
+      "description": "The Total Chess World Championship Tour 2026 gets underway in Budapest, Hungary, with its grand opening ceremony.\n\nWatch LIVE as players, officials and chess enthusiasts come together to mark the beginning of the prestigious tournament. The event brings together some of the world's leading chess ta…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kksnjta7s7c/default.jpg?v=6af9acde"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kksnjta7s7c/mqdefault.jpg?v=6af9acde"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kksnjta7s7c/hqdefault.jpg?v=6af9acde"
+        }
+      },
+      "concurrentViewers": 63,
+      "startedAt": "2026-11-15T13:45:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hjS7AzWJCZo",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Tiruchendur Soorasamharam LIVE | Devotees Gather At Murugan Temple | Soorasamharam 2026 LIVE",
+      "description": "Lakhs of devotees have gathered at the historic Arulmigu Subramaniya Swamy Temple in Tiruchendur, Tamil Nadu, to witness the grand Soorasamharam celebrations during Skanda Sashti 2026. The festival commemorates Lord Murugan's victory over the demon Surapadman, symbolizing the triumph of good over e…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hjS7AzWJCZo/default.jpg?v=6af9ae18"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hjS7AzWJCZo/mqdefault.jpg?v=6af9ae18"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hjS7AzWJCZo/hqdefault.jpg?v=6af9ae18"
+        }
+      },
+      "concurrentViewers": 27,
+      "startedAt": "2026-11-15T13:10:09Z",
       "regionRestriction": null
     },
     {
@@ -586,128 +610,80 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 174,
+      "concurrentViewers": 572,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "1LA3RQqNGNY",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rajdeep Sardesai Live: Roundtable On Sonia Gandhi's Memoir | Sonia's Book | Belonging | Cong",
-      "description": "Live: Rajdeep Sardesai Hosts Roundtable On Sonia Gandhi's Memoir | Sonia's Book | Belonging | Cong\n\n#RajdeepSardesai #SoniaGandhi #SoniaGandhiMemoir #indiatodaylivestream #Belonging #SoniaBook #Congress #CongressParty #PoliticalRoundtable #IndianPolitics #PoliticsLive #BookDiscussion #IndiaNews #In…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1LA3RQqNGNY/default.jpg?v=6af933cb"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1LA3RQqNGNY/mqdefault.jpg?v=6af933cb"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1LA3RQqNGNY/hqdefault.jpg?v=6af933cb"
-        }
-      },
-      "concurrentViewers": 33,
-      "startedAt": "2026-11-15T04:24:14Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qSDFmxjkYsA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "UP Election 2027: Owaisi vs Akhilesh | AIMIM Chief Takes Fresh Dig at SP Ahead of UP Polls",
-      "description": "UP Election 2027: Owaisi vs Akhilesh | AIMIM Chief Takes Fresh Dig at SP Ahead of UP Polls\nAIMIM chief Asaduddin Owaisi has launched a fresh attack on Samajwadi Party chief Akhilesh Yadav at a public rally in Meerut, taking a dig at the SP's PDA slogan with the phrase \"Palat Diya Akhilesh\".\n\nOwaisi…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qSDFmxjkYsA/default.jpg?v=6af94c08"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qSDFmxjkYsA/mqdefault.jpg?v=6af94c08"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qSDFmxjkYsA/hqdefault.jpg?v=6af94c08"
-        }
-      },
-      "concurrentViewers": 28,
-      "startedAt": "2026-11-15T06:09:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "py3AVS5CeP4",
+      "videoId": "UW9_C_2rPt8",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "UP Tablet Distribution Scheme News LIVE: यूपी में 50 हजार छात्रों को मिलेंगे मुफ्त टैबलेट | CM Yogi",
-      "description": "यूपी में जारी चुनावी तैयारियों के बीच योगी सरकार Gen-Z युवाओं के डिजिटल सशक्तिकरण की दिशा में बड़ा कदम उठाने जा रही है। आज सीएम योगी 50 हजार छात्र-छात्राओं को टैबलेट वितरित करेंगे। स्वामी विवेकानंद युवा सशक्तिकरण योजना के तहत लखनऊ में छात्र-छात्राओं को टैबलेट बांटे जाएंगे। इस कार्यक्रम में लखनऊ, हर…",
+      "title": "Superfast News LIVE: आज की बड़ी खबरें देखिए फटाफट अंदाज में | Chhath Puja 2026 | CM Yogi  | PM Modi",
+      "description": "लोक आस्था के महापर्व छठ में आज अस्ताचल सूर्य को दिया जाएगा पहला अर्घ्य.... दूसरे दिन विधि-विधान से हुई 'खरना पूजा'... छठी मइया के भोग के साथ 36 घंटे का निर्जला व्रत\n\nभारत 9वीं बार बना अंडर-19 एशिया कप चैम्पियन, पाकिस्तान के जबड़े से छीन ली जीत, मनल चौहान और मोहित उल्वा ने पलटी बाजी... पीएम मोदी ने …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/py3AVS5CeP4/default.jpg?v=6af95030"
+          "url": "https://i.ytimg.com/vi/UW9_C_2rPt8/default.jpg?v=6af9ac4c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/py3AVS5CeP4/mqdefault.jpg?v=6af95030"
+          "url": "https://i.ytimg.com/vi/UW9_C_2rPt8/mqdefault.jpg?v=6af9ac4c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/py3AVS5CeP4/hqdefault.jpg?v=6af95030"
+          "url": "https://i.ytimg.com/vi/UW9_C_2rPt8/hqdefault.jpg?v=6af9ac4c"
         }
       },
-      "concurrentViewers": 211,
-      "startedAt": "2026-11-15T06:18:03Z",
+      "concurrentViewers": 1149,
+      "startedAt": "2026-11-15T12:58:26Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Eo5_6WtOyd0",
+      "videoId": "nMnEMFHUdaE",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Chhath Puja Samagri LIVE: छठ पूजा की तैयारी में न हो कोई चूक, संध्या अर्घ्य के लिए जरूरी सामान",
-      "description": "छठ महापर्व का हिंदू धर्म में खास महत्व है. यह पर्व भगवान सूर्य और छठी मैया को समर्पित है. चार दिनों तक चलने वाले इस पर्व की शुरुआत 13 नवंबर 2026 से हुई है. आज यानी 15 नवंबर को छठ पूजा का तीसरा दिन है. इस दिन व्रती शाम को डूबते सूर्य को अर्घ्य देते हैं. इसे संध्या अर्घ्य या पहला अर्घ्य कहा जाता है.\n…",
+      "title": "Chhath Mahaparv LIVE: छठ पूजा कार्यक्रम में पहुंचे CM Yogi, भगवान सूर्य को देंगे अर्घ्य | Aaj Tak",
+      "description": "Chhath Mahaparv LIVE: छठ पूजा कार्यक्रम में पहुंचे CM Yogi, भगवान सूर्य को देंगे अर्घ्य | Aaj Tak\n\nछठ महापर्व के अवसर पर उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ लखनऊ में छठ पूजा कार्यक्रम स्थल पर पहुंचे। मुख्यमंत्री गोमती नदी के किनारे बने लक्ष्मण मेला घाट पर भगवान सूर्य को अर्घ्य देंगे। छठ पर्व…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Eo5_6WtOyd0/default.jpg?v=6af956e4"
+          "url": "https://i.ytimg.com/vi/nMnEMFHUdaE/default.jpg?v=6af98b71"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Eo5_6WtOyd0/mqdefault.jpg?v=6af956e4"
+          "url": "https://i.ytimg.com/vi/nMnEMFHUdaE/mqdefault.jpg?v=6af98b71"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Eo5_6WtOyd0/hqdefault.jpg?v=6af956e4"
+          "url": "https://i.ytimg.com/vi/nMnEMFHUdaE/hqdefault.jpg?v=6af98b71"
         }
       },
-      "concurrentViewers": 88,
-      "startedAt": "2026-11-15T06:54:29Z",
+      "concurrentViewers": 833,
+      "startedAt": "2026-11-15T10:38:18Z",
       "regionRestriction": null
     },
     {
-      "videoId": "j-DDW2zNXIA",
+      "videoId": "IzX5bDpu69I",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Tarn Taran Bus Accident LIVE: Punjab के तरनतारन में तीर्थयात्रियों की बसों में टक्कर, 5 लोगों की मौत",
-      "description": "पंजाब के तरन तारन में बठिंडा नेशनल हाईवे पर दो बसों की आमने-सामने जोरदार टक्कर हो गई. रन तारन में बठिंडा नेशनल हाईवे पर दो बसों की आमने-सामने जोरदार टक्कर हो गई.. इस हादसे का सीसीटीवी फुटेज भी सामने आया है जिसमें तेज रफ्तार में दोनों बसें टकराते दिख रही हैं. इस हादसे में 6 लोगों की मौत हो गई, जबकि …",
+      "title": "UP Election 2027 News LIVE Update: Akhilesh Yadav अयोध्या चले, यूपी किस ओर चले? | UP Election",
+      "description": "राम का नाम सभी हिंदू लेते हैं, लेकिन सियासत में राम का नाम लेना, राजनीति के समीकरण तय करता है । जिन्हें भी 1990 के दौर के मंदिर आंदोलन की सियासत का पता हो, जनवरी 2024 में राम मंदिर प्राण प्रतिष्ठा के समय हुई राजनीति जिन्हें याद हो, उन्हें बताने की जरूरत नहीं कि 12 दिसंबर को अखिलेश यादव का राम मंदिर…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/j-DDW2zNXIA/default.jpg?v=6af94aa2"
+          "url": "https://i.ytimg.com/vi/IzX5bDpu69I/default.jpg?v=6af9bdd2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/j-DDW2zNXIA/mqdefault.jpg?v=6af94aa2"
+          "url": "https://i.ytimg.com/vi/IzX5bDpu69I/mqdefault.jpg?v=6af9bdd2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/j-DDW2zNXIA/hqdefault.jpg?v=6af94aa2"
+          "url": "https://i.ytimg.com/vi/IzX5bDpu69I/hqdefault.jpg?v=6af9bdd2"
         }
       },
-      "concurrentViewers": 43,
-      "startedAt": "2026-11-15T06:02:28Z",
+      "concurrentViewers": 353,
+      "startedAt": "2026-11-15T12:23:44Z",
       "regionRestriction": null
     },
     {
@@ -730,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 413,
+      "concurrentViewers": 531,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,32 +730,8 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 118,
+      "concurrentViewers": 129,
       "startedAt": "2026-08-14T01:21:12Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "CpQT2Qmo9Jg",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: APEC Now – Innovation",
-      "description": "In this episode of CGTN's special livetreaming program, APEC Now, we zoom in on the driving force reshaping the entire Asia-Pacific: innovation. From artificial intelligence and the digital economy to green transitions and frontier tech, visionaries and trailblazers across all 21 APEC member econom…",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/CpQT2Qmo9Jg/default.jpg?v=6af907b2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/CpQT2Qmo9Jg/mqdefault.jpg?v=6af907b2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/CpQT2Qmo9Jg/hqdefault.jpg?v=6af907b2"
-        }
-      },
-      "concurrentViewers": 5,
-      "startedAt": "2026-11-15T01:59:48Z",
       "regionRestriction": null
     },
     {
@@ -802,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1301,
+      "concurrentViewers": 597,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
