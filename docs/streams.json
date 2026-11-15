@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T14:40:09.789Z",
+  "generatedAt": "2026-11-15T20:12:01.041Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 4296,
+      "concurrentViewers": 3405,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 478,
+      "concurrentViewers": 520,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2317,
+      "concurrentViewers": 1766,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "EN7Lku00jzA",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Free Speech Nation | Sunday 15th November",
+      "description": "Keep up to date with GB News at gbnews.com or on X @GBNEWS\n\nBecome a Friend of GB News: gbnews.com/friend",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EN7Lku00jzA/default.jpg?v=6af8f707"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EN7Lku00jzA/mqdefault.jpg?v=6af8f707"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EN7Lku00jzA/hqdefault.jpg?v=6af8f707"
+        }
+      },
+      "concurrentViewers": 327,
+      "startedAt": "2026-11-15T18:55:33Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 161,
+      "concurrentViewers": 61,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 646,
+      "concurrentViewers": 645,
       "startedAt": "2026-11-14T00:34:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "SftX338Iueo",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Sunday, November 15",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SftX338Iueo/default.jpg?v=6adfcb06"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SftX338Iueo/mqdefault.jpg?v=6adfcb06"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SftX338Iueo/hqdefault.jpg?v=6adfcb06"
+        }
+      },
+      "concurrentViewers": 974,
+      "startedAt": "2026-11-15T12:59:28Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 775,
+      "concurrentViewers": 651,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/0TtsQz8oOv4/hqdefault.jpg?v=6af9affb"
         }
       },
-      "concurrentViewers": 767,
+      "concurrentViewers": 569,
       "startedAt": "2026-11-15T13:15:55Z",
       "regionRestriction": null
     },
@@ -194,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 563,
+      "concurrentViewers": 616,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -218,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1561,
+      "concurrentViewers": 1080,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 16,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7416,
+      "concurrentViewers": 6324,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 349,
+      "concurrentViewers": 393,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1011,
+      "concurrentViewers": 1056,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5198,
+      "concurrentViewers": 6204,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 139,
+      "concurrentViewers": 125,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 70,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 151,
+      "concurrentViewers": 126,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,16 +481,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39e5a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39ea0"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39e5a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39ea0"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39e5a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39ea0"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 25,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/hqdefault.jpg?v=6af94e61"
         }
       },
-      "concurrentViewers": 78,
+      "concurrentViewers": 108,
       "startedAt": "2026-11-15T06:22:49Z",
       "regionRestriction": null
     },
@@ -490,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/hqdefault.jpg?v=6af9164c"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 21,
       "startedAt": "2026-11-15T02:18:07Z",
       "regionRestriction": null
     },
@@ -514,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/hqdefault.jpg?v=6af911c6"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-15T01:59:11Z",
       "regionRestriction": null
     },
@@ -538,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/kksnjta7s7c/hqdefault.jpg?v=6af9acde"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 30,
       "startedAt": "2026-11-15T13:45:26Z",
       "regionRestriction": null
     },
@@ -562,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/hjS7AzWJCZo/hqdefault.jpg?v=6af9ae18"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-15T13:10:09Z",
       "regionRestriction": null
     },
@@ -586,15 +634,15 @@
           "url": "https://i.ytimg.com/vi/hHYWM4es4dY/hqdefault.jpg?v=6af803e5"
         }
       },
-      "concurrentViewers": 26,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-14T05:34:38Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: India defeats Pakistan | U19 | Rahul In Hyderabad | Delhi's AQI | SIR Row | Nvidia",
-      "description": "India Today LIVE: India defeats Pakistan | U19 | Rahul In Hyderabad | Delhi's AQI | SIR Row | Nvidia\n\nUS airports latest: All flights grounded by Federal Aviation Administration because of\n'extraordinary circumstances'\n\nIndia beat Pakistan by 1 wicket in thriller in the final to win their ninth tit…",
+      "title": "India Today LIVE: BJP vs Congress Over Bharat Summit | Amit Shah Vs Rahul Gandhi | Air Pollution",
+      "description": "India Today LIVE: BJP vs Congress Over Bharat Summit | Amit Shah Vs Rahul Gandhi | Air Pollution\n\nUS airports latest: All flights grounded by Federal Aviation Administration because of\n'extraordinary circumstances'\n\nIndia beat Pakistan by 1 wicket in thriller in the final to win their ninth title. …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,8 +658,32 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 572,
+      "concurrentViewers": 86,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Jurq--wPftI",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Mekedatu Row: AIADMK's EPS Targets Vijay, Accuses DK Shivakumar Of Playing Cauvery Politics",
+      "description": "LIVE: Mekedatu Row: AIADMK's EPS Targets Vijay, Accuses DK Shivakumar Of Playing Cauvery Politics\n#MekedatuDam #MekedatuRow #Cauvery #CauveryWaterDispute #KarnatakaVsTamilNadu #TamilNadu #Karnataka #EPS #EdappadiPalaniswami #Vijay #TVK #AIADMK #DKShivakumar #CauveryPolitics #TamilNaduPolitics #Karn…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jurq--wPftI/default.jpg?v=6af9bd18"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jurq--wPftI/mqdefault.jpg?v=6af9bd18"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jurq--wPftI/hqdefault.jpg?v=6af9bd18"
+        }
+      },
+      "concurrentViewers": 5,
+      "startedAt": "2026-11-15T14:10:59Z",
       "regionRestriction": null
     },
     {
@@ -634,15 +706,15 @@
           "url": "https://i.ytimg.com/vi/UW9_C_2rPt8/hqdefault.jpg?v=6af9ac4c"
         }
       },
-      "concurrentViewers": 1149,
+      "concurrentViewers": 68,
       "startedAt": "2026-11-15T12:58:26Z",
       "regionRestriction": null
     },
     {
       "videoId": "nMnEMFHUdaE",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Chhath Mahaparv LIVE: छठ पूजा कार्यक्रम में पहुंचे CM Yogi, भगवान सूर्य को देंगे अर्घ्य | Aaj Tak",
-      "description": "Chhath Mahaparv LIVE: छठ पूजा कार्यक्रम में पहुंचे CM Yogi, भगवान सूर्य को देंगे अर्घ्य | Aaj Tak\n\nछठ महापर्व के अवसर पर उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ लखनऊ में छठ पूजा कार्यक्रम स्थल पर पहुंचे। मुख्यमंत्री गोमती नदी के किनारे बने लक्ष्मण मेला घाट पर भगवान सूर्य को अर्घ्य देंगे। छठ पर्व…",
+      "title": "Chhath Mahaparv LIVE: छठ पूजा कार्यक्रम में पहुंचे CM Yogi, भगवान सूर्य को दिया अर्घ्य | Aaj Tak",
+      "description": "छठ महापर्व के अवसर पर उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ लखनऊ में छठ पूजा कार्यक्रम स्थल पर पहुंचे। मुख्यमंत्री गोमती नदी के किनारे बने लक्ष्मण मेला घाट पर भगवान सूर्य को अर्घ्य देंगे। छठ पर्व पर घाटों पर श्रद्धालु सूर्य उपासना और पूजा-अर्चना के लिए जुट रहे हैं।\n\n#cmyogi #chhathpuja #chhatm…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -658,32 +730,8 @@
           "url": "https://i.ytimg.com/vi/nMnEMFHUdaE/hqdefault.jpg?v=6af98b71"
         }
       },
-      "concurrentViewers": 833,
+      "concurrentViewers": 36,
       "startedAt": "2026-11-15T10:38:18Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "IzX5bDpu69I",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "UP Election 2027 News LIVE Update: Akhilesh Yadav अयोध्या चले, यूपी किस ओर चले? | UP Election",
-      "description": "राम का नाम सभी हिंदू लेते हैं, लेकिन सियासत में राम का नाम लेना, राजनीति के समीकरण तय करता है । जिन्हें भी 1990 के दौर के मंदिर आंदोलन की सियासत का पता हो, जनवरी 2024 में राम मंदिर प्राण प्रतिष्ठा के समय हुई राजनीति जिन्हें याद हो, उन्हें बताने की जरूरत नहीं कि 12 दिसंबर को अखिलेश यादव का राम मंदिर…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IzX5bDpu69I/default.jpg?v=6af9bdd2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IzX5bDpu69I/mqdefault.jpg?v=6af9bdd2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IzX5bDpu69I/hqdefault.jpg?v=6af9bdd2"
-        }
-      },
-      "concurrentViewers": 353,
-      "startedAt": "2026-11-15T12:23:44Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 531,
+      "concurrentViewers": 287,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 129,
+      "concurrentViewers": 114,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 597,
+      "concurrentViewers": 2386,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
