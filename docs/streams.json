@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T00:11:57.137Z",
+  "generatedAt": "2026-11-16T07:05:49.135Z",
   "streams": [
     {
       "videoId": "umLWFz4izTM",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg?v=6ad60270"
         }
       },
-      "concurrentViewers": 2667,
+      "concurrentViewers": 6398,
       "startedAt": "2026-10-19T17:27:56Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 333,
+      "concurrentViewers": 672,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1697,
+      "concurrentViewers": 2829,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 435,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg?v=6af7c9c5"
         }
       },
-      "concurrentViewers": 568,
+      "concurrentViewers": 360,
       "startedAt": "2026-11-14T00:34:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "SftX338Iueo",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Sunday, November 15",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SftX338Iueo/default.jpg?v=6adfcb06"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SftX338Iueo/mqdefault.jpg?v=6adfcb06"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SftX338Iueo/hqdefault.jpg?v=6adfcb06"
-        }
-      },
-      "concurrentViewers": 646,
-      "startedAt": "2026-11-15T12:59:28Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 588,
+      "concurrentViewers": 744,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/0TtsQz8oOv4/hqdefault.jpg?v=6afa2bdc"
         }
       },
-      "concurrentViewers": 380,
+      "concurrentViewers": 294,
       "startedAt": "2026-11-15T13:15:55Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 604,
+      "concurrentViewers": 154,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1570,
+      "concurrentViewers": 4245,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 28,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5469,
+      "concurrentViewers": 8187,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 289,
+      "concurrentViewers": 366,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 887,
+      "concurrentViewers": 1453,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4131,
+      "concurrentViewers": 7822,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 87,
+      "concurrentViewers": 262,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 88,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 120,
+      "concurrentViewers": 194,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -457,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39ed0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=39f22"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39ed0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=39f22"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39ed0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=39f22"
         }
       },
-      "concurrentViewers": 18,
+      "concurrentViewers": 42,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,60 +466,60 @@
           "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/hqdefault.jpg?v=6af94e61"
         }
       },
-      "concurrentViewers": 105,
+      "concurrentViewers": 113,
       "startedAt": "2026-11-15T06:22:49Z",
       "regionRestriction": null
     },
     {
-      "videoId": "wSVq43Pq6EQ",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: 7 Killed as Russia Launches Fresh Wave of Attacks on Ukraine | WION",
-      "description": "Russia-Ukraine War LIVE: 7 Killed as Russia Launches Fresh Wave of Attacks on Ukraine | WION\n\nAt least seven people have been killed and 80 others injured in a fresh wave of Russian attacks across Ukraine. Zaporizhzhia was among the worst-hit regions as Russian strikes targeted multiple areas, caus…",
-      "channelTitle": "WION",
+      "videoId": "neq2EExoejk",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Chhath Puja 2026 LIVE: Devotees from across India offer arghaya to rising sun | Hindu Festival",
+      "description": "Chhath Puja 2026 LIVE: Devotees from across India offer arghaya to rising sun | Hindu Festival \n\n#ChhathPuja \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the wo…",
+      "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/default.jpg?v=6af9164c"
+          "url": "https://i.ytimg.com/vi/neq2EExoejk/default.jpg?v=6afaa55d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/mqdefault.jpg?v=6af9164c"
+          "url": "https://i.ytimg.com/vi/neq2EExoejk/mqdefault.jpg?v=6afaa55d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wSVq43Pq6EQ/hqdefault.jpg?v=6af9164c"
+          "url": "https://i.ytimg.com/vi/neq2EExoejk/hqdefault.jpg?v=6afaa55d"
         }
       },
-      "concurrentViewers": 26,
-      "startedAt": "2026-11-15T02:18:07Z",
+      "concurrentViewers": 17,
+      "startedAt": "2026-11-16T06:46:46Z",
       "regionRestriction": null
     },
     {
-      "videoId": "qp9uj9JM2Fw",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Microsoft Global Outage LIVE: Is the World Too Dependent on Big Tech? | WION",
-      "description": "Microsoft Global Outage LIVE: Is the World Too Dependent on Big Tech? | WION\n\nOne Microsoft outage. Millions affected. Governments disrupted. Businesses scrambling.\nA massive global Microsoft 365 outage has hit Outlook, Teams, Copilot and other services, exposing the world's growing dependence on B…",
-      "channelTitle": "WION",
+      "videoId": "o5OfYS8W5LE",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Yamuna Foam | Toxic Froth In Yamuna: AAP Targets BJP, Ruling Party Defends Its Clean-Up Efforts",
+      "description": "Political tensions have resurfaced over pollution in the Yamuna, with the Aam Aadmi Party (AAP) sharing a video showing toxic froth in the river and accusing the BJP of making false claims about its clean-up efforts. The BJP, meanwhile, has defended its two-year clean-up drive, claiming that the Ya…",
+      "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/default.jpg?v=6af911c6"
+          "url": "https://i.ytimg.com/vi/o5OfYS8W5LE/default.jpg?v=6afa8080"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/mqdefault.jpg?v=6af911c6"
+          "url": "https://i.ytimg.com/vi/o5OfYS8W5LE/mqdefault.jpg?v=6afa8080"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qp9uj9JM2Fw/hqdefault.jpg?v=6af911c6"
+          "url": "https://i.ytimg.com/vi/o5OfYS8W5LE/hqdefault.jpg?v=6afa8080"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-11-15T01:59:11Z",
+      "concurrentViewers": 17,
+      "startedAt": "2026-11-16T04:12:53Z",
       "regionRestriction": null
     },
     {
-      "videoId": "hHYWM4es4dY",
+      "videoId": "tf3kPjABGRw",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
       "title": "PM Modi News | \"PM Doesn't Tap Phones\": Sam Pitroda Amid Rahul Gandhi's Big Charge",
       "description": "After his warm public exchange with Prime Minister Narendra Modi generated buzz across political circles, Congress leader Sam Pitroda says there is no contradiction between personal respect and political opposition. Drawing a clear line between friendship and ideology, the Congress veteran explains…",
@@ -553,72 +529,24 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hHYWM4es4dY/default.jpg?v=6af803e5"
+          "url": "https://i.ytimg.com/vi/tf3kPjABGRw/default.jpg?v=6afa9dd5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hHYWM4es4dY/mqdefault.jpg?v=6af803e5"
+          "url": "https://i.ytimg.com/vi/tf3kPjABGRw/mqdefault.jpg?v=6afa9dd5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hHYWM4es4dY/hqdefault.jpg?v=6af803e5"
+          "url": "https://i.ytimg.com/vi/tf3kPjABGRw/hqdefault.jpg?v=6afa9dd5"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-11-14T05:34:38Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "hjS7AzWJCZo",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Tiruchendur Soorasamharam LIVE | Devotees Gather At Murugan Temple | Soorasamharam 2026 LIVE",
-      "description": "Lakhs of devotees have gathered at the historic Arulmigu Subramaniya Swamy Temple in Tiruchendur, Tamil Nadu, to witness the grand Soorasamharam celebrations during Skanda Sashti 2026. The festival commemorates Lord Murugan's victory over the demon Surapadman, symbolizing the triumph of good over e…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hjS7AzWJCZo/default.jpg?v=6af9ae18"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hjS7AzWJCZo/mqdefault.jpg?v=6af9ae18"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hjS7AzWJCZo/hqdefault.jpg?v=6af9ae18"
-        }
-      },
-      "concurrentViewers": 3,
-      "startedAt": "2026-11-15T13:10:09Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "kksnjta7s7c",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Total Chess World Championship 2026 LIVE | Day 6: World Championship Tour",
-      "description": "The Total Chess World Championship Tour 2026 gets underway in Budapest, Hungary, with its grand opening ceremony.\n\nWatch LIVE as players, officials and chess enthusiasts come together to mark the beginning of the prestigious tournament. The event brings together some of the world's leading chess ta…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kksnjta7s7c/default.jpg?v=6af9acde"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kksnjta7s7c/mqdefault.jpg?v=6af9acde"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kksnjta7s7c/hqdefault.jpg?v=6af9acde"
-        }
-      },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-15T13:45:26Z",
+      "concurrentViewers": 12,
+      "startedAt": "2026-11-16T06:36:04Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: BJP vs Congress Over Bharat Summit | Amit Shah Vs Rahul Gandhi | Air Pollution",
-      "description": "India Today LIVE: BJP vs Congress Over Bharat Summit | Amit Shah Vs Rahul Gandhi | Air Pollution\n\nUS airports latest: All flights grounded by Federal Aviation Administration because of\n'extraordinary circumstances'\n\nIndia beat Pakistan by 1 wicket in thriller in the final to win their ninth title. …",
+      "title": "India Today LIVE: Chhath Puja | PM Modi | BJP vs CONG | US Travel Chaos | Air Pollution | Nvidia",
+      "description": "India Today LIVE: Chhath Puja | PM Modi | BJP vs CONG | US Travel Chaos | Air Pollution | Nvidia\n\nUS airports latest: All flights grounded by Federal Aviation Administration because of\n'extraordinary circumstances'\n\nIndia beat Pakistan by 1 wicket in thriller in the final to win their ninth title. …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -634,80 +562,80 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 78,
+      "concurrentViewers": 402,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Jurq--wPftI",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Mekedatu Row: AIADMK's EPS Targets Vijay, Accuses DK Shivakumar Of Playing Cauvery Politics",
-      "description": "LIVE: Mekedatu Row: AIADMK's EPS Targets Vijay, Accuses DK Shivakumar Of Playing Cauvery Politics\n#MekedatuDam #MekedatuRow #Cauvery #CauveryWaterDispute #KarnatakaVsTamilNadu #TamilNadu #Karnataka #EPS #EdappadiPalaniswami #Vijay #TVK #AIADMK #DKShivakumar #CauveryPolitics #TamilNaduPolitics #Karn…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Jurq--wPftI/default.jpg?v=6af9bd18"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Jurq--wPftI/mqdefault.jpg?v=6af9bd18"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Jurq--wPftI/hqdefault.jpg?v=6af9bd18"
-        }
-      },
-      "concurrentViewers": 5,
-      "startedAt": "2026-11-15T14:10:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "nMnEMFHUdaE",
+      "videoId": "bgCnJS33uVM",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Chhath Mahaparv LIVE: छठ पूजा कार्यक्रम में पहुंचे CM Yogi, भगवान सूर्य को दिया अर्घ्य | Aaj Tak",
-      "description": "छठ महापर्व के अवसर पर उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ लखनऊ में छठ पूजा कार्यक्रम स्थल पर पहुंचे। मुख्यमंत्री गोमती नदी के किनारे बने लक्ष्मण मेला घाट पर भगवान सूर्य को अर्घ्य देंगे। छठ पर्व पर घाटों पर श्रद्धालु सूर्य उपासना और पूजा-अर्चना के लिए जुट रहे हैं।\n\n#cmyogi #chhathpuja #chhatm…",
+      "title": "Superfast News LIVE: आज की बड़ी खबरें देखिए फटाफट अंदाज में | Chhath Puja | UP Election | PM Modi",
+      "description": "उगते सूर्य को अर्घ्य के साथ ही चार दिनों के छठ महापर्व का समापन, दिल्ली, पटना से मुंबई तक आस्था का सैलाब, बीजेपी अध्यक्ष नितिन नवीन समेत कई सियासी दिग्गजों ने की उपासना\n\nआज से दो दिनों के फिलीपींस दौर पर प्रधानमंत्री नरेंद्र मोदी..आसियान और पूर्वी एशिया शिखर सम्मेलन में लेंगे हिस्सा....समुद्री सुरक…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/nMnEMFHUdaE/default.jpg?v=6af98b71"
+          "url": "https://i.ytimg.com/vi/bgCnJS33uVM/default.jpg?v=6afa5844"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/nMnEMFHUdaE/mqdefault.jpg?v=6af98b71"
+          "url": "https://i.ytimg.com/vi/bgCnJS33uVM/mqdefault.jpg?v=6afa5844"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/nMnEMFHUdaE/hqdefault.jpg?v=6af98b71"
+          "url": "https://i.ytimg.com/vi/bgCnJS33uVM/hqdefault.jpg?v=6afa5844"
         }
       },
-      "concurrentViewers": 139,
-      "startedAt": "2026-11-15T10:38:18Z",
+      "concurrentViewers": 667,
+      "startedAt": "2026-11-16T03:03:13Z",
       "regionRestriction": null
     },
     {
-      "videoId": "UW9_C_2rPt8",
+      "videoId": "8_dn-hDugkE",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: आज की बड़ी खबरें देखिए फटाफट अंदाज में | Chhath Puja 2026 | CM Yogi  | PM Modi",
-      "description": "लोक आस्था के महापर्व छठ में आज अस्ताचल सूर्य को दिया जाएगा पहला अर्घ्य.... दूसरे दिन विधि-विधान से हुई 'खरना पूजा'... छठी मइया के भोग के साथ 36 घंटे का निर्जला व्रत\n\nभारत 9वीं बार बना अंडर-19 एशिया कप चैम्पियन, पाकिस्तान के जबड़े से छीन ली जीत, मनल चौहान और मोहित उल्वा ने पलटी बाजी... पीएम मोदी ने …",
+      "title": "Chhath Puja 2026 LIVE: उगते सूरज को अर्घ्य के साथ संपन्न हुआ छठ महापर्व | Patna | Delhi | Aaj Tak",
+      "description": "लोकआस्था का चार दिवसीय महापर्व छठ आज सोमवार सुबह उगते सूर्य को अर्घ्य देने के साथ संपन्न हो गया है. देशभर में श्रद्धालुओं ने नदी, तालाबों और बनाए गए अस्थायी घाटों पर पहुंचकर आस्था की डूबकी लगाई. भगवान सूर्य और छठी मैया की पूजा करने के साथ ही खरना के बाद शुरू हुआ करीब 36 घंटे का निर्जला व्रत भी पूरा…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/UW9_C_2rPt8/default.jpg?v=6af9ac4c"
+          "url": "https://i.ytimg.com/vi/8_dn-hDugkE/default.jpg?v=6afa556c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/UW9_C_2rPt8/mqdefault.jpg?v=6af9ac4c"
+          "url": "https://i.ytimg.com/vi/8_dn-hDugkE/mqdefault.jpg?v=6afa556c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/UW9_C_2rPt8/hqdefault.jpg?v=6af9ac4c"
+          "url": "https://i.ytimg.com/vi/8_dn-hDugkE/hqdefault.jpg?v=6afa556c"
         }
       },
-      "concurrentViewers": 39,
-      "startedAt": "2026-11-15T12:58:26Z",
+      "concurrentViewers": 635,
+      "startedAt": "2026-11-16T01:00:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "1b76uAq9nCU",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "UP Election 2027 News LIVE: सभी दलों को दलितों की इतनी फिक्र क्यों? | BJP | SP | Congress | BSP",
+      "description": "उत्तर प्रदेश की सियासत में इन दिनों एक ही शब्द गूंज रहा है..दलित वोट बैंक। 2027 के विधानसभा चुनाव जैसे-जैसे करीब आ रहे हैं, प्रदेश का हर सियासी सूरमा इसी 21 फीसदी वोट बैंक की चौखट पर दस्तक दे रहा है। आखिर अचानक सभी दलों को दलितों की इतनी फिक्र क्यों सताने लगी है? एक तरफ समाजवादी पार्टी आगरा में 'PD…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1b76uAq9nCU/default.jpg?v=6afa9ce7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1b76uAq9nCU/mqdefault.jpg?v=6afa9ce7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1b76uAq9nCU/hqdefault.jpg?v=6afa9ce7"
+        }
+      },
+      "concurrentViewers": 196,
+      "startedAt": "2026-11-16T06:30:54Z",
       "regionRestriction": null
     },
     {
@@ -730,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 2164,
+      "concurrentViewers": 1054,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 112,
+      "concurrentViewers": 167,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2935,
+      "concurrentViewers": 1825,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
