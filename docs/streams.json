@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T17:53:13.946Z",
+  "generatedAt": "2026-11-18T23:58:42.221Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | APEC summit latest: Trump, Putin and Xi appear together for first time - before historic talks - https://news.sky.com/story/putin-arrives-in-china-for-unprecedente…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 APEC summit latest: Historic Trump-Putin-Xi talks to take place - after handshake goes viral in Russia - https://news.sky.com/story/putin-arrives-in-china-for-unprecedent…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 6052,
+      "concurrentViewers": 2968,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 861,
+      "concurrentViewers": 418,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3022,
+      "concurrentViewers": 1754,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "62pKbYPqUco",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Martin Daubney |  Wednesday 18th November",
-      "description": "Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/62pKbYPqUco/default.jpg?v=6afc602b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/62pKbYPqUco/mqdefault.jpg?v=6afc602b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/62pKbYPqUco/hqdefault.jpg?v=6afc602b"
-        }
-      },
-      "concurrentViewers": 1605,
-      "startedAt": "2026-11-18T14:56:26Z",
       "regionRestriction": null
     },
     {
@@ -122,60 +98,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 240,
+      "concurrentViewers": 51,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "V2mE0d_Gw-Q",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "PMQs: Andy Burnham takes questions – watch live",
-      "description": "The British prime minister Andy Burnham takes questions in parliament\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://support…",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/default.jpg?v=6afdac2f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/mqdefault.jpg?v=6afdac2f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/hqdefault.jpg?v=6afdac2f"
-        }
-      },
-      "concurrentViewers": 7,
-      "startedAt": "2026-11-18T12:00:16Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ILJhb74kHbs",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Homeland Security Secretary Markwayne Mullin testifies before House committee",
-      "description": "US Secretary of Homeland Security Markwayne Mullin testifies before the House Homeland Security Committee in a hearing titled, “Worldwide Threats to the Homeland: 25 Years After 9/11.”\n \n#us #homelandsecurity #markwaynemullin #live #Reuters #News\n\nKeep up with the latest news from around the world:…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ILJhb74kHbs/default.jpg?v=6afdc4b1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ILJhb74kHbs/mqdefault.jpg?v=6afdc4b1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ILJhb74kHbs/hqdefault.jpg?v=6afdc4b1"
-        }
-      },
-      "concurrentViewers": 167,
-      "startedAt": "2026-11-18T14:57:36Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "d407BwnLeVA",
+      "videoId": "mRiwuwH2Tlk",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Nov. 18",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -185,17 +113,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/d407BwnLeVA/default.jpg?v=6afdde72"
+          "url": "https://i.ytimg.com/vi/mRiwuwH2Tlk/default.jpg?v=6afe2bcc"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/d407BwnLeVA/mqdefault.jpg?v=6afdde72"
+          "url": "https://i.ytimg.com/vi/mRiwuwH2Tlk/mqdefault.jpg?v=6afe2bcc"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/d407BwnLeVA/hqdefault.jpg?v=6afdde72"
+          "url": "https://i.ytimg.com/vi/mRiwuwH2Tlk/hqdefault.jpg?v=6afe2bcc"
         }
       },
-      "concurrentViewers": 4600,
-      "startedAt": "2026-11-18T11:32:25Z",
+      "concurrentViewers": 3779,
+      "startedAt": "2026-11-18T22:59:03Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/kyh14T8Oa8M/hqdefault.jpg?v=6af9ffb9"
         }
       },
-      "concurrentViewers": 2749,
+      "concurrentViewers": 1361,
       "startedAt": "2026-11-18T10:57:43Z",
       "regionRestriction": null
     },
@@ -242,32 +170,8 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 889,
+      "concurrentViewers": 668,
       "startedAt": "2026-10-24T03:13:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "L4nfI0pmKy4",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "DHS Secretary Mullin testifies before House Homeland Security Committee on worldwide threats",
-      "description": "Department of Homeland Security Secretary Markwayne Mullin and FBI Deputy Director Christopher Raia are testifying before the House Homeland Security Committee on worldwide threats. https://abcnews.visitlink.me/MB1IVJ\n–––\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/L4nfI0pmKy4/default.jpg?v=6afdc7d1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/L4nfI0pmKy4/mqdefault.jpg?v=6afdc7d1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/L4nfI0pmKy4/hqdefault.jpg?v=6afdc7d1"
-        }
-      },
-      "concurrentViewers": 887,
-      "startedAt": "2026-11-18T15:19:45Z",
       "regionRestriction": null
     },
     {
@@ -290,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/fkAhVjVttpc/hqdefault.jpg?v=6afcc99d"
         }
       },
-      "concurrentViewers": 994,
+      "concurrentViewers": 663,
       "startedAt": "2026-11-18T11:59:42Z",
       "regionRestriction": {
         "blocked": [
@@ -298,30 +202,6 @@
           "CA"
         ]
       }
-    },
-    {
-      "videoId": "XjLBM3-Xv6I",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "Watch Live: DHS Secretary Markwayne Mullin testifies before House committee",
-      "description": "Homeland Security Secretary Markwayne Mullin is testifying before the House Committee on Homeland Security amid concerns about tech outages nationwide. \n\n#news #politics #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XjLBM3-Xv6I/default.jpg?v=6afde24e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XjLBM3-Xv6I/mqdefault.jpg?v=6afde24e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XjLBM3-Xv6I/hqdefault.jpg?v=6afde24e"
-        }
-      },
-      "concurrentViewers": 475,
-      "startedAt": "2026-11-18T15:06:39Z",
-      "regionRestriction": null
     },
     {
       "videoId": "CiursXbr7kk",
@@ -343,32 +223,8 @@
           "url": "https://i.ytimg.com/vi/CiursXbr7kk/hqdefault.jpg?v=6afd8992"
         }
       },
-      "concurrentViewers": 1222,
+      "concurrentViewers": 787,
       "startedAt": "2026-11-18T11:22:22Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "x6sSpxQkFTw",
-      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "WATCH LIVE: DHS Sec. Markwayne Mullin faces Congress",
-      "description": "Wednesday, Department of Homeland Security Secretary Markwayne Mullin was set to appear before the House Homeland Security Committee for a hearing on \"Worldwide Threats to the Homeland: 25 Years after 9/11\". Director of National Intelligence Jay Clayton and Deputy FBI Director Christopher Raia were…",
-      "channelTitle": "LiveNOW from FOX",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/x6sSpxQkFTw/default.jpg?v=6afdbb33"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/x6sSpxQkFTw/mqdefault.jpg?v=6afdbb33"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/x6sSpxQkFTw/hqdefault.jpg?v=6afdbb33"
-        }
-      },
-      "concurrentViewers": 743,
-      "startedAt": "2026-11-18T14:57:17Z",
       "regionRestriction": null
     },
     {
@@ -391,32 +247,8 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1567,
+      "concurrentViewers": 1559,
       "startedAt": "2026-11-12T21:30:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "0MmFhDYyo1Y",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Markwayne Mullin testifies on worldwide threats",
-      "description": "Watch live as Homeland Security Secretary Markwayne Mullin and Deputy FBI Director Christopher Raia testify in Washington at a House Committee on Homeland Security hearing titled “Worldwide Threats to the Homeland: 25 Years After 9/11.”\n\nMullin on Tuesday defended using a government plane to attend…",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0MmFhDYyo1Y/default.jpg?v=6afdc1eb"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0MmFhDYyo1Y/mqdefault.jpg?v=6afdc1eb"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0MmFhDYyo1Y/hqdefault.jpg?v=6afdc1eb"
-        }
-      },
-      "concurrentViewers": 5601,
-      "startedAt": "2026-11-18T14:36:33Z",
       "regionRestriction": null
     },
     {
@@ -439,7 +271,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 9187,
+      "concurrentViewers": 2039,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -463,7 +295,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 51,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -487,7 +319,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 10961,
+      "concurrentViewers": 6197,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -515,7 +347,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 539,
+      "concurrentViewers": 368,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -539,7 +371,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 2044,
+      "concurrentViewers": 978,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -563,7 +395,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 8919,
+      "concurrentViewers": 5249,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -587,7 +419,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 195,
+      "concurrentViewers": 135,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -615,7 +447,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 91,
+      "concurrentViewers": 46,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -639,7 +471,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 174,
+      "concurrentViewers": 134,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -654,16 +486,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a1e0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a22a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a1e0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a22a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a1e0"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a22a"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 41,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -687,7 +519,7 @@
           "url": "https://i.ytimg.com/vi/FGLosIN0VpE/hqdefault.jpg?v=6afd4fe3"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 39,
       "startedAt": "2026-11-18T08:15:48Z",
       "regionRestriction": null
     },
@@ -711,7 +543,7 @@
           "url": "https://i.ytimg.com/vi/HJdU0taLDco/hqdefault.jpg?v=6afd8c12"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 4,
       "startedAt": "2026-11-18T13:42:07Z",
       "regionRestriction": null
     },
@@ -735,7 +567,7 @@
           "url": "https://i.ytimg.com/vi/8X-K7TFyEb4/hqdefault.jpg?v=6afdcd59"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-18T16:52:12Z",
       "regionRestriction": null
     },
@@ -759,7 +591,7 @@
           "url": "https://i.ytimg.com/vi/YxGbwFe36oU/hqdefault.jpg?v=6afdcb45"
         }
       },
-      "concurrentViewers": 19,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-18T16:30:26Z",
       "regionRestriction": null
     },
@@ -783,7 +615,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 486,
+      "concurrentViewers": 108,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -807,7 +639,7 @@
           "url": "https://i.ytimg.com/vi/GQH3aFC6FME/hqdefault.jpg?v=6afdc953"
         }
       },
-      "concurrentViewers": 38,
+      "concurrentViewers": 5,
       "startedAt": "2026-11-18T15:53:28Z",
       "regionRestriction": null
     },
@@ -831,32 +663,32 @@
           "url": "https://i.ytimg.com/vi/5HhfmkrEvw0/hqdefault.jpg?v=6afdd1bb"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-18T16:27:49Z",
       "regionRestriction": null
     },
     {
-      "videoId": "6rsd76nDU4U",
+      "videoId": "TmtkSXODlhQ",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE: UP Elections | Azam Khan Released From Jail | CM Yogi | Akhilesh Yadav | PM Modi",
-      "description": "समाजवादी पार्टी के नेता आजम खान डासना जेल से बाहर आ गए हैं. बीते दिनों उन्हें इलाहाबाद हाईकोर्ट से जमानत मिली थी. उनकी रिहाई से पहले ही केंद्रीय एजेंसी ने सुप्रीम कोर्ट में हाईकोर्ट के फैसले को चुनौती दे दी है. सपा के वरिष्ठ नेता की रिहाई 50-50 हजार रुपये के दो जमानती और 50 हजार रुपये का पर्सनल बॉन…",
+      "title": "Congress-SP Alliance News Updates: सीट बंटवारे पर सपा और कांग्रेस के बीच कहां फंसी पेंच? | Aaj Tak",
+      "description": "बीजेपी में मिशन 2027 चुनाव पर मंथन और चिंतन जारी हैं तो दूसरी तरफ मंगलवार को सीट शेयरिंग को लेकर होने वाली समाजवादी पार्टी और कांग्रेस की मीटिंग रद्द हो गई।बीते दिन यूपी कांग्रेस अध्यक्ष की तरफ से सीट शेयरिंग को लेकर मीटिंग का दावा किया गया था।सवाल यही है कि कांग्रेस और समाजवादी पार्टी गठबंधन में क…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6rsd76nDU4U/default.jpg?v=6afc9b83"
+          "url": "https://i.ytimg.com/vi/TmtkSXODlhQ/default.jpg?v=6afdeefc"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6rsd76nDU4U/mqdefault.jpg?v=6afc9b83"
+          "url": "https://i.ytimg.com/vi/TmtkSXODlhQ/mqdefault.jpg?v=6afdeefc"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6rsd76nDU4U/hqdefault.jpg?v=6afc9b83"
+          "url": "https://i.ytimg.com/vi/TmtkSXODlhQ/hqdefault.jpg?v=6afdeefc"
         }
       },
-      "concurrentViewers": 1500,
-      "startedAt": "2026-11-18T01:00:16Z",
+      "concurrentViewers": 49,
+      "startedAt": "2026-11-18T18:32:18Z",
       "regionRestriction": null
     },
     {
@@ -879,7 +711,7 @@
           "url": "https://i.ytimg.com/vi/28O6lkREDNg/hqdefault.jpg?v=6afcfbb5"
         }
       },
-      "concurrentViewers": 130,
+      "concurrentViewers": 31,
       "startedAt": "2026-11-18T01:22:58Z",
       "regionRestriction": null
     },
@@ -903,7 +735,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 421,
+      "concurrentViewers": 2251,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -927,7 +759,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 336,
+      "concurrentViewers": 144,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -951,7 +783,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 596,
+      "concurrentViewers": 3226,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
