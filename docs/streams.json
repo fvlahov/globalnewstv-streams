@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T01:11:54.328Z",
+  "generatedAt": "2026-11-18T08:56:06.573Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Jensen Huang says he'd be 'honoured' to return as Nvidia CEO - https://news.sky.com/story/jensen-huang-acknowledges-serious-mistakes-but-says-he-would-be-honoured-to-retu…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Putin arrives ahead of talks with Trump and Xi in China - https://news.sky.com/story/putin-arrives-in-china-for-unprecedented-trump-xi-talks-13612438\n\n🔴 LIVE | In…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,56 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 2053,
+      "concurrentViewers": 6734,
       "startedAt": "2026-10-28T08:10:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fKh3MjNXBFA",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Putin arrives ahead of talks with Trump and Xi in China | Mornings with Ridge and Frost",
+      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fKh3MjNXBFA/default.jpg?v=6afd3cf5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fKh3MjNXBFA/mqdefault.jpg?v=6afd3cf5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fKh3MjNXBFA/hqdefault.jpg?v=6afd3cf5"
+        }
+      },
+      "concurrentViewers": 1138,
+      "startedAt": "2026-11-18T05:58:07Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "flZOM5jcMXg",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Trump arrives in China ahead of Putin and Xi meeting",
+      "description": "Vladimir Putin has already touched down in Shenzhen, China - ahead of an historic trilateral meeting with Donald Trump and Xi Jinping. \n\nThe talks will bring together the world's three biggest nuclear powers. \n\nFollow live ➡️ https://news.sky.com/story/putin-arrives-in-china-for-unprecedented-trump…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/flZOM5jcMXg/default.jpg?v=6afd54d8"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/flZOM5jcMXg/mqdefault.jpg?v=6afd54d8"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/flZOM5jcMXg/hqdefault.jpg?v=6afd54d8"
+        }
+      },
+      "concurrentViewers": 745,
+      "startedAt": "2026-11-18T08:10:06Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 364,
+      "concurrentViewers": 1116,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1372,
+      "concurrentViewers": 3439,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ODV5N8DThmg",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Tuesday 17th November",
-      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ODV5N8DThmg/default.jpg?v=f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ODV5N8DThmg/mqdefault.jpg?v=f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ODV5N8DThmg/hqdefault.jpg?v=f"
-        }
-      },
-      "concurrentViewers": 302,
-      "startedAt": "2026-11-17T23:56:30Z",
       "regionRestriction": null
     },
     {
@@ -122,14 +146,62 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 33,
+      "concurrentViewers": 896,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Od0xcS2QrGs",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Trump arrives in China for APEC summit",
+      "description": "US President Donald Trump arrives in Shenzhen, China, for the APEC summit, where he is expected to have a high-stakes trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin.\n \n#apec #trump #xijinping #putin #china #shenzhen #apecsummit #us #live #Reuters #News\n\nKe…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Od0xcS2QrGs/default.jpg?v=6afd66af"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Od0xcS2QrGs/mqdefault.jpg?v=6afd66af"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Od0xcS2QrGs/hqdefault.jpg?v=6afd66af"
+        }
+      },
+      "concurrentViewers": 70,
+      "startedAt": "2026-11-18T08:47:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4mz0DDhbObk",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Officials from various countries speak at COP31",
+      "description": "Senior officials from various countries deliver speeches at COP31 for second part of summit’s high level segment.\n\nChina's Alibaba is the only big tech company so far to have ‌signed a UN-backed promise to reduce the environmental impact of artificial intelligence, as major US companies have stayed…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4mz0DDhbObk/default.jpg?v=6afd6033"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4mz0DDhbObk/mqdefault.jpg?v=6afd6033"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4mz0DDhbObk/hqdefault.jpg?v=6afd6033"
+        }
+      },
+      "concurrentViewers": 4,
+      "startedAt": "2026-11-18T07:54:17Z",
       "regionRestriction": null
     },
     {
       "videoId": "yLhM_3JLFow",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 17",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -146,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/yLhM_3JLFow/hqdefault.jpg?v=6afc9c92"
         }
       },
-      "concurrentViewers": 3085,
+      "concurrentViewers": 511,
       "startedAt": "2026-11-17T22:59:13Z",
       "regionRestriction": null
     },
@@ -170,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 915,
+      "concurrentViewers": 1005,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -194,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/ToNKKYWVQdE/hqdefault.jpg?v=6afcc72e"
         }
       },
-      "concurrentViewers": 768,
+      "concurrentViewers": 338,
       "startedAt": "2026-11-17T23:59:48Z",
       "regionRestriction": null
     },
@@ -218,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/rK2q5DpQwEM/hqdefault.jpg?v=6afc4b27"
         }
       },
-      "concurrentViewers": 712,
+      "concurrentViewers": 365,
       "startedAt": "2026-11-17T12:41:46Z",
       "regionRestriction": null
     },
@@ -242,8 +314,32 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1419,
+      "concurrentViewers": 219,
       "startedAt": "2026-11-12T21:30:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Yyq8fER2IzA",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Trump arrives in China for the APEC summit and talks with Xi and Putin",
+      "description": "Watch live as U.S. President Donald Trump arrives in Shenzhen, China, for the Asia-Pacific Economic Cooperation (APEC) summit, where he is scheduled to meet Chinese President Xi Jinping and Russian President Vladimir Putin. Read more: bit.ly/4iMgs5J\n\n#trump #china #live",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yyq8fER2IzA/default.jpg?v=6afd6415"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yyq8fER2IzA/mqdefault.jpg?v=6afd6415"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yyq8fER2IzA/hqdefault.jpg?v=6afd6415"
+        }
+      },
+      "concurrentViewers": 16724,
+      "startedAt": "2026-11-18T08:05:24Z",
       "regionRestriction": null
     },
     {
@@ -266,7 +362,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 2146,
+      "concurrentViewers": 6121,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 103,
+      "concurrentViewers": 82,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +410,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6263,
+      "concurrentViewers": 10175,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 382,
+      "concurrentViewers": 377,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +462,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 919,
+      "concurrentViewers": 1516,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +486,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4398,
+      "concurrentViewers": 8284,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +510,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 345,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 101,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 177,
+      "concurrentViewers": 214,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -481,72 +577,120 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a11a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a176"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a11a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a176"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a11a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a176"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 55,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xgxy6E8H4-M",
+      "videoId": "FGLosIN0VpE",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Iran War LIVE: Iran's IRGC Launches Drone Attack On US Base In Bahrain | WION",
-      "description": "US Iran War LIVE: Iran's IRGC Launches Drone Attack On US Base In Bahrain | WION\n\nBahrain issued two threat alerts on Sunday, its first since September, as Iran claimed it had attacked a US military base in the Gulf nation. Tehran said six drones targeted an air-defence radar at Al-Rifaa helicopter…",
+      "title": "US Iran War LIVE: Trump's Deadly Warplanes Attack Iranian Missile Sites Again, Middle East On Edge",
+      "description": "US Iran War LIVE: Trump's Deadly Warplanes Attack Iranian Missile Sites Again, Middle East On Edge\n\nUS fighter jets have carried out precision airstrikes on an Islamic Revolutionary Guard Corps (IRGC) missile launch site on Iran's Qeshm Island near the Strait of Hormuz. A US military official descr…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/default.jpg?v=6af94e61"
+          "url": "https://i.ytimg.com/vi/FGLosIN0VpE/default.jpg?v=6afd4fe3"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/mqdefault.jpg?v=6af94e61"
+          "url": "https://i.ytimg.com/vi/FGLosIN0VpE/mqdefault.jpg?v=6afd4fe3"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/hqdefault.jpg?v=6af94e61"
+          "url": "https://i.ytimg.com/vi/FGLosIN0VpE/hqdefault.jpg?v=6afd4fe3"
         }
       },
-      "concurrentViewers": 35,
-      "startedAt": "2026-11-15T06:22:49Z",
+      "concurrentViewers": 77,
+      "startedAt": "2026-11-18T08:15:48Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4TaEA2uVuko",
+      "videoId": "J1tPH_PAgtQ",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Assam Triple Murder Shocker LIVE: Three Members Of Bhuyan Family Found Dead Inside Locked Residence",
-      "description": "Assam Murder LIVE | A suspected triple murder in Assam's Duliajan has left three members of the Bhuyan family dead inside their locked residence.\n\n#AssamMurder #Assam #Duliajan #TripleMurder #AssamCrime #MurderProbe #BhuyanFamily #PoliceInvestigation #CrimeNews #NortheastIndia \n\nAbout NDTV (English…",
+      "title": "Prince William, Kate Middleton In India | Prince William In Mumbai | Prince William At Dharma LIVE",
+      "description": "Mumbai (India): Prince William and Princess Kate explore a Bollywood studio in Mumbai to witness behind-the-scenes of filmmaking and celebrate the cultural influence of Indian cinema on the world.\n\n#princewilliam #britain #india #karanjohar #kareenakapoorkhan #mumbai #bollywood #flimcity  #dharmapr…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4TaEA2uVuko/default.jpg?v=6afc5929"
+          "url": "https://i.ytimg.com/vi/J1tPH_PAgtQ/default.jpg?v=6afd535c"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4TaEA2uVuko/mqdefault.jpg?v=6afc5929"
+          "url": "https://i.ytimg.com/vi/J1tPH_PAgtQ/mqdefault.jpg?v=6afd535c"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4TaEA2uVuko/hqdefault.jpg?v=6afc5929"
+          "url": "https://i.ytimg.com/vi/J1tPH_PAgtQ/hqdefault.jpg?v=6afd535c"
         }
       },
-      "concurrentViewers": 4,
-      "startedAt": "2026-11-17T13:58:33Z",
+      "concurrentViewers": 86,
+      "startedAt": "2026-11-18T07:39:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4id2i1FS2bM",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "TRUMP In China LIVE: US President Donald Trump Meets China's Xi Jinping And Putin | APEC SUMMIT 2026",
+      "description": "United States President Donald Trump concluded his official visit to the Philippines on Wednesday, departing the Southeast Asian nation aboard Air Force One from Ninoy Aquino International Airport.\n\nTrump is en route to Shenzhen, China, to participate in the Asia-Pacific Economic Cooperation (APEC)…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4id2i1FS2bM/default.jpg?v=6afd5eb6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4id2i1FS2bM/mqdefault.jpg?v=6afd5eb6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4id2i1FS2bM/hqdefault.jpg?v=6afd5eb6"
+        }
+      },
+      "concurrentViewers": 25,
+      "startedAt": "2026-11-18T08:22:44Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zrA3i1Vc-hk",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Rahul Gandhi News Today | Rahul Gandh Columbia University | BJP Hits Back At Rahul Gandhi | LIVE",
+      "description": "WATCH LIVE: BJP Press Briefing by Gaurav Bhatia |Congress |Rahul Gandhi’s Remarks on India’s Economy\n\n#bjp #gauravbhatia #pressconference #rahulgandhi #indiaeconomy #live #congress \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news,…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zrA3i1Vc-hk/default.jpg?v=6afd5771"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zrA3i1Vc-hk/mqdefault.jpg?v=6afd5771"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zrA3i1Vc-hk/hqdefault.jpg?v=6afd5771"
+        }
+      },
+      "concurrentViewers": 14,
+      "startedAt": "2026-11-18T08:14:24Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Modi-Trump Meeting | PM Modi | Quad Meeting | Rahul Gandhi | Iran War | Nvidia",
-      "description": "India Today LIVE: Modi-Trump Meeting | PM Modi | Quad Meeting | Rahul Gandhi | Iran War | Nvidia \n\nPrime Minister Narendra Modi and US President Donald Trump are set to meet on the sidelines of the Quad Summit in Manila, marking their first bilateral meeting in five months. The discussions will cen…",
+      "title": "India Today LIVE: Lashkar Terrorist Lateef Bhat Killed | PM Modi | Trump | Rahul Gandhi | Nvidia",
+      "description": "India Today LIVE: Lashkar Terrorist Lateef Bhat Killed | PM Modi | Trump | Rahul Gandhi | Nvidia\n\nSecurity forces in Jammu and Kashmir have eliminated Lashkar-e-Taiba commander Latif Bhat during an encounter in the Zungalpora area of Kulgam district. Regarded as one of the last surviving local comm…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -562,32 +706,80 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 238,
+      "concurrentViewers": 670,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xqZQLo8lOeM",
+      "videoId": "6rsd76nDU4U",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Black and White with Anjana Om Kashyap: Quad Summit | PM Modi - Trump | Imran Khan | MS Dhoni",
-      "description": "Black and White with Anjana Om Kashyap: Quad Summit | PM Modi - Trump | Imran Khan | Pakistan\n\nआज रात 9 बजे देखिए Black & White में तीन बड़े मुद्दों का विश्लेषण।\n\nपहला सवाल चीन और QUAD को लेकर है। 2024 में चीन ने QUAD पर अमेरिका को आग में घी डालने वाला बताया था। अब डोनाल्ड ट्रंप QUAD के जरिए चीन को…",
+      "title": "Aaj Tak LIVE TV: UP Elections | CM Yogi | Akhilesh Yadav | PM Modi | Kulgam Encounter | Hindi News",
+      "description": "जम्मू-कश्मीर सुरक्षा बलों ने दक्षिण कश्मीर के कुलगाम जिले में हुई मुठभेड़ के दौरान लश्कर-ए-तैयबा (LeT) के कमांडर मोहम्मद लतीफ भट को मार गिराया है. लतीफ भट 11 नवंबर को कुलगाम के मीर बाजार के पास CRPF चौकी पर हुए हमले का मुख्य साजिशकर्ता था, जिसमें तीन जवान घायल हो गए थे. भारतीय सेना, जम्मू-कश्मीर पु…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xqZQLo8lOeM/default.jpg?v=6afc4f52"
+          "url": "https://i.ytimg.com/vi/6rsd76nDU4U/default.jpg?v=6afc9b83"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xqZQLo8lOeM/mqdefault.jpg?v=6afc4f52"
+          "url": "https://i.ytimg.com/vi/6rsd76nDU4U/mqdefault.jpg?v=6afc9b83"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xqZQLo8lOeM/hqdefault.jpg?v=6afc4f52"
+          "url": "https://i.ytimg.com/vi/6rsd76nDU4U/hqdefault.jpg?v=6afc9b83"
         }
       },
-      "concurrentViewers": 231,
-      "startedAt": "2026-11-17T15:21:36Z",
+      "concurrentViewers": 1488,
+      "startedAt": "2026-11-18T01:00:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "28O6lkREDNg",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Superfast News LIVE: बड़ी खबरें देखिए फटाफट अंदाज में | Kulgam Encounter | UP Elections | Breaking",
+      "description": "जम्मू कश्मीर के कुलगाम में आतंकियों और सुरक्षा बल के बीच एनकाउंटर, लश्कर आतंकी लतीफ भट के घिरे होने की खबर\n\n क्वाड के मंच से PM मोदी ने दिया एकता का मंत्र,कहा- बनाएंगे मजबूत भविष्य की बुनियाद, डोनाल्ड ट्रंप ने की जमकर तारीफ \n\n\n#pmmodi #donaldtrump #upelection2027 #rahulgandhi #superfastnews #aajtak…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/28O6lkREDNg/default.jpg?v=6afcfbb5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/28O6lkREDNg/mqdefault.jpg?v=6afcfbb5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/28O6lkREDNg/hqdefault.jpg?v=6afcfbb5"
+        }
+      },
+      "concurrentViewers": 406,
+      "startedAt": "2026-11-18T01:22:58Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ktw4zEJGQPU",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Kulgam Encounter LIVE Updates: मारा गया आतंकी लतीफ भट, कुलगाम में रची थी आतंकी हमले की साजिश",
+      "description": "मारा गया लतीफ भट.. खात्मा हो गया उस दहशतगर्द का.. जिसने कुलगाम में 11 नवंबर के आतंकी हमले की साजिश रची थी। लतीफ भट लगातार 8 दिनों से भाग रहा था। सुरक्षा बलों से बचने की कोशिश कर रहा था। लेकिन आखिरकार उसका अंत हो गया है। 15 लाख के इस इनामी आतंकी के खिलाफ कुलगाम में बड़ा ऑपरेशन चल रहा था। आखिरकार आज …",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ktw4zEJGQPU/default.jpg?v=6afd58f9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ktw4zEJGQPU/mqdefault.jpg?v=6afd58f9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ktw4zEJGQPU/hqdefault.jpg?v=6afd58f9"
+        }
+      },
+      "concurrentViewers": 404,
+      "startedAt": "2026-11-18T07:57:56Z",
       "regionRestriction": null
     },
     {
@@ -610,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 2698,
+      "concurrentViewers": 936,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -634,32 +826,8 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 137,
+      "concurrentViewers": 221,
       "startedAt": "2026-08-14T01:21:12Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "x7HUDWZjMl4",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: APEC CEO Summit 2026 special coverage",
-      "description": "The Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026 opened Tuesday in Shenzhen, south China's Guangdong Province, bringing together more than 2,000 business and political leaders from 21 APEC economies and 13 non-APEC economies.\nHeld under the theme \"To Prosper and Win the Future Together,…",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/x7HUDWZjMl4/default.jpg?v=6afce37f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/x7HUDWZjMl4/mqdefault.jpg?v=6afce37f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/x7HUDWZjMl4/hqdefault.jpg?v=6afce37f"
-        }
-      },
-      "concurrentViewers": 64,
-      "startedAt": "2026-11-18T00:33:48Z",
       "regionRestriction": null
     },
     {
@@ -682,7 +850,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 3137,
+      "concurrentViewers": 2061,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
