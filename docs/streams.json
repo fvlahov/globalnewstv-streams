@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T08:56:06.573Z",
+  "generatedAt": "2026-11-18T17:53:13.946Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Putin arrives ahead of talks with Trump and Xi in China - https://news.sky.com/story/putin-arrives-in-china-for-unprecedented-trump-xi-talks-13612438\n\n🔴 LIVE | In…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | APEC summit latest: Trump, Putin and Xi appear together for first time - before historic talks - https://news.sky.com/story/putin-arrives-in-china-for-unprecedente…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,56 +22,8 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 6734,
+      "concurrentViewers": 6052,
       "startedAt": "2026-10-28T08:10:52Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "fKh3MjNXBFA",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Putin arrives ahead of talks with Trump and Xi in China | Mornings with Ridge and Frost",
-      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews.\n\nJoin the conversation in real time via social media platforms as well as emailing the team on mornings@sky.uk\n\nAlongside the live show, there w…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fKh3MjNXBFA/default.jpg?v=6afd3cf5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fKh3MjNXBFA/mqdefault.jpg?v=6afd3cf5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fKh3MjNXBFA/hqdefault.jpg?v=6afd3cf5"
-        }
-      },
-      "concurrentViewers": 1138,
-      "startedAt": "2026-11-18T05:58:07Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "flZOM5jcMXg",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "Trump arrives in China ahead of Putin and Xi meeting",
-      "description": "Vladimir Putin has already touched down in Shenzhen, China - ahead of an historic trilateral meeting with Donald Trump and Xi Jinping. \n\nThe talks will bring together the world's three biggest nuclear powers. \n\nFollow live ➡️ https://news.sky.com/story/putin-arrives-in-china-for-unprecedented-trump…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/flZOM5jcMXg/default.jpg?v=6afd54d8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/flZOM5jcMXg/mqdefault.jpg?v=6afd54d8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/flZOM5jcMXg/hqdefault.jpg?v=6afd54d8"
-        }
-      },
-      "concurrentViewers": 745,
-      "startedAt": "2026-11-18T08:10:06Z",
       "regionRestriction": null
     },
     {
@@ -94,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 1116,
+      "concurrentViewers": 861,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -122,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3439,
+      "concurrentViewers": 3022,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "62pKbYPqUco",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Martin Daubney |  Wednesday 18th November",
+      "description": "Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/62pKbYPqUco/default.jpg?v=6afc602b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/62pKbYPqUco/mqdefault.jpg?v=6afc602b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/62pKbYPqUco/hqdefault.jpg?v=6afc602b"
+        }
+      },
+      "concurrentViewers": 1605,
+      "startedAt": "2026-11-18T14:56:26Z",
       "regionRestriction": null
     },
     {
@@ -146,62 +122,62 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 896,
+      "concurrentViewers": 240,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Od0xcS2QrGs",
+      "videoId": "V2mE0d_Gw-Q",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "PMQs: Andy Burnham takes questions – watch live",
+      "description": "The British prime minister Andy Burnham takes questions in parliament\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://support…",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/default.jpg?v=6afdac2f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/mqdefault.jpg?v=6afdac2f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/hqdefault.jpg?v=6afdac2f"
+        }
+      },
+      "concurrentViewers": 7,
+      "startedAt": "2026-11-18T12:00:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ILJhb74kHbs",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Trump arrives in China for APEC summit",
-      "description": "US President Donald Trump arrives in Shenzhen, China, for the APEC summit, where he is expected to have a high-stakes trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin.\n \n#apec #trump #xijinping #putin #china #shenzhen #apecsummit #us #live #Reuters #News\n\nKe…",
+      "title": "LIVE: Homeland Security Secretary Markwayne Mullin testifies before House committee",
+      "description": "US Secretary of Homeland Security Markwayne Mullin testifies before the House Homeland Security Committee in a hearing titled, “Worldwide Threats to the Homeland: 25 Years After 9/11.”\n \n#us #homelandsecurity #markwaynemullin #live #Reuters #News\n\nKeep up with the latest news from around the world:…",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Od0xcS2QrGs/default.jpg?v=6afd66af"
+          "url": "https://i.ytimg.com/vi/ILJhb74kHbs/default.jpg?v=6afdc4b1"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Od0xcS2QrGs/mqdefault.jpg?v=6afd66af"
+          "url": "https://i.ytimg.com/vi/ILJhb74kHbs/mqdefault.jpg?v=6afdc4b1"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Od0xcS2QrGs/hqdefault.jpg?v=6afd66af"
+          "url": "https://i.ytimg.com/vi/ILJhb74kHbs/hqdefault.jpg?v=6afdc4b1"
         }
       },
-      "concurrentViewers": 70,
-      "startedAt": "2026-11-18T08:47:08Z",
+      "concurrentViewers": 167,
+      "startedAt": "2026-11-18T14:57:36Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4mz0DDhbObk",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Officials from various countries speak at COP31",
-      "description": "Senior officials from various countries deliver speeches at COP31 for second part of summit’s high level segment.\n\nChina's Alibaba is the only big tech company so far to have ‌signed a UN-backed promise to reduce the environmental impact of artificial intelligence, as major US companies have stayed…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4mz0DDhbObk/default.jpg?v=6afd6033"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4mz0DDhbObk/mqdefault.jpg?v=6afd6033"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4mz0DDhbObk/hqdefault.jpg?v=6afd6033"
-        }
-      },
-      "concurrentViewers": 4,
-      "startedAt": "2026-11-18T07:54:17Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "yLhM_3JLFow",
+      "videoId": "d407BwnLeVA",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Nov. 18",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -209,17 +185,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/yLhM_3JLFow/default.jpg?v=6afc9c92"
+          "url": "https://i.ytimg.com/vi/d407BwnLeVA/default.jpg?v=6afdde72"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/yLhM_3JLFow/mqdefault.jpg?v=6afc9c92"
+          "url": "https://i.ytimg.com/vi/d407BwnLeVA/mqdefault.jpg?v=6afdde72"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/yLhM_3JLFow/hqdefault.jpg?v=6afc9c92"
+          "url": "https://i.ytimg.com/vi/d407BwnLeVA/hqdefault.jpg?v=6afdde72"
         }
       },
-      "concurrentViewers": 511,
-      "startedAt": "2026-11-17T22:59:13Z",
+      "concurrentViewers": 4600,
+      "startedAt": "2026-11-18T11:32:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kyh14T8Oa8M",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Wednesday, November 18",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kyh14T8Oa8M/default.jpg?v=6af9ffb9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kyh14T8Oa8M/mqdefault.jpg?v=6af9ffb9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kyh14T8Oa8M/hqdefault.jpg?v=6af9ffb9"
+        }
+      },
+      "concurrentViewers": 2749,
+      "startedAt": "2026-11-18T10:57:43Z",
       "regionRestriction": null
     },
     {
@@ -242,12 +242,36 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1005,
+      "concurrentViewers": 889,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ToNKKYWVQdE",
+      "videoId": "L4nfI0pmKy4",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "DHS Secretary Mullin testifies before House Homeland Security Committee on worldwide threats",
+      "description": "Department of Homeland Security Secretary Markwayne Mullin and FBI Deputy Director Christopher Raia are testifying before the House Homeland Security Committee on worldwide threats. https://abcnews.visitlink.me/MB1IVJ\n–––\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L4nfI0pmKy4/default.jpg?v=6afdc7d1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L4nfI0pmKy4/mqdefault.jpg?v=6afdc7d1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L4nfI0pmKy4/hqdefault.jpg?v=6afdc7d1"
+        }
+      },
+      "concurrentViewers": 887,
+      "startedAt": "2026-11-18T15:19:45Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fkAhVjVttpc",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -257,41 +281,94 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ToNKKYWVQdE/default.jpg?v=6afcc72e"
+          "url": "https://i.ytimg.com/vi/fkAhVjVttpc/default.jpg?v=6afcc99d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ToNKKYWVQdE/mqdefault.jpg?v=6afcc72e"
+          "url": "https://i.ytimg.com/vi/fkAhVjVttpc/mqdefault.jpg?v=6afcc99d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ToNKKYWVQdE/hqdefault.jpg?v=6afcc72e"
+          "url": "https://i.ytimg.com/vi/fkAhVjVttpc/hqdefault.jpg?v=6afcc99d"
         }
       },
-      "concurrentViewers": 338,
-      "startedAt": "2026-11-17T23:59:48Z",
+      "concurrentViewers": 994,
+      "startedAt": "2026-11-18T11:59:42Z",
+      "regionRestriction": {
+        "blocked": [
+          "AU",
+          "CA"
+        ]
+      }
+    },
+    {
+      "videoId": "XjLBM3-Xv6I",
+      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+      "title": "Watch Live: DHS Secretary Markwayne Mullin testifies before House committee",
+      "description": "Homeland Security Secretary Markwayne Mullin is testifying before the House Committee on Homeland Security amid concerns about tech outages nationwide. \n\n#news #politics #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to…",
+      "channelTitle": "CBS News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XjLBM3-Xv6I/default.jpg?v=6afde24e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XjLBM3-Xv6I/mqdefault.jpg?v=6afde24e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XjLBM3-Xv6I/hqdefault.jpg?v=6afde24e"
+        }
+      },
+      "concurrentViewers": 475,
+      "startedAt": "2026-11-18T15:06:39Z",
       "regionRestriction": null
     },
     {
-      "videoId": "rK2q5DpQwEM",
+      "videoId": "CiursXbr7kk",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: FAA pauses router installations, Senate hearing on Roblox child safety concerns & more",
-      "description": "The FAA paused router installations, following a nationwide ground stop which led to the cancellation of more than 18,000 flights.\n\nThe Senate held a hearing on Roblox and child safety concerns, online abuse, and exploitation.\n\nSubscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_c…",
+      "title": "LIVE NEWS: Trump-Xi-Putin meeting in China, Mullin FAA outage hearing, US-Iran war & more",
+      "description": "President Trump greeted Russia President Putin in China ahead of trilateral talks alongside Chinese President Xi Jinping. The talks come as the US continues to broker a peace deal between Russia and Ukraine. President Trump also set to continue trade talks with China following unfulfilled promises.…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rK2q5DpQwEM/default.jpg?v=6afc4b27"
+          "url": "https://i.ytimg.com/vi/CiursXbr7kk/default.jpg?v=6afd8992"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rK2q5DpQwEM/mqdefault.jpg?v=6afc4b27"
+          "url": "https://i.ytimg.com/vi/CiursXbr7kk/mqdefault.jpg?v=6afd8992"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rK2q5DpQwEM/hqdefault.jpg?v=6afc4b27"
+          "url": "https://i.ytimg.com/vi/CiursXbr7kk/hqdefault.jpg?v=6afd8992"
         }
       },
-      "concurrentViewers": 365,
-      "startedAt": "2026-11-17T12:41:46Z",
+      "concurrentViewers": 1222,
+      "startedAt": "2026-11-18T11:22:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "x6sSpxQkFTw",
+      "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+      "title": "WATCH LIVE: DHS Sec. Markwayne Mullin faces Congress",
+      "description": "Wednesday, Department of Homeland Security Secretary Markwayne Mullin was set to appear before the House Homeland Security Committee for a hearing on \"Worldwide Threats to the Homeland: 25 Years after 9/11\". Director of National Intelligence Jay Clayton and Deputy FBI Director Christopher Raia were…",
+      "channelTitle": "LiveNOW from FOX",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x6sSpxQkFTw/default.jpg?v=6afdbb33"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x6sSpxQkFTw/mqdefault.jpg?v=6afdbb33"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x6sSpxQkFTw/hqdefault.jpg?v=6afdbb33"
+        }
+      },
+      "concurrentViewers": 743,
+      "startedAt": "2026-11-18T14:57:17Z",
       "regionRestriction": null
     },
     {
@@ -314,32 +391,32 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 219,
+      "concurrentViewers": 1567,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Yyq8fER2IzA",
+      "videoId": "0MmFhDYyo1Y",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Trump arrives in China for the APEC summit and talks with Xi and Putin",
-      "description": "Watch live as U.S. President Donald Trump arrives in Shenzhen, China, for the Asia-Pacific Economic Cooperation (APEC) summit, where he is scheduled to meet Chinese President Xi Jinping and Russian President Vladimir Putin. Read more: bit.ly/4iMgs5J\n\n#trump #china #live",
+      "title": "LIVE: Markwayne Mullin testifies on worldwide threats",
+      "description": "Watch live as Homeland Security Secretary Markwayne Mullin and Deputy FBI Director Christopher Raia testify in Washington at a House Committee on Homeland Security hearing titled “Worldwide Threats to the Homeland: 25 Years After 9/11.”\n\nMullin on Tuesday defended using a government plane to attend…",
       "channelTitle": "Associated Press",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Yyq8fER2IzA/default.jpg?v=6afd6415"
+          "url": "https://i.ytimg.com/vi/0MmFhDYyo1Y/default.jpg?v=6afdc1eb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Yyq8fER2IzA/mqdefault.jpg?v=6afd6415"
+          "url": "https://i.ytimg.com/vi/0MmFhDYyo1Y/mqdefault.jpg?v=6afdc1eb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Yyq8fER2IzA/hqdefault.jpg?v=6afd6415"
+          "url": "https://i.ytimg.com/vi/0MmFhDYyo1Y/hqdefault.jpg?v=6afdc1eb"
         }
       },
-      "concurrentViewers": 16724,
-      "startedAt": "2026-11-18T08:05:24Z",
+      "concurrentViewers": 5601,
+      "startedAt": "2026-11-18T14:36:33Z",
       "regionRestriction": null
     },
     {
@@ -362,7 +439,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 6121,
+      "concurrentViewers": 9187,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -386,7 +463,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 82,
+      "concurrentViewers": 58,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -410,7 +487,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 10175,
+      "concurrentViewers": 10961,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -438,7 +515,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 377,
+      "concurrentViewers": 539,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -462,7 +539,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1516,
+      "concurrentViewers": 2044,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -486,7 +563,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 8284,
+      "concurrentViewers": 8919,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -510,7 +587,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 345,
+      "concurrentViewers": 195,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -538,7 +615,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 101,
+      "concurrentViewers": 91,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -562,7 +639,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 214,
+      "concurrentViewers": 174,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -577,16 +654,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a176"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a1e0"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a176"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a1e0"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a176"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a1e0"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 62,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -610,87 +687,87 @@
           "url": "https://i.ytimg.com/vi/FGLosIN0VpE/hqdefault.jpg?v=6afd4fe3"
         }
       },
-      "concurrentViewers": 77,
+      "concurrentViewers": 58,
       "startedAt": "2026-11-18T08:15:48Z",
       "regionRestriction": null
     },
     {
-      "videoId": "J1tPH_PAgtQ",
+      "videoId": "HJdU0taLDco",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Prince William, Kate Middleton In India | Prince William In Mumbai | Prince William At Dharma LIVE",
-      "description": "Mumbai (India): Prince William and Princess Kate explore a Bollywood studio in Mumbai to witness behind-the-scenes of filmmaking and celebrate the cultural influence of Indian cinema on the world.\n\n#princewilliam #britain #india #karanjohar #kareenakapoorkhan #mumbai #bollywood #flimcity  #dharmapr…",
+      "title": "Total Chess World Championship 2026 LIVE | Total Chess 2026 | Knockout Semifinals Day 2",
+      "description": "The Total Chess World Championship Tour 2026 gets underway in Budapest, Hungary, with its grand opening ceremony.\n\nWatch LIVE as players, officials and chess enthusiasts come together to mark the beginning of the prestigious tournament. The event brings together some of the world's leading chess ta…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/J1tPH_PAgtQ/default.jpg?v=6afd535c"
+          "url": "https://i.ytimg.com/vi/HJdU0taLDco/default.jpg?v=6afd8c12"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/J1tPH_PAgtQ/mqdefault.jpg?v=6afd535c"
+          "url": "https://i.ytimg.com/vi/HJdU0taLDco/mqdefault.jpg?v=6afd8c12"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/J1tPH_PAgtQ/hqdefault.jpg?v=6afd535c"
+          "url": "https://i.ytimg.com/vi/HJdU0taLDco/hqdefault.jpg?v=6afd8c12"
         }
       },
-      "concurrentViewers": 86,
-      "startedAt": "2026-11-18T07:39:40Z",
+      "concurrentViewers": 30,
+      "startedAt": "2026-11-18T13:42:07Z",
       "regionRestriction": null
     },
     {
-      "videoId": "4id2i1FS2bM",
+      "videoId": "8X-K7TFyEb4",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "TRUMP In China LIVE: US President Donald Trump Meets China's Xi Jinping And Putin | APEC SUMMIT 2026",
-      "description": "United States President Donald Trump concluded his official visit to the Philippines on Wednesday, departing the Southeast Asian nation aboard Air Force One from Ninoy Aquino International Airport.\n\nTrump is en route to Shenzhen, China, to participate in the Asia-Pacific Economic Cooperation (APEC)…",
+      "title": "TVS Controversy LIVE | TVS Family Feud: Why Venu Srinivasan's Daughter Has Taken Him To Court",
+      "description": "A family feud is unfolding within one of India's oldest business houses, the TVS Group, whose businesses have an annual turnover of over ₹58,000 crore. Patriarch Venu Srinivasan maintains that the family assets were divided fairly, while his daughter Lakshmi Venu argues that the agreements did not …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4id2i1FS2bM/default.jpg?v=6afd5eb6"
+          "url": "https://i.ytimg.com/vi/8X-K7TFyEb4/default.jpg?v=6afdcd59"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4id2i1FS2bM/mqdefault.jpg?v=6afd5eb6"
+          "url": "https://i.ytimg.com/vi/8X-K7TFyEb4/mqdefault.jpg?v=6afdcd59"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4id2i1FS2bM/hqdefault.jpg?v=6afd5eb6"
+          "url": "https://i.ytimg.com/vi/8X-K7TFyEb4/hqdefault.jpg?v=6afdcd59"
         }
       },
-      "concurrentViewers": 25,
-      "startedAt": "2026-11-18T08:22:44Z",
+      "concurrentViewers": 24,
+      "startedAt": "2026-11-18T16:52:12Z",
       "regionRestriction": null
     },
     {
-      "videoId": "zrA3i1Vc-hk",
+      "videoId": "YxGbwFe36oU",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi News Today | Rahul Gandh Columbia University | BJP Hits Back At Rahul Gandhi | LIVE",
-      "description": "WATCH LIVE: BJP Press Briefing by Gaurav Bhatia |Congress |Rahul Gandhi’s Remarks on India’s Economy\n\n#bjp #gauravbhatia #pressconference #rahulgandhi #indiaeconomy #live #congress \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news,…",
+      "title": "TAMIL NADU NEWS LIVE: Tamil Nadu Horse-Trading Row: Durai Vaiko Alleges DMK Trying To Buy TVK MLAs",
+      "description": "MDMK MP Durai Vaiko has alleged that the DMK is attempting to poach TVK MLAs by offering up to ₹40 crore each in a bid to weaken the ruling party's majority in Tamil Nadu. He has also claimed that efforts are underway to form a covert DMK-AIADMK alliance.\n\n#DuraiVaiko #DMK #TVK #TamilNaduPolitics #…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zrA3i1Vc-hk/default.jpg?v=6afd5771"
+          "url": "https://i.ytimg.com/vi/YxGbwFe36oU/default.jpg?v=6afdcb45"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zrA3i1Vc-hk/mqdefault.jpg?v=6afd5771"
+          "url": "https://i.ytimg.com/vi/YxGbwFe36oU/mqdefault.jpg?v=6afdcb45"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zrA3i1Vc-hk/hqdefault.jpg?v=6afd5771"
+          "url": "https://i.ytimg.com/vi/YxGbwFe36oU/hqdefault.jpg?v=6afdcb45"
         }
       },
-      "concurrentViewers": 14,
-      "startedAt": "2026-11-18T08:14:24Z",
+      "concurrentViewers": 19,
+      "startedAt": "2026-11-18T16:30:26Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Lashkar Terrorist Lateef Bhat Killed | PM Modi | Trump | Rahul Gandhi | Nvidia",
-      "description": "India Today LIVE: Lashkar Terrorist Lateef Bhat Killed | PM Modi | Trump | Rahul Gandhi | Nvidia\n\nSecurity forces in Jammu and Kashmir have eliminated Lashkar-e-Taiba commander Latif Bhat during an encounter in the Zungalpora area of Kulgam district. Regarded as one of the last surviving local comm…",
+      "title": "India Today LIVE: Trump Arrives In China For APEC Summit | Kulgam Encounter | PM Modi | Rahul Gandhi",
+      "description": "India Today LIVE: Trump Arrives In China For APEC Summit | Kulgam Encounter | PM Modi | Rahul Gandhi\n\nSecurity forces in Jammu and Kashmir have eliminated Lashkar-e-Taiba commander Latif Bhat during an encounter in the Zungalpora area of Kulgam district. Regarded as one of the last surviving local …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -706,15 +783,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 670,
+      "concurrentViewers": 486,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GQH3aFC6FME",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Rahul Gandhi Attacks Modi Govt In US | Is Attacking Govt Abroad 'Anti-National'? | NewsToday",
+      "description": "LIVE:Rahul Gandhi Warns Of Economic Crisis Under Modi | BJP Calls Him 'Anti-India' | BJP vs Congress\n#RahulGandhi #NewYork #RahulGandhiInUSA #ModiGovernment #NarendraModi #BJP #Congress #BJPvsCongress #IndianEconomy #IndiaEconomy #RahulGandhiSpeech #USVisit #IndiaPolitics #PoliticalDebate #BJPvsRah…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GQH3aFC6FME/default.jpg?v=6afdc953"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GQH3aFC6FME/mqdefault.jpg?v=6afdc953"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GQH3aFC6FME/hqdefault.jpg?v=6afdc953"
+        }
+      },
+      "concurrentViewers": 38,
+      "startedAt": "2026-11-18T15:53:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "5HhfmkrEvw0",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Trump-Putin-Xi Jinping Trilateral Meeting | Nukes, Nvidia & Trade | India Today Roundtable",
+      "description": "LIVE: Trump-Putin-Xi Jinping Trilateral Meeting | Nukes, Nvidia & Trade | India Today Roundtable\n#Trump #Putin #XiJinping #TrumpPutinXi #APEC2026 #APECSummit #ShenzhenSummit #USChinaRelations #USRussiaRelations #RussiaUkraineWar #IranWar #USSanctions #TrumpTariffs #ChinaTrade #GlobalPolitics #Geopo…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5HhfmkrEvw0/default.jpg?v=6afdd1bb"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5HhfmkrEvw0/mqdefault.jpg?v=6afdd1bb"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5HhfmkrEvw0/hqdefault.jpg?v=6afdd1bb"
+        }
+      },
+      "concurrentViewers": 34,
+      "startedAt": "2026-11-18T16:27:49Z",
       "regionRestriction": null
     },
     {
       "videoId": "6rsd76nDU4U",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: UP Elections | CM Yogi | Akhilesh Yadav | PM Modi | Kulgam Encounter | Hindi News",
-      "description": "जम्मू-कश्मीर सुरक्षा बलों ने दक्षिण कश्मीर के कुलगाम जिले में हुई मुठभेड़ के दौरान लश्कर-ए-तैयबा (LeT) के कमांडर मोहम्मद लतीफ भट को मार गिराया है. लतीफ भट 11 नवंबर को कुलगाम के मीर बाजार के पास CRPF चौकी पर हुए हमले का मुख्य साजिशकर्ता था, जिसमें तीन जवान घायल हो गए थे. भारतीय सेना, जम्मू-कश्मीर पु…",
+      "title": "Aaj Tak LIVE: UP Elections | Azam Khan Released From Jail | CM Yogi | Akhilesh Yadav | PM Modi",
+      "description": "समाजवादी पार्टी के नेता आजम खान डासना जेल से बाहर आ गए हैं. बीते दिनों उन्हें इलाहाबाद हाईकोर्ट से जमानत मिली थी. उनकी रिहाई से पहले ही केंद्रीय एजेंसी ने सुप्रीम कोर्ट में हाईकोर्ट के फैसले को चुनौती दे दी है. सपा के वरिष्ठ नेता की रिहाई 50-50 हजार रुपये के दो जमानती और 50 हजार रुपये का पर्सनल बॉन…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -730,7 +855,7 @@
           "url": "https://i.ytimg.com/vi/6rsd76nDU4U/hqdefault.jpg?v=6afc9b83"
         }
       },
-      "concurrentViewers": 1488,
+      "concurrentViewers": 1500,
       "startedAt": "2026-11-18T01:00:16Z",
       "regionRestriction": null
     },
@@ -754,32 +879,8 @@
           "url": "https://i.ytimg.com/vi/28O6lkREDNg/hqdefault.jpg?v=6afcfbb5"
         }
       },
-      "concurrentViewers": 406,
+      "concurrentViewers": 130,
       "startedAt": "2026-11-18T01:22:58Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ktw4zEJGQPU",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Kulgam Encounter LIVE Updates: मारा गया आतंकी लतीफ भट, कुलगाम में रची थी आतंकी हमले की साजिश",
-      "description": "मारा गया लतीफ भट.. खात्मा हो गया उस दहशतगर्द का.. जिसने कुलगाम में 11 नवंबर के आतंकी हमले की साजिश रची थी। लतीफ भट लगातार 8 दिनों से भाग रहा था। सुरक्षा बलों से बचने की कोशिश कर रहा था। लेकिन आखिरकार उसका अंत हो गया है। 15 लाख के इस इनामी आतंकी के खिलाफ कुलगाम में बड़ा ऑपरेशन चल रहा था। आखिरकार आज …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ktw4zEJGQPU/default.jpg?v=6afd58f9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ktw4zEJGQPU/mqdefault.jpg?v=6afd58f9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ktw4zEJGQPU/hqdefault.jpg?v=6afd58f9"
-        }
-      },
-      "concurrentViewers": 404,
-      "startedAt": "2026-11-18T07:57:56Z",
       "regionRestriction": null
     },
     {
@@ -802,7 +903,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 936,
+      "concurrentViewers": 421,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -826,7 +927,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 221,
+      "concurrentViewers": 336,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -850,7 +951,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2061,
+      "concurrentViewers": 596,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
