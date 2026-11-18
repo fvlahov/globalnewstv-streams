@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T18:27:00.623Z",
+  "generatedAt": "2026-11-18T01:11:54.328Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 4497,
+      "concurrentViewers": 2053,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 1062,
+      "concurrentViewers": 364,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3978,
+      "concurrentViewers": 1372,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ODV5N8DThmg",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Tuesday 17th November",
+      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ODV5N8DThmg/default.jpg?v=f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ODV5N8DThmg/mqdefault.jpg?v=f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ODV5N8DThmg/hqdefault.jpg?v=f"
+        }
+      },
+      "concurrentViewers": 302,
+      "startedAt": "2026-11-17T23:56:30Z",
       "regionRestriction": null
     },
     {
@@ -98,12 +122,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 233,
+      "concurrentViewers": 33,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "GQXZIzMiXow",
+      "videoId": "yLhM_3JLFow",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Nov. 17",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -113,17 +137,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GQXZIzMiXow/default.jpg?v=6afb5583"
+          "url": "https://i.ytimg.com/vi/yLhM_3JLFow/default.jpg?v=6afc9c92"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GQXZIzMiXow/mqdefault.jpg?v=6afb5583"
+          "url": "https://i.ytimg.com/vi/yLhM_3JLFow/mqdefault.jpg?v=6afc9c92"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GQXZIzMiXow/hqdefault.jpg?v=6afb5583"
+          "url": "https://i.ytimg.com/vi/yLhM_3JLFow/hqdefault.jpg?v=6afc9c92"
         }
       },
-      "concurrentViewers": 5925,
-      "startedAt": "2026-11-17T11:34:47Z",
+      "concurrentViewers": 3085,
+      "startedAt": "2026-11-17T22:59:13Z",
       "regionRestriction": null
     },
     {
@@ -146,12 +170,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1227,
+      "concurrentViewers": 915,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "ASwsKXCT2qI",
+      "videoId": "ToNKKYWVQdE",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -161,24 +185,24 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ASwsKXCT2qI/default.jpg?v=6afc40df"
+          "url": "https://i.ytimg.com/vi/ToNKKYWVQdE/default.jpg?v=6afcc72e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ASwsKXCT2qI/mqdefault.jpg?v=6afc40df"
+          "url": "https://i.ytimg.com/vi/ToNKKYWVQdE/mqdefault.jpg?v=6afcc72e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ASwsKXCT2qI/hqdefault.jpg?v=6afc40df"
+          "url": "https://i.ytimg.com/vi/ToNKKYWVQdE/hqdefault.jpg?v=6afcc72e"
         }
       },
-      "concurrentViewers": 1460,
-      "startedAt": "2026-11-17T11:59:18Z",
+      "concurrentViewers": 768,
+      "startedAt": "2026-11-17T23:59:48Z",
       "regionRestriction": null
     },
     {
       "videoId": "rK2q5DpQwEM",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump attends ASEAN summit, US bank outages, Russia-Ukraine latest & more",
-      "description": "President Trump landed in Manila on Tuesday to begin a 48-hour Asia trip in which he will meet with Xi Jinping of China and other world leaders, with an unpredictable agenda that could include the future of American tariffs, nuclear arms control, the war in Ukraine and U.S. restrictions on advanced…",
+      "title": "LIVE NEWS: FAA pauses router installations, Senate hearing on Roblox child safety concerns & more",
+      "description": "The FAA paused router installations, following a nationwide ground stop which led to the cancellation of more than 18,000 flights.\n\nThe Senate held a hearing on Roblox and child safety concerns, online abuse, and exploitation.\n\nSubscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_c…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -194,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/rK2q5DpQwEM/hqdefault.jpg?v=6afc4b27"
         }
       },
-      "concurrentViewers": 1482,
+      "concurrentViewers": 712,
       "startedAt": "2026-11-17T12:41:46Z",
       "regionRestriction": null
     },
@@ -218,56 +242,8 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 2064,
+      "concurrentViewers": 1419,
       "startedAt": "2026-11-12T21:30:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_whtI14euwk",
-      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-      "title": "The Rob Carson Show LIVE (11/17/2026) | NEWSMAX Podcasts",
-      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
-      "channelTitle": "Newsmax",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_whtI14euwk/default.jpg?v=6afb84bd"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_whtI14euwk/mqdefault.jpg?v=6afb84bd"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_whtI14euwk/hqdefault.jpg?v=6afb84bd"
-        }
-      },
-      "concurrentViewers": 128,
-      "startedAt": "2026-11-17T17:05:47Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Oun9WGqsJv4",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Semafor host Silicon Valley and the World tech summit",
-      "description": "Watch live as tech executives and government leaders gather for the second day of Silicon Valley and the World, a summit in San Francisco hosted by Semafor.",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Oun9WGqsJv4/default.jpg?v=6afc79dd"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Oun9WGqsJv4/mqdefault.jpg?v=6afc79dd"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Oun9WGqsJv4/hqdefault.jpg?v=6afc79dd"
-        }
-      },
-      "concurrentViewers": 65,
-      "startedAt": "2026-11-17T17:07:25Z",
       "regionRestriction": null
     },
     {
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 9435,
+      "concurrentViewers": 2146,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 74,
+      "concurrentViewers": 103,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -338,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 11379,
+      "concurrentViewers": 6263,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 632,
+      "concurrentViewers": 382,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1680,
+      "concurrentViewers": 919,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 8372,
+      "concurrentViewers": 4398,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -438,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 199,
+      "concurrentViewers": 135,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -466,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 101,
+      "concurrentViewers": 50,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -490,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 172,
+      "concurrentViewers": 177,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -505,16 +481,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a0c9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a11a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a0c9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a11a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a0c9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a11a"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -538,32 +514,8 @@
           "url": "https://i.ytimg.com/vi/xgxy6E8H4-M/hqdefault.jpg?v=6af94e61"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 35,
       "startedAt": "2026-11-15T06:22:49Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "UU16W_cCXGY",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Total Chess World Championship 2026 LIVE | Total Chess 2026 | Knockout Semifinals Day1",
-      "description": "The Total Chess World Championship Tour 2026 gets underway in Budapest, Hungary, with its grand opening ceremony.\n\nWatch LIVE as players, officials and chess enthusiasts come together to mark the beginning of the prestigious tournament. The event brings together some of the world's leading chess ta…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UU16W_cCXGY/default.jpg?v=6afc3a8a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UU16W_cCXGY/mqdefault.jpg?v=6afc3a8a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UU16W_cCXGY/hqdefault.jpg?v=6afc3a8a"
-        }
-      },
-      "concurrentViewers": 33,
-      "startedAt": "2026-11-17T13:44:34Z",
       "regionRestriction": null
     },
     {
@@ -586,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/4TaEA2uVuko/hqdefault.jpg?v=6afc5929"
         }
       },
-      "concurrentViewers": 8,
+      "concurrentViewers": 4,
       "startedAt": "2026-11-17T13:58:33Z",
       "regionRestriction": null
     },
@@ -610,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 259,
+      "concurrentViewers": 238,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -634,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/xqZQLo8lOeM/hqdefault.jpg?v=6afc4f52"
         }
       },
-      "concurrentViewers": 2195,
+      "concurrentViewers": 231,
       "startedAt": "2026-11-17T15:21:36Z",
       "regionRestriction": null
     },
@@ -658,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 404,
+      "concurrentViewers": 2698,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,8 +634,32 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 184,
+      "concurrentViewers": 137,
       "startedAt": "2026-08-14T01:21:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "x7HUDWZjMl4",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: APEC CEO Summit 2026 special coverage",
+      "description": "The Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026 opened Tuesday in Shenzhen, south China's Guangdong Province, bringing together more than 2,000 business and political leaders from 21 APEC economies and 13 non-APEC economies.\nHeld under the theme \"To Prosper and Win the Future Together,…",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x7HUDWZjMl4/default.jpg?v=6afce37f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x7HUDWZjMl4/mqdefault.jpg?v=6afce37f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x7HUDWZjMl4/hqdefault.jpg?v=6afce37f"
+        }
+      },
+      "concurrentViewers": 64,
+      "startedAt": "2026-11-18T00:33:48Z",
       "regionRestriction": null
     },
     {
@@ -706,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 785,
+      "concurrentViewers": 3137,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
