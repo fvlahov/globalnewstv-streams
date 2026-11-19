@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T23:58:42.221Z",
+  "generatedAt": "2026-11-19T07:10:03.696Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 APEC summit latest: Historic Trump-Putin-Xi talks to take place - after handshake goes viral in Russia - https://news.sky.com/story/putin-arrives-in-china-for-unprecedent…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 APEC summit latest: War and AI top of the agenda as Trump, Xi and Putin hold talks - https://news.sky.com/story/putin-arrives-in-china-for-unprecedented-trump-xi-talks-13…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 2968,
+      "concurrentViewers": 6403,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 418,
+      "concurrentViewers": 758,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1754,
+      "concurrentViewers": 2972,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "n8JnB73F4P4",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Breakfast with Stephen and Ellie | Thursday 19th November",
+      "description": "Join Stephen Dixon and Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: h…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n8JnB73F4P4/default.jpg?v=6afe8e24"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n8JnB73F4P4/mqdefault.jpg?v=6afe8e24"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n8JnB73F4P4/hqdefault.jpg?v=6afe8e24"
+        }
+      },
+      "concurrentViewers": 2394,
+      "startedAt": "2026-11-19T05:56:14Z",
       "regionRestriction": null
     },
     {
@@ -98,14 +122,38 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 493,
       "startedAt": "2026-08-27T12:03:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "DFxZPdF5pGg",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: China hosts 33rd APEC in Shenzhen",
+      "description": "China hosts the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen.\n\nUS President Donald Trump will cap his Asia trip with an unprecedented meeting with Chinese and Russian counterparts Xi Jinping and Vladimir Putin, pressing his ambitions for nuclear arms control e…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DFxZPdF5pGg/default.jpg?v=6afe67ca"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DFxZPdF5pGg/mqdefault.jpg?v=6afe67ca"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DFxZPdF5pGg/hqdefault.jpg?v=6afe67ca"
+        }
+      },
+      "concurrentViewers": 30,
+      "startedAt": "2026-11-19T03:06:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "mRiwuwH2Tlk",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 18",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -122,32 +170,8 @@
           "url": "https://i.ytimg.com/vi/mRiwuwH2Tlk/hqdefault.jpg?v=6afe2bcc"
         }
       },
-      "concurrentViewers": 3779,
+      "concurrentViewers": 810,
       "startedAt": "2026-11-18T22:59:03Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "kyh14T8Oa8M",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Wednesday, November 18",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kyh14T8Oa8M/default.jpg?v=6af9ffb9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kyh14T8Oa8M/mqdefault.jpg?v=6af9ffb9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kyh14T8Oa8M/hqdefault.jpg?v=6af9ffb9"
-        }
-      },
-      "concurrentViewers": 1361,
-      "startedAt": "2026-11-18T10:57:43Z",
       "regionRestriction": null
     },
     {
@@ -170,12 +194,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 668,
+      "concurrentViewers": 873,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "fkAhVjVttpc",
+      "videoId": "3jW0K6C7zHQ",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -185,23 +209,18 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/fkAhVjVttpc/default.jpg?v=6afcc99d"
+          "url": "https://i.ytimg.com/vi/3jW0K6C7zHQ/default.jpg?v=6afe3b9d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/fkAhVjVttpc/mqdefault.jpg?v=6afcc99d"
+          "url": "https://i.ytimg.com/vi/3jW0K6C7zHQ/mqdefault.jpg?v=6afe3b9d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/fkAhVjVttpc/hqdefault.jpg?v=6afcc99d"
+          "url": "https://i.ytimg.com/vi/3jW0K6C7zHQ/hqdefault.jpg?v=6afe3b9d"
         }
       },
-      "concurrentViewers": 663,
-      "startedAt": "2026-11-18T11:59:42Z",
-      "regionRestriction": {
-        "blocked": [
-          "AU",
-          "CA"
-        ]
-      }
+      "concurrentViewers": 330,
+      "startedAt": "2026-11-19T00:00:58Z",
+      "regionRestriction": null
     },
     {
       "videoId": "CiursXbr7kk",
@@ -223,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/CiursXbr7kk/hqdefault.jpg?v=6afd8992"
         }
       },
-      "concurrentViewers": 787,
+      "concurrentViewers": 452,
       "startedAt": "2026-11-18T11:22:22Z",
       "regionRestriction": null
     },
@@ -247,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1559,
+      "concurrentViewers": 245,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -271,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 2039,
+      "concurrentViewers": 4772,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -295,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 48,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -319,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6197,
+      "concurrentViewers": 10152,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -347,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 368,
+      "concurrentViewers": 406,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -371,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 978,
+      "concurrentViewers": 1713,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -395,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5249,
+      "concurrentViewers": 9068,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -419,13 +438,37 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 135,
+      "concurrentViewers": 345,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
           "TR"
         ]
       }
+    },
+    {
+      "videoId": "X-3hle525zo",
+      "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+      "title": "LIVE: Xi, Trump and Putin together in a historic trilateral meeting| Europe Today S2 #4",
+      "description": "#EuropeToday: The heads of state of China, Russia and the US are expected to discuss denuclearization and the Iran war, but not Ukraine. We speak with Kremlin critic Bill Browder. The Coalition of the Willing will meet in Berlin, we talk about it with Ignacy Niemczycki, Poland Deputy Foreign Minist…",
+      "channelTitle": "euronews",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X-3hle525zo/default.jpg?v=1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X-3hle525zo/mqdefault.jpg?v=1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X-3hle525zo/hqdefault.jpg?v=1"
+        }
+      },
+      "concurrentViewers": 53,
+      "startedAt": "2026-11-19T06:59:58Z",
+      "regionRestriction": null
     },
     {
       "videoId": "NiRIbKwAejk",
@@ -447,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 94,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -471,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 134,
+      "concurrentViewers": 189,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -486,16 +529,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a22a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a27f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a22a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a27f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a22a"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a27f"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 42,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -519,87 +562,87 @@
           "url": "https://i.ytimg.com/vi/FGLosIN0VpE/hqdefault.jpg?v=6afd4fe3"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 26,
       "startedAt": "2026-11-18T08:15:48Z",
       "regionRestriction": null
     },
     {
-      "videoId": "HJdU0taLDco",
+      "videoId": "NaMwrbTnlhw",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Total Chess World Championship 2026 LIVE | Total Chess 2026 | Knockout Semifinals Day 2",
-      "description": "The Total Chess World Championship Tour 2026 gets underway in Budapest, Hungary, with its grand opening ceremony.\n\nWatch LIVE as players, officials and chess enthusiasts come together to mark the beginning of the prestigious tournament. The event brings together some of the world's leading chess ta…",
+      "title": "NDTV LIVE: GTA 6 | APEC Summit | NVIDIA | Rahul Gandhi | PM Modi | Rahul Gandhi | Kulgam Encounter",
+      "description": "Grand Theft Auto (GTA), a game so loved, so anticipated that it became a timeline marker, is back after a long wait of 13 years with its sixth iteration. GTA 6, one of the best-selling video games ever even before you could play it, was finally available on Thursday, bringing gamers back to the neo…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HJdU0taLDco/default.jpg?v=6afd8c12"
+          "url": "https://i.ytimg.com/vi/NaMwrbTnlhw/default.jpg?v=6afe4dab"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HJdU0taLDco/mqdefault.jpg?v=6afd8c12"
+          "url": "https://i.ytimg.com/vi/NaMwrbTnlhw/mqdefault.jpg?v=6afe4dab"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HJdU0taLDco/hqdefault.jpg?v=6afd8c12"
+          "url": "https://i.ytimg.com/vi/NaMwrbTnlhw/hqdefault.jpg?v=6afe4dab"
         }
       },
-      "concurrentViewers": 4,
-      "startedAt": "2026-11-18T13:42:07Z",
+      "concurrentViewers": 19,
+      "startedAt": "2026-11-19T03:47:33Z",
       "regionRestriction": null
     },
     {
-      "videoId": "8X-K7TFyEb4",
+      "videoId": "ls4lKOLJF7Q",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "TVS Controversy LIVE | TVS Family Feud: Why Venu Srinivasan's Daughter Has Taken Him To Court",
-      "description": "A family feud is unfolding within one of India's oldest business houses, the TVS Group, whose businesses have an annual turnover of over ₹58,000 crore. Patriarch Venu Srinivasan maintains that the family assets were divided fairly, while his daughter Lakshmi Venu argues that the agreements did not …",
+      "title": "PM Modi Speech LIVE: PM Modi Inaugurates FICCI Centenary Convention In New Delhi | WATCH LIVE | NDTV",
+      "description": "Prime Minister Narendra Modi inaugurates the Federation of Indian Chambers of Commerce and Industry (FICCI) Centenary Year Convention in New Delhi. The event marks 100 years of FICCI, one of India's leading industry and business organisations.\n\nWatch LIVE coverage of PM Modi's address and the inaug…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8X-K7TFyEb4/default.jpg?v=6afdcd59"
+          "url": "https://i.ytimg.com/vi/ls4lKOLJF7Q/default.jpg?v=6afe8fc2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8X-K7TFyEb4/mqdefault.jpg?v=6afdcd59"
+          "url": "https://i.ytimg.com/vi/ls4lKOLJF7Q/mqdefault.jpg?v=6afe8fc2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8X-K7TFyEb4/hqdefault.jpg?v=6afdcd59"
+          "url": "https://i.ytimg.com/vi/ls4lKOLJF7Q/hqdefault.jpg?v=6afe8fc2"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-18T16:52:12Z",
+      "concurrentViewers": 9,
+      "startedAt": "2026-11-19T06:00:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "YxGbwFe36oU",
+      "videoId": "B51aJGKrAKM",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "TAMIL NADU NEWS LIVE: Tamil Nadu Horse-Trading Row: Durai Vaiko Alleges DMK Trying To Buy TVK MLAs",
-      "description": "MDMK MP Durai Vaiko has alleged that the DMK is attempting to poach TVK MLAs by offering up to ₹40 crore each in a bid to weaken the ruling party's majority in Tamil Nadu. He has also claimed that efforts are underway to form a covert DMK-AIADMK alliance.\n\n#DuraiVaiko #DMK #TVK #TamilNaduPolitics #…",
+      "title": "MS Dhoni Retires LIVE | Inside MS Dhoni's Luxury Suite: ITC Grand Chola's Five-Star Tribute To Thala",
+      "description": "Cricket News LIVE: A suite fit for a cricketing legend! ITC Grand Chola in Chennai has unveiled an exclusive suite dedicated to MS Dhoni, celebrating his iconic No. 7 and extraordinary cricketing legacy. From a ceiling portrait and an art wall capturing three defining moments to Dhoni's memorabilia…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/YxGbwFe36oU/default.jpg?v=6afdcb45"
+          "url": "https://i.ytimg.com/vi/B51aJGKrAKM/default.jpg?v=6afe8c17"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/YxGbwFe36oU/mqdefault.jpg?v=6afdcb45"
+          "url": "https://i.ytimg.com/vi/B51aJGKrAKM/mqdefault.jpg?v=6afe8c17"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/YxGbwFe36oU/hqdefault.jpg?v=6afdcb45"
+          "url": "https://i.ytimg.com/vi/B51aJGKrAKM/hqdefault.jpg?v=6afe8c17"
         }
       },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-18T16:30:26Z",
+      "concurrentViewers": 9,
+      "startedAt": "2026-11-19T05:51:16Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Trump Arrives In China For APEC Summit | Kulgam Encounter | PM Modi | Rahul Gandhi",
-      "description": "India Today LIVE: Trump Arrives In China For APEC Summit | Kulgam Encounter | PM Modi | Rahul Gandhi\n\nSecurity forces in Jammu and Kashmir have eliminated Lashkar-e-Taiba commander Latif Bhat during an encounter in the Zungalpora area of Kulgam district. Regarded as one of the last surviving local …",
+      "title": "India Today LIVE: APEC Summit | Donald Trump | Rahul Gandhi | Kulgam Encounter | PM Modi | Nvidia",
+      "description": "India Today LIVE: APEC Summit | Donald Trump | Rahul Gandhi | Kulgam Encounter | PM Modi | Nvidia\n\nSecurity forces in Jammu and Kashmir have eliminated Lashkar-e-Taiba commander Latif Bhat during an encounter in the Zungalpora area of Kulgam district. Regarded as one of the last surviving local com…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -615,104 +658,128 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 108,
+      "concurrentViewers": 739,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "GQH3aFC6FME",
+      "videoId": "BGbOcfXvw1Q",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Rahul Gandhi Attacks Modi Govt In US | Is Attacking Govt Abroad 'Anti-National'? | NewsToday",
-      "description": "LIVE:Rahul Gandhi Warns Of Economic Crisis Under Modi | BJP Calls Him 'Anti-India' | BJP vs Congress\n#RahulGandhi #NewYork #RahulGandhiInUSA #ModiGovernment #NarendraModi #BJP #Congress #BJPvsCongress #IndianEconomy #IndiaEconomy #RahulGandhiSpeech #USVisit #IndiaPolitics #PoliticalDebate #BJPvsRah…",
+      "title": "LIVE: PM Modi Addresses FICCI Annual Convention In Delhi | FICCI AGM 2026 | India Today",
+      "description": "Prime Minister Narendra Modi addresses the FICCI Annual Convention and Annual General Meeting in New Delhi, bringing together business leaders, industry representatives and policymakers. \n\n#pmmodi #narendramodi #ficci #ficciagm #ficciconvention #indianeconomy #indianindustry #businessnews #manufact…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GQH3aFC6FME/default.jpg?v=6afdc953"
+          "url": "https://i.ytimg.com/vi/BGbOcfXvw1Q/default.jpg?v=6afe8fd9"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GQH3aFC6FME/mqdefault.jpg?v=6afdc953"
+          "url": "https://i.ytimg.com/vi/BGbOcfXvw1Q/mqdefault.jpg?v=6afe8fd9"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GQH3aFC6FME/hqdefault.jpg?v=6afdc953"
+          "url": "https://i.ytimg.com/vi/BGbOcfXvw1Q/hqdefault.jpg?v=6afe8fd9"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-11-18T15:53:28Z",
+      "concurrentViewers": 76,
+      "startedAt": "2026-11-19T05:58:55Z",
       "regionRestriction": null
     },
     {
-      "videoId": "5HhfmkrEvw0",
+      "videoId": "o-hpwR8EPI4",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Trump-Putin-Xi Jinping Trilateral Meeting | Nukes, Nvidia & Trade | India Today Roundtable",
-      "description": "LIVE: Trump-Putin-Xi Jinping Trilateral Meeting | Nukes, Nvidia & Trade | India Today Roundtable\n#Trump #Putin #XiJinping #TrumpPutinXi #APEC2026 #APECSummit #ShenzhenSummit #USChinaRelations #USRussiaRelations #RussiaUkraineWar #IranWar #USSanctions #TrumpTariffs #ChinaTrade #GlobalPolitics #Geopo…",
+      "title": "APEC Summit 2026 LIVE: Donald Trump-Xi Jinping-Vladimir Putin Mega Trilateral In China | India Today",
+      "description": "The APEC Summit 2026 puts global power dynamics under the spotlight, with US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin drawing international attention. \n\n\n#donaldtrump #xijinping #vladimirputin #apec2026 #apecsummit #uschina #russia #geopolitics #glob…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5HhfmkrEvw0/default.jpg?v=6afdd1bb"
+          "url": "https://i.ytimg.com/vi/o-hpwR8EPI4/default.jpg?v=6afe97b1"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5HhfmkrEvw0/mqdefault.jpg?v=6afdd1bb"
+          "url": "https://i.ytimg.com/vi/o-hpwR8EPI4/mqdefault.jpg?v=6afe97b1"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5HhfmkrEvw0/hqdefault.jpg?v=6afdd1bb"
+          "url": "https://i.ytimg.com/vi/o-hpwR8EPI4/hqdefault.jpg?v=6afe97b1"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-11-18T16:27:49Z",
+      "concurrentViewers": 51,
+      "startedAt": "2026-11-19T06:49:01Z",
       "regionRestriction": null
     },
     {
-      "videoId": "TmtkSXODlhQ",
+      "videoId": "vSw7G6ewBe8",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Congress-SP Alliance News Updates: सीट बंटवारे पर सपा और कांग्रेस के बीच कहां फंसी पेंच? | Aaj Tak",
-      "description": "बीजेपी में मिशन 2027 चुनाव पर मंथन और चिंतन जारी हैं तो दूसरी तरफ मंगलवार को सीट शेयरिंग को लेकर होने वाली समाजवादी पार्टी और कांग्रेस की मीटिंग रद्द हो गई।बीते दिन यूपी कांग्रेस अध्यक्ष की तरफ से सीट शेयरिंग को लेकर मीटिंग का दावा किया गया था।सवाल यही है कि कांग्रेस और समाजवादी पार्टी गठबंधन में क…",
+      "title": "Trump Putin Jinping Meeting LIVE Updates: चीन के शेनझेन शहर में महाशक्तियों की त्रिपक्षीय वार्ता",
+      "description": "चीन के शेनझेन शहर में दुनिया के तीन ताकतवर नेता- अमेरिकी राष्ट्रपति ट्रंप, चीनी राष्ट्रपति शी जिनपिंग और रूस के राष्ट्रपति व्लादिमीर पुतिन की बैठक.  पहली बार तीनों नेता त्रिपक्षीय वार्ता कर रहे हैं। लिहाजा इस मुलाकात को बेहद उत्सुकता भरी निगाहों से देखा जा रहा है.\n\n#shenzhensummit #trump #putin #xi…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/TmtkSXODlhQ/default.jpg?v=6afdeefc"
+          "url": "https://i.ytimg.com/vi/vSw7G6ewBe8/default.jpg?v=6afe95ab"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/TmtkSXODlhQ/mqdefault.jpg?v=6afdeefc"
+          "url": "https://i.ytimg.com/vi/vSw7G6ewBe8/mqdefault.jpg?v=6afe95ab"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/TmtkSXODlhQ/hqdefault.jpg?v=6afdeefc"
+          "url": "https://i.ytimg.com/vi/vSw7G6ewBe8/hqdefault.jpg?v=6afe95ab"
         }
       },
-      "concurrentViewers": 49,
-      "startedAt": "2026-11-18T18:32:18Z",
+      "concurrentViewers": 522,
+      "startedAt": "2026-11-19T06:33:18Z",
       "regionRestriction": null
     },
     {
-      "videoId": "28O6lkREDNg",
+      "videoId": "2W46ytZFx1E",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: बड़ी खबरें देखिए फटाफट अंदाज में | Kulgam Encounter | UP Elections | Breaking",
-      "description": "जम्मू कश्मीर के कुलगाम में आतंकियों और सुरक्षा बल के बीच एनकाउंटर, लश्कर आतंकी लतीफ भट के घिरे होने की खबर\n\n क्वाड के मंच से PM मोदी ने दिया एकता का मंत्र,कहा- बनाएंगे मजबूत भविष्य की बुनियाद, डोनाल्ड ट्रंप ने की जमकर तारीफ \n\n\n#pmmodi #donaldtrump #upelection2027 #rahulgandhi #superfastnews #aajtak…",
+      "title": "Congress-SP Alliance News Updates: सीट बंटवारे पर सपा और कांग्रेस के बीच बनने वाली है बात? | Aaj Tak",
+      "description": "यूपी चुनाव में एक बड़ी गुत्थी इंडिया अलायंस में सीटों के बंटवारे को लेकर है...कांग्रेस और समाजवादी पार्टी के बीच सीटों कें बंटवारे को लेकर गजब खींचतान चल रही है लेकिन अखिलेश यादव का प्लान कुछ और ही है .अखिलेश ने कल सीटों के बंटवारे को लेकर गोरखपुर में पहली बार खुलकर बात की है...अखिलेश ने कह दिया है…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/28O6lkREDNg/default.jpg?v=6afcfbb5"
+          "url": "https://i.ytimg.com/vi/2W46ytZFx1E/default.jpg?v=6afe8be3"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/28O6lkREDNg/mqdefault.jpg?v=6afcfbb5"
+          "url": "https://i.ytimg.com/vi/2W46ytZFx1E/mqdefault.jpg?v=6afe8be3"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/28O6lkREDNg/hqdefault.jpg?v=6afcfbb5"
+          "url": "https://i.ytimg.com/vi/2W46ytZFx1E/hqdefault.jpg?v=6afe8be3"
         }
       },
-      "concurrentViewers": 31,
-      "startedAt": "2026-11-18T01:22:58Z",
+      "concurrentViewers": 130,
+      "startedAt": "2026-11-19T06:02:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "KslvnAvqRIo",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Supreme Court On Azam Khan LIVE: आजम खान को सुप्रीम कोर्ट से बड़ी राहत | UP Elections 2027 | Aaj Tak",
+      "description": "सुप्रीम कोर्ट से आजम खान को राहत मिली है. कोर्ट ने कहा कि वह जमानत देने के हाईकोर्ट के अंतरिम आदेश में दखल देने का इच्छुक नहीं है. ED की तरफ से पेश ASG ने कहा कि उन्होंने हाईकोर्ट से ट्रायल कोर्ट के रिकॉर्ड मंगाने का अनुरोध किया था. उन्होंने कहा कि मामले में संदेह और तथ्यों, दोनों को दर्ज किया जाना…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KslvnAvqRIo/default.jpg?v=6afe8a99"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KslvnAvqRIo/mqdefault.jpg?v=6afe8a99"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KslvnAvqRIo/hqdefault.jpg?v=6afe8a99"
+        }
+      },
+      "concurrentViewers": 128,
+      "startedAt": "2026-11-19T05:37:24Z",
       "regionRestriction": null
     },
     {
@@ -735,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 2251,
+      "concurrentViewers": 1169,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -759,8 +826,32 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 144,
+      "concurrentViewers": 200,
       "startedAt": "2026-08-14T01:21:12Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "uX4sYZ3lY_w",
+      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+      "title": "Live: Xi, Putin and Trump attend China-Russia-US Shenzhen Summit",
+      "description": "Chinese President Xi Jinping holds a China-Russia-US summit with Russian President Vladimir Putin and US President Donald Trump in Shenzhen, south China's Guangdong Province, on Thursday. #APECChinaYear #APECChina2026",
+      "channelTitle": "CGTN",
+      "country": "CN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uX4sYZ3lY_w/default.jpg?v=6afe8fd5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uX4sYZ3lY_w/mqdefault.jpg?v=6afe8fd5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uX4sYZ3lY_w/hqdefault.jpg?v=6afe8fd5"
+        }
+      },
+      "concurrentViewers": 77,
+      "startedAt": "2026-11-19T06:54:22Z",
       "regionRestriction": null
     },
     {
@@ -783,7 +874,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 3226,
+      "concurrentViewers": 1925,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
