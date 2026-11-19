@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T16:42:58.318Z",
+  "generatedAt": "2026-11-19T23:25:49.685Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Trilateral latest: Trump, Xi and Putin agree to push UN reform and increase fuel production in four-point statement - https://news.sky.com/story/putin-arrives-in-china-fo…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | 'The person I trusted most in the world betrayed me in the most horrific way', says rape victim Joanne Young - https://news.sky.com/video/joanne-youngs-message-to…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,32 +22,8 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 5939,
+      "concurrentViewers": 2828,
       "startedAt": "2026-10-28T08:10:52Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ImRe79kSPZs",
-      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "title": "European leaders speak at Ukraine summit in Berlin",
-      "description": "German Chancellor Friedrich Merz hosts a summit of the 'Coalition of the Willing' on Ukraine, with Prime Minister Andy Burnham and French President Emmanuel Macron attending.\n\n🎧Trump, Putin and Xi - Will the first-ever superpower talks bring global stability? ➡️https://trib.al/2Dunfww\n\n#Ukraine #B…",
-      "channelTitle": "Sky News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ImRe79kSPZs/default.jpg?v=6afe0110"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ImRe79kSPZs/mqdefault.jpg?v=6afe0110"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ImRe79kSPZs/hqdefault.jpg?v=6afe0110"
-        }
-      },
-      "concurrentViewers": 1037,
-      "startedAt": "2026-11-19T15:49:57Z",
       "regionRestriction": null
     },
     {
@@ -70,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 733,
+      "concurrentViewers": 425,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -98,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3095,
+      "concurrentViewers": 1971,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "St0-Zckd-J4",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Patrick Christys Tonight Late Edition | Thursday 19th November",
+      "description": "Tomorrow's news, tonight. All the major stories making the front pages and full coverage of all the breaking news at home and abroad with Patrick Christys.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsO…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/St0-Zckd-J4/default.jpg?v=6aff5808"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/St0-Zckd-J4/mqdefault.jpg?v=6aff5808"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/St0-Zckd-J4/hqdefault.jpg?v=6aff5808"
+        }
+      },
+      "concurrentViewers": 592,
+      "startedAt": "2026-11-19T22:54:54Z",
       "regionRestriction": null
     },
     {
@@ -122,60 +122,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 292,
+      "concurrentViewers": 59,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "PX3qIp-F9fg",
-      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "title": "News conference following the Coalition of the Willing meeting - watch live",
-      "description": "‘Coalition of the Willing’ co-hosts, German Chancellor Friedrich Merz, French President Emmanuel Macron, British Prime Minister Andy Burnham give joint press conference after meeting on Ukraine support.",
-      "channelTitle": "Guardian News",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PX3qIp-F9fg/default.jpg?v=6aff2105"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PX3qIp-F9fg/mqdefault.jpg?v=6aff2105"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PX3qIp-F9fg/hqdefault.jpg?v=6aff2105"
-        }
-      },
-      "concurrentViewers": 6,
-      "startedAt": "2026-11-19T10:45:40Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "SPIe2nv1GQM",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Anthropic debuts on NASDAQ following record IPO",
-      "description": "Anthropic shares are expected to begin trading publicly on the NASDAQ. The company's record $81 billion IPO puts Wall Street's faith in the AI boom to the test, pitting promises of the technology as an economic game-changer against fears of a market bubble and risks to humanity.\n\n#anthropic #anthro…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SPIe2nv1GQM/default.jpg?v=6aff06a1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SPIe2nv1GQM/mqdefault.jpg?v=6aff06a1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SPIe2nv1GQM/hqdefault.jpg?v=6aff06a1"
-        }
-      },
-      "concurrentViewers": 39,
-      "startedAt": "2026-11-19T14:02:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "AowNYm8dxFA",
+      "videoId": "Qj_oQ0yQAME",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Nov. 19",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -185,17 +137,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/AowNYm8dxFA/default.jpg?v=6afe2c4a"
+          "url": "https://i.ytimg.com/vi/Qj_oQ0yQAME/default.jpg?v=6aff42ce"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/AowNYm8dxFA/mqdefault.jpg?v=6afe2c4a"
+          "url": "https://i.ytimg.com/vi/Qj_oQ0yQAME/mqdefault.jpg?v=6aff42ce"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/AowNYm8dxFA/hqdefault.jpg?v=6afe2c4a"
+          "url": "https://i.ytimg.com/vi/Qj_oQ0yQAME/hqdefault.jpg?v=6aff42ce"
         }
       },
-      "concurrentViewers": 6787,
-      "startedAt": "2026-11-19T12:32:22Z",
+      "concurrentViewers": 4142,
+      "startedAt": "2026-11-19T22:59:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qHToRlozwHo",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Thursday, November 19",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qHToRlozwHo/default.jpg?v=6af9ffff"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qHToRlozwHo/mqdefault.jpg?v=6af9ffff"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qHToRlozwHo/hqdefault.jpg?v=6af9ffff"
+        }
+      },
+      "concurrentViewers": 1065,
+      "startedAt": "2026-11-19T10:58:19Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1273,
+      "concurrentViewers": 789,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/YwMKWQd1W7Y/hqdefault.jpg?v=6afee4af"
         }
       },
-      "concurrentViewers": 1233,
+      "concurrentViewers": 680,
       "startedAt": "2026-11-19T12:00:31Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/CiursXbr7kk/hqdefault.jpg?v=6afd8992"
         }
       },
-      "concurrentViewers": 934,
+      "concurrentViewers": 693,
       "startedAt": "2026-11-18T11:22:22Z",
       "regionRestriction": null
     },
@@ -290,62 +266,14 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1556,
+      "concurrentViewers": 1450,
       "startedAt": "2026-11-12T21:30:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ITUVXZH983U",
-      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-      "title": "The Gerry Callahan Show LIVE (11/19/2026) | NEWSMAX Podcasts",
-      "description": "Get Gerry's latest takes on the hottest news and headlines from behind enemy lines in deep blue Boston on today's LIVE edition of The Gerry Callahan Show.  Subscribe to the show's podcast for FREE at http://newsmax.com/listen.\n\nListen to Newsmax LIVE and see our entire podcast lineup at http://News…",
-      "channelTitle": "Newsmax",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ITUVXZH983U/default.jpg?v=6afe0ac9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ITUVXZH983U/mqdefault.jpg?v=6afe0ac9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ITUVXZH983U/hqdefault.jpg?v=6afe0ac9"
-        }
-      },
-      "concurrentViewers": 84,
-      "startedAt": "2026-11-19T15:50:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "cpIlQK6p9cY",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Anthropic begins trading on Nasdaq after largest IPO on record",
-      "description": "Watch live as Anthropic shares begin trading on the Nasdaq after the company priced its IPO at $83 per share, valuing the artificial intelligence giant at $1.5 trillion and surpassing SpaceX as the largest initial public offering on record. Read more here: https://bit.ly/4fABtxZ\n\nCredit: Nasdaq\n\n#a…",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cpIlQK6p9cY/default.jpg?v=6aff0cf7"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cpIlQK6p9cY/mqdefault.jpg?v=6aff0cf7"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cpIlQK6p9cY/hqdefault.jpg?v=6aff0cf7"
-        }
-      },
-      "concurrentViewers": 3457,
-      "startedAt": "2026-11-19T14:02:34Z",
       "regionRestriction": null
     },
     {
       "videoId": "QB5BNdBFujE",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
-      "title": "Anthropic to Start Trading on Nasdaq | Bloomberg Business News Live",
+      "title": "Bloomberg Business News Live",
       "description": "Programming schedule (EST):\n12:00 AM - 5:00 AM: Bloomberg Global Business News\n5:00 AM - 6:00 AM Bloomberg Brief\n6:00 AM - 9:00 AM: Bloomberg Surveillance\n9:00 AM - 10:00 AM: Bloomberg Open Interest\n10:00 AM - 12:00 PM: Bloomberg Intelligence\n12:00 PM - 2:00 PM: Balance of Power\n2:00 PM - 5:00 PM: …",
       "channelTitle": "Bloomberg Television",
       "country": "US",
@@ -362,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 14960,
+      "concurrentViewers": 2722,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -386,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 55,
+      "concurrentViewers": 68,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -410,7 +338,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9358,
+      "concurrentViewers": 6405,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -438,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 538,
+      "concurrentViewers": 323,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -462,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1706,
+      "concurrentViewers": 1059,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -486,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6738,
+      "concurrentViewers": 5983,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -510,7 +438,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 240,
+      "concurrentViewers": 129,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -538,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 36,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -562,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 237,
+      "concurrentViewers": 141,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -577,16 +505,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a2f4"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a344"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a2f4"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a344"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a2f4"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a344"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 27,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -634,56 +562,8 @@
           "url": "https://i.ytimg.com/vi/ZDyOxf81Y7w/hqdefault.jpg?v=6afeca7b"
         }
       },
-      "concurrentViewers": 61,
+      "concurrentViewers": null,
       "startedAt": "2026-11-19T14:08:14Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "lX0O0Kk3q1Q",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Total Chess World Championship 2026 LIVE | Total Chess 2026 | Knockout Finals Day 1",
-      "description": "The Total Chess World Championship Tour 2026 gets underway in Budapest, Hungary, with its grand opening ceremony.\n\nWatch LIVE as players, officials and chess enthusiasts come together to mark the beginning of the prestigious tournament. The event brings together some of the world's leading chess ta…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lX0O0Kk3q1Q/default.jpg?v=6afefb23"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lX0O0Kk3q1Q/mqdefault.jpg?v=6afefb23"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lX0O0Kk3q1Q/hqdefault.jpg?v=6afefb23"
-        }
-      },
-      "concurrentViewers": 32,
-      "startedAt": "2026-11-19T13:41:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qox7MjEviRc",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Biggest GTA Face Off: PM Modi Vs Opposition | Rahul Gandhi | The Buck Stops Here LIVE",
-      "description": "Watch The Buck Stops Here LIVE with Padmaja Joshi on NDTV.\n\n#TheBuckStopsHere #LIVE \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India and around the world. Watch big political …",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qox7MjEviRc/default.jpg?v=6aff0501"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qox7MjEviRc/mqdefault.jpg?v=6aff0501"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qox7MjEviRc/hqdefault.jpg?v=6aff0501"
-        }
-      },
-      "concurrentViewers": 30,
-      "startedAt": "2026-11-19T14:27:07Z",
       "regionRestriction": null
     },
     {
@@ -706,32 +586,56 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 1042,
+      "concurrentViewers": 98,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "agYugUvy93k",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Dangal With Sahil Joshi LIVE: योगी VS अखिलेश, बुलडोजर पर क्लेश | Akhilesh Yadav | UP Politics | Yogi",
-      "description": "Dangal With Sahil Joshi LIVE: योगी VS अखिलेश, बुलडोजर पर क्लेश | Akhilesh Yadav | UP Politics | Yogi\n\n गोरखपुर की सडकों पर बुलडोजर पुष्पवर्षा हो रही थी...जब गोरखपुर की सडकों पर क्रेन से माल्यार्पण हो रहा था. जब सडक पर जनसैलाब देखकर अखिलेश फूले नहीं समा रहे थे...तब उनके काफिले के पीछे दौड़ रहे बुलडो…",
-      "channelTitle": "Aaj Tak",
+      "videoId": "ML64zcFy5fE",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Live: Trump-Xi-Putin Trilateral Meet | US-China-Russia Issue Joint Statement | Trump | Putin | Xi",
+      "description": "Xi Jinping, Vladimir Putin and Donald Trump issued a joint declaration after their Shenzhen summit. The pact sets cooperation on UN reform, energy stability, legal jurisdiction and nuclear risks.\n\n#donaldtrump #xijinping #vladimirputin #indiatodaylivestream  #apec2026 #apecsummit #uschina #russia #…",
+      "channelTitle": "India Today",
       "country": "IN",
-      "language": "hi",
+      "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/agYugUvy93k/default.jpg?v=6afedbc7"
+          "url": "https://i.ytimg.com/vi/ML64zcFy5fE/default.jpg?v=6aff3c78"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/agYugUvy93k/mqdefault.jpg?v=6afedbc7"
+          "url": "https://i.ytimg.com/vi/ML64zcFy5fE/mqdefault.jpg?v=6aff3c78"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/agYugUvy93k/hqdefault.jpg?v=6afedbc7"
+          "url": "https://i.ytimg.com/vi/ML64zcFy5fE/hqdefault.jpg?v=6aff3c78"
         }
       },
-      "concurrentViewers": 228,
-      "startedAt": "2026-11-19T11:28:24Z",
+      "concurrentViewers": 13,
+      "startedAt": "2026-11-19T18:15:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Pc-MjaVps60",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Trump-Xi-Jinping Meet News Live: China-Russia-US Issue Joint Declaration | Shenzhen | Iran | Ukraine",
+      "description": "Xi Jinping, Vladimir Putin and Donald Trump issued a joint declaration after their Shenzhen summit. The pact sets cooperation on UN reform, energy stability, legal jurisdiction and nuclear risks.\n\n#XiJinping #VladimirPutin #DonaldTrump #indiatodaylivestream #NuclearWar #NuclearWeapons #NuclearSecur…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pc-MjaVps60/default.jpg?v=6aff332e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pc-MjaVps60/mqdefault.jpg?v=6aff332e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pc-MjaVps60/hqdefault.jpg?v=6aff332e"
+        }
+      },
+      "concurrentViewers": 2,
+      "startedAt": "2026-11-19T17:37:13Z",
       "regionRestriction": null
     },
     {
@@ -754,8 +658,32 @@
           "url": "https://i.ytimg.com/vi/esQaIuQdsBA/hqdefault.jpg?v=6afed7cb"
         }
       },
-      "concurrentViewers": 228,
+      "concurrentViewers": 33,
       "startedAt": "2026-11-19T11:06:17Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "agYugUvy93k",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Dangal With Sahil Joshi LIVE: योगी VS अखिलेश, बुलडोजर पर क्लेश | Akhilesh Yadav | UP Politics | Yogi",
+      "description": "Dangal With Sahil Joshi LIVE: योगी VS अखिलेश, बुलडोजर पर क्लेश | Akhilesh Yadav | UP Politics | Yogi\n\n गोरखपुर की सडकों पर बुलडोजर पुष्पवर्षा हो रही थी...जब गोरखपुर की सडकों पर क्रेन से माल्यार्पण हो रहा था. जब सडक पर जनसैलाब देखकर अखिलेश फूले नहीं समा रहे थे...तब उनके काफिले के पीछे दौड़ रहे बुलडो…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/agYugUvy93k/default.jpg?v=6afedbc7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/agYugUvy93k/mqdefault.jpg?v=6afedbc7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/agYugUvy93k/hqdefault.jpg?v=6afedbc7"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-11-19T11:28:24Z",
       "regionRestriction": null
     },
     {
@@ -778,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 532,
+      "concurrentViewers": 1785,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -802,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 192,
+      "concurrentViewers": 153,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -826,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 626,
+      "concurrentViewers": 3326,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
