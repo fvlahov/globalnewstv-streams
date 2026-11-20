@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T04:11:36.987Z",
+  "generatedAt": "2026-11-20T13:27:38.034Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | 'The person I trusted most in the world betrayed me in the most horrific way', says rape victim Joanne Young - https://news.sky.com/video/joanne-youngs-message-to…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Politics latest: PM says UK and EU 'are stronger together' ahead of crunch summit - https://news.sky.com/story/politics-latest-neets-youth-unemployment-milburn-rep…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,32 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 3154,
+      "concurrentViewers": 7701,
       "startedAt": "2026-10-28T08:10:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8DTOwYIeiqk",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "PM holds news conference alongside EU leaders",
+      "description": "Andy Burnham speaks to the media alongside European Commission President Ursula von der Leyen and European Council President António Costa following bilateral talks. \n\nThree deals have been agreed - but we're not expecting any to be signed today in a hold up over what level of tuition fees EU stude…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8DTOwYIeiqk/default.jpg?v=6b001bd7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8DTOwYIeiqk/mqdefault.jpg?v=6b001bd7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8DTOwYIeiqk/hqdefault.jpg?v=6b001bd7"
+        }
+      },
+      "concurrentViewers": 1170,
+      "startedAt": "2026-11-20T12:30:01Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +70,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 271,
+      "concurrentViewers": 1000,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +98,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1393,
+      "concurrentViewers": 3635,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "7wfgxNNjLdY",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Good Afternoon Britain | Friday 20th November",
+      "description": "Tackling the big stories from all angles and perspectives. Weekdays from midday, Mark White and Emily Carver bring you the most compelling stories from across the United Kingdom.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://w…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7wfgxNNjLdY/default.jpg?v=6b00354a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7wfgxNNjLdY/mqdefault.jpg?v=6b00354a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7wfgxNNjLdY/hqdefault.jpg?v=6b00354a"
+        }
+      },
+      "concurrentViewers": 1071,
+      "startedAt": "2026-11-20T11:56:41Z",
       "regionRestriction": null
     },
     {
@@ -98,14 +146,62 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 390,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "Qj_oQ0yQAME",
+      "videoId": "WheWGaSUV9Q",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "EU and UK leaders press conference after summit on future relations – watch live",
+      "description": "Joint press conference by European Council President António Costa, European Commission President Ursula von der Leyen and UK Prime Minister Andy Burnham following the EU-UK summit in Brussels.",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WheWGaSUV9Q/default.jpg?v=6b0038f9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WheWGaSUV9Q/mqdefault.jpg?v=6b0038f9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WheWGaSUV9Q/hqdefault.jpg?v=6b0038f9"
+        }
+      },
+      "concurrentViewers": 759,
+      "startedAt": "2026-11-20T12:11:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4LjFziaukHo",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: EU and UK leaders speak after Brussels summit‌",
+      "description": "European Council President António Costa, European Commission President Ursula von der Leyen and UK Prime Minister Andy Burnham hold a joint press conference following the EU-UK summit in Brussels. Britain and the European Union announced a reset deal after concluding negotiations on November 20.\n\n…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4LjFziaukHo/default.jpg?v=6b0049d6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4LjFziaukHo/mqdefault.jpg?v=6b0049d6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4LjFziaukHo/hqdefault.jpg?v=6b0049d6"
+        }
+      },
+      "concurrentViewers": 60,
+      "startedAt": "2026-11-20T13:18:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "MZHbOOW--cI",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Nov. 20",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -113,17 +209,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Qj_oQ0yQAME/default.jpg?v=6aff42ce"
+          "url": "https://i.ytimg.com/vi/MZHbOOW--cI/default.jpg?v=6aff431f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Qj_oQ0yQAME/mqdefault.jpg?v=6aff42ce"
+          "url": "https://i.ytimg.com/vi/MZHbOOW--cI/mqdefault.jpg?v=6aff431f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Qj_oQ0yQAME/hqdefault.jpg?v=6aff42ce"
+          "url": "https://i.ytimg.com/vi/MZHbOOW--cI/hqdefault.jpg?v=6aff431f"
         }
       },
-      "concurrentViewers": 1300,
-      "startedAt": "2026-11-19T22:59:52Z",
+      "concurrentViewers": 5400,
+      "startedAt": "2026-11-20T11:34:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QpWEiHwtGIE",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Friday, November 20",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QpWEiHwtGIE/default.jpg?v=6afa00a8"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QpWEiHwtGIE/mqdefault.jpg?v=6afa00a8"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QpWEiHwtGIE/hqdefault.jpg?v=6afa00a8"
+        }
+      },
+      "concurrentViewers": 2763,
+      "startedAt": "2026-11-20T10:59:29Z",
       "regionRestriction": null
     },
     {
@@ -146,12 +266,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 923,
+      "concurrentViewers": 1200,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "-XgqNLGYxHU",
+      "videoId": "bPYHE3vcFvM",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -161,17 +281,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-XgqNLGYxHU/default.jpg?v=6aff8ca3"
+          "url": "https://i.ytimg.com/vi/bPYHE3vcFvM/default.jpg?v=6b003629"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-XgqNLGYxHU/mqdefault.jpg?v=6aff8ca3"
+          "url": "https://i.ytimg.com/vi/bPYHE3vcFvM/mqdefault.jpg?v=6b003629"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-XgqNLGYxHU/hqdefault.jpg?v=6aff8ca3"
+          "url": "https://i.ytimg.com/vi/bPYHE3vcFvM/hqdefault.jpg?v=6b003629"
         }
       },
-      "concurrentViewers": 299,
-      "startedAt": "2026-11-20T00:01:17Z",
+      "concurrentViewers": 893,
+      "startedAt": "2026-11-20T12:01:19Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/CiursXbr7kk/hqdefault.jpg?v=6afd8992"
         }
       },
-      "concurrentViewers": 399,
+      "concurrentViewers": 656,
       "startedAt": "2026-11-18T11:22:22Z",
       "regionRestriction": null
     },
@@ -218,8 +338,80 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 357,
+      "concurrentViewers": 910,
       "startedAt": "2026-11-12T21:30:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "HaiMKj5clvE",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: NYC Mayor Zohran Mamdani announces plan to close Rikers Island jail",
+      "description": "Watch live as New York City Mayor Zohran Mamdani announces a plan to close the Rikers Island jail complex by 2032. The plan hinges on substantially reducing the number of people held behind bars.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HaiMKj5clvE/default.jpg?v=6b0048eb"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HaiMKj5clvE/mqdefault.jpg?v=6b0048eb"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HaiMKj5clvE/hqdefault.jpg?v=6b0048eb"
+        }
+      },
+      "concurrentViewers": 349,
+      "startedAt": "2026-11-20T13:20:35Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "4SHK96OMhjU",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: European troops from 11 countries holds military display in Poland to support Ukraine",
+      "description": "Watch live as thousands of European troops take part in an unprecedented military exercise in southeastern Poland to prepare for a potential postwar mission in Ukraine aimed at helping to stabilize the country and rebuild its military once the war ends. Read more: https://bit.ly/4eHr8Ae \n\n#ukraine …",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4SHK96OMhjU/default.jpg?v=6b00090b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4SHK96OMhjU/mqdefault.jpg?v=6b00090b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4SHK96OMhjU/hqdefault.jpg?v=6b00090b"
+        }
+      },
+      "concurrentViewers": 152,
+      "startedAt": "2026-11-20T12:52:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "988wxKCKP4o",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Andy Burnham and EU leaders conference on strengthening post-Brexit ties",
+      "description": "Watch live as British Prime Minister Andy Burnham, European Commission President Ursula von der Leyen and European Council President António Costa hold a press conference at the second EU-UK summit in Brussels. The meeting aims to strengthen ties a decade after Britain voted to leave the bloc, with…",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/988wxKCKP4o/default.jpg?v=6b001380"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/988wxKCKP4o/mqdefault.jpg?v=6b001380"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/988wxKCKP4o/hqdefault.jpg?v=6b001380"
+        }
+      },
+      "concurrentViewers": 105,
+      "startedAt": "2026-11-20T13:09:13Z",
       "regionRestriction": null
     },
     {
@@ -242,7 +434,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 2102,
+      "concurrentViewers": 12312,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +458,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 66,
+      "concurrentViewers": 33,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +482,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7590,
+      "concurrentViewers": 7942,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,8 +510,32 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 359,
+      "concurrentViewers": 464,
       "startedAt": "2025-03-31T17:50:08Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ZWKs6AiOSVM",
+      "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+      "title": "LIVE: EU and UK hold summit focused on resetting ties | DW News",
+      "description": "The UK and EU have held a summit in Brussels aimed at resetting some of the ties that were severed when the UK left the union in 2020. British Prime Minister Andy Burnham says they've reached a landmark deal - one that covers things like food trade rules, carbon emissions pricing, and a scheme that…",
+      "channelTitle": "DW News",
+      "country": "DE",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZWKs6AiOSVM/default.jpg?v=6b003a6c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZWKs6AiOSVM/mqdefault.jpg?v=6b003a6c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZWKs6AiOSVM/hqdefault.jpg?v=6b003a6c"
+        }
+      },
+      "concurrentViewers": 112,
+      "startedAt": "2026-11-20T12:21:40Z",
       "regionRestriction": null
     },
     {
@@ -342,8 +558,32 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1132,
+      "concurrentViewers": 1410,
       "startedAt": "2026-05-27T10:26:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "tgEkOjg6oug",
+      "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "title": "LIVE 🔴Andy Burnham speaks on UK-EU relations",
+      "description": "UK Prime Minister Andy #Burnham speaks in Brussels after meeting with top European Union officials. Ten years after the #Brexit vote, the talks aim to rebuild ties between the #UK and the #EU and explore the possibility of a closer relationship.\n\n\n🔔 Subscribe to France 24 now: https://f24.my/YTen\n…",
+      "channelTitle": "FRANCE 24 English",
+      "country": "FR",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tgEkOjg6oug/default.jpg?v=6b003a74"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tgEkOjg6oug/mqdefault.jpg?v=6b003a74"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tgEkOjg6oug/hqdefault.jpg?v=6b003a74"
+        }
+      },
+      "concurrentViewers": 95,
+      "startedAt": "2026-11-20T13:08:47Z",
       "regionRestriction": null
     },
     {
@@ -366,7 +606,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3891,
+      "concurrentViewers": 6799,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +630,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 158,
+      "concurrentViewers": 222,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 95,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 185,
+      "concurrentViewers": 221,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -457,16 +697,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a37c"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a3ec"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a37c"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a3ec"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a37c"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a3ec"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 46,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/klgpig576uM/hqdefault.jpg?v=6affa7a9"
         }
       },
-      "concurrentViewers": 188,
+      "concurrentViewers": 43,
       "startedAt": "2026-11-20T01:52:29Z",
       "regionRestriction": null
     },
@@ -514,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/6vCk9-ic1aU/hqdefault.jpg?v=6affc1ee"
         }
       },
-      "concurrentViewers": 43,
+      "concurrentViewers": 15,
       "startedAt": "2026-11-20T03:49:25Z",
       "regionRestriction": null
     },
@@ -538,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/glsFOZ9d3Bw/hqdefault.jpg?v=6affbfcc"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 14,
       "startedAt": "2026-11-20T03:55:50Z",
       "regionRestriction": null
     },
@@ -562,56 +802,8 @@
           "url": "https://i.ytimg.com/vi/vWDZzfNycAI/hqdefault.jpg?v=6aff9a70"
         }
       },
-      "concurrentViewers": 210,
+      "concurrentViewers": 77,
       "startedAt": "2026-11-20T01:42:54Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ruvZlK_giRs",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Rahul Gandhi In US | Shazia Ilmi Defends Modi's GTA 6 Political Pitch | PM Modi | BJP | Congress",
-      "description": "BJP leader Shazia Ilmi defends Prime Minister Narendra Modi’s use of GTA 6 to highlight India’s economic progress, arguing that the figures on poverty reduction, sanitation, solar energy and space startups speak for themselves. She also criticises Rahul Gandhi for raising concerns about Indian demo…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ruvZlK_giRs/default.jpg?v=6affb78e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ruvZlK_giRs/mqdefault.jpg?v=6affb78e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ruvZlK_giRs/hqdefault.jpg?v=6affb78e"
-        }
-      },
-      "concurrentViewers": 56,
-      "startedAt": "2026-11-20T03:08:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "UwikTqjj88U",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Akvan Cyclone Update | Cyclone Update LIVE | Cyclone Akvan Nears Landfall, East Coast on High Alert",
-      "description": "Cyclone Akvan has intensified into a severe cyclonic storm, prompting large-scale evacuations and emergency preparations across Odisha and Andhra Pradesh. Heavy rainfall has already lashed Bhubaneswar, while the IMD has issued red alerts for vulnerable districts. More than one lakh people have been…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UwikTqjj88U/default.jpg?v=6affaef4"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UwikTqjj88U/mqdefault.jpg?v=6affaef4"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UwikTqjj88U/hqdefault.jpg?v=6affaef4"
-        }
-      },
-      "concurrentViewers": 12,
-      "startedAt": "2026-11-20T02:27:13Z",
       "regionRestriction": null
     },
     {
@@ -634,15 +826,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 791,
+      "concurrentViewers": 634,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QAXQr-LtIe0",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: Guidance TN Data Leak Row Explodes|Andhra Minister Mocks Tamil Nadu|MK Stalin Slams Vijay Govt",
+      "description": "LIVE: Guidance TN Data Leak Row Explodes|Andhra Minister Mocks Tamil Nadu|MK Stalin Slams Vijay Govt\n#GuidanceTamilNadu #TamilNaduDataLeak #DataLeakRow #TamilNadu #AndhraPradesh #TamilNaduVsAndhra #InvestmentWar #InvestmentBattle #MKStalin #JosephVijay #VijayGovernment #NaraLokesh #ChandrababuNaidu…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QAXQr-LtIe0/default.jpg?v=6b0041e6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QAXQr-LtIe0/mqdefault.jpg?v=6b0041e6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QAXQr-LtIe0/hqdefault.jpg?v=6b0041e6"
+        }
+      },
+      "concurrentViewers": 139,
+      "startedAt": "2026-11-20T12:51:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "wMcoXz-sNqY",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "5Live: PM Modi At SCO Forum | UP Polls: Azam Khan Targets Owaisi | Md Siraj Drop Row Sparks Debate",
+      "description": "Prime Minister Narendra Modi inaugurated the three-day Shanghai Cooperation Organisation Civilisational Dialogue Forum at Purana Qila in New Delhi, bringing together cultural delegates and representatives from ten member nations. Pakistan Federal Minister Musadik Masood Malik attended the forum, wi…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wMcoXz-sNqY/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wMcoXz-sNqY/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wMcoXz-sNqY/hqdefault.jpg"
+        }
+      },
+      "concurrentViewers": null,
+      "startedAt": "2026-11-20T12:55:24Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Rahul Gandhi | SCO Civilisation Dialogue Forum 2026 | PM Modi | Hindi News",
-      "description": "अमेरिका के शिकागो यूनिवर्सिटी में राहुल गांधी का बड़ा दावा- कहा- कांग्रेस ने BJP की विचारधारा को किया खत्म- आंतरिक ढांचा भी गिरा...बोले- अगले 8 महीनों में दिखेगा असर\n\nदिल्ली में पहले SCO सभ्यता संवाद फोरम का आज पीएम मोदी करेंगे उद्घाटन, तीन दिनों तक आय़ोजन, सिंधु जल संधि को लेकर गीदड़भभकी देने वाले …",
+      "title": "Aaj Tak LIVE TV: Rajasthan Election Result | CM Yogi Mother Passes Away | PM Modi | Rahul Gandhi",
+      "description": "राजस्थान के ग्रामीण संग्राम यानी पंचायती राज चुनावों में कांग्रेस ने बंपर जीत दर्ज करते हुए जोरदार वापसी की है, जबकि सत्ताधारी बीजेपी को करारा झटका लगा है. जिला परिषद और पंचायत समिति, दोनों ही चुनावों में कांग्रेस ने शानदार प्रदर्शन करते हुए बढ़त हासिल की है.\n\nआज होने वाले SCO सभ्यता संवाद फोरम में…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -658,56 +898,8 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 25958,
+      "concurrentViewers": 24794,
       "startedAt": "2022-11-20T19:08:04Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "E7VYYIZRZnY",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Superfast News LIVE: बड़ी खबरें देखिए फटाफट अंदाज में | UP Elections | Rahul Gandhi | PM Modi",
-      "description": "अमेरिका के शिकागो यूनिवर्सिटी में राहुल गांधी का बड़ा दावा- कहा, कांग्रेस ने BJP की विचारधारा को किया खत्म- आंतरिक ढांचा भी गिरा...बोले- अगले 8 महीनों में दिखेगा असर \n\nगोरखपुर में जेसीबी से बच्चे की मौत पर सियासी कोहराम- परिवार से मिलने के बाद बोले सीएम योगी- समाजवादी\n\nपार्टी\n\n#pmmodi #donaldtrump …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E7VYYIZRZnY/default.jpg?v=6affa1b3"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E7VYYIZRZnY/mqdefault.jpg?v=6affa1b3"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E7VYYIZRZnY/hqdefault.jpg?v=6affa1b3"
-        }
-      },
-      "concurrentViewers": 745,
-      "startedAt": "2026-11-20T01:38:56Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "R7YYJwKp1fI",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE : Rahul Gandhi America Visit | UP Election 2027 | Cyclonic Storm Akvan | Akhilesh Yadav",
-      "description": "अमेरिका के शिकागो विश्वविद्यालय (University of Chicago) में छात्रों और संकाय सदस्यों के साथ बातचीत के दौरान लोकसभा में विपक्ष के नेता राहुल गांधी ने दावा किया कि कांग्रेस ने भारत में राजनीतिक रूप से भाजपा के विचार को समाप्त कर दिया है।\n\nप्रधानमंत्री नरेन्द्र मोदी आज, 20 नवंबर 2026 को शाम करीब 5:30 …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/R7YYJwKp1fI/default.jpg?v=6aff405e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/R7YYJwKp1fI/mqdefault.jpg?v=6aff405e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/R7YYJwKp1fI/hqdefault.jpg?v=6aff405e"
-        }
-      },
-      "concurrentViewers": 617,
-      "startedAt": "2026-11-20T01:00:10Z",
       "regionRestriction": null
     },
     {
@@ -730,7 +922,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1759,
+      "concurrentViewers": 418,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -754,7 +946,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 197,
+      "concurrentViewers": 221,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -778,7 +970,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1935,
+      "concurrentViewers": 816,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
