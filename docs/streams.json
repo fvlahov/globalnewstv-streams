@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T02:43:59.017Z",
+  "generatedAt": "2026-11-21T10:43:40.518Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 UK and EU agree new deal on three areas - as Burnham hails 'win-win' agreement - https://news.sky.com/story/politics-latest-neets-youth-unemployment-milburn-report-burnha…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 WATCH | Grooming gang victim lives in fear of 'bumping into' released ringleader - https://news.sky.com/video/grooming-gang-victim-lives-in-fear-of-bumping-into-ringleade…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 2062,
+      "concurrentViewers": 5991,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 240,
+      "concurrentViewers": 787,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1236,
+      "concurrentViewers": 3288,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "yOzn1I-acoM",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "The Late Show Live | Friday 20th November",
-      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yOzn1I-acoM/default.jpg?v=6b008c2e"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yOzn1I-acoM/mqdefault.jpg?v=6b008c2e"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yOzn1I-acoM/hqdefault.jpg?v=6b008c2e"
-        }
-      },
-      "concurrentViewers": 304,
-      "startedAt": "2026-11-20T23:56:17Z",
       "regionRestriction": null
     },
     {
@@ -122,32 +98,8 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 456,
       "startedAt": "2026-08-27T12:03:23Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "lQOlQH6nsys",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Celebration of life service for civil rights leader Dolores Huerta",
-      "description": "A celebration of life service is being held in California for US civil rights leader Dolores Huerta, who co-founded the United Farm Workers with Cesar Chavez and fought legislators and powerful growers to improve the lives of farmworkers across the United States.\n\n#DoloresHuerta #California #CivilR…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lQOlQH6nsys/default.jpg?v=6b008c62"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lQOlQH6nsys/mqdefault.jpg?v=6b008c62"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lQOlQH6nsys/hqdefault.jpg?v=6b008c62"
-        }
-      },
-      "concurrentViewers": 25,
-      "startedAt": "2026-11-20T18:06:48Z",
       "regionRestriction": null
     },
     {
@@ -170,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg?v=6b0096a9"
         }
       },
-      "concurrentViewers": 1592,
+      "concurrentViewers": 456,
       "startedAt": "2026-11-20T22:59:05Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QpWEiHwtGIE",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, November 20",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QpWEiHwtGIE/default.jpg?v=6afa00a8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QpWEiHwtGIE/mqdefault.jpg?v=6afa00a8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QpWEiHwtGIE/hqdefault.jpg?v=6afa00a8"
-        }
-      },
-      "concurrentViewers": 826,
-      "startedAt": "2026-11-20T10:59:29Z",
       "regionRestriction": null
     },
     {
@@ -218,39 +146,15 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 686,
+      "concurrentViewers": 619,
       "startedAt": "2026-10-24T03:13:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "bPYHE3vcFvM",
-      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
-      "channelTitle": "CBS News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bPYHE3vcFvM/default.jpg?v=6b003629"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bPYHE3vcFvM/mqdefault.jpg?v=6b003629"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bPYHE3vcFvM/hqdefault.jpg?v=6b003629"
-        }
-      },
-      "concurrentViewers": 381,
-      "startedAt": "2026-11-20T12:01:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "YhYAt1Hxe1U",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Trump news conference 12PM ET, Florida flooding, LA earthquake, Rikers Island closing",
-      "description": "Friday, Pres. Trump will deliver remarks at the White House after is overseas trip to Asia. The remarks are expected to happen at 12pm ET. \n\nParts of Florida are dealing with flooding after several days of nonstop rain. NOAA's Weather Prediction Center issued a Level 4 out of 4 flash flood risk for…",
+      "title": "LIVE NEWS: Trump recaps Asia trip, Florida flooding, Palisades Fire retrial verdict & more",
+      "description": "Parts of Florida are dealing with flooding after several days of nonstop rain. NOAA's Weather Prediction Center issued a Level 4 out of 4 flash flood risk for some areas. The state has mobilized hundreds of National Guard members and other state first responders. \n\nFriday, New York City Mayor Zohra…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
@@ -266,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/YhYAt1Hxe1U/hqdefault.jpg?v=6b0050f2"
         }
       },
-      "concurrentViewers": 532,
+      "concurrentViewers": 343,
       "startedAt": "2026-11-20T13:55:01Z",
       "regionRestriction": null
     },
@@ -290,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 489,
+      "concurrentViewers": 197,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -314,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1288,
+      "concurrentViewers": 1456,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -338,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 58,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -362,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5368,
+      "concurrentViewers": 8181,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -390,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 355,
+      "concurrentViewers": 416,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -414,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 752,
+      "concurrentViewers": 1144,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -438,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3037,
+      "concurrentViewers": 5916,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -462,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 107,
+      "concurrentViewers": 225,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -490,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 101,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -514,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 156,
+      "concurrentViewers": 208,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -529,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a48b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a4eb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a48b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a4eb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a48b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a4eb"
         }
       },
-      "concurrentViewers": 17,
+      "concurrentViewers": 41,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -562,32 +466,32 @@
           "url": "https://i.ytimg.com/vi/klgpig576uM/hqdefault.jpg?v=6affa7a9"
         }
       },
-      "concurrentViewers": 62,
+      "concurrentViewers": 96,
       "startedAt": "2026-11-20T01:52:29Z",
       "regionRestriction": null
     },
     {
-      "videoId": "6vCk9-ic1aU",
+      "videoId": "BBQK6hjrLeQ",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Riyadh’s Tallest Skyscraper Hit in Houthi Missile Strike | WION",
-      "description": "Saudi Under Attack LIVE: Riyadh’s Tallest Skyscraper Hit in Houthi Missile Strike | WION\n\n\nYemen's Houthis struck Riyadh's financial district, damaging the 385-metre PIF tower, a symbol of Saudi Arabia's Vision 2030 ambitions. The attack damaged several floors and nearby buildings but caused no cas…",
+      "title": "Saudi Vs Houthi War LIVE: Houthi Rebels Strike Yemen's Mocha Port Again | WION",
+      "description": "Saudi Vs Houthi War LIVE: Houthi Rebels Strike Yemen's Mocha Port Again | WION \n\nYemen's Mocha port has come under another attack by Houthi rebels, raising fresh security concerns in the region. The latest strike comes amid escalating tensions across the Middle East and growing threats to critical …",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6vCk9-ic1aU/default.jpg?v=6affc1ee"
+          "url": "https://i.ytimg.com/vi/BBQK6hjrLeQ/default.jpg?v=6b015dd5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6vCk9-ic1aU/mqdefault.jpg?v=6affc1ee"
+          "url": "https://i.ytimg.com/vi/BBQK6hjrLeQ/mqdefault.jpg?v=6b015dd5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6vCk9-ic1aU/hqdefault.jpg?v=6affc1ee"
+          "url": "https://i.ytimg.com/vi/BBQK6hjrLeQ/hqdefault.jpg?v=6b015dd5"
         }
       },
-      "concurrentViewers": 14,
-      "startedAt": "2026-11-20T03:49:25Z",
+      "concurrentViewers": 22,
+      "startedAt": "2026-11-21T09:04:26Z",
       "regionRestriction": null
     },
     {
@@ -610,39 +514,87 @@
           "url": "https://i.ytimg.com/vi/glsFOZ9d3Bw/hqdefault.jpg?v=6affbfcc"
         }
       },
-      "concurrentViewers": 13,
+      "concurrentViewers": 12,
       "startedAt": "2026-11-20T03:55:50Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xDOTgj83Wr0",
+      "videoId": "5fWerwmZ5os",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Inside USS George Washington: NDTV On Board America's Warship",
-      "description": "As the West Asia conflict continues to simmer, NDTV brings you an exclusive, up-close look aboard the USS George Washington, one of the US Navy's most formidable aircraft carriers. From fighter jets and immense firepower to the operations that keep this floating military powerhouse running around t…",
+      "title": "CM YOGI MOTHER'S FUNERAL LIVE: Yogi Adityanath Bids Final Farewell To Mother In Haridwar | UP News",
+      "description": "Uttar Pradesh Chief Minister Yogi Adityanath performed the last rites of his mother, Savitri Devi, at Chandighat in Haridwar, Uttarakhand. The Chief Minister joined family members and relatives to bid a final farewell to his mother, who passed away on Friday. Visuals from the ceremony showed Yogi A…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xDOTgj83Wr0/default.jpg?v=6b00885b"
+          "url": "https://i.ytimg.com/vi/5fWerwmZ5os/default.jpg?v=6b014439"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xDOTgj83Wr0/mqdefault.jpg?v=6b00885b"
+          "url": "https://i.ytimg.com/vi/5fWerwmZ5os/mqdefault.jpg?v=6b014439"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xDOTgj83Wr0/hqdefault.jpg?v=6b00885b"
+          "url": "https://i.ytimg.com/vi/5fWerwmZ5os/hqdefault.jpg?v=6b014439"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-11-20T17:57:03Z",
+      "concurrentViewers": 39,
+      "startedAt": "2026-11-21T07:15:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "RSWFI_BU33Y",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Amritpal Singh LIVE | Jailed MP Pays Floral Tribute To Grandmother On Parole | Punjab News LIVE",
+      "description": "Khadoor Sahib MP Amritpal Singh, currently lodged in Assam's Dibrugarh Jail, attended the last rites of his grandmother Charan Kaur after being granted a limited custody parole by the court. Visuals from the ceremony showed Amritpal Singh paying a floral tribute and offering his final respects duri…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RSWFI_BU33Y/default.jpg?v=6b0170dd"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RSWFI_BU33Y/mqdefault.jpg?v=6b0170dd"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RSWFI_BU33Y/hqdefault.jpg?v=6b0170dd"
+        }
+      },
+      "concurrentViewers": 15,
+      "startedAt": "2026-11-21T08:30:45Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "KVYFNq3_Xik",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Amit Shah LIVE | 'No Local Terrorists Left In Kashmir': HM Shah's Biggest Security Claim | J&K News",
+      "description": "Union Home Minister Amit Shah has declared that there is \"not a single local terrorist left in the Kashmir Valley\" after the killing of the last known active local Lashkar-e-Taiba (LeT) operative in an encounter in Pulwama. Speaking at the President's Police Colour Award Ceremony in Arunachal Prade…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KVYFNq3_Xik/default.jpg?v=6b016054"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KVYFNq3_Xik/mqdefault.jpg?v=6b016054"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KVYFNq3_Xik/hqdefault.jpg?v=6b016054"
+        }
+      },
+      "concurrentViewers": 12,
+      "startedAt": "2026-11-21T09:30:02Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Trump AI Tax | SCO Summit | CM Vijay | Pak Minister In India | Nvidia | Modi",
-      "description": "India Today LIVE: Trump AI Tax | SCO Summit | CM Vijay | Pak Minister In India | Nvidia | Modi\n\n\nUnited States President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping convened for a historic trilateral meeting in Shenzhen, marking the first time the sitting leader…",
+      "title": "India Today LIVE: Trump AI Tax | SCO Summit | CM Vijay | Pak Minister In India | PM Modi In Bihar",
+      "description": "India Today LIVE: Trump AI Tax | SCO Summit | CM Vijay | Pak Minister In India | PM Modi In Bihar\n\nPrime Minister Narendra Modi inaugurated Nitish Setu in Vaishali, Bihar. The bridge, named after Bihar Chief Minister Nitish Kumar, marks a significant infrastructure development in the state. Nitish …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -658,15 +610,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 530,
+      "concurrentViewers": 415,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "U5icHjUN1rk",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Trump's AI War | US-Iran War | Rahul Gandhi | Modi | CM Vijay | Nvidia | PM Modi",
-      "description": "India Today LIVE: Trump's AI War | US-Iran War | Rahul Gandhi | Modi | CM Vijay | Nvidia | PM Modi\n\nChinese President Xi Jinping, Russian President Vladimir Putin and US President Donald Trump on Thursday issued a joint declaration titled China-Russia-US Heads of State Declaration toward Peace foll…",
+      "title": "India Today LIVE: Trump AI Tax | SCO Summit | CM Vijay | Pak Minister In India | PM Modi In Bihar",
+      "description": "India Today LIVE: Trump AI Tax | SCO Summit | CM Vijay | Pak Minister In India | PM Modi In Bihar\n\nPrime Minister Narendra Modi inaugurated Nitish Setu in Vaishali, Bihar. The bridge, named after Bihar Chief Minister Nitish Kumar, marks a significant infrastructure development in the state. Nitish …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -682,38 +634,14 @@
           "url": "https://i.ytimg.com/vi/U5icHjUN1rk/hqdefault.jpg?v=6b00f271"
         }
       },
-      "concurrentViewers": 182,
+      "concurrentViewers": 105,
       "startedAt": "2026-11-21T01:30:31Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "rE-_wnhVP8g",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Trump Praises India's 7% Economic Growth, Calls Indian Economy A Global Success Story | LIVE",
-      "description": "US President Donald Trump has praised India's economic performance, highlighting its impressive 7% growth. His remarks come amid growing global economic uncertainty and continued focus on India-US trade and strategic ties. Stay tuned for the latest reactions and developments.\n\n\n#DonaldTrump #IndiaE…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rE-_wnhVP8g/default.jpg?v=6b00fca9"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rE-_wnhVP8g/mqdefault.jpg?v=6b00fca9"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rE-_wnhVP8g/hqdefault.jpg?v=6b00fca9"
-        }
-      },
-      "concurrentViewers": 32,
-      "startedAt": "2026-11-21T02:07:18Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: PM Modi | Rahul Gandhi | UP Election 2027 | CM Yogi | SCO | Hindi News",
+      "title": "Aaj Tak LIVE TV: CM Yogi Mother Funeral | PM Modi | Rahul Gandhi | UP Election 2027 | Hindi News",
       "description": "SCO के सभ्यता संवाद फोेरम से PM मोदी का विश्व मंत्र- कहा, उथल-पुथल के इस दौर में सांस्कृतिक सहयोग से आएगी शांति- कांग्रेस ने पाक मंत्री की मौजूदगी पर उठाए सवाल\n\nPM मोदी के टैक्स घटाने वाले बयान पर राहुल गांधी का तंज- कहा, ये उद्योगपतियों पर आरोप नहीं, आपका कबूलनामा है...नोटबंदी और GST से छोटे उद्यो…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
@@ -730,8 +658,32 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 18674,
+      "concurrentViewers": 13988,
       "startedAt": "2022-11-20T19:08:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "kgYxOvY9N5s",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "PM Modi LIVE Speech: बिहार को पीएम मोदी की सौगात, नीतीश सेतु का किया उद्घाटन | Vaishali | Aaj Tak",
+      "description": "PM Modi LIVE Speech: बिहार को पीएम मोदी की सौगात, नीतीश सेतु का किया उद्घाटन | Vaishali | Aaj Tak\n\n#pmmodi #bihar #nitishsetu #patna #aajtakdigital \n\nआजतक के साथ देखिये देश-विदेश की सभी महत्वपूर्ण और बड़ी खबरें | Watch the latest Hindi \nnews Live on the World's Most Subscribed News Channel on YouTub…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kgYxOvY9N5s/default.jpg?v=6b0139ca"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kgYxOvY9N5s/mqdefault.jpg?v=6b0139ca"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kgYxOvY9N5s/hqdefault.jpg?v=6b0139ca"
+        }
+      },
+      "concurrentViewers": 1467,
+      "startedAt": "2026-11-21T09:29:57Z",
       "regionRestriction": null
     },
     {
@@ -754,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1053,
+      "concurrentViewers": 693,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,32 +730,8 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 166,
+      "concurrentViewers": 204,
       "startedAt": "2026-08-14T01:21:12Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "0mOY2t-GHtQ",
-      "channelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-      "title": "Live: ‌Wildlife at Tangjiahe Area of Giant Panda National Park",
-      "description": "Located in southwest China, Tangjiahe Area of Giant Panda National Park has a forest coverage rate of 96.15%. As one of the world's top biodiversity hotspots, it shelters over 370 species of flora and fauna, including wild giant pandas, Sichuan golden snub-nosed monkeys, takins and hundreds of rare…",
-      "channelTitle": "CGTN",
-      "country": "CN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0mOY2t-GHtQ/default.jpg?v=6b00f7a6"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0mOY2t-GHtQ/mqdefault.jpg?v=6b00f7a6"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0mOY2t-GHtQ/hqdefault.jpg?v=6b00f7a6"
-        }
-      },
-      "concurrentViewers": 7,
-      "startedAt": "2026-11-21T02:00:16Z",
       "regionRestriction": null
     },
     {
@@ -826,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1777,
+      "concurrentViewers": 1177,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
