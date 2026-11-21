@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T17:54:00.760Z",
+  "generatedAt": "2026-11-21T22:51:48.764Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 4222,
+      "concurrentViewers": 3071,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 605,
+      "concurrentViewers": 395,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2519,
+      "concurrentViewers": 1906,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "z8wl_lL-T1I",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Nana Akua | Saturday 21st November",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/z8wl_lL-T1I/default.jpg?v=6b010b2b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/z8wl_lL-T1I/mqdefault.jpg?v=6b010b2b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/z8wl_lL-T1I/hqdefault.jpg?v=6b010b2b"
-        }
-      },
-      "concurrentViewers": 753,
-      "startedAt": "2026-11-21T14:59:51Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 140,
+      "concurrentViewers": 72,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg?v=6b0096a9"
         }
       },
-      "concurrentViewers": 1532,
+      "concurrentViewers": 841,
       "startedAt": "2026-11-20T22:59:05Z",
       "regionRestriction": null
     },
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/TvESnX_Xdno/hqdefault.jpg?v=6afa0165"
         }
       },
-      "concurrentViewers": 1230,
+      "concurrentViewers": 768,
       "startedAt": "2026-11-21T13:00:26Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 696,
+      "concurrentViewers": 536,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/9ZvbYvsufDE/hqdefault.jpg?v=6b01a57e"
         }
       },
-      "concurrentViewers": 1442,
+      "concurrentViewers": 924,
       "startedAt": "2026-11-21T14:13:44Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 733,
+      "concurrentViewers": 568,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1388,
+      "concurrentViewers": 991,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 30,
+      "concurrentViewers": 34,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8948,
+      "concurrentViewers": 5508,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 326,
+      "concurrentViewers": 386,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1649,
+      "concurrentViewers": 1008,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6418,
+      "concurrentViewers": 5041,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 181,
+      "concurrentViewers": 85,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 78,
+      "concurrentViewers": 59,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 214,
+      "concurrentViewers": 97,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -481,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a542"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a57e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a542"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a57e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a542"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a57e"
         }
       },
-      "concurrentViewers": 40,
+      "concurrentViewers": 24,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -514,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/klgpig576uM/hqdefault.jpg?v=6affa7a9"
         }
       },
-      "concurrentViewers": 243,
+      "concurrentViewers": 79,
       "startedAt": "2026-11-20T01:52:29Z",
       "regionRestriction": null
     },
@@ -538,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/BBQK6hjrLeQ/hqdefault.jpg?v=6b015dd5"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 12,
       "startedAt": "2026-11-21T09:04:26Z",
       "regionRestriction": null
     },
@@ -567,6 +543,30 @@
       "regionRestriction": null
     },
     {
+      "videoId": "5hIkzkGMAKI",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "PM Modi LIVE | PM Modi Lucknow | PM Modi Today | PM Modi On Gold Prices | NDTV LIVE",
+      "description": "Prime Minister Narendra Modi recalled his appeal to people a year ago to avoid buying gold, claiming that people heeded his advice and gold prices have since fallen. \n\n#NarendraModi #PMModi #GoldPrices #GoldBuying #GoldPurchase #IndianEconomy #PMModiSpeech #Investment\n\nAbout NDTV (English news chan…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5hIkzkGMAKI/default.jpg?v=6b01d7e7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5hIkzkGMAKI/mqdefault.jpg?v=6b01d7e7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5hIkzkGMAKI/hqdefault.jpg?v=6b01d7e7"
+        }
+      },
+      "concurrentViewers": 3,
+      "startedAt": "2026-11-21T17:44:45Z",
+      "regionRestriction": null
+    },
+    {
       "videoId": "5fWerwmZ5os",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
       "title": "CM YOGI MOTHER'S FUNERAL LIVE: Yogi Adityanath Bids Final Farewell To Mother In Haridwar | UP News",
@@ -586,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/5fWerwmZ5os/hqdefault.jpg?v=6b014439"
         }
       },
-      "concurrentViewers": 8,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-21T07:15:11Z",
       "regionRestriction": null
     },
@@ -610,15 +610,15 @@
           "url": "https://i.ytimg.com/vi/RSWFI_BU33Y/hqdefault.jpg?v=6b0170dd"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": null,
       "startedAt": "2026-11-21T08:30:45Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Chahal Joins BJP | Trump AI Tax | CM Vijay | Pak Minister In India | PM Modi",
-      "description": "India Today LIVE: Chahal Joins BJP | Trump AI Tax | CM Vijay | Pak Minister In India | PM Modi\n\nPrime Minister Narendra Modi inaugurated Nitish Setu in Vaishali, Bihar. The bridge, named after Bihar Chief Minister Nitish Kumar, marks a significant infrastructure development in the state. Nitish Kum…",
+      "title": "India Today LIVE: Yuzvendra Chahal Joins BJP | Trump AI Tax | COP31 | SCO Delhi | Trump-Xi-Putin",
+      "description": "India Today LIVE: Yuzvendra Chahal Joins BJP | Trump AI Tax | COP31 | SCO Delhi | Trump-Xi-Putin\n\nPrime Minister Narendra Modi inaugurated Nitish Setu in Vaishali, Bihar. The bridge, named after Bihar Chief Minister Nitish Kumar, marks a significant infrastructure development in the state. Nitish K…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -634,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 373,
+      "concurrentViewers": 76,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -658,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/fT90CAjPkUw/hqdefault.jpg?v=6b01cc82"
         }
       },
-      "concurrentViewers": 88,
+      "concurrentViewers": 54,
       "startedAt": "2026-11-21T16:57:48Z",
       "regionRestriction": null
     },
@@ -682,15 +682,15 @@
           "url": "https://i.ytimg.com/vi/bmpoxDpZCNo/hqdefault.jpg?v=6b01cee1"
         }
       },
-      "concurrentViewers": 17,
+      "concurrentViewers": 1,
       "startedAt": "2026-11-21T17:21:26Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Round Table| CM Yogi Mother Funeral | PM Modi | Rahul Gandhi | UP Election 2027",
-      "description": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ (CM Yogi Adityanath) की माता सावित्री देवी (Savitri Devi) का शनिवार को उत्तराखंड के हरिद्वार (Haridwar) स्थित चंडीघाट मोक्ष धाम (Chandighat Moksh Dham) में अंतिम संस्कार कर दिया गया। उनके सबसे छोटे बेटे महेंद्र सिंह बिष्ट (Mahendra Singh Bisht) ने उन्हें म…",
+      "title": "Aaj Tak LIVE TV: UP Election 2027 | BJP | Congress| CM Yogi | PM Modi | Rahul Gandhi | Nitish Kumar",
+      "description": "लखनऊ के कौशल दीक्षांत समारोह में पीएम मोदी ने लोगों को कहा शुक्रिया- बोले, मेरी अपील पर अपने कम खरीदा सोना...जिससे देश का बचा पैसा...युवाओं से राष्ट्र निर्माण से जुड़ने की अपील.\n\nबिहार में नीतीश कुमार के नाम पर बने पुल का पीएम मोदी ने किया उद्घाटन...सेतु पर लहराया गमछा...दिन में IIT खड़गपुर के समार…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -706,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 8351,
+      "concurrentViewers": 1500,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -730,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/kgYxOvY9N5s/hqdefault.jpg?v=6b0139ca"
         }
       },
-      "concurrentViewers": 445,
+      "concurrentViewers": 46,
       "startedAt": "2026-11-21T09:29:57Z",
       "regionRestriction": null
     },
@@ -754,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 333,
+      "concurrentViewers": 529,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 238,
+      "concurrentViewers": 97,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -802,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 484,
+      "concurrentViewers": 2882,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
