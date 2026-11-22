@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T18:16:52.367Z",
+  "generatedAt": "2026-11-22T23:44:45.843Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 4586,
+      "concurrentViewers": 2712,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 625,
+      "concurrentViewers": 385,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2075,
+      "concurrentViewers": 1865,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "E4257zjAu_c",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Alex Armstrong Tonight Late Edition | Sunday 22nd November",
+      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E4257zjAu_c/default.jpg?v=6b017cf2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E4257zjAu_c/mqdefault.jpg?v=6b017cf2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E4257zjAu_c/hqdefault.jpg?v=6b017cf2"
+        }
+      },
+      "concurrentViewers": 669,
+      "startedAt": "2026-11-22T23:00:12Z",
       "regionRestriction": null
     },
     {
@@ -98,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 104,
+      "concurrentViewers": 32,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg?v=6b0096a9"
         }
       },
-      "concurrentViewers": 1199,
+      "concurrentViewers": 704,
       "startedAt": "2026-11-20T22:59:05Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "QbWsfPZrRpA",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Sunday, November 22",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QbWsfPZrRpA/default.jpg?v=6afa01a5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QbWsfPZrRpA/mqdefault.jpg?v=6afa01a5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QbWsfPZrRpA/hqdefault.jpg?v=6afa01a5"
+        }
+      },
+      "concurrentViewers": 887,
+      "startedAt": "2026-11-22T12:59:39Z",
       "regionRestriction": null
     },
     {
@@ -146,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 673,
+      "concurrentViewers": 579,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/cQokJ-09vlk/hqdefault.jpg?v=6b03029d"
         }
       },
-      "concurrentViewers": 739,
+      "concurrentViewers": 558,
       "startedAt": "2026-11-22T15:02:45Z",
       "regionRestriction": null
     },
@@ -194,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 753,
+      "concurrentViewers": 657,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -218,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1286,
+      "concurrentViewers": 1801,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 37,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9234,
+      "concurrentViewers": 5333,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 451,
+      "concurrentViewers": 342,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1274,
+      "concurrentViewers": 924,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7523,
+      "concurrentViewers": 4742,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 150,
+      "concurrentViewers": 111,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 71,
+      "concurrentViewers": 50,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 165,
+      "concurrentViewers": 141,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,16 +481,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a667"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a6a9"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a667"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a6a9"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a667"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a6a9"
         }
       },
-      "concurrentViewers": 44,
+      "concurrentViewers": 27,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/7ZmPUqmZi5Q/hqdefault.jpg?v=6b023f1a"
         }
       },
-      "concurrentViewers": 67,
+      "concurrentViewers": 41,
       "startedAt": "2026-11-22T01:34:01Z",
       "regionRestriction": null
     },
@@ -514,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/5uIq9GseOO4/hqdefault.jpg?v=6b02e983"
         }
       },
-      "concurrentViewers": 10,
+      "concurrentViewers": 2,
       "startedAt": "2026-11-22T13:12:55Z",
       "regionRestriction": null
     },
@@ -538,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/BolZ5mT4nmQ/hqdefault.jpg?v=6b02df40"
         }
       },
-      "concurrentViewers": 1,
+      "concurrentViewers": null,
       "startedAt": "2026-11-22T12:58:35Z",
       "regionRestriction": null
     },
@@ -562,14 +610,38 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 248,
+      "concurrentViewers": 80,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "3XwyjUWpvTA",
+      "videoId": "tSTepmPD6XU",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Row Over Rahul Gandhi’s US Remarks On India | Attack On Modi Government Or India? Watch",
+      "title": "LIVE: Sam Pitroda Exclusive On Rahul Gandhi's US Trip And Congress's Diaspora Outreach | India Today",
+      "description": "In an exclusive conversation with Rajdeep Sardesai on India Today, Sam Pitroda discusses Rahul Gandhi's US visit, the Congress's diaspora outreach and his message to the Modi government.\n\n#sampitroda #rahulgandhi #congress #indiatoday #rajdeepsardesai\n\nSubscribe to India Today for NEW VIDEOS EVERY …",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tSTepmPD6XU/default.jpg?v=6b033397"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tSTepmPD6XU/mqdefault.jpg?v=6b033397"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tSTepmPD6XU/hqdefault.jpg?v=6b033397"
+        }
+      },
+      "concurrentViewers": 9,
+      "startedAt": "2026-11-22T18:26:29Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fLGQwrusPVI",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Rahul Gandhi's US Remarks On India Spark Row | Attack On Modi Government Or India? Watch Now",
       "description": "A political row has erupted over Rahul Gandhi’s remarks during his visit to the US, with his comments drawing sharp reactions. Did Rahul Gandhi target the Modi government or make remarks against India? The controversy sparks a fresh political face-off.\n\n#rahulgandhi #congress #bjp #indiatoday #usvi…",
       "channelTitle": "India Today",
       "country": "IN",
@@ -577,17 +649,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3XwyjUWpvTA/default.jpg?v=6b02c679"
+          "url": "https://i.ytimg.com/vi/fLGQwrusPVI/default.jpg?v=6b033485"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3XwyjUWpvTA/mqdefault.jpg?v=6b02c679"
+          "url": "https://i.ytimg.com/vi/fLGQwrusPVI/mqdefault.jpg?v=6b033485"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3XwyjUWpvTA/hqdefault.jpg?v=6b02c679"
+          "url": "https://i.ytimg.com/vi/fLGQwrusPVI/hqdefault.jpg?v=6b033485"
         }
       },
-      "concurrentViewers": 5,
-      "startedAt": "2026-11-22T10:46:56Z",
+      "concurrentViewers": 6,
+      "startedAt": "2026-11-22T18:30:05Z",
       "regionRestriction": null
     },
     {
@@ -610,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 8079,
+      "concurrentViewers": 1645,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -634,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/92hchFYqYYo/hqdefault.jpg?v=6b030690"
         }
       },
-      "concurrentViewers": 1638,
+      "concurrentViewers": 274,
       "startedAt": "2026-11-22T15:22:46Z",
       "regionRestriction": null
     },
@@ -658,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/Gus7y-KsQW4/hqdefault.jpg?v=6b032cd5"
         }
       },
-      "concurrentViewers": 216,
+      "concurrentViewers": 82,
       "startedAt": "2026-11-22T17:57:10Z",
       "regionRestriction": null
     },
@@ -682,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 317,
+      "concurrentViewers": 2130,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -706,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 133,
+      "concurrentViewers": 79,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -730,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 622,
+      "concurrentViewers": 3408,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
