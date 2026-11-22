@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T22:51:48.764Z",
+  "generatedAt": "2026-11-22T02:51:57.996Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Zelenskyy compared to Winston Churchill as he meets Streeting in Kyiv - https://news.sky.com/story/ukraine-war-latest-zelenskyy-labels-putin-killer-af…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Strike on Russian cargo ship in Gulf of Finland 'likely carried out by Kyiv'\n - https://news.sky.com/story/ukraine-war-latest-zelenskyy-labels-putin-k…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 3071,
+      "concurrentViewers": 2308,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 395,
+      "concurrentViewers": 223,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1906,
+      "concurrentViewers": 1273,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 72,
+      "concurrentViewers": 24,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg?v=6b0096a9"
         }
       },
-      "concurrentViewers": 841,
+      "concurrentViewers": 653,
       "startedAt": "2026-11-20T22:59:05Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "TvESnX_Xdno",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Saturday, November 21",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TvESnX_Xdno/default.jpg?v=6afa0165"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TvESnX_Xdno/mqdefault.jpg?v=6afa0165"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TvESnX_Xdno/hqdefault.jpg?v=6afa0165"
-        }
-      },
-      "concurrentViewers": 768,
-      "startedAt": "2026-11-21T13:00:26Z",
       "regionRestriction": null
     },
     {
@@ -170,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 536,
+      "concurrentViewers": 503,
       "startedAt": "2026-10-24T03:13:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "TvESnX_Xdno",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Saturday, November 21",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TvESnX_Xdno/default.jpg?v=6afa0165"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TvESnX_Xdno/mqdefault.jpg?v=6afa0165"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TvESnX_Xdno/hqdefault.jpg?v=6afa0165"
+        }
+      },
+      "concurrentViewers": 495,
+      "startedAt": "2026-11-21T13:00:26Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/9ZvbYvsufDE/hqdefault.jpg?v=6b01a57e"
         }
       },
-      "concurrentViewers": 924,
+      "concurrentViewers": 737,
       "startedAt": "2026-11-21T14:13:44Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 568,
+      "concurrentViewers": 372,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 991,
+      "concurrentViewers": 965,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 34,
+      "concurrentViewers": 42,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5508,
+      "concurrentViewers": 4958,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 386,
+      "concurrentViewers": 268,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1008,
+      "concurrentViewers": 796,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5041,
+      "concurrentViewers": 3107,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 85,
+      "concurrentViewers": 106,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 59,
+      "concurrentViewers": 27,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 97,
+      "concurrentViewers": 162,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -457,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a57e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a5ae"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a57e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a5ae"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a57e"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a5ae"
         }
       },
-      "concurrentViewers": 24,
+      "concurrentViewers": 30,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,135 +490,87 @@
           "url": "https://i.ytimg.com/vi/klgpig576uM/hqdefault.jpg?v=6affa7a9"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 98,
       "startedAt": "2026-11-20T01:52:29Z",
       "regionRestriction": null
     },
     {
-      "videoId": "BBQK6hjrLeQ",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Vs Houthi War LIVE: Houthi Rebels Strike Yemen's Mocha Port Again | WION",
-      "description": "Saudi Vs Houthi War LIVE: Houthi Rebels Strike Yemen's Mocha Port Again | WION \n\nYemen's Mocha port has come under another attack by Houthi rebels, raising fresh security concerns in the region. The latest strike comes amid escalating tensions across the Middle East and growing threats to critical …",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BBQK6hjrLeQ/default.jpg?v=6b015dd5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BBQK6hjrLeQ/mqdefault.jpg?v=6b015dd5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BBQK6hjrLeQ/hqdefault.jpg?v=6b015dd5"
-        }
-      },
-      "concurrentViewers": 12,
-      "startedAt": "2026-11-21T09:04:26Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "glsFOZ9d3Bw",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Ukraine Strikes Russia's Kerch Bridge Again, Putin Vows Painful Response",
-      "description": "Russia-Ukraine War LIVE: Ukraine Strikes Russia's Kerch Bridge Again, Putin Vows Painful Response\n\nUkraine has reportedly attacked Russia's Kerch Bridge again, targeting the railway link connecting Crimea to mainland Russia and forcing a temporary halt to train services. The latest strike comes day…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/glsFOZ9d3Bw/default.jpg?v=6affbfcc"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/glsFOZ9d3Bw/mqdefault.jpg?v=6affbfcc"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/glsFOZ9d3Bw/hqdefault.jpg?v=6affbfcc"
-        }
-      },
-      "concurrentViewers": 8,
-      "startedAt": "2026-11-20T03:55:50Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "5hIkzkGMAKI",
+      "videoId": "7ZmPUqmZi5Q",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "PM Modi LIVE | PM Modi Lucknow | PM Modi Today | PM Modi On Gold Prices | NDTV LIVE",
-      "description": "Prime Minister Narendra Modi recalled his appeal to people a year ago to avoid buying gold, claiming that people heeded his advice and gold prices have since fallen. \n\n#NarendraModi #PMModi #GoldPrices #GoldBuying #GoldPurchase #IndianEconomy #PMModiSpeech #Investment\n\nAbout NDTV (English news chan…",
+      "title": "NDTV Live: US-Iran War | PM Modi | Yuzvendra Chahal | India VS Newzealand | Delhi Pollution",
+      "description": "Iran's army claimed on Saturday that its air defence systems damaged a US F-16 fighter jet over the Persian Gulf, forcing the pilot to make an emergency landing at an airbase in the region, according to the state-owned Tasnim news agency. The incident reportedly took place Friday night, as tensions…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5hIkzkGMAKI/default.jpg?v=6b01d7e7"
+          "url": "https://i.ytimg.com/vi/7ZmPUqmZi5Q/default.jpg?v=6b023f1a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5hIkzkGMAKI/mqdefault.jpg?v=6b01d7e7"
+          "url": "https://i.ytimg.com/vi/7ZmPUqmZi5Q/mqdefault.jpg?v=6b023f1a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5hIkzkGMAKI/hqdefault.jpg?v=6b01d7e7"
+          "url": "https://i.ytimg.com/vi/7ZmPUqmZi5Q/hqdefault.jpg?v=6b023f1a"
         }
       },
-      "concurrentViewers": 3,
-      "startedAt": "2026-11-21T17:44:45Z",
+      "concurrentViewers": 106,
+      "startedAt": "2026-11-22T01:34:01Z",
       "regionRestriction": null
     },
     {
-      "videoId": "5fWerwmZ5os",
+      "videoId": "IWpOh8IYflE",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CM YOGI MOTHER'S FUNERAL LIVE: Yogi Adityanath Bids Final Farewell To Mother In Haridwar | UP News",
-      "description": "Uttar Pradesh Chief Minister Yogi Adityanath performed the last rites of his mother, Savitri Devi, at Chandighat in Haridwar, Uttarakhand. The Chief Minister joined family members and relatives to bid a final farewell to his mother, who passed away on Friday. Visuals from the ceremony showed Yogi A…",
+      "title": "UP Elections 2027 | Biryani, Pulao And The Muslim Vote: What's Cooking In UP? | Owaisi | Azam Khan",
+      "description": "Samajwadi Party leader Azam Khan takes a swipe at Asaduddin Owaisi with a biryani-versus-pulao remark following his release from jail. His comments have sparked discussion over Muslim political leadership in Uttar Pradesh, the SP's strategy and the potential impact on Owaisi's political ambitions a…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5fWerwmZ5os/default.jpg?v=6b014439"
+          "url": "https://i.ytimg.com/vi/IWpOh8IYflE/default.jpg?v=6b024094"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5fWerwmZ5os/mqdefault.jpg?v=6b014439"
+          "url": "https://i.ytimg.com/vi/IWpOh8IYflE/mqdefault.jpg?v=6b024094"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5fWerwmZ5os/hqdefault.jpg?v=6b014439"
+          "url": "https://i.ytimg.com/vi/IWpOh8IYflE/hqdefault.jpg?v=6b024094"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-11-21T07:15:11Z",
+      "concurrentViewers": 21,
+      "startedAt": "2026-11-22T01:14:54Z",
       "regionRestriction": null
     },
     {
-      "videoId": "RSWFI_BU33Y",
+      "videoId": "v3A2DX8PIlY",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Amritpal Singh LIVE | Jailed MP Pays Floral Tribute To Grandmother On Parole | Punjab News LIVE",
-      "description": "Khadoor Sahib MP Amritpal Singh, currently lodged in Assam's Dibrugarh Jail, attended the last rites of his grandmother Charan Kaur after being granted a limited custody parole by the court. Visuals from the ceremony showed Amritpal Singh paying a floral tribute and offering his final respects duri…",
+      "title": "PM Modi Lucknow | PM Narendra Modi Full Speech | PM Modi On British Education System | LIVE",
+      "description": "Prime Minister Narendra Modi, addressing an event in Lucknow, criticised the British colonial education system, alleging that it weakened India's traditional skills and focused on producing clerks rather than nurturing talent. He highlighted the need to revive India's indigenous skills, strengthen …",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/RSWFI_BU33Y/default.jpg?v=6b0170dd"
+          "url": "https://i.ytimg.com/vi/v3A2DX8PIlY/default.jpg?v=6b0250ae"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/RSWFI_BU33Y/mqdefault.jpg?v=6b0170dd"
+          "url": "https://i.ytimg.com/vi/v3A2DX8PIlY/mqdefault.jpg?v=6b0250ae"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/RSWFI_BU33Y/hqdefault.jpg?v=6b0170dd"
+          "url": "https://i.ytimg.com/vi/v3A2DX8PIlY/hqdefault.jpg?v=6b0250ae"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-21T08:30:45Z",
+      "concurrentViewers": 17,
+      "startedAt": "2026-11-22T02:29:41Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Yuzvendra Chahal Joins BJP | Trump AI Tax | COP31 | SCO Delhi | Trump-Xi-Putin",
-      "description": "India Today LIVE: Yuzvendra Chahal Joins BJP | Trump AI Tax | COP31 | SCO Delhi | Trump-Xi-Putin\n\nPrime Minister Narendra Modi inaugurated Nitish Setu in Vaishali, Bihar. The bridge, named after Bihar Chief Minister Nitish Kumar, marks a significant infrastructure development in the state. Nitish K…",
+      "title": "India Today LIVE | US-Iran War | Trump | UP Election 2027 | Yuzi Joins BJP | PM Modi | Delhi AQI",
+      "description": "India Today LIVE | US-Iran War | Trump | UP Election 2027 | Yuzi Joins BJP | PM Modi | Delhi AQI\n\nWatch India Today LIVE for the latest breaking news and updates on the US-Iran war, Donald Trump and global developments. Yuzvendra Chahal joins the BJP, adding a new development to the political headl…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -634,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 439,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -658,39 +610,15 @@
           "url": "https://i.ytimg.com/vi/fT90CAjPkUw/hqdefault.jpg?v=6b01cc82"
         }
       },
-      "concurrentViewers": 54,
+      "concurrentViewers": 7,
       "startedAt": "2026-11-21T16:57:48Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "bmpoxDpZCNo",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Cricketer Yuzvendra Chahal Joins BJP, Gets Role In BJP's OBC Morcha | India Today",
-      "description": "LIVE: Cricketer Yuzvendra Chahal Joins BJP, Gets Role In BJP's OBC Morcha | India Today \n#YuzvendraChahal #Chahal #BJP #ChahalJoinsBJP #BJPJoining #OBCMorcha #BJPOBCMorcha #OBCPolitics #IndianPolitics #CricketerInPolitics #Cricket #IndianCricket #TeamIndia #PoliticalNews #BJPNews #BharatiyaJanataPa…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bmpoxDpZCNo/default.jpg?v=6b01cee1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bmpoxDpZCNo/mqdefault.jpg?v=6b01cee1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bmpoxDpZCNo/hqdefault.jpg?v=6b01cee1"
-        }
-      },
-      "concurrentViewers": 1,
-      "startedAt": "2026-11-21T17:21:26Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: UP Election 2027 | BJP | Congress| CM Yogi | PM Modi | Rahul Gandhi | Nitish Kumar",
-      "description": "लखनऊ के कौशल दीक्षांत समारोह में पीएम मोदी ने लोगों को कहा शुक्रिया- बोले, मेरी अपील पर अपने कम खरीदा सोना...जिससे देश का बचा पैसा...युवाओं से राष्ट्र निर्माण से जुड़ने की अपील.\n\nबिहार में नीतीश कुमार के नाम पर बने पुल का पीएम मोदी ने किया उद्घाटन...सेतु पर लहराया गमछा...दिन में IIT खड़गपुर के समार…",
+      "title": "Aaj Tak LIVE TV: UP Election 2027 | BJP | Congress| CM Yogi | PM Modi | Rahul Gandhi | Hindi News",
+      "description": "लखनऊ के कौशल दीक्षांत समारोह में पीएम मोदी ने लोगों को कहा शुक्रिया- बोले, मेरी अपील पर अपने कम खरीदा सोना...जिससे देश का बचा पैसा...युवाओं से राष्ट्र निर्माण से जुड़ने की अपील\n\nबिहार में नीतीश कुमार के नाम पर बने पुल का पीएम मोदी ने किया उद्घाटन...सेतु पर लहराया गमछा...दिन में IIT खड़गपुर के समारो…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -706,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 1500,
+      "concurrentViewers": 14773,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -730,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/kgYxOvY9N5s/hqdefault.jpg?v=6b0139ca"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 204,
       "startedAt": "2026-11-21T09:29:57Z",
       "regionRestriction": null
     },
@@ -754,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 529,
+      "concurrentViewers": 777,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 97,
+      "concurrentViewers": 126,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -802,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2882,
+      "concurrentViewers": 1769,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
