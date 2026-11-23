@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T06:15:05.147Z",
+  "generatedAt": "2026-11-23T18:38:21.687Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Russian warship seen underwater as images show vessel before and after 'drone attack' - https://news.sky.com/story/ukraine-war-latest-zelenskyy-labels…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 LIVE | Trump mocks critics of Jensen Huang's Nvidia return with bizarre image - after $1trn market swing - https://news.sky.com/story/nvidia-latest-jensen-huang-reinstate…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,56 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 5372,
+      "concurrentViewers": 5986,
       "startedAt": "2026-10-28T08:10:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "on2DzZKED8Q",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Investor joy as Nvidia performs trillion-dollar U-turn to bring back Jensen Huang | Full analysis",
+      "description": "Jensen Huang has been reinstated at Nvidia after he resigned over alleged affairs, the company has announced.\n\nDonald Trump has backed the return of Huang, who resigned from the company only 11 days ago. \n\nLive updates ➡️ https://trib.al/2NWVIWR\n\n#BreakingNews #JensenHuang #Nvidia #USA #USStockMark…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/on2DzZKED8Q/default.jpg?v=6b04788d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/on2DzZKED8Q/mqdefault.jpg?v=6b04788d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/on2DzZKED8Q/hqdefault.jpg?v=6b04788d"
+        }
+      },
+      "concurrentViewers": 309,
+      "startedAt": "2026-11-23T17:02:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0ZDSVsbuOZI",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Track live | Nvidia share price surges after Jensen Huang reinstated as CEO",
+      "description": "Jensen Huang has been reinstated as Nvidia boss.\n\nDonald Trump and Elon Musk have backed the return of Jensen Huang, who resigned from the company only 11 days ago after reports he had multiple affairs.\n\nLive updates ➡️ https://trib.al/2NWVIWR\n\n#BreakingNews #JensenHuang #Nvidia \n\nSUBSCRIBE to our …",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0ZDSVsbuOZI/default.jpg?v=6b047e1d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0ZDSVsbuOZI/mqdefault.jpg?v=6b047e1d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0ZDSVsbuOZI/hqdefault.jpg?v=6b047e1d"
+        }
+      },
+      "concurrentViewers": 68,
+      "startedAt": "2026-11-23T17:54:38Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 583,
+      "concurrentViewers": 927,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3292,
+      "concurrentViewers": 3509,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Icn9udQMrSY",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Dewbs & Co | Monday 23rd November",
+      "description": "Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News …",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Icn9udQMrSY/default.jpg?v=6b02872c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Icn9udQMrSY/mqdefault.jpg?v=6b02872c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Icn9udQMrSY/hqdefault.jpg?v=6b02872c"
+        }
+      },
+      "concurrentViewers": 1968,
+      "startedAt": "2026-11-23T18:00:12Z",
       "regionRestriction": null
     },
     {
@@ -98,14 +170,110 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 258,
+      "concurrentViewers": 193,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "pJZBppLlwJo",
+      "videoId": "v8C0lQjfuFs",
+      "channelId": "UCF-VP3b3oH0XASqsLI5rnLw",
+      "title": "LIVE Quinn And Friends: Implications Of Latest EU Talks",
+      "description": "Watch live as Carolyn Quinn is joined by Times Radio Political Editor Anna Mikhailova and Times Radio Presenter Adam Boulton to unpack the latest news stories.\n\nRead the best of our journalism: https://www.thetimes.com/\nListen live to Times Radio: https://www.thetimes.com/radio/live\nSubscribe to Th…",
+      "channelTitle": "Times Radio",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v8C0lQjfuFs/default.jpg?v=6b047d8d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v8C0lQjfuFs/mqdefault.jpg?v=6b047d8d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v8C0lQjfuFs/hqdefault.jpg?v=6b047d8d"
+        }
+      },
+      "concurrentViewers": 22,
+      "startedAt": "2026-11-23T18:00:01Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0S93zGUH2NA",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "title": "Andy Burnham to address parliament after EU summit agreements – watch live",
+      "description": "Prime minister Andy Burnham is expected to give a statement to parliament after Britain and the European Union reached agreements at a summit in Brussels on Friday.\nSubscribe to Guardian News on YouTube ► https://www.youtube.com/user/guardianwires?sub_confirmation=1\n\nSign up here to be sent a link …",
+      "channelTitle": "Guardian News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0S93zGUH2NA/default.jpg?v=6b0410bf"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0S93zGUH2NA/mqdefault.jpg?v=6b0410bf"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0S93zGUH2NA/hqdefault.jpg?v=6b0410bf"
+        }
+      },
+      "concurrentViewers": 95,
+      "startedAt": "2026-11-23T15:20:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ywJPMmZl06k",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: UN Security Council briefing on Ukraine",
+      "description": "The United Nations Security Council meets to discuss the war in Ukraine.\n \n#Ukraine #russiaukrainewar #un #unsc #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ywJPMmZl06k/default.jpg?v=6b0457f8"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ywJPMmZl06k/mqdefault.jpg?v=6b0457f8"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ywJPMmZl06k/hqdefault.jpg?v=6b0457f8"
+        }
+      },
+      "concurrentViewers": 5,
+      "startedAt": "2026-11-23T15:06:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qFcl7JRivVI",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Nvidia board reinstates Jensen Huang, shares surge",
+      "description": "Nasdaq opens as Nvidia board reinstates Jensen Huang as President, CEO, and Board Director. Follow our live coverage ➡️ https://reut.rs/48DXbxl\n \n#nvidia #jensenhuang #nasdaq #markets #shares #techstocks #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.c…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qFcl7JRivVI/default.jpg?v=6b04520b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qFcl7JRivVI/mqdefault.jpg?v=6b04520b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qFcl7JRivVI/hqdefault.jpg?v=6b04520b"
+        }
+      },
+      "concurrentViewers": 3,
+      "startedAt": "2026-11-23T14:34:44Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "oySB38T4DY0",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Nov. 23",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -113,17 +281,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/pJZBppLlwJo/default.jpg?v=6b0096a9"
+          "url": "https://i.ytimg.com/vi/oySB38T4DY0/default.jpg?v=6b009708"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/pJZBppLlwJo/mqdefault.jpg?v=6b0096a9"
+          "url": "https://i.ytimg.com/vi/oySB38T4DY0/mqdefault.jpg?v=6b009708"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg?v=6b0096a9"
+          "url": "https://i.ytimg.com/vi/oySB38T4DY0/hqdefault.jpg?v=6b009708"
         }
       },
-      "concurrentViewers": 426,
-      "startedAt": "2026-11-20T22:59:05Z",
+      "concurrentViewers": 5265,
+      "startedAt": "2026-11-23T11:27:47Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "jJi4EWGMnDI",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Monday, November 23",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jJi4EWGMnDI/default.jpg?v=6afa020d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jJi4EWGMnDI/mqdefault.jpg?v=6afa020d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jJi4EWGMnDI/hqdefault.jpg?v=6afa020d"
+        }
+      },
+      "concurrentViewers": 2213,
+      "startedAt": "2026-11-23T10:58:00Z",
       "regionRestriction": null
     },
     {
@@ -146,32 +338,80 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 635,
+      "concurrentViewers": 1047,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "cQokJ-09vlk",
+      "videoId": "xNtZEaroM5U",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "Hawaii's Kīlauea volcano spews lava during eruption",
+      "description": "Hawaii's Kīlauea volcano is spewing lava during its latest eruption. https://abcnews.visitlink.me/6aTf8D\n–––\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch?v=gN0PZCe-kwQ&ab_…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xNtZEaroM5U/default.jpg?v=6b047485"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xNtZEaroM5U/mqdefault.jpg?v=6b047485"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xNtZEaroM5U/hqdefault.jpg?v=6b047485"
+        }
+      },
+      "concurrentViewers": 106,
+      "startedAt": "2026-11-23T17:15:50Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fTxbsAXTY44",
+      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
+      "channelTitle": "CBS News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fTxbsAXTY44/default.jpg?v=6b042437"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fTxbsAXTY44/mqdefault.jpg?v=6b042437"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fTxbsAXTY44/hqdefault.jpg?v=6b042437"
+        }
+      },
+      "concurrentViewers": 1278,
+      "startedAt": "2026-11-23T11:59:51Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "meJfc4-d4tg",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "TOP STORIES: Seattle Airport ICE arrest, Mideast latest, FBI hack",
-      "description": "Masked immigration officers detained two people on a crowded airport jet bridge in Seattle as people were boarding Saturday, causing what the airline called a “distressing” scene for passengers and employees and delaying the Los Angeles-bound flight. Video of the incident showed officers dragging a…",
+      "title": "TOP STORIES: Iran war latest, Ukraine-Russia conflict escalates, U.S. holiday travel disruptions",
+      "description": "Iran will use all its tools to confront the US naval blockade, Iran's Foreign Ministry spokesperson Esmaeil Baghaei said in a weekly news conference on Monday. The US blockade on Iran-related oil exports was imposed on April 13, lifted in June after Washington reached a draft understanding with Teh…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/cQokJ-09vlk/default.jpg?v=6b03029d"
+          "url": "https://i.ytimg.com/vi/meJfc4-d4tg/default.jpg?v=6b043ad5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/cQokJ-09vlk/mqdefault.jpg?v=6b03029d"
+          "url": "https://i.ytimg.com/vi/meJfc4-d4tg/mqdefault.jpg?v=6b043ad5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/cQokJ-09vlk/hqdefault.jpg?v=6b03029d"
+          "url": "https://i.ytimg.com/vi/meJfc4-d4tg/hqdefault.jpg?v=6b043ad5"
         }
       },
-      "concurrentViewers": 287,
-      "startedAt": "2026-11-22T15:02:45Z",
+      "concurrentViewers": 771,
+      "startedAt": "2026-11-23T15:28:44Z",
       "regionRestriction": null
     },
     {
@@ -194,8 +434,80 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 190,
+      "concurrentViewers": 1714,
       "startedAt": "2026-11-12T21:30:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "IDlfoSMG9uI",
+      "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
+      "title": "The Rob Carson Show LIVE (11/23/2026) | NEWSMAX Podcasts",
+      "description": "Don't catch The Stupid! The Rob Carson Show is LIVE from Washington D.C. on NEWSMAX Radio! Watch Rob every weekday from Noon-3 PM ET on Rumble, YouTube, Facebook, X and Twitch. To talk to Rob, call 1-800-922-6680.\n\nE-mail Rob Carson at: RobCarsonShow@gmail.com\n\nMusical parodies provided by Jim Goss…",
+      "channelTitle": "Newsmax",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IDlfoSMG9uI/default.jpg?v=6b00b492"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IDlfoSMG9uI/mqdefault.jpg?v=6b00b492"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IDlfoSMG9uI/hqdefault.jpg?v=6b00b492"
+        }
+      },
+      "concurrentViewers": 93,
+      "startedAt": "2026-11-23T17:05:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "rY96qq_dGaY",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Melania Trump and Usha Vance join military spouses for a Red Cross event",
+      "description": "Watch live from Joint Base Andrews as First Lady Melania Trump and Second Lady Usha Vance participate in a Red Cross care package assembly with military spouses.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rY96qq_dGaY/default.jpg?v=6b047337"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rY96qq_dGaY/mqdefault.jpg?v=6b047337"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rY96qq_dGaY/hqdefault.jpg?v=6b047337"
+        }
+      },
+      "concurrentViewers": 217,
+      "startedAt": "2026-11-23T18:11:13Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "E8xW7xWUHY4",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Nvidia stock price after board reinstates Jensen Huang as CEO",
+      "description": "Watch Nvidia’s stock price as its board unanimously reinstates Jensen Huang as CEO and president, saying the decision is in the company’s best interest.\n\n#nvidia #jensenhuang",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E8xW7xWUHY4/default.jpg?v=6b044d4b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E8xW7xWUHY4/mqdefault.jpg?v=6b044d4b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E8xW7xWUHY4/hqdefault.jpg?v=6b044d4b"
+        }
+      },
+      "concurrentViewers": 151,
+      "startedAt": "2026-11-23T14:38:13Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +530,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 4363,
+      "concurrentViewers": 11274,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +554,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 39,
+      "concurrentViewers": 41,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +578,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8808,
+      "concurrentViewers": 10837,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +606,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 415,
+      "concurrentViewers": 551,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +630,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1441,
+      "concurrentViewers": 1860,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +654,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7669,
+      "concurrentViewers": 8274,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +678,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 241,
+      "concurrentViewers": 174,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 96,
+      "concurrentViewers": 123,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 245,
+      "concurrentViewers": 158,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -433,16 +745,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a6f6"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a78b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a6f6"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a78b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a6f6"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a78b"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 44,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/hqdefault.jpg?v=6b0397e2"
         }
       },
-      "concurrentViewers": 385,
+      "concurrentViewers": 75,
       "startedAt": "2026-11-23T01:35:10Z",
       "regionRestriction": null
     },
@@ -490,7 +802,7 @@
           "url": "https://i.ytimg.com/vi/GVye0SAh6c8/hqdefault.jpg?v=6b03955e"
         }
       },
-      "concurrentViewers": 57,
+      "concurrentViewers": 30,
       "startedAt": "2026-11-23T01:24:26Z",
       "regionRestriction": null
     },
@@ -514,87 +826,87 @@
           "url": "https://i.ytimg.com/vi/Bd8QxywunYs/hqdefault.jpg?v=6b039699"
         }
       },
-      "concurrentViewers": 51,
+      "concurrentViewers": 21,
       "startedAt": "2026-11-23T01:28:32Z",
       "regionRestriction": null
     },
     {
-      "videoId": "hc4vaaUj2C8",
+      "videoId": "UT0lfxDClsw",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "PM Modi Meets Nepal PM Balen Shah LIVE | India-Nepal Bilateral Talks | Balen Shah India Visit LIVE",
-      "description": "PM Modi Meets Nepal PM Balen Shah LIVE | India-Nepal Ties | Balen Shah India Visit | Delhi\n\n#balenshah #nepalpm #pmmodi #delhi \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India a…",
+      "title": "Jensen Huang CEO LIVE | NVIDIA Stock Price LIVE: Shares Surge After Jensen Huang Returns As CEO",
+      "description": "NVIDIA Stock Price LIVE: NVIDIA shares surge after the company's board unanimously reinstates co-founder Jensen Huang as President and CEO, marking a dramatic turnaround for the world's leading AI chipmaker.\n\nNVIDIA shares jumped nearly 30% in premarket trading on November 23 following the announce…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hc4vaaUj2C8/default.jpg?v=6b03d1b5"
+          "url": "https://i.ytimg.com/vi/UT0lfxDClsw/default.jpg?v=6b04740d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hc4vaaUj2C8/mqdefault.jpg?v=6b03d1b5"
+          "url": "https://i.ytimg.com/vi/UT0lfxDClsw/mqdefault.jpg?v=6b04740d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hc4vaaUj2C8/hqdefault.jpg?v=6b03d1b5"
-        }
-      },
-      "concurrentViewers": 62,
-      "startedAt": "2026-11-23T05:41:52Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "q4cHrKJNF9A",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Delimitation Bill Row LIVE: Sanjay Raut Alleges Rs 150-Crore Offers To MPs | BJP | Shinde Sena",
-      "description": "A political controversy has erupted over the proposed Delimitation Bill, with Shiv Sena (UBT) MP Sanjay Raut alleging that the BJP is attempting to buy MPs to secure the numbers needed to pass the legislation. Raut has claimed that Rs 150 crore is being offered to each MP, accusing the BJP of press…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/q4cHrKJNF9A/default.jpg?v=6b03c794"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/q4cHrKJNF9A/mqdefault.jpg?v=6b03c794"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/q4cHrKJNF9A/hqdefault.jpg?v=6b03c794"
-        }
-      },
-      "concurrentViewers": 49,
-      "startedAt": "2026-11-23T05:15:18Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "LEr-nkWzDCw",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV LIVE: Balen Shah India Visit | UP Elections 2027 | PM Modi | US-Iran War | Rahul Gandhi",
-      "description": "NDTV LIVE: Nitin Nabin's Visit To Telangana | BJP | Congress | PM Modi | Nepal PM Balendra Shah \n\n#nitinnabin #bjp #telangana #nepalpm \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from with…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LEr-nkWzDCw/default.jpg?v=6b03ba68"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LEr-nkWzDCw/mqdefault.jpg?v=6b03ba68"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LEr-nkWzDCw/hqdefault.jpg?v=6b03ba68"
+          "url": "https://i.ytimg.com/vi/UT0lfxDClsw/hqdefault.jpg?v=6b04740d"
         }
       },
       "concurrentViewers": 12,
-      "startedAt": "2026-11-23T04:02:13Z",
+      "startedAt": "2026-11-23T17:17:20Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Qbi2OieNoV4",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Lowy Index 2026 LIVE: India At 3rd Spot In Asia Power Rankings, PM Modi Leadership Boost",
+      "description": "India has retained its position as the third most powerful country in Asia, according to the Lowy Institute Asia Power Index 2026, one of the world's most closely watched assessments of geopolitical influence in the Indo-Pacific region. The report places only the United States and China ahead of In…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qbi2OieNoV4/default.jpg?v=6b047605"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qbi2OieNoV4/mqdefault.jpg?v=6b047605"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qbi2OieNoV4/hqdefault.jpg?v=6b047605"
+        }
+      },
+      "concurrentViewers": 10,
+      "startedAt": "2026-11-23T17:39:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "0ApV84ahW48",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "LIVE: Protests Erupt In Brussels Over Government Budget Cuts | World News LIVE | Brussels LIVE",
+      "description": "Protests are taking place in Brussels against government budget cuts, as demonstrators voice their opposition to the proposed spending measures.\n\nWatch NDTV's LIVE coverage for visuals and the latest updates from Brussels. \n\n#BrusselsProtests #Belgium #Brussels #GovernmentCuts #AusterityProtests #B…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0ApV84ahW48/default.jpg?v=6b046ec4"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0ApV84ahW48/mqdefault.jpg?v=6b046ec4"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0ApV84ahW48/hqdefault.jpg?v=6b046ec4"
+        }
+      },
+      "concurrentViewers": 4,
+      "startedAt": "2026-11-23T17:04:45Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: PM Modi Meets Nepal PM Balen Shah | UP Elections | Rahul Gandhi | Trump | Iran War",
-      "description": "India Today LIVE: PM Modi Meets Nepal PM Balen Shah | UP Elections | Rahul Gandhi | Trump | Iran War\n\nWatch India Today LIVE for the latest breaking news and updates on the US-Iran war, Donald Trump and global developments. Yuzvendra Chahal joins the BJP, adding a new development to the political h…",
+      "title": "India Today LIVE: Jensen Huang Back As NVIDIA CEO | PM Modi Meets Nepal PM Balen Shah | UP Elections",
+      "description": "India Today LIVE: Jensen Huang Back As NVIDIA CEO | PM Modi Meets Nepal PM Balen Shah | UP Elections\n\nWatch India Today LIVE for the latest breaking news and updates on the US-Iran war, Donald Trump and global developments. Yuzvendra Chahal joins the BJP, adding a new development to the political h…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,15 +922,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 599,
+      "concurrentViewers": 267,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "b40Hu8LvfeE",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Jensen Huang's NVIDIA Comeback LIVE: Board Blinks As CEO Returns | India Today News LIVE",
+      "description": "Jensen Huang's NVIDIA Comeback LIVE: Board Blinks As CEO Returns | India Today News LIVE\n\nJensen Huang returns as NVIDIA CEO as the company's leadership story takes a dramatic turn. The board's decision puts the spotlight back on Huang and the future of the tech giant. Watch live for the latest dev…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b40Hu8LvfeE/default.jpg?v=6b0469a5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b40Hu8LvfeE/mqdefault.jpg?v=6b0469a5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b40Hu8LvfeE/hqdefault.jpg?v=6b0469a5"
+        }
+      },
+      "concurrentViewers": 30,
+      "startedAt": "2026-11-23T16:32:31Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zNYTHNruRP4",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE:  S Gurumurthy Exclusive On Tamil Nadu Deepam Row Amid The Growing Political Flashpoint | Watch",
+      "description": "LIVE:  S Gurumurthy Exclusive On Tamil Nadu Deepam Row Amid The Growing Political Flashpoint | Watch\n\n#tamilnadudeepamrow #sgurumurthy #tamilnadupolitics #indiatodaylive #deepamcontroversy #indiapolitics \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications …",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zNYTHNruRP4/default.jpg?v=6b048212"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zNYTHNruRP4/mqdefault.jpg?v=6b048212"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zNYTHNruRP4/hqdefault.jpg?v=6b048212"
+        }
+      },
+      "concurrentViewers": 13,
+      "startedAt": "2026-11-23T18:09:23Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Balen Shah India Visit | UP Election | SP-Congress Seat Sharing | Hindi News",
-      "description": "भारत-नेपाल संबंधों में नए अध्याय की शुरुआत, 2 दिन के दौरे पर आए पीएम बालेंद्र शाह की आज पीएम मोदी से वार्ता, राम-जानकी रेल सेवा को मिलेगी हरी झंडी\n\nयूपी में सीटों के तालमेल पर आज समाजवादी पार्टी और कांग्रेस के बीच होगी बैठक, कांग्रेस से प्रियंका गांधी कर सकती हैं बातचीत की अगुवाई, दिल्ली में प्रमोद…",
+      "title": "Aaj Tak LIVE TV: UP Elections | Balen Shah | PM Modi | Anant Singh | SP-Congress Seat | Hindi News",
+      "description": "India-Nepal में दोस्ती की नई उड़ान,बालेन शाह से मुलाकात के बाद PM मोदी ने किया 24 हजार करोड़ मदद का एलान-जनकपुर ट्रेन को भी हरी झंड़ी.\n\nदुनिया में दिखा भारत का दबदबा, Asia power index में PM मोदी दूसरे सबसे शक्तिशाली नेता, जापान-रूस से आगे निकला India.\n\nयूपी में सीट बंटवारे को लेकर माथापच्ची,कांग्र…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -634,8 +994,32 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 16455,
+      "concurrentViewers": 8801,
       "startedAt": "2022-11-20T19:08:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "z_zwekNnIjk",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "PM Modi-Balen Shah Meeting LIVE: पीएम मोदी ने नेपाल के PM बालेन शाह को दिए खास तोहफे",
+      "description": "प्रधानमंत्री नरेंद्र मोदी ने नेपाल के प्रधानमंत्री बालेन शाह को ‘कलमकारी संपूर्ण रामायण’ पेंटिंग, बनारसी ब्रोकेड रेशमी शॉल और वाराणसी का ‘गंगाजल’ भेंट किया. दोनों नेताओं ने हैदराबाद हाउस में मुलाकात के दौरान भारत-नेपाल संबंधों और सहयोग से जुड़े मुद्दों पर चर्चा की. इस दौरान अयोध्या-जनकपुर ट्रेन सेव…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z_zwekNnIjk/default.jpg?v=6b047e68"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z_zwekNnIjk/mqdefault.jpg?v=6b047e68"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z_zwekNnIjk/hqdefault.jpg?v=6b047e68"
+        }
+      },
+      "concurrentViewers": 102,
+      "startedAt": "2026-11-23T08:06:45Z",
       "regionRestriction": null
     },
     {
@@ -658,7 +1042,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1284,
+      "concurrentViewers": 331,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,7 +1066,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 158,
+      "concurrentViewers": 244,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -706,7 +1090,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1764,
+      "concurrentViewers": 792,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
