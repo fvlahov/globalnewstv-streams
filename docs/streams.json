@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T23:44:45.843Z",
+  "generatedAt": "2026-11-23T06:15:05.147Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Explosion on Russian warship after 'drone attack' - as dozen missing after building collapse in Kyiv region - https://news.sky.com/story/ukraine-war-l…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Ukraine war latest: Russian warship seen underwater as images show vessel before and after 'drone attack' - https://news.sky.com/story/ukraine-war-latest-zelenskyy-labels…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 2712,
+      "concurrentViewers": 5372,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 385,
+      "concurrentViewers": 583,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1865,
+      "concurrentViewers": 3292,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "E4257zjAu_c",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Alex Armstrong Tonight Late Edition | Sunday 22nd November",
-      "description": "Keep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB News on all of your favourite devices and keep up to date with the latest news, analysis, opinion and more.…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E4257zjAu_c/default.jpg?v=6b017cf2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E4257zjAu_c/mqdefault.jpg?v=6b017cf2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E4257zjAu_c/hqdefault.jpg?v=6b017cf2"
-        }
-      },
-      "concurrentViewers": 669,
-      "startedAt": "2026-11-22T23:00:12Z",
       "regionRestriction": null
     },
     {
@@ -122,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 258,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -146,32 +122,8 @@
           "url": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg?v=6b0096a9"
         }
       },
-      "concurrentViewers": 704,
+      "concurrentViewers": 426,
       "startedAt": "2026-11-20T22:59:05Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "QbWsfPZrRpA",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Sunday, November 22",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QbWsfPZrRpA/default.jpg?v=6afa01a5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QbWsfPZrRpA/mqdefault.jpg?v=6afa01a5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QbWsfPZrRpA/hqdefault.jpg?v=6afa01a5"
-        }
-      },
-      "concurrentViewers": 887,
-      "startedAt": "2026-11-22T12:59:39Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 579,
+      "concurrentViewers": 635,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -218,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/cQokJ-09vlk/hqdefault.jpg?v=6b03029d"
         }
       },
-      "concurrentViewers": 558,
+      "concurrentViewers": 287,
       "startedAt": "2026-11-22T15:02:45Z",
       "regionRestriction": null
     },
@@ -242,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 657,
+      "concurrentViewers": 190,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -266,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1801,
+      "concurrentViewers": 4363,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 37,
+      "concurrentViewers": 39,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 5333,
+      "concurrentViewers": 8808,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 342,
+      "concurrentViewers": 415,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 924,
+      "concurrentViewers": 1441,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4742,
+      "concurrentViewers": 7669,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 111,
+      "concurrentViewers": 241,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 50,
+      "concurrentViewers": 96,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 141,
+      "concurrentViewers": 245,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -481,120 +433,168 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a6a9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a6f6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a6a9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a6f6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a6a9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a6f6"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 50,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "klgpig576uM",
+      "videoId": "XEf7CnpjfJs",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "US Iran War LIVE: US Fires Nuclear Capable Minuteman Iii, Global Powers On High Alert | WION",
-      "description": "US Iran War LIVE: US Fires Nuclear Capable Minuteman Iii, Global Powers On High Alert | WION \n\nThe United States has tested a nuclear-capable intercontinental ballistic missile just before President Donald Trump's meeting with Russian and Chinese leaders. The unarmed Minuteman III missile was launc…",
+      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile Terror On Ukraine, Blasts Shake Kyiv",
+      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/klgpig576uM/default.jpg?v=6affa7a9"
+          "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/default.jpg?v=6b0397e2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/klgpig576uM/mqdefault.jpg?v=6affa7a9"
+          "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/mqdefault.jpg?v=6b0397e2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/klgpig576uM/hqdefault.jpg?v=6affa7a9"
+          "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/hqdefault.jpg?v=6b0397e2"
         }
       },
-      "concurrentViewers": 45,
-      "startedAt": "2026-11-20T01:52:29Z",
+      "concurrentViewers": 385,
+      "startedAt": "2026-11-23T01:35:10Z",
       "regionRestriction": null
     },
     {
-      "videoId": "7ZmPUqmZi5Q",
+      "videoId": "GVye0SAh6c8",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Saudi Under Attack LIVE: Houthis Attack Aramco Tower After Deadly Strikes in Yemen | WION",
+      "description": "Saudi Arabia is on high alert after massive explosions were heard in the capital, Riyadh, amid escalating tensions with Yemen's Houthi rebels. Saudi air defence systems reportedly intercepted incoming Houthi missiles as blasts shook the city, raising fresh concerns over the security situation in th…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GVye0SAh6c8/default.jpg?v=6b03955e"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GVye0SAh6c8/mqdefault.jpg?v=6b03955e"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GVye0SAh6c8/hqdefault.jpg?v=6b03955e"
+        }
+      },
+      "concurrentViewers": 57,
+      "startedAt": "2026-11-23T01:24:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Bd8QxywunYs",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "US-Iran War LIVE: Nuclear-Capable US Missile Test Puts World On Edge, Global Powers On Alert",
+      "description": "US-Iran War LIVE: Nuclear-Capable US Missile Test Puts World On Edge, Global Powers On Alert \n\n\nThe United States has tested a nuclear-capable intercontinental ballistic missile just before President Donald Trump's meeting with Russian and Chinese leaders. The unarmed Minuteman III missile was laun…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bd8QxywunYs/default.jpg?v=6b039699"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bd8QxywunYs/mqdefault.jpg?v=6b039699"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bd8QxywunYs/hqdefault.jpg?v=6b039699"
+        }
+      },
+      "concurrentViewers": 51,
+      "startedAt": "2026-11-23T01:28:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "hc4vaaUj2C8",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV Live: US-Iran War | PM Modi | Yuzvendra Chahal | India VS Newzealand | Delhi Pollution",
-      "description": "Iran's army claimed on Saturday that its air defence systems damaged a US F-16 fighter jet over the Persian Gulf, forcing the pilot to make an emergency landing at an airbase in the region, according to the state-owned Tasnim news agency. The incident reportedly took place Friday night, as tensions…",
+      "title": "PM Modi Meets Nepal PM Balen Shah LIVE | India-Nepal Bilateral Talks | Balen Shah India Visit LIVE",
+      "description": "PM Modi Meets Nepal PM Balen Shah LIVE | India-Nepal Ties | Balen Shah India Visit | Delhi\n\n#balenshah #nepalpm #pmmodi #delhi \n\nAbout NDTV (English news channel):\n\nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from within India a…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7ZmPUqmZi5Q/default.jpg?v=6b023f1a"
+          "url": "https://i.ytimg.com/vi/hc4vaaUj2C8/default.jpg?v=6b03d1b5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7ZmPUqmZi5Q/mqdefault.jpg?v=6b023f1a"
+          "url": "https://i.ytimg.com/vi/hc4vaaUj2C8/mqdefault.jpg?v=6b03d1b5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7ZmPUqmZi5Q/hqdefault.jpg?v=6b023f1a"
+          "url": "https://i.ytimg.com/vi/hc4vaaUj2C8/hqdefault.jpg?v=6b03d1b5"
         }
       },
-      "concurrentViewers": 41,
-      "startedAt": "2026-11-22T01:34:01Z",
+      "concurrentViewers": 62,
+      "startedAt": "2026-11-23T05:41:52Z",
       "regionRestriction": null
     },
     {
-      "videoId": "5uIq9GseOO4",
+      "videoId": "q4cHrKJNF9A",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "PM Modi On Gold LIVE | BJP Demands Congress Apology For Mocking PM Modi's Gold Advice",
-      "description": "The BJP has hit back at the Congress over remarks targeting Prime Minister Narendra Modi's advice on gold purchases, demanding an apology from the opposition party. Citing support from traders' body CTI, the BJP claims PM Modi's guidance helped traders avoid losses amid global uncertainty and says …",
+      "title": "Delimitation Bill Row LIVE: Sanjay Raut Alleges Rs 150-Crore Offers To MPs | BJP | Shinde Sena",
+      "description": "A political controversy has erupted over the proposed Delimitation Bill, with Shiv Sena (UBT) MP Sanjay Raut alleging that the BJP is attempting to buy MPs to secure the numbers needed to pass the legislation. Raut has claimed that Rs 150 crore is being offered to each MP, accusing the BJP of press…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5uIq9GseOO4/default.jpg?v=6b02e983"
+          "url": "https://i.ytimg.com/vi/q4cHrKJNF9A/default.jpg?v=6b03c794"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5uIq9GseOO4/mqdefault.jpg?v=6b02e983"
+          "url": "https://i.ytimg.com/vi/q4cHrKJNF9A/mqdefault.jpg?v=6b03c794"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5uIq9GseOO4/hqdefault.jpg?v=6b02e983"
+          "url": "https://i.ytimg.com/vi/q4cHrKJNF9A/hqdefault.jpg?v=6b03c794"
         }
       },
-      "concurrentViewers": 2,
-      "startedAt": "2026-11-22T13:12:55Z",
+      "concurrentViewers": 49,
+      "startedAt": "2026-11-23T05:15:18Z",
       "regionRestriction": null
     },
     {
-      "videoId": "BolZ5mT4nmQ",
+      "videoId": "LEr-nkWzDCw",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "BJP LIVE: Bengal CM Suvendu Adhikari Holds News conference in Kolkata | MLA Rekha Patra | BJP | TMC",
-      "description": "BJP LIVE: Bengal CM Suvendu Adhikari Holds News conference in Kolkata | MLA Rekha Patra | BJP | TMC \n\n#BJP #BengalCM #SuvenduAdhikari \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from withi…",
+      "title": "NDTV LIVE: Balen Shah India Visit | UP Elections 2027 | PM Modi | US-Iran War | Rahul Gandhi",
+      "description": "NDTV LIVE: Nitin Nabin's Visit To Telangana | BJP | Congress | PM Modi | Nepal PM Balendra Shah \n\n#nitinnabin #bjp #telangana #nepalpm \n\nAbout NDTV (English news channel): \n \nNDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from with…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/BolZ5mT4nmQ/default.jpg?v=6b02df40"
+          "url": "https://i.ytimg.com/vi/LEr-nkWzDCw/default.jpg?v=6b03ba68"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/BolZ5mT4nmQ/mqdefault.jpg?v=6b02df40"
+          "url": "https://i.ytimg.com/vi/LEr-nkWzDCw/mqdefault.jpg?v=6b03ba68"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/BolZ5mT4nmQ/hqdefault.jpg?v=6b02df40"
+          "url": "https://i.ytimg.com/vi/LEr-nkWzDCw/hqdefault.jpg?v=6b03ba68"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-22T12:58:35Z",
+      "concurrentViewers": 12,
+      "startedAt": "2026-11-23T04:02:13Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Nepal PM | US-Iran War | Trump | UP Election | Yuzi Joins BJP | PM Modi | Delhi",
-      "description": "India Today LIVE: Nepal PM | US-Iran War | Trump | UP Election | Yuzi Joins BJP | PM Modi | Delhi \n\nWatch India Today LIVE for the latest breaking news and updates on the US-Iran war, Donald Trump and global developments. Yuzvendra Chahal joins the BJP, adding a new development to the political hea…",
+      "title": "India Today LIVE: PM Modi Meets Nepal PM Balen Shah | UP Elections | Rahul Gandhi | Trump | Iran War",
+      "description": "India Today LIVE: PM Modi Meets Nepal PM Balen Shah | UP Elections | Rahul Gandhi | Trump | Iran War\n\nWatch India Today LIVE for the latest breaking news and updates on the US-Iran war, Donald Trump and global developments. Yuzvendra Chahal joins the BJP, adding a new development to the political h…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,63 +610,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 80,
+      "concurrentViewers": 599,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "tSTepmPD6XU",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: Sam Pitroda Exclusive On Rahul Gandhi's US Trip And Congress's Diaspora Outreach | India Today",
-      "description": "In an exclusive conversation with Rajdeep Sardesai on India Today, Sam Pitroda discusses Rahul Gandhi's US visit, the Congress's diaspora outreach and his message to the Modi government.\n\n#sampitroda #rahulgandhi #congress #indiatoday #rajdeepsardesai\n\nSubscribe to India Today for NEW VIDEOS EVERY …",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tSTepmPD6XU/default.jpg?v=6b033397"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tSTepmPD6XU/mqdefault.jpg?v=6b033397"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tSTepmPD6XU/hqdefault.jpg?v=6b033397"
-        }
-      },
-      "concurrentViewers": 9,
-      "startedAt": "2026-11-22T18:26:29Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "fLGQwrusPVI",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Rahul Gandhi's US Remarks On India Spark Row | Attack On Modi Government Or India? Watch Now",
-      "description": "A political row has erupted over Rahul Gandhi’s remarks during his visit to the US, with his comments drawing sharp reactions. Did Rahul Gandhi target the Modi government or make remarks against India? The controversy sparks a fresh political face-off.\n\n#rahulgandhi #congress #bjp #indiatoday #usvi…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fLGQwrusPVI/default.jpg?v=6b033485"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fLGQwrusPVI/mqdefault.jpg?v=6b033485"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fLGQwrusPVI/hqdefault.jpg?v=6b033485"
-        }
-      },
-      "concurrentViewers": 6,
-      "startedAt": "2026-11-22T18:30:05Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Nepal PM Balen Shah India Visit| UP Election 2027 | CM Yogi | PM Modi | Hindi News",
-      "description": "भारत-नेपाल संबंधों में नए अध्याय की शुरुआत, 2 दिन के दौरे पर आए पीएम बालेंद्र शाह ने जयशंकर से की मुलाकात, कल पीएम मोदी से वार्ता, राम-जानकी रेल सेवा को मिलेगी हरी झंडी.\n\nचंडीगढ़ में विपक्ष पर नितिन नवीन का तगड़ा हमला, दिल्ली के बाद अब पंजाब से भी होगा AAP का सफाया, राहुल गांधी पर लगाया विदेश में द…",
+      "title": "Aaj Tak LIVE TV: Balen Shah India Visit | UP Election | SP-Congress Seat Sharing | Hindi News",
+      "description": "भारत-नेपाल संबंधों में नए अध्याय की शुरुआत, 2 दिन के दौरे पर आए पीएम बालेंद्र शाह की आज पीएम मोदी से वार्ता, राम-जानकी रेल सेवा को मिलेगी हरी झंडी\n\nयूपी में सीटों के तालमेल पर आज समाजवादी पार्टी और कांग्रेस के बीच होगी बैठक, कांग्रेस से प्रियंका गांधी कर सकती हैं बातचीत की अगुवाई, दिल्ली में प्रमोद…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -682,56 +634,8 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 1645,
+      "concurrentViewers": 16455,
       "startedAt": "2022-11-20T19:08:04Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "92hchFYqYYo",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Black & White with Anjana Om Kashyap LIVE |Russia | America | China | Putin | Bangladesh |Gold Price",
-      "description": "दुनिया की तीन सबसे बड़ी महाशक्तियों के राष्ट्राध्यक्ष 19 नवंबर को चीन के शेनझेन में एक साथ बैठेंगे. इस बैठक में परमाणु हथियारों की होड़, आर्टिफिशियल इंटेलिजेंस और ईरान से लेकर वैश्विक सुरक्षा के कई अहम मुद्दों पर होगी चर्चा. चीन ने इस बैठक को बहुत महत्वपूर्ण करार देते हुए 'ग्राउंड ब्रेकिंग' कहा है.…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/92hchFYqYYo/default.jpg?v=6b030690"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/92hchFYqYYo/mqdefault.jpg?v=6b030690"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/92hchFYqYYo/hqdefault.jpg?v=6b030690"
-        }
-      },
-      "concurrentViewers": 274,
-      "startedAt": "2026-11-22T15:22:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Gus7y-KsQW4",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Nepal PM India Visit LIVE : भारत पहुंचे नेपाल के पीएम Balen Shah  | PM Modi | India- Nepal",
-      "description": "नेपाल के प्रधानमंत्री बालेन शाह आज रविवार से दो दिवसीय भारत दौरे पर आ रहे हैं. मार्च 2026 में प्रधानमंत्री पद संभालने के बाद यह उनकी पहली द्विपक्षीय भारत यात्रा है. उनके दौरे के एजेंडे में व्यापार और वाणिज्य, विकास साझेदारी, ऊर्जा और जल, फिजिकल और डिजिटल कनेक्टिविटी, टेक्नोलॉजी और इनोवेशन और खेल सम…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Gus7y-KsQW4/default.jpg?v=6b032cd5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Gus7y-KsQW4/mqdefault.jpg?v=6b032cd5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Gus7y-KsQW4/hqdefault.jpg?v=6b032cd5"
-        }
-      },
-      "concurrentViewers": 82,
-      "startedAt": "2026-11-22T17:57:10Z",
       "regionRestriction": null
     },
     {
@@ -754,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 2130,
+      "concurrentViewers": 1284,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -778,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 79,
+      "concurrentViewers": 158,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -802,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 3408,
+      "concurrentViewers": 1764,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
