@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T04:12:53.689Z",
+  "generatedAt": "2026-11-24T15:08:34.644Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Tuesday's newspaper front pages - https://news.sky.com/story/mondays-newspaper-front-pages-12427754\n\n🔴 LIVE | Returning CEO Jensen Huang gives message to Nvidia staff - …",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Jensen Huang latest: Trump under scrutiny after securing Nvidia CEO's return - https://news.sky.com/story/nvidia-latest-jensen-huang-reinstated-as-boss-13612450\n\n🔴 Gisel…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,8 +22,56 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 3364,
+      "concurrentViewers": 7038,
       "startedAt": "2026-10-28T08:10:52Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vpSoe905fUM",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "Govt publishes Personal Independent Payments review",
+      "description": "Social Security and Disability Minister Stephen Timms publishes the findings of his landmark review into Personal Independence Payments (PIP).\n\nOriginally commissioned in June 2025 alongside the government's welfare reform proposals, the Timms Review investigates the significant increase in monthly…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vpSoe905fUM/default.jpg?v=6b054dae"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vpSoe905fUM/mqdefault.jpg?v=6b054dae"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vpSoe905fUM/hqdefault.jpg?v=6b054dae"
+        }
+      },
+      "concurrentViewers": 195,
+      "startedAt": "2026-11-24T13:24:55Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "j1rBUjc_O5g",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "title": "US markets open for day two after Nvidia CEO return",
+      "description": "Live coverage from the New York Stock Exchange (NYSE) opening bell as Wall Street continues to react to Jensen Huang's sudden reinstatement as CEO of Nvidia (NVDA).\n\nFollowing Nvidia's board reversal—which sent shares surging more than 30% on Monday and added nearly $1 trillion to the chipmaker's m…",
+      "channelTitle": "Sky News",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j1rBUjc_O5g/default.jpg?v=6b0592b9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j1rBUjc_O5g/mqdefault.jpg?v=6b0592b9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j1rBUjc_O5g/hqdefault.jpg?v=6b0592b9"
+        }
+      },
+      "concurrentViewers": 52,
+      "startedAt": "2026-11-24T14:26:38Z",
       "regionRestriction": null
     },
     {
@@ -46,7 +94,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 294,
+      "concurrentViewers": 680,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +122,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1325,
+      "concurrentViewers": 3115,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Iea658y9NjE",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "Martin Daubney | Tuesday 24th November",
+      "description": "Join Martin for an up-to-the-minute take on the day's events delivered in his own unique and lively style.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch GB…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Iea658y9NjE/default.jpg?v=6b03ad24"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Iea658y9NjE/mqdefault.jpg?v=6b03ad24"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Iea658y9NjE/hqdefault.jpg?v=6b03ad24"
+        }
+      },
+      "concurrentViewers": 325,
+      "startedAt": "2026-11-24T14:59:51Z",
       "regionRestriction": null
     },
     {
@@ -98,14 +170,86 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 301,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "VjdWroHy3P0",
+      "videoId": "Ay-4F2JobwU",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Nasdaq opens after Huang reinstated at Nvidia",
+      "description": "The Nasdaq opens one day after the Nvidia board reinstated Jensen Huang as CEO, less than two weeks after he resigned following revelations of extramarital affairs, including ‌one with an alleged spy for China.\n \n#nasdaq #nvidia #trading #huang #jensenhuang #live #Reuters #News\n\nKeep up with the la…",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ay-4F2JobwU/default.jpg?v=6b059bb2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ay-4F2JobwU/mqdefault.jpg?v=6b059bb2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ay-4F2JobwU/hqdefault.jpg?v=6b059bb2"
+        }
+      },
+      "concurrentViewers": 34,
+      "startedAt": "2026-11-24T14:12:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "HR17L7A34Bc",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Venezuelan public workers march in Caracas",
+      "description": "Venezuelan public workers' unions march in Caracas over unpaid year-end bonuses.\n\n#venezuela #tradeunions #strike #caracas #live #Reuters #News\n#live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HR17L7A34Bc/default.jpg?v=6b05a00f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HR17L7A34Bc/mqdefault.jpg?v=6b05a00f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HR17L7A34Bc/hqdefault.jpg?v=6b05a00f"
+        }
+      },
+      "concurrentViewers": 27,
+      "startedAt": "2026-11-24T14:17:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "EdjLRdthQp4",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "title": "LIVE: Supermoon visible near Dubai’s Burj Khalifa",
+      "description": "A supermoon, also known as Beaver Moon, is visible near Dubai’s Burj Khalifa.\n\n#supermoon #dubai #uae #burjkhalifa #beaversupermoon #live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
+      "channelTitle": "Reuters",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EdjLRdthQp4/default.jpg?v=6b05a71a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EdjLRdthQp4/mqdefault.jpg?v=6b05a71a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EdjLRdthQp4/hqdefault.jpg?v=6b05a71a"
+        }
+      },
+      "concurrentViewers": 23,
+      "startedAt": "2026-11-24T14:45:56Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "13rFWn3k36s",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Nov. 24",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -113,17 +257,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VjdWroHy3P0/default.jpg?v=6b049921"
+          "url": "https://i.ytimg.com/vi/13rFWn3k36s/default.jpg?v=6b04997d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VjdWroHy3P0/mqdefault.jpg?v=6b049921"
+          "url": "https://i.ytimg.com/vi/13rFWn3k36s/mqdefault.jpg?v=6b04997d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VjdWroHy3P0/hqdefault.jpg?v=6b049921"
+          "url": "https://i.ytimg.com/vi/13rFWn3k36s/hqdefault.jpg?v=6b04997d"
         }
       },
-      "concurrentViewers": 1012,
-      "startedAt": "2026-11-23T22:59:19Z",
+      "concurrentViewers": 7032,
+      "startedAt": "2026-11-24T10:59:47Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "E303pvvBujg",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Tuesday, November 24",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E303pvvBujg/default.jpg?v=6afa025a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E303pvvBujg/mqdefault.jpg?v=6afa025a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E303pvvBujg/hqdefault.jpg?v=6afa025a"
+        }
+      },
+      "concurrentViewers": 2696,
+      "startedAt": "2026-11-24T11:00:26Z",
       "regionRestriction": null
     },
     {
@@ -146,36 +314,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 863,
+      "concurrentViewers": 1362,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "xNtZEaroM5U",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "Hawaii's Kīlauea volcano spews lava during eruption",
-      "description": "Hawaii's Kīlauea volcano is spewing lava during its latest eruption. https://abcnews.visitlink.me/6aTf8D\n–––\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch?v=gN0PZCe-kwQ&ab_…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xNtZEaroM5U/default.jpg?v=6b047485"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xNtZEaroM5U/mqdefault.jpg?v=6b047485"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xNtZEaroM5U/hqdefault.jpg?v=6b047485"
-        }
-      },
-      "concurrentViewers": 64,
-      "startedAt": "2026-11-23T17:15:50Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ImuzD8q2mJ0",
+      "videoId": "i0-fZuEsdko",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -185,17 +329,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ImuzD8q2mJ0/default.jpg?v=6b04c615"
+          "url": "https://i.ytimg.com/vi/i0-fZuEsdko/default.jpg?v=6b04c645"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ImuzD8q2mJ0/mqdefault.jpg?v=6b04c615"
+          "url": "https://i.ytimg.com/vi/i0-fZuEsdko/mqdefault.jpg?v=6b04c645"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ImuzD8q2mJ0/hqdefault.jpg?v=6b04c615"
+          "url": "https://i.ytimg.com/vi/i0-fZuEsdko/hqdefault.jpg?v=6b04c645"
         }
       },
-      "concurrentViewers": 415,
-      "startedAt": "2026-11-23T23:59:44Z",
+      "concurrentViewers": 1467,
+      "startedAt": "2026-11-24T12:06:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "8COcAkRHL10",
+      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+      "title": "Watch Live: Iowa officials provide update on controversial plan to detonate explosives | CBS News",
+      "description": "Officials are taking questions after a federal appeals court cleared the way for the U.S. Army to detonate five tons of explosives containing lead azide at a munitions plant in Iowa. Environmental groups warn the planned detonation could send a plume of toxic lead particles into the surrounding are…",
+      "channelTitle": "CBS News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8COcAkRHL10/default.jpg?v=6b05a278"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8COcAkRHL10/mqdefault.jpg?v=6b05a278"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8COcAkRHL10/hqdefault.jpg?v=6b05a278"
+        }
+      },
+      "concurrentViewers": 23,
+      "startedAt": "2026-11-24T15:06:27Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +386,7 @@
           "url": "https://i.ytimg.com/vi/meJfc4-d4tg/hqdefault.jpg?v=6b04c616"
         }
       },
-      "concurrentViewers": 285,
+      "concurrentViewers": 614,
       "startedAt": "2026-11-23T15:28:44Z",
       "regionRestriction": null
     },
@@ -242,8 +410,80 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 365,
+      "concurrentViewers": 1311,
       "startedAt": "2026-11-12T21:30:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "F5O4vGNBIyQ",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Officials provide update on detonating degraded bomb-making material in Iowa",
+      "description": "Watch live as officials provide an update on plans to detonate lead azide, a bomb-making chemical stored at the Iowa Army Ammunition Plant in Middletown, Iowa. The U.S. Army plans to carry out the detonation Wednesday morning after receiving approval from a federal appeals court.",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F5O4vGNBIyQ/default.jpg?v=6b05a463"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F5O4vGNBIyQ/mqdefault.jpg?v=6b05a463"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F5O4vGNBIyQ/hqdefault.jpg?v=6b05a463"
+        }
+      },
+      "concurrentViewers": 358,
+      "startedAt": "2026-11-24T15:02:17Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6ZKfUHJDT28",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Nvidia stock price a day after board reinstates Jensen Huang as CEO",
+      "description": "Watch Nvidia’s stock price a day after its board reinstated Jensen Huang as CEO and president, calling the move in the company’s best interest. President Donald Trump had pushed for his return. Read more: https://bit.ly/4tkZtem",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6ZKfUHJDT28/default.jpg?v=6b059fbf"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6ZKfUHJDT28/mqdefault.jpg?v=6b059fbf"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6ZKfUHJDT28/hqdefault.jpg?v=6b059fbf"
+        }
+      },
+      "concurrentViewers": 140,
+      "startedAt": "2026-11-24T14:33:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "u7y-nuZAnvU",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Charlotte airport ahead of Thanksgiving travel as disruption concerns grow",
+      "description": "Watch live from Charlotte Douglas International Airport as millions prepare to fly for Thanksgiving. Recent airline disruptions, storms threatening both coasts and soaring airfares are adding to holiday travel concerns. Read more: https://bit.ly/4fc4sZ9 \n\n#thanksgiving",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u7y-nuZAnvU/default.jpg?v=6b05a4e7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u7y-nuZAnvU/mqdefault.jpg?v=6b05a4e7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u7y-nuZAnvU/hqdefault.jpg?v=6b05a4e7"
+        }
+      },
+      "concurrentViewers": 101,
+      "startedAt": "2026-11-24T14:54:49Z",
       "regionRestriction": null
     },
     {
@@ -266,7 +506,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 2216,
+      "concurrentViewers": 13471,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +530,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 42,
+      "concurrentViewers": 30,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +554,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7237,
+      "concurrentViewers": 9310,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +582,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 350,
+      "concurrentViewers": 573,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +606,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1139,
+      "concurrentViewers": 1552,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +630,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 4066,
+      "concurrentViewers": 8884,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +654,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 163,
+      "concurrentViewers": 259,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 54,
+      "concurrentViewers": 146,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
         }
       },
-      "concurrentViewers": 155,
+      "concurrentViewers": 214,
       "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
@@ -481,17 +721,41 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a7fe"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a882"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a7fe"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a882"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a7fe"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a882"
         }
       },
-      "concurrentViewers": 32,
+      "concurrentViewers": 48,
       "startedAt": "2020-11-18T09:26:34Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NcA8GXiMGyI",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "LIVE: Punjab Political Reunion | Hasina's Return Bid | Trump's NVIDIA Gamble | WION Race To Power",
+      "description": "The BJP and Akali Dal reunite ahead of the Punjab elections. Sheikh Hasina sets a date for her return to Bangladesh. Donald Trump faces congressional backlash over Jensen Huang's NVIDIA comeback, while Jared Kushner warns Israel against global isolation.\n\n#RaceToPower #DecodingIndia #Punjab #BJP #S…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NcA8GXiMGyI/default.jpg?v=6b058b7b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NcA8GXiMGyI/mqdefault.jpg?v=6b058b7b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NcA8GXiMGyI/hqdefault.jpg?v=6b058b7b"
+        }
+      },
+      "concurrentViewers": 42,
+      "startedAt": "2026-11-24T14:30:17Z",
       "regionRestriction": null
     },
     {
@@ -514,14 +778,38 @@
           "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/hqdefault.jpg?v=6b0397e2"
         }
       },
-      "concurrentViewers": 98,
+      "concurrentViewers": 39,
       "startedAt": "2026-11-23T01:35:10Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bBEaJiWr9rw",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "Dev Deepawali LIVE: Varanasi Lights Up With Lakhs of Diyas on Kartik Purnima | WION Live",
+      "description": "Dev Deepawali LIVE: Varanasi Lights Up With Lakhs of Diyas on Kartik Purnima | WION Live\n\n#deepawali #diwali #varanasi #kashi #wion\n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bBEaJiWr9rw/default.jpg?v=6b058dfb"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bBEaJiWr9rw/mqdefault.jpg?v=6b058dfb"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bBEaJiWr9rw/hqdefault.jpg?v=6b058dfb"
+        }
+      },
+      "concurrentViewers": 16,
+      "startedAt": "2026-11-24T13:18:32Z",
       "regionRestriction": null
     },
     {
       "videoId": "xlbpp32Zp9k",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV Live: Jensen Huang | Nvidia | Congress | UP Elections 2027 | PM Modi | Rahul Gandhi",
+      "title": "NDTV Live: BJP-Akali Dal Alliance | NVIDIA CEO | UP Elections 2027 | Dev Deepawali | Deepam Row LIVE",
       "description": "On Monday, November 23, the Nvidia board said it had voted unanimously to reinstate Huang following a series of discussions and meetings with him. US President Donald Trump, who at one point said former Apple boss Tim Cook should lead the semiconductor chip company, said he'd been speaking to Nvidi…",
       "channelTitle": "NDTV",
       "country": "IN",
@@ -538,63 +826,15 @@
           "url": "https://i.ytimg.com/vi/xlbpp32Zp9k/hqdefault.jpg?v=6b04e149"
         }
       },
-      "concurrentViewers": 386,
+      "concurrentViewers": 417,
       "startedAt": "2026-11-24T01:32:26Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "BXhLzjwijEM",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "CJP Saurav Das | Saurav Das Barred From Leaving India | LIVE | CJP News | CJP Leader",
-      "description": "Cockroach Janta Party's Saurav Das has alleged that he was stopped at Delhi's Indira Gandhi International Airport and prevented from flying to London, where he was scheduled to deliver a lecture at the University of Oxford.\n\n#SauravDas #CockroachJantaParty #CJP #OxfordUniversity #DelhiAirport #Pass…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BXhLzjwijEM/default.jpg?v=6b0508bc"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BXhLzjwijEM/mqdefault.jpg?v=6b0508bc"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BXhLzjwijEM/hqdefault.jpg?v=6b0508bc"
-        }
-      },
-      "concurrentViewers": 107,
-      "startedAt": "2026-11-24T03:49:34Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Nzx5T9aNdKw",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Bisleri News LIVE | Is Your Mineral Water Safe? | Bisleri Under FSSAI Scanner | Health News",
-      "description": "The FSSAI has clarified that safety concerns relate only to a single batch of Bisleri packaged drinking water from its Goa facility, and not the brand's entire product range. While testing flagged elevated bromate levels in the initial laboratory analysis and traces of PAHs in the referral lab, the…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Nzx5T9aNdKw/default.jpg?v=6b0501f5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Nzx5T9aNdKw/mqdefault.jpg?v=6b0501f5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Nzx5T9aNdKw/hqdefault.jpg?v=6b0501f5"
-        }
-      },
-      "concurrentViewers": 21,
-      "startedAt": "2026-11-24T03:22:12Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Jensen Huang | NVIDIA CEO | PM Modi | Donald Trump | UP Elections 2027 | Iran War",
-      "description": "India Today LIVE: Jensen Huang | NVIDIA CEO | PM Modi | Donald Trump | UP Elections 2027 | Iran War\n\nWatch India Today LIVE for the latest breaking news and updates on the US-Iran war, Donald Trump and global developments. Yuzvendra Chahal joins the BJP, adding a new development to the political he…",
+      "title": "India Today LIVE: TN Deepam Row | BJP-Akali Dal Reunites | Jensen Huang | UP Polls 2027 | Punjab",
+      "description": "India Today LIVE: TN Deepam Row | BJP-Akali Dal Reunites | Jensen Huang | UP Polls 2027 | Punjab \n\nThe BJP and Shiromani Akali Dal have renewed their alliance for the 2027 Punjab Assembly elections, joining hands under the NDA. Amit Shah outlined priorities including drug eradication, corruption co…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -610,39 +850,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 836,
+      "concurrentViewers": 1201,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "zNYTHNruRP4",
+      "videoId": "BOhDPyl41lQ",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE:  S Gurumurthy Exclusive On Tamil Nadu Deepam Row Amid The Growing Political Flashpoint | Watch",
-      "description": "LIVE:  S Gurumurthy Exclusive On Tamil Nadu Deepam Row Amid The Growing Political Flashpoint | Watch\n\n#tamilnadudeepamrow #sgurumurthy #tamilnadupolitics #indiatodaylive #deepamcontroversy #indiapolitics \n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications …",
+      "title": "LIVE: Tamil Nadu Deepam Row Rages As Vijay Led Tamil Nadu Govt Refuses To Follow SC Order | Watch",
+      "description": "Tamil Nadu Deepam row intensifies amid a growing face-off over the Supreme Court's order. The TVK government is facing criticism over its stand on the Deepam lighting dispute, with outrage and political tensions mounting. What happens next in the escalating controversy? Follow the latest developmen…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/zNYTHNruRP4/default.jpg?v=6b048212"
+          "url": "https://i.ytimg.com/vi/BOhDPyl41lQ/default.jpg?v=6b059e93"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/zNYTHNruRP4/mqdefault.jpg?v=6b048212"
+          "url": "https://i.ytimg.com/vi/BOhDPyl41lQ/mqdefault.jpg?v=6b059e93"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/zNYTHNruRP4/hqdefault.jpg?v=6b048212"
+          "url": "https://i.ytimg.com/vi/BOhDPyl41lQ/hqdefault.jpg?v=6b059e93"
         }
       },
-      "concurrentViewers": 10,
-      "startedAt": "2026-11-23T18:09:23Z",
+      "concurrentViewers": 199,
+      "startedAt": "2026-11-24T14:31:22Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Y32tCSo_1ts",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Tamil Nadu Deepam Row LIVE: Thiruparankundram On Alert As BJP Alleges TVK Govt 'Witch-Hunt' | Watch",
+      "description": "All eyes are on Madurai as Tamil Nadu celebrates the Karthigai Deepam festival amid the Deepam lighting controversy. Thiruparankundram remains in focus, with heightened security and political tensions surrounding the issue. The BJP has alleged a 'witch-hunt' by the TVK government. Follow the latest…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y32tCSo_1ts/default.jpg?v=6b056e57"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y32tCSo_1ts/mqdefault.jpg?v=6b056e57"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y32tCSo_1ts/hqdefault.jpg?v=6b056e57"
+        }
+      },
+      "concurrentViewers": 185,
+      "startedAt": "2026-11-24T11:08:57Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: SP-Congress Meeting | UP Elections | Jensen Huang Returns NVIDIA | Hindi News",
-      "description": "यूपी चुनाव को लेकर आज दूसरे दिन भी समाजवादी पार्टी-कांग्रेस की बैठक संभव, कांग्रेस ने नई लिस्ट देकर की करीब 120 सीटों पर दावेदारी, लखनऊ में बीजेपी ने की बैठक-संगठन को मजबूत करने और महिलाओं-युवाओं को पार्टी से जोड़ने पर चर्चा\n\nसंसद के शीतकालीन सत्र को लेकर सियासी घमासान तेज, समाजवादी पार्टी और कांग्…",
+      "title": "Aaj Tak LIVE TV: BJP-Akali Alliance | UP Election | Sheikh Hasina | Dev Deepawali | Hindi News",
+      "description": "पंजाब में अगले साल विधानसभा चुनाव होने वाले हैं. चुनाव के मद्देनजर बीजेपी और शिरोमणि अकाली दल ने गठबंधन का ऐलान किया है. केंद्रीय गृह मंत्री अमित शाह और शिरोमणि अकली दल प्रमुख सुखबीर सिंह बादल ने इस गठबंधन की घोषणा की है. \n\n\nयूपी चुनाव को लेकर आज दूसरे दिन भी समाजवादी पार्टी-कांग्रेस की बैठक संभव, …",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -658,8 +922,56 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 23326,
+      "concurrentViewers": 34514,
       "startedAt": "2022-11-20T19:08:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "O-tCc4xVNh0",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Anant Singh Daughter Wedding News LIVE: Bihar में अनंत सिंह की बेटी की शादी की धूम | Mokama",
+      "description": "Anant Singh Daughter Wedding News LIVE: Bihar में अनंत सिंह की बेटी की शादी की धूम | Mokama\n\nबिहार के मोकामा से विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी 25 नवंबर को होनी है। शादी से पहले ही उनके पैतृक गांव नदवा में भव्य तैयारियां चर्चा का विषय बनी हुई हैं। दावा है कि शादी में 5 लाख से ज्यादा म…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O-tCc4xVNh0/default.jpg?v=6b058bb6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O-tCc4xVNh0/mqdefault.jpg?v=6b058bb6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O-tCc4xVNh0/hqdefault.jpg?v=6b058bb6"
+        }
+      },
+      "concurrentViewers": 1153,
+      "startedAt": "2026-11-24T13:58:18Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "lCN_WGhlB8c",
+      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+      "title": "Khabardar with Sweta Singh LIVE: UP Elections में Congress को 26 सीटें ही क्यों देना चाहती है SP?",
+      "description": "Khabardar with Sweta Singh LIVE: UP Elections में Congress को 26 सीटें ही क्यों देना चाहती है SP?\n\nउत्तर प्रदेश में समाजवादी पार्टी और कांग्रेस के बीच सीट शेयरिंग को लेकर खींचतान जारी है। कांग्रेस की तरफ से 181 से ज्यादा सीटों की मांग किए जाने की चर्चा के बीच सपा के रामगोपाल यादव ने 26 सीटों के ऑफर…",
+      "channelTitle": "Aaj Tak",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lCN_WGhlB8c/default.jpg?v=6b059953"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lCN_WGhlB8c/mqdefault.jpg?v=6b059953"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lCN_WGhlB8c/hqdefault.jpg?v=6b059953"
+        }
+      },
+      "concurrentViewers": 594,
+      "startedAt": "2026-11-24T14:21:26Z",
       "regionRestriction": null
     },
     {
@@ -682,7 +994,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1845,
+      "concurrentViewers": 664,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -706,7 +1018,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 200,
+      "concurrentViewers": 197,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -730,7 +1042,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1816,
+      "concurrentViewers": 745,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
