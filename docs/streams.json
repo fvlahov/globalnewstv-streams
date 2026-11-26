@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T19:07:36.754Z",
+  "generatedAt": "2026-11-26T02:23:14.565Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🟡 BREAKING | Energy bills to soar as new price cap announced - https://news.sky.com/story/money-personal-finance-consumer-pension-mortgage-inheritance-tax-live-latest-13040…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 At least 31 dead after major fire on ring road near Cairo - https://news.sky.com/story/egypt-latest-at-least-30-killed-after-vehicle-carrying-fuel-overturns-near-cairo-13…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 5148,
+      "concurrentViewers": 2362,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 768,
+      "concurrentViewers": 292,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,8 +74,32 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 3686,
+      "concurrentViewers": 1197,
       "startedAt": "2026-10-12T11:02:06Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "J9b5YBsf8AM",
+      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "title": "The Late Show Live | Wednesday 25th November",
+      "description": "Live from Washington, D.C., Tom Harwood and Ben Leo bring you the latest stories shaping Britain and America.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://www.facebook.com/GBNewsOnline\n\nDownload the GB News app! You can watch…",
+      "channelTitle": "GBNews",
+      "country": "GB",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J9b5YBsf8AM/default.jpg?v=6b057c6f"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J9b5YBsf8AM/mqdefault.jpg?v=6b057c6f"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J9b5YBsf8AM/hqdefault.jpg?v=6b057c6f"
+        }
+      },
+      "concurrentViewers": 223,
+      "startedAt": "2026-11-26T00:00:12Z",
       "regionRestriction": null
     },
     {
@@ -98,84 +122,12 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 149,
+      "concurrentViewers": 29,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "LVtLCSZFb-0",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: El Nino storms and king tides begin to hit the US West Coast",
-      "description": "A view of the massive waves in Pacifica, California, as El Nino storms begin to hit the US West Coast.\n \n#ElNino #Storms #California #WestCoast #Environment #Live #Reuters #News\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LVtLCSZFb-0/default.jpg?v=12"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LVtLCSZFb-0/mqdefault.jpg?v=12"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LVtLCSZFb-0/hqdefault.jpg?v=12"
-        }
-      },
-      "concurrentViewers": 130,
-      "startedAt": "2026-11-25T18:22:17Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "_BkmKpd2OJY",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Macy's Thanksgiving Day Parade balloons spring to life",
-      "description": "Federal officials hold a news conference on the planned The Macy's Thanksgiving Day Parade balloons are inflated a day before they float through the streets of New York City.\n \n#ThanksgivingDayParade #Parade #Thanksgiving #NewYork #Balloons #Live #Reuters #News\n\nKeep up with the latest news from ar…",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_BkmKpd2OJY/default.jpg?v=a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_BkmKpd2OJY/mqdefault.jpg?v=a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_BkmKpd2OJY/hqdefault.jpg?v=a"
-        }
-      },
-      "concurrentViewers": 26,
-      "startedAt": "2026-11-25T18:18:14Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "iMh-VDJ8-VY",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Protest in Madrid to demand end to violence against women",
-      "description": "Protesters in Madrid, Spain, call for an end to violence against women to mark the International Day for the Elimination of Violence Against Women.\n\n#Protest #Madrid #Spain #Violence #Women #Live #News #Reuters\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iMh-VDJ8-VY/default.jpg?v=8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iMh-VDJ8-VY/mqdefault.jpg?v=8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iMh-VDJ8-VY/hqdefault.jpg?v=8"
-        }
-      },
-      "concurrentViewers": 14,
-      "startedAt": "2026-11-25T18:23:46Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "-LSuaW99Bn0",
+      "videoId": "9ERRSqJNoSQ",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "title": "LIVE: NBC News NOW - Nov. 25",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
@@ -185,17 +137,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-LSuaW99Bn0/default.jpg?v=6b05d887"
+          "url": "https://i.ytimg.com/vi/9ERRSqJNoSQ/default.jpg?v=6b076dcb"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-LSuaW99Bn0/mqdefault.jpg?v=6b05d887"
+          "url": "https://i.ytimg.com/vi/9ERRSqJNoSQ/mqdefault.jpg?v=6b076dcb"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-LSuaW99Bn0/hqdefault.jpg?v=6b05d887"
+          "url": "https://i.ytimg.com/vi/9ERRSqJNoSQ/hqdefault.jpg?v=6b076dcb"
         }
       },
-      "concurrentViewers": 4142,
-      "startedAt": "2026-11-25T11:54:36Z",
+      "concurrentViewers": 1422,
+      "startedAt": "2026-11-25T22:59:10Z",
       "regionRestriction": null
     },
     {
@@ -218,12 +170,12 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1021,
+      "concurrentViewers": 782,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
     {
-      "videoId": "qQKeNs9is20",
+      "videoId": "vVieIWEkISc",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
       "description": "Get today's top stories, breaking news and original reporting on CBS News 24/7.\n\n#news #livenews #breakingnews \n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking…",
@@ -233,40 +185,40 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qQKeNs9is20/default.jpg?v=6b0601c0"
+          "url": "https://i.ytimg.com/vi/vVieIWEkISc/default.jpg?v=6b0753b6"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qQKeNs9is20/mqdefault.jpg?v=6b0601c0"
+          "url": "https://i.ytimg.com/vi/vVieIWEkISc/mqdefault.jpg?v=6b0753b6"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qQKeNs9is20/hqdefault.jpg?v=6b0601c0"
+          "url": "https://i.ytimg.com/vi/vVieIWEkISc/hqdefault.jpg?v=6b0753b6"
         }
       },
-      "concurrentViewers": 1003,
-      "startedAt": "2026-11-25T12:43:11Z",
+      "concurrentViewers": 541,
+      "startedAt": "2026-11-26T00:00:13Z",
       "regionRestriction": null
     },
     {
       "videoId": "vkub-CBFWYs",
       "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-      "title": "LIVE NEWS: Holiday travel rush, NYC parade preps, Kilmar Abrego Garcia arrives in Spain & more",
-      "description": "BREAKING: Kilmar Ábrego García, a Salvadoran national who was mistakenly deported from the U.S. in 2025, arrived in Spain Wednesday after voluntarily leaving the country, potentially bringing an end to a high-profile case tied to the Trump administration’s immigration crackdown.\n\nNOW: AAA estimates…",
+      "title": "LIVE: Thanksgiving travel rush, NYC parade postponed, Holiday weather, Iowa lead detonation, more",
+      "description": "We are now learning that the Macy's Thanksgiving Day Parade will be postponed due to ongoing weather conditions. The decision marks the first time the parade was moved due to weather. According to our partners at FOX 5 New York, the NYPD held the final say on whether the balloons could fly. Under N…",
       "channelTitle": "LiveNOW from FOX",
       "country": "US",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vkub-CBFWYs/default.jpg?v=6b06e58e"
+          "url": "https://i.ytimg.com/vi/vkub-CBFWYs/default.jpg?v=6b077773"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vkub-CBFWYs/mqdefault.jpg?v=6b06e58e"
+          "url": "https://i.ytimg.com/vi/vkub-CBFWYs/mqdefault.jpg?v=6b077773"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vkub-CBFWYs/hqdefault.jpg?v=6b06e58e"
+          "url": "https://i.ytimg.com/vi/vkub-CBFWYs/hqdefault.jpg?v=6b077773"
         }
       },
-      "concurrentViewers": 1008,
+      "concurrentViewers": 434,
       "startedAt": "2026-11-25T13:45:16Z",
       "regionRestriction": null
     },
@@ -290,32 +242,8 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 1325,
+      "concurrentViewers": 447,
       "startedAt": "2026-11-12T21:30:24Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "b-8d-D9i4_E",
-      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "LIVE: Macy’s Thanksgiving Day Parade balloons are inflated in New York",
-      "description": "Watch live as giant balloons for Macy’s Thanksgiving Day Parade in New York are inflated near the start of the parade route. Read more: https://bit.ly/4frfRnK\n\n#thanksgiving",
-      "channelTitle": "Associated Press",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/b-8d-D9i4_E/default.jpg?v=6b0726e2"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/b-8d-D9i4_E/mqdefault.jpg?v=6b0726e2"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/b-8d-D9i4_E/hqdefault.jpg?v=6b0726e2"
-        }
-      },
-      "concurrentViewers": 211,
-      "startedAt": "2026-11-25T18:56:59Z",
       "regionRestriction": null
     },
     {
@@ -338,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 8967,
+      "concurrentViewers": 1842,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -362,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 22,
+      "concurrentViewers": 33,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -386,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 9924,
+      "concurrentViewers": 5463,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -414,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 478,
+      "concurrentViewers": 362,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -438,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1547,
+      "concurrentViewers": 796,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -462,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 8216,
+      "concurrentViewers": 3381,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -486,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 210,
+      "concurrentViewers": 102,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -514,32 +442,8 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 80,
+      "concurrentViewers": 36,
       "startedAt": "2022-09-19T16:38:52Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "JV5w1MhzcfQ",
-      "channelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
-      "title": "LIVE: Watch TRT World",
-      "description": "At TRT World we're building a global community focused around change. We’re looking beyond the headlines to drive meaningful conversations that empower. We want to connect people across the globe to issues that matter. We explore the reality behind the hashtags and the people behind the statistics.…",
-      "channelTitle": "TRT World",
-      "country": "TR",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/default.jpg?v=6aeb74a5"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/mqdefault.jpg?v=6aeb74a5"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/JV5w1MhzcfQ/hqdefault.jpg?v=6aeb74a5"
-        }
-      },
-      "concurrentViewers": 170,
-      "startedAt": "2026-11-04T18:12:12Z",
       "regionRestriction": null
     },
     {
@@ -553,96 +457,168 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3a9d2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3aa28"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3a9d2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3aa28"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3a9d2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3aa28"
         }
       },
-      "concurrentViewers": 45,
+      "concurrentViewers": 36,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
     {
-      "videoId": "XEf7CnpjfJs",
+      "videoId": "9JKhtCaNTM8",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile Terror On Ukraine, Blasts Shake Kyiv",
-      "description": "Russia-Ukraine War LIVE: Putin Unleashes Hypersonic Missile On Ukraine, Blasts Shake Kyiv | WION\n\nA massive wave of Russian strikes used nuclear-capable Iskander ballistic missiles and Su-57 stealth fighters has pounded Ukrainian military hubs, exploiting acute shortages of Patriot air defence syst…",
+      "title": "US-Iran War LIVE: US Tests Nuclear-Capable ICBM As Global Tensions Escalate Like Never Before!",
+      "description": "US-Iran War LIVE: America Fires Minuteman III ICBM, Sends Nuclear Deterrence Signal | WION \n\nThe United States has tested a nuclear-capable intercontinental ballistic missile just before President Donald Trump's meeting with Russian and Chinese leaders. The unarmed Minuteman III missile was launche…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/default.jpg?v=6b0397e2"
+          "url": "https://i.ytimg.com/vi/9JKhtCaNTM8/default.jpg?v=6b0791c8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/mqdefault.jpg?v=6b0397e2"
+          "url": "https://i.ytimg.com/vi/9JKhtCaNTM8/mqdefault.jpg?v=6b0791c8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XEf7CnpjfJs/hqdefault.jpg?v=6b0397e2"
+          "url": "https://i.ytimg.com/vi/9JKhtCaNTM8/hqdefault.jpg?v=6b0791c8"
         }
       },
-      "concurrentViewers": 48,
-      "startedAt": "2026-11-23T01:35:10Z",
+      "concurrentViewers": 170,
+      "startedAt": "2026-11-26T02:03:31Z",
       "regionRestriction": null
     },
     {
-      "videoId": "WaY0ZNGl6gc",
+      "videoId": "snGVUdHsNTg",
       "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE:  Houthis Strike Riyadh Skyscraper, 11 Injured In Fresh Attack | WION",
-      "description": "Yemen's Houthi rebels have reportedly struck a skyscraper in Saudi Arabia's capital, Riyadh, injuring at least 11 people. The attack targeted the 80-storey Public Investment Fund (PIF) Tower in the city's King Abdullah Financial District, which houses the headquarters of Saudi Arabia's sovereign we…",
+      "title": "Saudi Under Attack LIVE: Houthis Launch Fresh Attacks On Saudi Red Sea Ports  | WION Live",
+      "description": "Tensions between Saudi Arabia and Yemen’s Houthi rebels have escalated after fresh attacks targeting the kingdom’s Red Sea ports. The strikes have raised concerns over maritime security and the safety of vital shipping routes in the region. The latest escalation comes amid growing hostilities betwe…",
       "channelTitle": "WION",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WaY0ZNGl6gc/default.jpg?v=6b0698f0"
+          "url": "https://i.ytimg.com/vi/snGVUdHsNTg/default.jpg?v=6b07941f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WaY0ZNGl6gc/mqdefault.jpg?v=6b0698f0"
+          "url": "https://i.ytimg.com/vi/snGVUdHsNTg/mqdefault.jpg?v=6b07941f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WaY0ZNGl6gc/hqdefault.jpg?v=6b0698f0"
+          "url": "https://i.ytimg.com/vi/snGVUdHsNTg/hqdefault.jpg?v=6b07941f"
         }
       },
-      "concurrentViewers": 35,
-      "startedAt": "2026-11-25T07:53:46Z",
+      "concurrentViewers": 78,
+      "startedAt": "2026-11-26T02:06:41Z",
       "regionRestriction": null
     },
     {
-      "videoId": "t0LJNwd3jpM",
+      "videoId": "Swiof03ul5A",
+      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "title": "World DNA LIVE: Houthis Claim Attacks On Two Saudi Ports | US Announces New Tariffs",
+      "description": "World DNA LIVE: Houthis Claim Attacks On Two Saudi Ports | US Announces New Tariffs\n\nRising geopolitical tensions and global trade uncertainty take centre stage as Yemen’s Houthis claim attacks on Saudi ports Jeddah and Jazan following Saudi strikes on Hodeidah, while the United States announces ne…",
+      "channelTitle": "WION",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Swiof03ul5A/default.jpg?v=6b07900a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Swiof03ul5A/mqdefault.jpg?v=6b07900a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Swiof03ul5A/hqdefault.jpg?v=6b07900a"
+        }
+      },
+      "concurrentViewers": 62,
+      "startedAt": "2026-11-26T02:00:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "qGXeCUTSPaw",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: BJP Press Conference On Thiruparankundram Deepam Row | Sudhanshu Trivedi | Rahul Gandhi | TVK",
-      "description": "The Karthigai Deepam was lit at the traditional Ucchi Pillayar Deepa Mandapam atop Thiruparankundram hill on November 24, 2026, rather than the disputed Deepathoon stone pillar, sparking protests, detentions, and a political clash over compliance with a Supreme Court order\n\n#bjp #sudhanshutrivedi #…",
+      "title": "NDTV Live: US Proposes 25% Tariffs On India | Jensen Huang | Nvidia | UP Elections 2027 | PM Modi",
+      "description": "The Centre has said it is examining the tariffs of up to 25 per cent that the United States proposed on Indian goods on Wednesday. It also rejected Washington's claim that India produces more than it needs, saying in a statement soon after the announcement that the country has no excess capacity in…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/t0LJNwd3jpM/default.jpg?v=6b0678f5"
+          "url": "https://i.ytimg.com/vi/qGXeCUTSPaw/default.jpg?v=6b078ae5"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/t0LJNwd3jpM/mqdefault.jpg?v=6b0678f5"
+          "url": "https://i.ytimg.com/vi/qGXeCUTSPaw/mqdefault.jpg?v=6b078ae5"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/t0LJNwd3jpM/hqdefault.jpg?v=6b0678f5"
+          "url": "https://i.ytimg.com/vi/qGXeCUTSPaw/hqdefault.jpg?v=6b078ae5"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-25T05:53:24Z",
+      "concurrentViewers": 343,
+      "startedAt": "2026-11-26T01:26:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "biFzWRlm1SI",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "NDTV LIVE: US Tariffs | UP Elections | SP Manifesto Launch | Rahul Gandhi | PM Modi | Trump News",
+      "description": "The Centre has said it is examining the tariffs of up to 25 per cent that the United States proposed on Indian goods on Wednesday. It also rejected Washington's claim that India produces more than it needs, saying in a statement soon after the announcement that the country has no excess capacity in…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/biFzWRlm1SI/default.jpg?v=6b078b92"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/biFzWRlm1SI/mqdefault.jpg?v=6b078b92"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/biFzWRlm1SI/hqdefault.jpg?v=6b078b92"
+        }
+      },
+      "concurrentViewers": 20,
+      "startedAt": "2026-11-26T02:21:13Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "1AQORq2_hjA",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Bangladesh Protests LIVE | Garment Wage Hike Triggers Fresh Worker Protests | Dhaka News LIVE",
+      "description": "Bangladesh has approved a 36% increase in the minimum wage for garment workers, but the decision has failed to end unrest in the country's crucial apparel sector. Workers staged fresh protests in Gazipur, a major garment manufacturing hub outside Dhaka, blocking highways and clashing with police af…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1AQORq2_hjA/default.jpg?v=6b073d2c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1AQORq2_hjA/mqdefault.jpg?v=6b073d2c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1AQORq2_hjA/hqdefault.jpg?v=6b073d2c"
+        }
+      },
+      "concurrentViewers": 1,
+      "startedAt": "2026-11-25T19:53:57Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Tamil Nadu Deepam Row | US Tariff | SP-Congress | PM Modi | Trump | UP Polls",
-      "description": "India Today LIVE: Tamil Nadu Deepam Row | US Tariff | SP-Congress | PM Modi | Trump | UP Polls\n\nThe United States has proposed tariffs of up to 25 per cent on Indian goods as part of President Donald Trump's latest push to curb what Washington calls excess industrial capacity across major trading p…",
+      "title": "India Today LIVE: UP Elections | SP Manifesto Launch | US Tariffs | TN Deepam Row | Constitution Day",
+      "description": "India Today LIVE: UP Elections | SP Manifesto Launch | US Tariffs | TN Deepam Row | Constitution Day\n\nThe US Trade Representative has determined that India's acts, policies and practices relating to structural excess capacity and production are \"unreasonable\" and burden or restrict US commerce. It …",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -658,15 +634,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 259,
+      "concurrentViewers": 610,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "B7qo3C9dxqQ",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "LIVE: SC Contempt Heat On CM Vijay Over Deepam Row | TVK MLA Booked | Political Showdown",
+      "description": "Tamil Nadu's political and legal landscape is witnessing fresh developments as the Tirupparankundram Karthigai Deepam controversy reaches the Supreme Court, with contempt petitions filed over the administration's decision to light the ceremonial lamp at the customary Ucchi Pillayar Temple instead o…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B7qo3C9dxqQ/default.jpg?v=6b078ed0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B7qo3C9dxqQ/mqdefault.jpg?v=6b078ed0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B7qo3C9dxqQ/hqdefault.jpg?v=6b078ed0"
+        }
+      },
+      "concurrentViewers": 205,
+      "startedAt": "2026-11-26T01:45:15Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "_UFSf5ir_KI",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today LIVE: UP Elections | SP Manifesto Launch | US Tariffs | Rahul Gandhi | PM Modi | Trump",
+      "description": "India Today LIVE: UP Elections | SP Manifesto Launch | US Tariffs | Rahul Gandhi | PM Modi | Trump\n\nWatch India Today LIVE for the latest breaking news and updates on the US-Iran war, Donald Trump and global developments. Yuzvendra Chahal joins the BJP, adding a new development to the political hea…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_UFSf5ir_KI/default.jpg?v=6b078849"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_UFSf5ir_KI/mqdefault.jpg?v=6b078849"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_UFSf5ir_KI/hqdefault.jpg?v=6b078849"
+        }
+      },
+      "concurrentViewers": 103,
+      "startedAt": "2026-11-26T01:16:31Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: SP Congress Alliance | Anant Singh | UP Election 2027 | Rahul Gandhi | Hindi News",
-      "description": "गठबंधन पर समाजवादी पार्टी से बढ़ते क्लेश के बीच कांग्रेस ने मायावती की ओर फेंका पासा- बोले इमरान मसूद...हम चाहते हैं वो हमारे साथ रहें- एसपी सांसद इकरा हसन की नसीहत, ना बढ़ाएं विवाद\n\nराजस्थान पंचायत चुनाव के बाद जिला प्रमुख चुनाव में भी बीजेपी की शिकस्त- प्रदेश बीजेपी अध्यक्ष मदन राठौड़ दिल्ली तलब-…",
+      "title": "Aaj Tak LIVE TV: SP-Congress Alliance | PM Modi | Anant Singh | UP Election | CM Yogi | Hindi News",
+      "description": "आज संविधान दिवस पर सियासी सरगर्मी, वोट चोरी के आरोपों को लेकर देशव्यापी प्रदर्शन की तैयारी में कांग्रेस, बीजेपी मनाएगी 'संविधान गौरव दिवस', दिल्ली में अमित शाह और सीएम रेखा गुप्ता कार्यक्रम में होंगे शामिल\n\nयूपी चुनाव के लिए आज अखिलेश यादव जारी करेंगे PDA घोषणा पत्र, नौकरी, 300 यूनिट मुफ्त बिजली, म…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -682,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 5945,
+      "concurrentViewers": 13743,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -706,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 281,
+      "concurrentViewers": 1901,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -730,7 +754,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 248,
+      "concurrentViewers": 182,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -754,7 +778,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1392,
+      "concurrentViewers": 2507,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
