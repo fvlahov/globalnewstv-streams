@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T12:58:04.729Z",
+  "generatedAt": "2026-11-27T21:54:22.172Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Politics latest: Peter Mandelson tried to arrange 'under the radar' meeting with US official and ex-lobbying colleague - https://news.sky.com/story/politics-latest-burnha…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Politics latest: Downing Street not ruling out DWP incident being 'malicious' cyber attack - https://news.sky.com/story/politics-latest-burnham-welfare-benefits-labour-12…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 6946,
+      "concurrentViewers": 3028,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 942,
+      "concurrentViewers": 459,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,32 +74,8 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2191,
+      "concurrentViewers": 2330,
       "startedAt": "2026-10-12T11:02:06Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "Ymj4hP7osNk",
-      "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-      "title": "Good Afternoon Britain | Friday 27th November",
-      "description": "Tackling the big stories from all angles and perspectives. Weekdays from midday, Mark White and Emily Carver bring you the most compelling stories from across the United Kingdom.\n\nKeep up to date with the latest news at https://www.gbnews.com\n\nTwitter: https://twitter.com/GBNEWS\nFacebook: https://w…",
-      "channelTitle": "GBNews",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ymj4hP7osNk/default.jpg?v=6b077945"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ymj4hP7osNk/mqdefault.jpg?v=6b077945"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ymj4hP7osNk/hqdefault.jpg?v=6b077945"
-        }
-      },
-      "concurrentViewers": 760,
-      "startedAt": "2026-11-27T11:59:50Z",
       "regionRestriction": null
     },
     {
@@ -122,32 +98,32 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 520,
+      "concurrentViewers": 56,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "LeZ-C1hYKCs",
+      "videoId": "jX221tOsA2E",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Weather map showing storm moving along the US East Coast",
-      "description": "A powerful storm disrupted the Thanksgiving holiday along much of the US East Coast, knocking out power to nearly 1 million customers as wind gusts of up to 70 mph toppled trees and power lines.\n\n#storm #eastcoast #US #America #rain #wind #USEastCoast #thanksgiving #live #reuters #news\n\nKeep up wit…",
+      "title": "LIVE: Bolivian workers protest against government",
+      "description": "Teachers and miners hold anti-government protest in La Paz, Bolivia.\n \n#protest #bolivia #lapaz #government #politics\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
       "channelTitle": "Reuters",
       "country": "GB",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LeZ-C1hYKCs/default.jpg?v=6b08ee81"
+          "url": "https://i.ytimg.com/vi/jX221tOsA2E/default.jpg?v=6b09fb4b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LeZ-C1hYKCs/mqdefault.jpg?v=6b08ee81"
+          "url": "https://i.ytimg.com/vi/jX221tOsA2E/mqdefault.jpg?v=6b09fb4b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LeZ-C1hYKCs/hqdefault.jpg?v=6b08ee81"
+          "url": "https://i.ytimg.com/vi/jX221tOsA2E/hqdefault.jpg?v=6b09fb4b"
         }
       },
-      "concurrentViewers": 8,
-      "startedAt": "2026-11-27T02:43:52Z",
+      "concurrentViewers": 17,
+      "startedAt": "2026-11-27T21:32:43Z",
       "regionRestriction": null
     },
     {
@@ -170,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/gKULTIDM-8s/hqdefault.jpg?v=6b08c631"
         }
       },
-      "concurrentViewers": 2396,
+      "concurrentViewers": 2060,
       "startedAt": "2026-11-27T12:03:09Z",
       "regionRestriction": null
     },
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/hqdefault.jpg?v=6affa967"
         }
       },
-      "concurrentViewers": 1649,
+      "concurrentViewers": 848,
       "startedAt": "2026-11-27T10:57:55Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 1084,
+      "concurrentViewers": 585,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/pu49AmFJRp4/hqdefault.jpg?v=6b09698e"
         }
       },
-      "concurrentViewers": 593,
+      "concurrentViewers": 686,
       "startedAt": "2026-11-27T11:30:16Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 555,
+      "concurrentViewers": 915,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 8293,
+      "concurrentViewers": 1864,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 20,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -338,7 +314,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 7441,
+      "concurrentViewers": 6177,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 395,
+      "concurrentViewers": 371,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1343,
+      "concurrentViewers": 971,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 7020,
+      "concurrentViewers": 6914,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -438,7 +414,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 278,
+      "concurrentViewers": 99,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -466,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 100,
+      "concurrentViewers": 63,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -490,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/inJSphFFhaw/hqdefault.jpg?v=6b07c6f2"
         }
       },
-      "concurrentViewers": 217,
+      "concurrentViewers": 122,
       "startedAt": "2026-11-26T05:54:04Z",
       "regionRestriction": null
     },
@@ -505,16 +481,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3abc9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3ac35"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3abc9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3ac35"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3abc9"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3ac35"
         }
       },
-      "concurrentViewers": 49,
+      "concurrentViewers": 27,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -538,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/fdAJC-jfPwA/hqdefault.jpg?v=6b08e7c4"
         }
       },
-      "concurrentViewers": 88,
+      "concurrentViewers": 65,
       "startedAt": "2026-11-27T02:16:22Z",
       "regionRestriction": null
     },
@@ -562,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/qN6ABMeiL30/hqdefault.jpg?v=6b08d664"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 7,
       "startedAt": "2026-11-27T01:02:14Z",
       "regionRestriction": null
     },
@@ -586,56 +562,8 @@
           "url": "https://i.ytimg.com/vi/WkABI8IK7P0/hqdefault.jpg?v=6b0975b4"
         }
       },
-      "concurrentViewers": 21,
+      "concurrentViewers": null,
       "startedAt": "2026-11-27T12:33:38Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "nm42Lixx1AM",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE: India’s Call to the World: Nov 27 Marks First-Ever International Day to End Child Marriage",
-      "description": "27 November, marks the inaugural International Day for the Elimination of Child, Early and Forced Marriage. What began as a movement in India - carrying the voices of survivors, faith leaders, judges, law-enforcement agencies and NGO partners from villages to global platforms—has become a worldwide…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/nm42Lixx1AM/default.jpg?v=6b06a465"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/nm42Lixx1AM/mqdefault.jpg?v=6b06a465"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/nm42Lixx1AM/hqdefault.jpg?v=6b06a465"
-        }
-      },
-      "concurrentViewers": 19,
-      "startedAt": "2026-11-27T11:30:07Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "h2XPNBY7b2o",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Cabinet Clears Key Delimitation Amendments, Approves 50% Seat Increase | Delimitation Bill LIVE",
-      "description": "The Narendra Modi-led NDA government has set the ball rolling on the delimitation bill by clearing key amendments to it: a uniform 50% increase in the share of Lok Sabha seats, a move that aligns with a key demand from the southern states; extending the freeze for 25 years on using the 1971 Census …",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/h2XPNBY7b2o/default.jpg?v=6b09598f"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/h2XPNBY7b2o/mqdefault.jpg?v=6b09598f"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/h2XPNBY7b2o/hqdefault.jpg?v=6b09598f"
-        }
-      },
-      "concurrentViewers": 17,
-      "startedAt": "2026-11-27T10:25:20Z",
       "regionRestriction": null
     },
     {
@@ -658,63 +586,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 1069,
+      "concurrentViewers": 106,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "v_ryP4GmbXg",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "TN Deepam Row LIVE: SC's Sharpest Rebuke To Vijay Govt, Historic Lighting At Deepathoon Tomorrow",
-      "description": "Tamil Nadu Deepam row escalates after the Supreme Court's sharpest rebuke yet to the Vijay government. The historic Deepam lighting at the Deepathoon on Thiruparankundram hill is set for tomorrow, November 28, amid the intensifying legal and political battle. Follow the latest developments LIVE.\n\n#…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/v_ryP4GmbXg/default.jpg?v=6b097770"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/v_ryP4GmbXg/mqdefault.jpg?v=6b097770"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/v_ryP4GmbXg/hqdefault.jpg?v=6b097770"
-        }
-      },
-      "concurrentViewers": 351,
-      "startedAt": "2026-11-27T12:31:13Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "4BNeDDa1Tk0",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "LIVE: BJP Holds Presser After Supreme Court's Deepam Row Order | Tamil Nadu Deepam Row | Watch",
-      "description": "Tamil Nadu Deepam row intensifies after the Supreme Court's latest order. The BJP holds a press briefing targeting the Vijay government over the Deepam controversy, the court's observations and the ongoing temple dispute. Watch the latest developments LIVE.\n\n#tamilnadudeepamrow #deepamrow #bjp #vij…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4BNeDDa1Tk0/default.jpg?v=6b096c5c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4BNeDDa1Tk0/mqdefault.jpg?v=6b096c5c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4BNeDDa1Tk0/hqdefault.jpg?v=6b096c5c"
-        }
-      },
-      "concurrentViewers": 259,
-      "startedAt": "2026-11-27T11:19:45Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Halla Bol | Parliament Session | Delimitation Bill | Modi Cabinet Meeting |Akhilesh",
-      "description": "मोदी कैबिनेट ने दी परिसीमन और महिला आरक्षण से जुड़े संविधान संशोधन विधेयक को मंजूरी...हर राज्य से लोकसभा की 50 फीसदी बढ़ेंगी सीटें...2051 तक बरकरार रहेगी व्यवस्था\n\nपरिसीमन बिल पर विपक्ष में दरार के संकेत...शर्तों के साथ NCP पवार और DMK दे सकती है समर्थन, नंबर गेम पर सोनिया की अध्यक्षता में आज शाम क…",
+      "title": "Aaj Tak LIVE TV: Parliament Session | Delimitation Bill | Akhilesh Yadav | Rahul Gandhi | PM Modi",
+      "description": "आजतक के पास परिसीमन बिल की कॉपी- लोकसभा की सीटें बढ़ाकर 850 करने का प्रावधान- विधानसभा की सीटें 50 फीसदी बढ़ेंगी- 33 प्रतिशत महिला आरक्षण को 15 साल तक लागू करने की बात.\n\nसंसद के विशेष सत्र से पहले सरकार के लिए अच्छी खबर- परिसीमन बिल का समर्थन करेगा NCP शरद गुट- शर्तों के साथ DMK ने भी दिया साथ देने…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -730,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 35323,
+      "concurrentViewers": 1687,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -754,32 +634,8 @@
           "url": "https://i.ytimg.com/vi/qv8gMW8fxns/hqdefault.jpg?v=6b0947b8"
         }
       },
-      "concurrentViewers": 1891,
+      "concurrentViewers": 37,
       "startedAt": "2026-11-27T09:05:37Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "zHhYZuPueFc",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Sahitya AajTak 2026 Stage 1: सज गया साहित्य आजतक का महामंंच, जुटे दिग्गज | Halla Bol Chaupal",
-      "description": "27 से 29 नवंबर तक दिल्ली के मेजर ध्यानचंद नेशनल स्टेडियम में आयोजित होने जा रहे साहित्य आजतक 2026 में कविता और शायरी के चाहने वालों के लिए खास महफिल सजेगी, यहां कवि अपनी वीर रस की रचनाओं से जोश भरेंगे, तो शायर अपने कलाम से शब्दों की खूबसूरती बयां करेंगे. तीन दिनों तक चलने वाले इस आयोजन में साहित्य,…",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zHhYZuPueFc/default.jpg?v=6b08479c"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zHhYZuPueFc/mqdefault.jpg?v=6b08479c"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zHhYZuPueFc/hqdefault.jpg?v=6b08479c"
-        }
-      },
-      "concurrentViewers": 114,
-      "startedAt": "2026-11-27T08:49:08Z",
       "regionRestriction": null
     },
     {
@@ -802,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 1042,
+      "concurrentViewers": 334,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -826,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 200,
+      "concurrentViewers": 132,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -850,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 999,
+      "concurrentViewers": 2734,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
