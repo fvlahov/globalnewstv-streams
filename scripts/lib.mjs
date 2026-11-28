@@ -9,7 +9,9 @@
 const API = 'https://www.googleapis.com/youtube/v3';
 
 export const DEFAULTS = {
-  maxStreamsPerChannel: 3,
+  // One stream per channel keeps the list varied (a channel covering one event with three streams
+  // crowded out other channels). The busiest one is kept.
+  maxStreamsPerChannel: 1,
   // A channel with no live stream is only re-checked this often (unless it just lost one).
   idleRecheckMinutes: 180,
   // A channel that is live is still re-scanned this often to discover extra/replacement streams.

@@ -47,7 +47,7 @@ Edit [`channels.json`](channels.json) and push; the workflow re-runs on its own.
 | `id`, `name` | Channel ID and display name. |
 | `country` | ISO 3166-1 alpha-2, or `INT` for international. |
 | `language` | ISO 639-1. |
-| `category` | Free text used by the app for filtering, e.g. `general`, `business`. |
+| `category` | One of `general`, `business`, `politics`, `science`, `weather`, `sports`. The app shows these as category chips with translated names; any other value still works but is shown capitalised as is. |
 | `searchFallback` | Optional, set `false` to opt a channel out of `search.list` (100 units), which is used when no live stream is found in the channel's recent uploads. Capped at 6 searches per run and 1 per channel per day. |
 
 ## Output format

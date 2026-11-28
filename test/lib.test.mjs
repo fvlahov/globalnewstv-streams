@@ -138,7 +138,12 @@ describe('resolveStreams', () => {
     );
     const client = fakeClient({ videos: vids, uploads: { [c.id]: ['a', 'b', 'c', 'd'] } });
     const { streams } = await resolveStreams({ channels: [c], client, now: NOW });
-    assert.deepEqual(streams.map((s) => s.videoId), ['d', 'c', 'b']);
+    assert.deepEqual(streams.map((s) => s.videoId), ['d'], 'one per channel by default');
+    const client3 = fakeClient({ videos: vids, uploads: { [c.id]: ['a', 'b', 'c', 'd'] } });
+    const { streams: three } = await resolveStreams({
+      channels: [c], client: client3, now: NOW, options: { maxStreamsPerChannel: 3 },
+    });
+    assert.deepEqual(three.map((s) => s.videoId), ['d', 'c', 'b']);
   });
 
   it('drops streams of channels removed from channels.json', async () => {
