@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T09:26:34.278Z",
+  "generatedAt": "2026-11-28T09:31:14.962Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 6487,
+      "concurrentViewers": 6119,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 833,
+      "concurrentViewers": 813,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 4164,
+      "concurrentViewers": 4892,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 566,
+      "concurrentViewers": 601,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/0vNukUbpBbU/hqdefault.jpg?v=6b0a0b27"
         }
       },
-      "concurrentViewers": 464,
+      "concurrentViewers": 461,
       "startedAt": "2026-11-27T22:59:37Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 628,
+      "concurrentViewers": 645,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/pu49AmFJRp4/hqdefault.jpg?v=6b09698e"
         }
       },
-      "concurrentViewers": 274,
+      "concurrentViewers": 279,
       "startedAt": "2026-11-27T11:30:16Z",
       "regionRestriction": null
     },
@@ -194,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 144,
+      "concurrentViewers": 147,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -218,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1384,
+      "concurrentViewers": 1413,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 12,
+      "concurrentViewers": 11,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8539,
+      "concurrentViewers": 8739,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 444,
+      "concurrentViewers": 442,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1441,
+      "concurrentViewers": 1402,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6058,
+      "concurrentViewers": 5174,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 204,
+      "concurrentViewers": 228,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 90,
+      "concurrentViewers": 97,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/inJSphFFhaw/hqdefault.jpg?v=6b07c6f2"
         }
       },
-      "concurrentViewers": 169,
+      "concurrentViewers": 174,
       "startedAt": "2026-11-26T05:54:04Z",
       "regionRestriction": null
     },
@@ -433,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3acc1"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3acc2"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3acc1"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3acc2"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3acc1"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3acc2"
         }
       },
-      "concurrentViewers": 41,
+      "concurrentViewers": 36,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,14 +466,14 @@
           "url": "https://i.ytimg.com/vi/fdAJC-jfPwA/hqdefault.jpg?v=6b08e7c4"
         }
       },
-      "concurrentViewers": 110,
+      "concurrentViewers": 107,
       "startedAt": "2026-11-27T02:16:22Z",
       "regionRestriction": null
     },
     {
       "videoId": "p53FEN5SSAc",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "NDTV Live: Delimitation Bill | UP Elections | Deepam Row | Congress | Trump | PM Modi | Rahul Gandhi",
+      "title": "NDTV Live: CM Yogi | Delimitation Bill | UP Elections | Deepam Row | Congress | Trump | PM Modi",
       "description": "The Nationalist Congress Party of Sharad Pawar is driving a hard bargain for power-sharing roles at both the central and state levels in return for supporting the upcoming delimitation bill and switching from the Congress-led INDIA bloc to the BJP-led NDA, according to party sources. With a special…",
       "channelTitle": "NDTV",
       "country": "IN",
@@ -490,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/p53FEN5SSAc/hqdefault.jpg?v=6b0a298e"
         }
       },
-      "concurrentViewers": 291,
+      "concurrentViewers": 278,
       "startedAt": "2026-11-28T01:28:59Z",
       "regionRestriction": null
     },
@@ -514,7 +514,7 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 889,
+      "concurrentViewers": 911,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
@@ -538,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 16425,
+      "concurrentViewers": 18949,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -562,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 635,
+      "concurrentViewers": 588,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -586,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 190,
+      "concurrentViewers": 185,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -610,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 5388,
+      "concurrentViewers": 5311,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     },
@@ -634,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/bNyUyrR0PHo/hqdefault.jpg?v=6b00a693"
         }
       },
-      "concurrentViewers": 22025,
+      "concurrentViewers": 23855,
       "startedAt": "2022-11-25T20:04:59Z",
       "regionRestriction": {
         "blocked": [
@@ -662,7 +662,7 @@
           "url": "https://i.ytimg.com/vi/n7eQejkXbnM/hqdefault.jpg?v=69f00ca6"
         }
       },
-      "concurrentViewers": 20728,
+      "concurrentViewers": 20971,
       "startedAt": "2025-01-16T09:55:40Z",
       "regionRestriction": null
     },
@@ -710,7 +710,7 @@
           "url": "https://i.ytimg.com/vi/ppgTP8xQQsM/hqdefault.jpg?v=6a392469"
         }
       },
-      "concurrentViewers": 2111,
+      "concurrentViewers": 2138,
       "startedAt": "2026-06-22T12:03:38Z",
       "regionRestriction": null
     },
@@ -734,8 +734,128 @@
           "url": "https://i.ytimg.com/vi/O1pGmVtj2Y8/hqdefault.jpg?v=6ae74958"
         }
       },
-      "concurrentViewers": 293,
+      "concurrentViewers": 269,
       "startedAt": "2026-01-08T12:30:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "93g513Uth98",
+      "channelId": "UCdTyuXgmJkG_O8_75eqej-w",
+      "title": "فرانس 24 – البث المباشر – الأخبار الدولية على مدار الساعة",
+      "description": "🔴 شاهدوا مجانا فرانس24 بالعربي مباشرة على يوتيوب. تابعوا جميع أخبار العالم على مدار الساعة. \n🔔 انضموا إلى قناتنا الخاصة على يوتيوب:\nhttps://f24.my/YTar \n\n💬 علقوا على أحداث اليوم عبر دردشة #مباشر24!\nشاركونا بتعليقاتكم وردود أفعالكم حول نشراتنا الإخبارية وبرامجنا وحواراتنا وريبورتاجاتنا.\nشكرا على …",
+      "channelTitle": "فرانس 24 / FRANCE 24 Arabic",
+      "country": "FR",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/93g513Uth98/default.jpg?v=6a168b65"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/93g513Uth98/mqdefault.jpg?v=6a168b65"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/93g513Uth98/hqdefault.jpg?v=6a168b65"
+        }
+      },
+      "concurrentViewers": 1069,
+      "startedAt": "2026-05-27T10:26:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "AGkp2AL8e7o",
+      "channelId": "UC30ditU5JI16o5NbFsHde_Q",
+      "title": "دويتشه فيله عربية (DW) | البث المباشر",
+      "description": "لمعلومات أكثر.. تابعوا موقعنا:\n\nhttps://www.dw.com/arabic\nوصفحاتنا على مواقع التواصل:\n Facebook: https://www.facebook.com/dw.arabic\n Twitter: https://twitter.com/DW_Arabic\n Instagram: https://www.instagram.com/dw_arabic",
+      "channelTitle": "DW عربية",
+      "country": "DE",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AGkp2AL8e7o/default.jpg?v=67ed3ec4"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AGkp2AL8e7o/mqdefault.jpg?v=67ed3ec4"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AGkp2AL8e7o/hqdefault.jpg?v=67ed3ec4"
+        }
+      },
+      "concurrentViewers": 131,
+      "startedAt": "2025-04-02T13:57:36Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "b-fcHOnDXDc",
+      "channelId": "UC5GvVahlgulCyo4cshSmbcg",
+      "title": "مباشر | تغطية خاصة على شاشة TRT عربي لآخر تطورات الحرب في الشرق الأوسط",
+      "description": "تابعونا على منصات TRT عربي الرقمية:\n\nWebsite | https://www.trtarabi.com\nFacebook | https://www.facebook.com/TRTArabi \nX | https://www.twitter.com/TRTArabi\nInstagram | https://www.instagram.com/TRTArabi\nTikTok: | https://www.tiktok.com/@trtarabi\nThreads | https://www.threads.net/@trtarabi\n----------…",
+      "channelTitle": "عربي TRT",
+      "country": "TR",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b-fcHOnDXDc/default.jpg?v=6b002e52"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b-fcHOnDXDc/mqdefault.jpg?v=6b002e52"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b-fcHOnDXDc/hqdefault.jpg?v=6b002e52"
+        }
+      },
+      "concurrentViewers": 28,
+      "startedAt": "2026-11-20T11:28:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Qr61waJ6AZg",
+      "channelId": "UC_lEiu6917IJz03TnntWUaQ",
+      "title": "CNN Noticias, en vivo: Sigue las últimas noticias del mundo",
+      "description": "Disfruta de lo mejor de la cobertura de CNN en Español en nuestro servicio de streaming.\n🌐\nNuestro sitio: https://cnne.com/\n\n🔔\nSuscríbete: youtube.com/@cnnee\nShorts: youtube.com/@cnnee/shorts\n\n📲\nInstagram: https://instagram.com/cnnee\nTikTok: https://tiktok.com/@cnnee\nFacebook: https://facebook.c…",
+      "channelTitle": "CNN en Español",
+      "country": "US",
+      "language": "es",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qr61waJ6AZg/default.jpg?v=69f8aafe"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qr61waJ6AZg/mqdefault.jpg?v=69f8aafe"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qr61waJ6AZg/hqdefault.jpg?v=69f8aafe"
+        }
+      },
+      "concurrentViewers": 76,
+      "startedAt": "2025-10-17T19:12:26Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "yZh3xsFqCt8",
+      "channelId": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+      "title": "🔴 DW Español | En vivo",
+      "description": "Noticias internacionales, información económica y reportajes desde Alemania con objetividad para el mundo. En esta plataforma DW Español ofrece también programas y videos sobre salud, medioambiente, economía o historia. Lo que necesitan para estar informados con fuentes fiables y de confianza.",
+      "channelTitle": "DW Español",
+      "country": "DE",
+      "language": "es",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yZh3xsFqCt8/default.jpg?v=69f0f7c0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yZh3xsFqCt8/mqdefault.jpg?v=69f0f7c0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yZh3xsFqCt8/hqdefault.jpg?v=69f0f7c0"
+        }
+      },
+      "concurrentViewers": 311,
+      "startedAt": "2026-04-28T18:12:42Z",
       "regionRestriction": null
     },
     {
@@ -758,7 +878,7 @@
           "url": "https://i.ytimg.com/vi/H_Wg-86X7TI/hqdefault.jpg?v=6b0a1ea1"
         }
       },
-      "concurrentViewers": 6,
+      "concurrentViewers": 7,
       "startedAt": "2026-11-28T00:46:03Z",
       "regionRestriction": null
     },
@@ -782,7 +902,7 @@
           "url": "https://i.ytimg.com/vi/y104PDJ5KUs/hqdefault.jpg?v=6b0a2fd2"
         }
       },
-      "concurrentViewers": 4826,
+      "concurrentViewers": 5154,
       "startedAt": "2026-11-28T08:53:01Z",
       "regionRestriction": null
     },
@@ -806,7 +926,7 @@
           "url": "https://i.ytimg.com/vi/fADL3mx8NYM/hqdefault.jpg?v=6b0971e1"
         }
       },
-      "concurrentViewers": 2885,
+      "concurrentViewers": 2853,
       "startedAt": "2026-11-27T22:25:57Z",
       "regionRestriction": null
     },
@@ -830,7 +950,7 @@
           "url": "https://i.ytimg.com/vi/vhUpfn47gBk/hqdefault.jpg?v=6b09fda4"
         }
       },
-      "concurrentViewers": 7326,
+      "concurrentViewers": 8210,
       "startedAt": "2026-11-28T08:55:09Z",
       "regionRestriction": null
     },
@@ -854,32 +974,8 @@
           "url": "https://i.ytimg.com/vi/EomYGDEv38E/hqdefault.jpg?v=6b0a6ece"
         }
       },
-      "concurrentViewers": 2421,
+      "concurrentViewers": 2519,
       "startedAt": "2026-11-28T06:22:18Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "WCndZbhSSMw",
-      "channelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
-      "title": "#CANLI - Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu konuşuyor",
-      "description": "Habertürk TV YouTube Kanalına Abone Ol ➤ https://hbr.tk/2mdILN",
-      "channelTitle": "Habertürk TV",
-      "country": "TR",
-      "language": "tr",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WCndZbhSSMw/default.jpg?v=1"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WCndZbhSSMw/mqdefault.jpg?v=1"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WCndZbhSSMw/hqdefault.jpg?v=1"
-        }
-      },
-      "concurrentViewers": 9,
-      "startedAt": "2026-11-28T09:25:59Z",
       "regionRestriction": null
     },
     {
@@ -902,7 +998,7 @@
           "url": "https://i.ytimg.com/vi/5hhjLNXlHDA/hqdefault.jpg?v=6b0a9653"
         }
       },
-      "concurrentViewers": 490,
+      "concurrentViewers": 599,
       "startedAt": "2026-11-28T09:00:16Z",
       "regionRestriction": null
     },
@@ -926,7 +1022,7 @@
           "url": "https://i.ytimg.com/vi/tBIlC2x5TZE/hqdefault.jpg?v=6b0a8df5"
         }
       },
-      "concurrentViewers": 1188,
+      "concurrentViewers": 1136,
       "startedAt": "2026-11-28T08:18:45Z",
       "regionRestriction": null
     },
@@ -950,7 +1046,7 @@
           "url": "https://i.ytimg.com/vi/GaQi1dhnNO4/hqdefault.jpg?v=6b0a8524"
         }
       },
-      "concurrentViewers": 3130,
+      "concurrentViewers": 2952,
       "startedAt": "2026-11-28T07:36:19Z",
       "regionRestriction": null
     },
@@ -974,7 +1070,7 @@
           "url": "https://i.ytimg.com/vi/CqNPCiwQkZw/hqdefault.jpg?v=6b0a743a"
         }
       },
-      "concurrentViewers": 626,
+      "concurrentViewers": 582,
       "startedAt": "2026-11-28T06:37:00Z",
       "regionRestriction": null
     },
@@ -998,7 +1094,7 @@
           "url": "https://i.ytimg.com/vi/xsEFRa1YLd0/hqdefault.jpg?v=6b0a95ba"
         }
       },
-      "concurrentViewers": 519,
+      "concurrentViewers": 521,
       "startedAt": "2026-11-28T08:50:37Z",
       "regionRestriction": null
     },
@@ -1022,7 +1118,7 @@
           "url": "https://i.ytimg.com/vi/DrvUIiRMr9Y/hqdefault.jpg?v=6b09b1ab"
         }
       },
-      "concurrentViewers": 180,
+      "concurrentViewers": 172,
       "startedAt": "2026-11-27T16:42:47Z",
       "regionRestriction": null
     },
@@ -1037,16 +1133,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/default.jpg?v=7"
+          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/default.jpg?v=9"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/mqdefault.jpg?v=7"
+          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/mqdefault.jpg?v=9"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/hqdefault.jpg?v=7"
+          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/hqdefault.jpg?v=9"
         }
       },
-      "concurrentViewers": 221,
+      "concurrentViewers": 311,
       "startedAt": "2026-11-28T08:51:34Z",
       "regionRestriction": {
         "blocked": [
@@ -1074,7 +1170,7 @@
           "url": "https://i.ytimg.com/vi/xnXL7OMPJVI/hqdefault.jpg?v=6b0a9ca3"
         }
       },
-      "concurrentViewers": 67,
+      "concurrentViewers": 227,
       "startedAt": "2026-11-28T09:26:22Z",
       "regionRestriction": {
         "blocked": [
@@ -1102,7 +1198,7 @@
           "url": "https://i.ytimg.com/vi/uxrKvGVX3iM/hqdefault.jpg?v=6b07bd35"
         }
       },
-      "concurrentViewers": 1822,
+      "concurrentViewers": 1922,
       "startedAt": "2026-11-28T08:59:20Z",
       "regionRestriction": null
     },
@@ -1126,7 +1222,7 @@
           "url": "https://i.ytimg.com/vi/g08_T4loJ_I/hqdefault.jpg?v=6b0a8a20"
         }
       },
-      "concurrentViewers": 1486,
+      "concurrentViewers": 1562,
       "startedAt": "2026-11-28T08:58:07Z",
       "regionRestriction": null
     },
@@ -1150,7 +1246,7 @@
           "url": "https://i.ytimg.com/vi/CExGvLSRghg/hqdefault.jpg?v=6b0a27b9"
         }
       },
-      "concurrentViewers": 1664,
+      "concurrentViewers": 1428,
       "startedAt": "2026-11-28T02:59:28Z",
       "regionRestriction": null
     },
@@ -1174,7 +1270,7 @@
           "url": "https://i.ytimg.com/vi/cSe0PC02YRU/hqdefault.jpg?v=6b0a67f0"
         }
       },
-      "concurrentViewers": 1811,
+      "concurrentViewers": 1813,
       "startedAt": "2026-11-28T08:00:30Z",
       "regionRestriction": null
     },
@@ -1198,7 +1294,7 @@
           "url": "https://i.ytimg.com/vi/6nYn4x-90Sg/hqdefault.jpg?v=6b0a6a80"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 73,
       "startedAt": "2026-11-28T05:47:04Z",
       "regionRestriction": null
     },
@@ -1222,7 +1318,7 @@
           "url": "https://i.ytimg.com/vi/YOQQ2K6KVIE/hqdefault.jpg?v=6b0a9736"
         }
       },
-      "concurrentViewers": 80,
+      "concurrentViewers": 88,
       "startedAt": "2026-11-28T08:58:24Z",
       "regionRestriction": null
     },
@@ -1246,7 +1342,7 @@
           "url": "https://i.ytimg.com/vi/W17t4WK4tTA/hqdefault.jpg?v=6b095219"
         }
       },
-      "concurrentViewers": 7225,
+      "concurrentViewers": 6753,
       "startedAt": "2026-11-28T06:59:49Z",
       "regionRestriction": null
     },
@@ -1270,7 +1366,7 @@
           "url": "https://i.ytimg.com/vi/VNsSbAd40Fk/hqdefault.jpg?v=6b0a8db1"
         }
       },
-      "concurrentViewers": 144,
+      "concurrentViewers": 168,
       "startedAt": "2026-11-28T08:17:48Z",
       "regionRestriction": null
     },
@@ -1294,7 +1390,7 @@
           "url": "https://i.ytimg.com/vi/ROboUHfPUrU/hqdefault.jpg?v=6ada1dd8"
         }
       },
-      "concurrentViewers": 108,
+      "concurrentViewers": 107,
       "startedAt": "2026-10-22T14:57:23Z",
       "regionRestriction": null
     },
@@ -1318,7 +1414,7 @@
           "url": "https://i.ytimg.com/vi/43pVk7dvuO8/hqdefault.jpg?v=6b0968f1"
         }
       },
-      "concurrentViewers": 5336,
+      "concurrentViewers": 5422,
       "startedAt": "2026-11-28T07:29:09Z",
       "regionRestriction": null
     },
@@ -1342,7 +1438,7 @@
           "url": "https://i.ytimg.com/vi/NbLqEOo-T80/hqdefault.jpg?v=6b0a6e28"
         }
       },
-      "concurrentViewers": 1231,
+      "concurrentViewers": 1017,
       "startedAt": "2026-11-28T06:01:27Z",
       "regionRestriction": null
     }
