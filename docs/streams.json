@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T09:31:14.962Z",
+  "generatedAt": "2026-11-28T12:45:44.070Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "title": "Watch Sky News live",
-      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 Politics latest: Downing Street not ruling out DWP incident being 'malicious' cyber attack - https://news.sky.com/story/politics-latest-burnham-welfare-benefits-labour-12…",
+      "description": "Watch Sky News live to find out the latest on what is happening around the world and what is coming up throughout the day ⬇️\n\n🔴 LIVE | Politics: DWP gives payments update after cyber outage - with 'strong suspicion' attack to blame - https://news.sky.com/story/politics-latest-downing-street-not-ru…",
       "channelTitle": "Sky News",
       "country": "GB",
       "language": "en",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 6119,
+      "concurrentViewers": 5789,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 813,
+      "concurrentViewers": 761,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 4892,
+      "concurrentViewers": 3454,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 601,
+      "concurrentViewers": 428,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/0vNukUbpBbU/hqdefault.jpg?v=6b0a0b27"
         }
       },
-      "concurrentViewers": 461,
+      "concurrentViewers": 842,
       "startedAt": "2026-11-27T22:59:37Z",
       "regionRestriction": null
     },
@@ -146,7 +146,7 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 645,
+      "concurrentViewers": 864,
       "startedAt": "2026-10-24T03:13:21Z",
       "regionRestriction": null
     },
@@ -170,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/pu49AmFJRp4/hqdefault.jpg?v=6b09698e"
         }
       },
-      "concurrentViewers": 279,
+      "concurrentViewers": 396,
       "startedAt": "2026-11-27T11:30:16Z",
       "regionRestriction": null
     },
@@ -194,8 +194,32 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 147,
+      "concurrentViewers": 216,
       "startedAt": "2026-11-12T21:30:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "PLzntfFgQWI",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "LIVE: Crowds watch the Macy’s Thanksgiving Day Parade 2026",
+      "description": "AP’s live coverage of crowds gathering to watch the 100th edition of the annual Macy’s Thanksgiving Day Parade. Please note live coverage of the parade will not be featured on this event. \n\n#thanksgiving #macysparade",
+      "channelTitle": "Associated Press",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PLzntfFgQWI/default.jpg?v=6b0a6cb6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PLzntfFgQWI/mqdefault.jpg?v=6b0a6cb6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PLzntfFgQWI/hqdefault.jpg?v=6b0a6cb6"
+        }
+      },
+      "concurrentViewers": 803,
+      "startedAt": "2026-11-28T12:15:14Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1413,
+      "concurrentViewers": 1684,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -242,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 11,
+      "concurrentViewers": 7,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -266,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 8739,
+      "concurrentViewers": 6262,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -294,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 442,
+      "concurrentViewers": 328,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -318,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 1402,
+      "concurrentViewers": 1313,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -342,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 5174,
+      "concurrentViewers": 6733,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -366,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 228,
+      "concurrentViewers": 198,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -394,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 97,
+      "concurrentViewers": 92,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -418,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/inJSphFFhaw/hqdefault.jpg?v=6b07c6f2"
         }
       },
-      "concurrentViewers": 174,
+      "concurrentViewers": 224,
       "startedAt": "2026-11-26T05:54:04Z",
       "regionRestriction": null
     },
@@ -433,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3acc2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3ace8"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3acc2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3ace8"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3acc2"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3ace8"
         }
       },
-      "concurrentViewers": 36,
+      "concurrentViewers": 28,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -466,7 +490,7 @@
           "url": "https://i.ytimg.com/vi/fdAJC-jfPwA/hqdefault.jpg?v=6b08e7c4"
         }
       },
-      "concurrentViewers": 107,
+      "concurrentViewers": 73,
       "startedAt": "2026-11-27T02:16:22Z",
       "regionRestriction": null
     },
@@ -490,15 +514,15 @@
           "url": "https://i.ytimg.com/vi/p53FEN5SSAc/hqdefault.jpg?v=6b0a298e"
         }
       },
-      "concurrentViewers": 278,
+      "concurrentViewers": 309,
       "startedAt": "2026-11-28T01:28:59Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Delimitation Bill | Deepam Row | India Bloc Meet | Vijay TVK News | Modi",
-      "description": "India Today LIVE: Delimitation Bill | Deepam Row | India Bloc Meet | Vijay TVK News | Modi\n\nWatch India Today LIVE for the latest breaking news and top political developments. Parliament faces the Delimitation Bill debate in Lok Sabha, the Deepam row sparks political tensions, Mamata Banerjee and R…",
+      "title": "India Today LIVE: Rahul Gandhi Live | Deepam At Deepathoon | Delimitation Bill | Vijay Govt | Modi",
+      "description": "India Today LIVE: Rahul Gandhi Live | Deepam At Deepathoon | Delimitation Bill | Vijay Govt | Modi \n\nWatch India Today LIVE for the latest breaking news and top political developments. Parliament faces the Delimitation Bill debate in Lok Sabha, the Deepam row sparks political tensions, Mamata Baner…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -514,15 +538,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 911,
+      "concurrentViewers": 1181,
       "startedAt": "2022-12-28T07:43:19Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Delimitation Bill | Parliament Session | INDIA Aliiance | PM Modi | Hindi News",
-      "description": "संसद में ऐतिहासिक बिल से पहले महिला आरक्षण पर पीएम मोदी ने दोहराई अपनी कसम.पोस्ट में लिखा- नारी शक्ति से किया वादा पूरा करने के लिए प्रतिबद्ध..शाह ने लिखा- 33% का सपना साकार होगा\n\nबैठक के बाद इंडिया गठबंधन का सरकार पर बड़ा आरोप- खरगे ने कहा-सरकार का बिल लोकतंत्र के लिए खतरा, SC-ST के हितों का ध्यान…",
+      "title": "Aaj Tak LIVE TV: Halla Bol | Rahul Gandhi| Delimitation Bill | Parliament Session | INDIA Aliiance",
+      "description": "संसद में ऐतिहासिक बिल से पहले महिला आरक्षण पर पीएम मोदी ने दोहराई अपनी कसम.पोस्ट में लिखा- नारी शक्ति से किया वादा पूरा करने के लिए प्रतिबद्ध..शाह ने लिखा- 33% का सपना साकार होगा.\n\nबैठक के बाद इंडिया गठबंधन का सरकार पर बड़ा आरोप- खरगे ने कहा-सरकार का बिल लोकतंत्र के लिए खतरा, SC-ST के हितों का ध्या…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -538,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 18949,
+      "concurrentViewers": 36669,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -562,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 588,
+      "concurrentViewers": 613,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -586,7 +610,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 185,
+      "concurrentViewers": 207,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -610,7 +634,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 5311,
+      "concurrentViewers": 1632,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     },
@@ -634,7 +658,7 @@
           "url": "https://i.ytimg.com/vi/bNyUyrR0PHo/hqdefault.jpg?v=6b00a693"
         }
       },
-      "concurrentViewers": 23855,
+      "concurrentViewers": 26979,
       "startedAt": "2022-11-25T20:04:59Z",
       "regionRestriction": {
         "blocked": [
@@ -662,7 +686,7 @@
           "url": "https://i.ytimg.com/vi/n7eQejkXbnM/hqdefault.jpg?v=69f00ca6"
         }
       },
-      "concurrentViewers": 20971,
+      "concurrentViewers": 13410,
       "startedAt": "2025-01-16T09:55:40Z",
       "regionRestriction": null
     },
@@ -686,7 +710,7 @@
           "url": "https://i.ytimg.com/vi/f6VpkfV7m4Y/hqdefault.jpg?v=6a7c5cd7"
         }
       },
-      "concurrentViewers": 113,
+      "concurrentViewers": 105,
       "startedAt": "2022-11-26T10:31:33Z",
       "regionRestriction": null
     },
@@ -710,7 +734,7 @@
           "url": "https://i.ytimg.com/vi/ppgTP8xQQsM/hqdefault.jpg?v=6a392469"
         }
       },
-      "concurrentViewers": 2138,
+      "concurrentViewers": 2082,
       "startedAt": "2026-06-22T12:03:38Z",
       "regionRestriction": null
     },
@@ -718,7 +742,7 @@
       "videoId": "O1pGmVtj2Y8",
       "channelId": "UCelk6aHijZq-GJBBB9YpReA",
       "title": "| BBC News Arabic Live | البث الحي لبي بي سي نيوز عربي|",
-      "description": "آخر التطورات من بي بي سي نيوز عربي:\n🔴 إدانات عربية للهجوم الإيراني على الكويت رغم نفي طهران\n🔴 ترامب يقول إنه يمنح إيران كل الفرص لإبرام اتفاق\n🔴 عراقجي يقول إن الوجود ​العسكري الأجنبي في منطقة الخليج من شأنه ‌أن يزيد التوتر بدلا من المساهمة في إحلال السلام\n🔴 أردوغان يوافق رسميا على اتفاقية ‌مكة …",
+      "description": "آخر التطورات من بي بي سي نيوز عربي:\n🔴 السعودية تعلن إسقاط صاروخ باليستي أطلقه الحوثيون على المنطقة الجنوبية\n🔴 هيئة عمليات التجارة البحرية البريطانية: مسلحون استولوا على سفينة شحن قبالة الساحل الجنوبي لليمن\n🔴 أطباء بلا حدود تعلن مقتل موظفين اثنين في ضربة إسرائيلية خارج عيادة بغزة\n🔴 7 قتلى ونحو 1…",
       "channelTitle": "BBC News عربي",
       "country": "GB",
       "language": "ar",
@@ -734,7 +758,7 @@
           "url": "https://i.ytimg.com/vi/O1pGmVtj2Y8/hqdefault.jpg?v=6ae74958"
         }
       },
-      "concurrentViewers": 269,
+      "concurrentViewers": 282,
       "startedAt": "2026-01-08T12:30:32Z",
       "regionRestriction": null
     },
@@ -758,7 +782,7 @@
           "url": "https://i.ytimg.com/vi/93g513Uth98/hqdefault.jpg?v=6a168b65"
         }
       },
-      "concurrentViewers": 1069,
+      "concurrentViewers": 1127,
       "startedAt": "2026-05-27T10:26:26Z",
       "regionRestriction": null
     },
@@ -782,7 +806,7 @@
           "url": "https://i.ytimg.com/vi/AGkp2AL8e7o/hqdefault.jpg?v=67ed3ec4"
         }
       },
-      "concurrentViewers": 131,
+      "concurrentViewers": 179,
       "startedAt": "2025-04-02T13:57:36Z",
       "regionRestriction": null
     },
@@ -806,7 +830,7 @@
           "url": "https://i.ytimg.com/vi/b-fcHOnDXDc/hqdefault.jpg?v=6b002e52"
         }
       },
-      "concurrentViewers": 28,
+      "concurrentViewers": 57,
       "startedAt": "2026-11-20T11:28:19Z",
       "regionRestriction": null
     },
@@ -830,7 +854,7 @@
           "url": "https://i.ytimg.com/vi/Qr61waJ6AZg/hqdefault.jpg?v=69f8aafe"
         }
       },
-      "concurrentViewers": 76,
+      "concurrentViewers": 434,
       "startedAt": "2025-10-17T19:12:26Z",
       "regionRestriction": null
     },
@@ -854,8 +878,80 @@
           "url": "https://i.ytimg.com/vi/yZh3xsFqCt8/hqdefault.jpg?v=69f0f7c0"
         }
       },
-      "concurrentViewers": 311,
+      "concurrentViewers": 780,
       "startedAt": "2026-04-28T18:12:42Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "zTv0hCakAhg",
+      "channelId": "UCUdOoVWuWmgo1wByzcsyKDQ",
+      "title": "FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas",
+      "description": "🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.\r\n⌚ France 24 ya está disponible en español las 24 horas del día! \r\n\r\n🔔 Suscriba a nuestra cadena en YouTube: https://f24.my/YTes \r\n\r\n💬 Comente la actualidad del día en el chat #F24enVivo. Envíenos sus comentarios y r…",
+      "channelTitle": "FRANCE 24 Español",
+      "country": "FR",
+      "language": "es",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zTv0hCakAhg/default.jpg?v=6a168b14"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zTv0hCakAhg/mqdefault.jpg?v=6a168b14"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zTv0hCakAhg/hqdefault.jpg?v=6a168b14"
+        }
+      },
+      "concurrentViewers": 814,
+      "startedAt": "2026-05-27T10:26:39Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "O9mOtdZ-nSk",
+      "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+      "title": "euronews en directo",
+      "description": "EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. \nSaludos desde la redacción en español de Euronews.\n\n▶︎ Mira Euronews en vivo en diferentes idiomas en Youtube:\n🇬🇧 Euronews live in English: https://www.youtube.com/c/euronews/live\n🇫🇷 Euronews en direct en Français: https:/…",
+      "channelTitle": "euronews (en español)",
+      "country": "FR",
+      "language": "es",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O9mOtdZ-nSk/default.jpg?v=641883d2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O9mOtdZ-nSk/mqdefault.jpg?v=641883d2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O9mOtdZ-nSk/hqdefault.jpg?v=641883d2"
+        }
+      },
+      "concurrentViewers": 71,
+      "startedAt": "2022-11-17T08:47:07Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "b4tE5aKhtlg",
+      "channelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
+      "title": "🔴DIRECTO | CANAL 24H | TODA LA ACTUALIDAD NACIONAL E INTERNACIONAL | RTVE Noticias",
+      "description": "En el canal de RTVE Noticias en YouTube encontrarás toda la información, las últimas horas y el análisis de las noticias de España y del mundo a través de nuestra red de informativos, corresponsales y formatos propios. Con todos los detalles, el contexto y el análisis de los acontecimientos que te …",
+      "channelTitle": "RTVE Noticias",
+      "country": "ES",
+      "language": "es",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b4tE5aKhtlg/default.jpg?v=69b8528d"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b4tE5aKhtlg/mqdefault.jpg?v=69b8528d"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b4tE5aKhtlg/hqdefault.jpg?v=69b8528d"
+        }
+      },
+      "concurrentViewers": 6244,
+      "startedAt": "2026-03-16T19:01:38Z",
       "regionRestriction": null
     },
     {
@@ -878,32 +974,32 @@
           "url": "https://i.ytimg.com/vi/H_Wg-86X7TI/hqdefault.jpg?v=6b0a1ea1"
         }
       },
-      "concurrentViewers": 7,
+      "concurrentViewers": 33,
       "startedAt": "2026-11-28T00:46:03Z",
       "regionRestriction": null
     },
     {
-      "videoId": "y104PDJ5KUs",
+      "videoId": "DF5HDC0E7jo",
       "channelId": "UCvdwhh_fDyWccR42-rReZLw",
-      "title": "AO VIVO: CNN NEWSROOM - 28/11/2026",
-      "description": "Assista AO VIVO ao CNN Newsroom deste sábado, 28 de novembro de 2026. #CNNBrasil\n\nInscreva-se no canal da CNN Brasil no YouTube.\n\nACOMPANHE A CNN BRASIL TAMBÉM NAS OUTRAS PLATAFORMAS:\n\nPodcasts: https://www.cnnbrasil.com.br/podcasts/\nNewsletters: https://newsletter.cnnbrasil.com.br\nFacebook: https:…",
+      "title": "AO VIVO: LULA ACELERA MONTAGEM DO NOVO GOVERNO | CNN AGORA MANHÃ",
+      "description": "Assista AO VIVO ao CNN Agora - Manhã deste sábado, 28 de novembro de 2026. #CNNBrasil \n\nInscreva-se no canal da CNN Brasil no YouTube.\n\nACOMPANHE A CNN BRASIL TAMBÉM NAS OUTRAS PLATAFORMAS:\n\nPodcasts: https://www.cnnbrasil.com.br/podcasts/\nNewsletters: https://newsletter.cnnbrasil.com.br\nFacebook: …",
       "channelTitle": "CNN Brasil",
       "country": "BR",
       "language": "pt",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/y104PDJ5KUs/default.jpg?v=6b0a2fd2"
+          "url": "https://i.ytimg.com/vi/DF5HDC0E7jo/default.jpg?v=6b0a2f76"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/y104PDJ5KUs/mqdefault.jpg?v=6b0a2fd2"
+          "url": "https://i.ytimg.com/vi/DF5HDC0E7jo/mqdefault.jpg?v=6b0a2f76"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/y104PDJ5KUs/hqdefault.jpg?v=6b0a2fd2"
+          "url": "https://i.ytimg.com/vi/DF5HDC0E7jo/hqdefault.jpg?v=6b0a2f76"
         }
       },
-      "concurrentViewers": 5154,
-      "startedAt": "2026-11-28T08:53:01Z",
+      "concurrentViewers": 10589,
+      "startedAt": "2026-11-28T12:21:47Z",
       "regionRestriction": null
     },
     {
@@ -926,7 +1022,7 @@
           "url": "https://i.ytimg.com/vi/fADL3mx8NYM/hqdefault.jpg?v=6b0971e1"
         }
       },
-      "concurrentViewers": 2853,
+      "concurrentViewers": 4698,
       "startedAt": "2026-11-27T22:25:57Z",
       "regionRestriction": null
     },
@@ -950,32 +1046,56 @@
           "url": "https://i.ytimg.com/vi/vhUpfn47gBk/hqdefault.jpg?v=6b09fda4"
         }
       },
-      "concurrentViewers": 8210,
+      "concurrentViewers": 18874,
       "startedAt": "2026-11-28T08:55:09Z",
       "regionRestriction": null
     },
     {
       "videoId": "EomYGDEv38E",
       "channelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-      "title": "RENTEN-REFORM: CDU \"entsetzt\" von Schweitzers Entwurf! Nächster Zoff im Anmarsch!  I WELT LIVESTREAM",
-      "description": "RENTEN-REFORM: CDU \"entsetzt\" von Schweitzers Entwurf! Nächster Zoff im Anmarsch!  I WELT LIVESTREAM\n\nBundesarbeitsminister Alexander Schweitzer (SPD) hat seinen Gesetzentwurf für eine umfassende Rentenreform an das Kanzleramt übermittelt. Das berichten „Bild“ und „Süddeutsche Zeitung“, denen der E…",
+      "title": "UKRAINE-KRIEG: \"Die Russen denken um\" - Putins-Flotte am Ende? Brisante Wanner-Analyse! I LIVESTREAM",
+      "description": "UKRAINE-KRIEG: \"Die Russen denken um\" - Putins-Flotte am Ende? Brisante Wanner-Analyse! I LIVESTREAM\n\nRussland treibt die Modernisierung seiner Marine voran: Kremlchef Wladimir Putin hat in Sewerodwinsk das atomgetriebene U-Boot „Perm“ in Dienst gestellt. Es ist das erste serienmäßig mit Zirkon-Hyp…",
       "channelTitle": "WELT Nachrichtensender",
       "country": "DE",
       "language": "de",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EomYGDEv38E/default.jpg?v=6b0a6ece"
+          "url": "https://i.ytimg.com/vi/EomYGDEv38E/default.jpg?v=6b0acbad"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EomYGDEv38E/mqdefault.jpg?v=6b0a6ece"
+          "url": "https://i.ytimg.com/vi/EomYGDEv38E/mqdefault.jpg?v=6b0acbad"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EomYGDEv38E/hqdefault.jpg?v=6b0a6ece"
+          "url": "https://i.ytimg.com/vi/EomYGDEv38E/hqdefault.jpg?v=6b0acbad"
         }
       },
-      "concurrentViewers": 2519,
+      "concurrentViewers": 1576,
       "startedAt": "2026-11-28T06:22:18Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "Q-d15aeZau4",
+      "channelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
+      "title": "Le journal de 13h de France Télévisions - 28 Nov 2026",
+      "description": "Tous les jours, à 13h, la rédaction propose un point sur l'actualité. Les informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.\n\n\n▶️ ABONNEZ-VOUS À franceinfo pour suivre l’actualité en direct et en continu 👉 https…",
+      "channelTitle": "franceinfo",
+      "country": "FR",
+      "language": "fr",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q-d15aeZau4/default.jpg?v=6b0ac19b"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q-d15aeZau4/mqdefault.jpg?v=6b0ac19b"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q-d15aeZau4/hqdefault.jpg?v=6b0ac19b"
+        }
+      },
+      "concurrentViewers": 2013,
+      "startedAt": "2026-11-28T11:57:21Z",
       "regionRestriction": null
     },
     {
@@ -998,7 +1118,7 @@
           "url": "https://i.ytimg.com/vi/5hhjLNXlHDA/hqdefault.jpg?v=6b0a9653"
         }
       },
-      "concurrentViewers": 599,
+      "concurrentViewers": 331,
       "startedAt": "2026-11-28T09:00:16Z",
       "regionRestriction": null
     },
@@ -1022,7 +1142,7 @@
           "url": "https://i.ytimg.com/vi/tBIlC2x5TZE/hqdefault.jpg?v=6b0a8df5"
         }
       },
-      "concurrentViewers": 1136,
+      "concurrentViewers": 764,
       "startedAt": "2026-11-28T08:18:45Z",
       "regionRestriction": null
     },
@@ -1046,32 +1166,32 @@
           "url": "https://i.ytimg.com/vi/GaQi1dhnNO4/hqdefault.jpg?v=6b0a8524"
         }
       },
-      "concurrentViewers": 2952,
+      "concurrentViewers": 221,
       "startedAt": "2026-11-28T07:36:19Z",
       "regionRestriction": null
     },
     {
-      "videoId": "CqNPCiwQkZw",
+      "videoId": "jbfq3caYy_I",
       "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-      "title": "Iran America War Updates: USS लिकंन का विनाशक हमला...दहला ईऱान का बुशहर एयरपोर्ट! | Trump | IRGC",
-      "description": "#IranUSWar #IranWar #USAttack #Trump #IRGC #Hormuz #Mojtaba #Iran #America #IranMilitary #AirDefense #MiddleEastWar #USMilitary #Tehran #IsraelIran #PersianGulf #BreakingNews #WarUpdates #IranNews #DonaldTrump #IranCrisis #HormuzStrait #MilitaryNews #Geopolitics #TV9Bharatvarsh ##vishal.mishra@tv9.…",
+      "title": "Russia-Ukraine War: Putin की चेतावनी... रूस ने लॉन्च की न्यूक्लियर सबमरीन! | Zelensky | NATO | Trump",
+      "description": "#Putin #RussiaUkraineWar #KyivAttack #Kyiv #NATO #NATORussia #NuclearWar #NuclearThreat #PutinNews #RussiaAttack #UkraineWar #RussianArmy #WorldWar3 #RussiaNews #UkraineNews #WorldNews #InternationalNews #BreakingNews #TV9Bharatvarsh ##kuldeep.singh@tv9.com## #TV9Cut\n\nRussia-Ukraine War: Putin की च…",
       "channelTitle": "TV9 Bharatvarsh",
       "country": "IN",
       "language": "hi",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/CqNPCiwQkZw/default.jpg?v=6b0a743a"
+          "url": "https://i.ytimg.com/vi/jbfq3caYy_I/default.jpg?v=6b0aa93f"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/CqNPCiwQkZw/mqdefault.jpg?v=6b0a743a"
+          "url": "https://i.ytimg.com/vi/jbfq3caYy_I/mqdefault.jpg?v=6b0aa93f"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/CqNPCiwQkZw/hqdefault.jpg?v=6b0a743a"
+          "url": "https://i.ytimg.com/vi/jbfq3caYy_I/hqdefault.jpg?v=6b0aa93f"
         }
       },
-      "concurrentViewers": 582,
-      "startedAt": "2026-11-28T06:37:00Z",
+      "concurrentViewers": 1312,
+      "startedAt": "2026-11-28T10:28:37Z",
       "regionRestriction": null
     },
     {
@@ -1094,7 +1214,7 @@
           "url": "https://i.ytimg.com/vi/xsEFRa1YLd0/hqdefault.jpg?v=6b0a95ba"
         }
       },
-      "concurrentViewers": 521,
+      "concurrentViewers": 872,
       "startedAt": "2026-11-28T08:50:37Z",
       "regionRestriction": null
     },
@@ -1118,32 +1238,56 @@
           "url": "https://i.ytimg.com/vi/DrvUIiRMr9Y/hqdefault.jpg?v=6b09b1ab"
         }
       },
-      "concurrentViewers": 172,
+      "concurrentViewers": 169,
       "startedAt": "2026-11-27T16:42:47Z",
       "regionRestriction": null
     },
     {
-      "videoId": "l7dJd53P5Hc",
+      "videoId": "Soy_80hfBFc",
+      "channelId": "UCKwucPzHZ7zCUIf7If-Wo1g",
+      "title": "LIVE : 57th International Film Festival of India | Closing Ceremony | IFFI 2026 | Goa",
+      "description": "Get ready for a spectacular celebration of cinema, culture and entertainment! Join us LIVE for the grand closing ceremony of the 57th International Film Festival of India (IFFI 2026) from Goa.\n\nWitness a memorable evening celebrating the magic of Indian and world cinema, featuring glamour, entertai…",
+      "channelTitle": "DD News",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Soy_80hfBFc/default.jpg?v=6b0a6169"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Soy_80hfBFc/mqdefault.jpg?v=6b0a6169"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Soy_80hfBFc/hqdefault.jpg?v=6b0a6169"
+        }
+      },
+      "concurrentViewers": 50,
+      "startedAt": "2026-11-28T11:15:11Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vlQMBjgbBJY",
       "channelId": "UC_vt34wimdCzdkrzVejwX9g",
-      "title": "🔴 LIVE: Federal Minister Attaullah Tarar's Address at Punjab Event | Geo News",
-      "description": "🔴 WATCH LIVE: Federal Minister Attaullah Tarar addresses an event in Punjab.\n#AttaullahTarar #AttaullahTararLive #PunjabEvent #GeoNews #GeoNewsLive #PakistanPolitics #LiveCoverage #PakistanNews #BreakingNews\nWatch the live coverage of Federal Minister for Information and Broadcasting Attaullah Tar…",
+      "title": "Petrol Price Reduce - Latest Update | 5 PM Headlines Geo News (28 Nov 2026)",
+      "description": "Will petrol prices be reduced in Pakistan? Get the latest update on petrol and diesel prices, possible relief for consumers, and the latest developments in the petroleum market.\n\nWatch Geo News 5 PM Headlines for the latest updates and breaking news from Pakistan.\n\n#PetrolPrice #PetrolPriceToday #P…",
       "channelTitle": "Geo News",
       "country": "PK",
       "language": "ur",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/default.jpg?v=9"
+          "url": "https://i.ytimg.com/vi/vlQMBjgbBJY/default.jpg"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/mqdefault.jpg?v=9"
+          "url": "https://i.ytimg.com/vi/vlQMBjgbBJY/mqdefault.jpg"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/hqdefault.jpg?v=9"
+          "url": "https://i.ytimg.com/vi/vlQMBjgbBJY/hqdefault.jpg"
         }
       },
-      "concurrentViewers": 311,
-      "startedAt": "2026-11-28T08:51:34Z",
+      "concurrentViewers": null,
+      "startedAt": "2026-11-28T12:40:31Z",
       "regionRestriction": {
         "blocked": [
           "IN"
@@ -1170,13 +1314,61 @@
           "url": "https://i.ytimg.com/vi/xnXL7OMPJVI/hqdefault.jpg?v=6b0a9ca3"
         }
       },
-      "concurrentViewers": 227,
+      "concurrentViewers": 668,
       "startedAt": "2026-11-28T09:26:22Z",
       "regionRestriction": {
         "blocked": [
           "IN"
         ]
       }
+    },
+    {
+      "videoId": "71HfOSwKMR8",
+      "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+      "title": "LIVE - Kasus Makar Listyo, Polisi Periksa Lingkar Dekat Jokowi | SAPA MALAM",
+      "description": "KOMPAS.TV - Kasus Makar Listyo, Polisi Periksa Lingkar Dekat Jokowi | SAPA MALAM\n\n#budiariesetiadi #projo #penyadapan #prabowo \n\nSahabat KompasTV, yuk gabung Membership dan dapatkan akses ke konten eksklusif! Klik tombol Join di sini: https://bit.ly/JoinMembershipKompasTV\n\nJangan lewatkan live stre…",
+      "channelTitle": "KOMPASTV",
+      "country": "ID",
+      "language": "id",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/71HfOSwKMR8/default.jpg?v=6b0abdca"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/71HfOSwKMR8/mqdefault.jpg?v=6b0abdca"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/71HfOSwKMR8/hqdefault.jpg?v=6b0abdca"
+        }
+      },
+      "concurrentViewers": 184,
+      "startedAt": "2026-11-28T12:00:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "BaYEDsSV2cg",
+      "channelId": "UCzl0OrB3-ehunyotIQvK77A",
+      "title": "[LIVE NTMC] SITUASI LALIN MALAM MINGGU AKHIR NOVEMBER, MALMING KEMANA NIH? [28/11/2026]",
+      "description": "[LIVE NTMC] SITUASI LALIN MALAM MINGGU AKHIR NOVEMBER, MALMING KEMANA NIH? [28/11/2026]\n\n1. KM 13.200 BEKASI BARAT\n2. SENAYAN BARAT\n3. SLIPI PALMERAH\n4. JPO TAMAN ANGGREK\n\n#liventmc #NTMCPolri #InfoLaluLintas #LaluLintasJakarta #PantauanLaluLintas #MetroTV #MetroTVNews #BekasiBarat #KM13200 #Senaya…",
+      "channelTitle": "METRO TV ",
+      "country": "ID",
+      "language": "id",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BaYEDsSV2cg/default.jpg?v=6b0aa97c"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BaYEDsSV2cg/mqdefault.jpg?v=6b0aa97c"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BaYEDsSV2cg/hqdefault.jpg?v=6b0aa97c"
+        }
+      },
+      "concurrentViewers": 8,
+      "startedAt": "2026-11-28T10:19:30Z",
+      "regionRestriction": null
     },
     {
       "videoId": "uxrKvGVX3iM",
@@ -1198,56 +1390,56 @@
           "url": "https://i.ytimg.com/vi/uxrKvGVX3iM/hqdefault.jpg?v=6b07bd35"
         }
       },
-      "concurrentViewers": 1922,
+      "concurrentViewers": 1169,
       "startedAt": "2026-11-28T08:59:20Z",
       "regionRestriction": null
     },
     {
-      "videoId": "g08_T4loJ_I",
+      "videoId": "fuabK4sczZs",
       "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-      "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月28日）｜TBS NEWS DIG",
-      "description": "11月28日（土）の夕方から放送された最新のニュースをダイジェストでお届けします。\n\n▼TBS NEWS DIG 公式サイト\nhttps://newsdig.tbs.co.jp/\n\n▼チャンネル登録をお願いします！\nhttp://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA?sub_confirmation=1\n\n▼情報提供はこちらから「TBSインサイダーズ」\nhttps://www.tbs.co.jp/news_sp/tbs-insiders.html\n\n▼映像提供はこちらから「TBSスクープ投稿」\nhttps://www.tbs.co.…",
+      "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月28日）｜TBS NEWS DIG",
+      "description": "TBS / JNNの最新ニュースをダイジェストでお届けします。\n\n#ニュースライブ #ニュース  #tbs #japan #live #news #newsdig #まとめ #最新ニュース\n\n▼TBS NEWS DIG 公式サイト\nhttps://newsdig.tbs.co.jp/\n\n▼チャンネル登録をお願いします！\nhttp://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA?sub_confirmation=1\n\n▼情報提供はこちらから「TBSインサイダーズ」\nhttps://www.tbs.co.jp/news_sp/tbs-insi…",
       "channelTitle": "TBS NEWS DIG Powered by JNN",
       "country": "JP",
       "language": "ja",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/g08_T4loJ_I/default.jpg?v=6b0a8a20"
+          "url": "https://i.ytimg.com/vi/fuabK4sczZs/default.jpg?v=6b0a8a9a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/g08_T4loJ_I/mqdefault.jpg?v=6b0a8a20"
+          "url": "https://i.ytimg.com/vi/fuabK4sczZs/mqdefault.jpg?v=6b0a8a9a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/g08_T4loJ_I/hqdefault.jpg?v=6b0a8a20"
+          "url": "https://i.ytimg.com/vi/fuabK4sczZs/hqdefault.jpg?v=6b0a8a9a"
         }
       },
-      "concurrentViewers": 1562,
-      "startedAt": "2026-11-28T08:58:07Z",
+      "concurrentViewers": 448,
+      "startedAt": "2026-11-28T12:00:14Z",
       "regionRestriction": null
     },
     {
-      "videoId": "CExGvLSRghg",
+      "videoId": "kLA4P49poEE",
       "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
-      "title": "【昼ニュースライブ】最新ニュースと生活情報（11月28日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-      "description": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひダウンロードをよろしくお願いします。\n\n【ラインアップ】\n・宮城の山中に2人の遺体　一部が白骨化　不明の女子高校生誘拐か…男逮捕\n・【中継】宮城の山中に2人の遺体　発見現場の様子は　逮捕の男は車で周辺訪れたか\n・福岡市男性刺殺事件　現場に落ちていた“刃物”に血液…凶器の可能性高いとみて特定作業進める\n・“覆面”の3人組が住人の男性を縛り…約2400万円と腕…",
+      "title": "【夜ニュースライブ】最新ニュースと生活情報（11月28日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+      "description": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひダウンロードをよろしくお願いします。\n\n【ラインアップ】\n・逮捕の男と女子高校生はネット通じ知り合ったか　宮城の山中に2人の遺体\n・【中継】宮城の山中に2人の遺体　発見現場の様子は　逮捕の男は車で周辺訪れたか\n・福岡市男性刺殺事件　現場に落ちていた“刃物”に血液…凶器の可能性高いとみて特定作業進める\n・木原官房長官「高市内閣で拉致問題を解決」強調　福井県で…",
       "channelTitle": "日テレNEWS",
       "country": "JP",
       "language": "ja",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/CExGvLSRghg/default.jpg?v=6b0a27b9"
+          "url": "https://i.ytimg.com/vi/kLA4P49poEE/default.jpg?v=6b0aa61d"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/CExGvLSRghg/mqdefault.jpg?v=6b0a27b9"
+          "url": "https://i.ytimg.com/vi/kLA4P49poEE/mqdefault.jpg?v=6b0aa61d"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/CExGvLSRghg/hqdefault.jpg?v=6b0a27b9"
+          "url": "https://i.ytimg.com/vi/kLA4P49poEE/hqdefault.jpg?v=6b0aa61d"
         }
       },
-      "concurrentViewers": 1428,
-      "startedAt": "2026-11-28T02:59:28Z",
+      "concurrentViewers": 1392,
+      "startedAt": "2026-11-28T10:28:24Z",
       "regionRestriction": null
     },
     {
@@ -1270,7 +1462,7 @@
           "url": "https://i.ytimg.com/vi/cSe0PC02YRU/hqdefault.jpg?v=6b0a67f0"
         }
       },
-      "concurrentViewers": 1813,
+      "concurrentViewers": 919,
       "startedAt": "2026-11-28T08:00:30Z",
       "regionRestriction": null
     },
@@ -1294,7 +1486,7 @@
           "url": "https://i.ytimg.com/vi/6nYn4x-90Sg/hqdefault.jpg?v=6b0a6a80"
         }
       },
-      "concurrentViewers": 73,
+      "concurrentViewers": 16,
       "startedAt": "2026-11-28T05:47:04Z",
       "regionRestriction": null
     },
@@ -1318,7 +1510,7 @@
           "url": "https://i.ytimg.com/vi/YOQQ2K6KVIE/hqdefault.jpg?v=6b0a9736"
         }
       },
-      "concurrentViewers": 88,
+      "concurrentViewers": 8,
       "startedAt": "2026-11-28T08:58:24Z",
       "regionRestriction": null
     },
@@ -1342,7 +1534,7 @@
           "url": "https://i.ytimg.com/vi/W17t4WK4tTA/hqdefault.jpg?v=6b095219"
         }
       },
-      "concurrentViewers": 6753,
+      "concurrentViewers": 5405,
       "startedAt": "2026-11-28T06:59:49Z",
       "regionRestriction": null
     },
@@ -1366,7 +1558,7 @@
           "url": "https://i.ytimg.com/vi/VNsSbAd40Fk/hqdefault.jpg?v=6b0a8db1"
         }
       },
-      "concurrentViewers": 168,
+      "concurrentViewers": 474,
       "startedAt": "2026-11-28T08:17:48Z",
       "regionRestriction": null
     },
@@ -1390,14 +1582,14 @@
           "url": "https://i.ytimg.com/vi/ROboUHfPUrU/hqdefault.jpg?v=6ada1dd8"
         }
       },
-      "concurrentViewers": 107,
+      "concurrentViewers": 108,
       "startedAt": "2026-10-22T14:57:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "43pVk7dvuO8",
+      "videoId": "bgGxlBpHGFI",
       "channelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-      "title": "【ライブ】最新天気ニュース・地震情報 2026年11月28日(土) ／低気圧と前線で広く雨や雷　夜は朝より冷える〈ウェザーニュースLiVEイブニング・駒木結衣／内藤邦裕〉",
+      "title": "【ライブ】最新天気ニュース・地震情報 2026年11月28日(土)20:00〜 ／明日は日本海側で強い雪や吹雪に注意　車での移動は雪装備を〈ウェザーニュースLiVEムーン・山岸愛梨／内藤邦裕〉",
       "description": "【今日の天気／明日の天気／週間天気に関する最新情報】\n日々の天気予報や最新気象ニュースをウェザーニュースキャスターと気象予報士がわかりやすく解説。アプリユーザーから共有される天気報告や写真・動画、ライブカメラ映像を用いて、今の天気をリアルタイムにお伝えします。\n\nまた、緊急地震速報が発表された際は地震速報に切り替え、どこよりも早く速報で地震情報・津波情報をお伝えします。\n\n📺️番組表 24時間生放送中\nhttps://weathernews.jp/wnl/timetable.html\n\nYouTubeで番組再生ができない場合は、こちらからも番組をご覧いただけます\n・TikTok　https…",
       "channelTitle": "ウェザーニュース",
       "country": "JP",
@@ -1405,41 +1597,41 @@
       "category": "weather",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/43pVk7dvuO8/default.jpg?v=6b0968f1"
+          "url": "https://i.ytimg.com/vi/bgGxlBpHGFI/default.jpg?v=6b098e83"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/43pVk7dvuO8/mqdefault.jpg?v=6b0968f1"
+          "url": "https://i.ytimg.com/vi/bgGxlBpHGFI/mqdefault.jpg?v=6b098e83"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/43pVk7dvuO8/hqdefault.jpg?v=6b0968f1"
+          "url": "https://i.ytimg.com/vi/bgGxlBpHGFI/hqdefault.jpg?v=6b098e83"
         }
       },
-      "concurrentViewers": 5422,
-      "startedAt": "2026-11-28T07:29:09Z",
+      "concurrentViewers": 5077,
+      "startedAt": "2026-11-28T10:45:45Z",
       "regionRestriction": null
     },
     {
-      "videoId": "NbLqEOo-T80",
+      "videoId": "ERes-PP1BBY",
       "channelId": "UCWw6scNyopJ0yjMu1SyOEyw",
-      "title": "LIVE Weekend Sports Breakfast with Shebahn Aherne & Tony Cascarino | 28-Nov-26",
-      "description": "The definitive word on GameDay with previews of the big games with Shebahn Aherne & Tony Cascarino.\n\nSubscribe: https://youtube.com/c/talkSPORT?sub_confirmation=1\n\nEnjoyed this YouTube video? 😍\n🖥️ talkSPORT's Website: https://talksport.com/\n📲 talkSPORT's X/Twitter: https://x.com/talkSPORT\n📷 tal…",
+      "title": "Warm Up with Max Rushden & Charlie Baker | 28-Nov-26",
+      "description": "The best build-up to GameDay with pre-match fun and games. Call the show on 03717 22 33 44\n\nSubscribe: https://youtube.com/c/talkSPORT?sub_confirmation=1\n\nEnjoyed this YouTube video? 😍\n🖥️ talkSPORT's Website: https://talksport.com/\n📲 talkSPORT's X/Twitter: https://x.com/talkSPORT\n📷 talkSPORT's …",
       "channelTitle": "talkSPORT",
       "country": "GB",
       "language": "en",
       "category": "sports",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NbLqEOo-T80/default.jpg?v=6b0a6e28"
+          "url": "https://i.ytimg.com/vi/ERes-PP1BBY/default.jpg?v=6b0aa66a"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NbLqEOo-T80/mqdefault.jpg?v=6b0a6e28"
+          "url": "https://i.ytimg.com/vi/ERes-PP1BBY/mqdefault.jpg?v=6b0aa66a"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NbLqEOo-T80/hqdefault.jpg?v=6b0a6e28"
+          "url": "https://i.ytimg.com/vi/ERes-PP1BBY/hqdefault.jpg?v=6b0aa66a"
         }
       },
-      "concurrentViewers": 1017,
-      "startedAt": "2026-11-28T06:01:27Z",
+      "concurrentViewers": 750,
+      "startedAt": "2026-11-28T10:01:22Z",
       "regionRestriction": null
     }
   ]
