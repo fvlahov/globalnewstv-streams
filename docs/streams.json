@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T21:54:22.172Z",
+  "generatedAt": "2026-11-28T03:45:16.237Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 3028,
+      "concurrentViewers": 2351,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 459,
+      "concurrentViewers": 259,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 2330,
+      "concurrentViewers": 1169,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,38 +98,14 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 56,
+      "concurrentViewers": 46,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
     {
-      "videoId": "jX221tOsA2E",
-      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "title": "LIVE: Bolivian workers protest against government",
-      "description": "Teachers and miners hold anti-government protest in La Paz, Bolivia.\n \n#protest #bolivia #lapaz #government #politics\n\nKeep up with the latest news from around the world: https://www.reuters.com/",
-      "channelTitle": "Reuters",
-      "country": "GB",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jX221tOsA2E/default.jpg?v=6b09fb4b"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jX221tOsA2E/mqdefault.jpg?v=6b09fb4b"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jX221tOsA2E/hqdefault.jpg?v=6b09fb4b"
-        }
-      },
-      "concurrentViewers": 17,
-      "startedAt": "2026-11-27T21:32:43Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "gKULTIDM-8s",
+      "videoId": "0vNukUbpBbU",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "title": "LIVE: NBC News NOW - Nov. 27",
+      "title": "LIVE: NBC News NOW",
       "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.\n\nFor more context and news coverage of the most important stories of our day, click here: https://ww…",
       "channelTitle": "NBC News",
       "country": "US",
@@ -137,41 +113,17 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/gKULTIDM-8s/default.jpg?v=6b08c631"
+          "url": "https://i.ytimg.com/vi/0vNukUbpBbU/default.jpg?v=6b0a0b27"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/gKULTIDM-8s/mqdefault.jpg?v=6b08c631"
+          "url": "https://i.ytimg.com/vi/0vNukUbpBbU/mqdefault.jpg?v=6b0a0b27"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/gKULTIDM-8s/hqdefault.jpg?v=6b08c631"
+          "url": "https://i.ytimg.com/vi/0vNukUbpBbU/hqdefault.jpg?v=6b0a0b27"
         }
       },
-      "concurrentViewers": 2060,
-      "startedAt": "2026-11-27T12:03:09Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "d8eOeIS1EFU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, November 27",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/default.jpg?v=6affa967"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/mqdefault.jpg?v=6affa967"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/hqdefault.jpg?v=6affa967"
-        }
-      },
-      "concurrentViewers": 848,
-      "startedAt": "2026-11-27T10:57:55Z",
+      "concurrentViewers": 1388,
+      "startedAt": "2026-11-27T22:59:37Z",
       "regionRestriction": null
     },
     {
@@ -194,8 +146,32 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 585,
+      "concurrentViewers": 484,
       "startedAt": "2026-10-24T03:13:21Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "d8eOeIS1EFU",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "title": "LIVE: ABC News Live - Friday, November 27",
+      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
+      "channelTitle": "ABC News",
+      "country": "US",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/default.jpg?v=6affa967"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/mqdefault.jpg?v=6affa967"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/hqdefault.jpg?v=6affa967"
+        }
+      },
+      "concurrentViewers": 391,
+      "startedAt": "2026-11-27T10:57:55Z",
       "regionRestriction": null
     },
     {
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/pu49AmFJRp4/hqdefault.jpg?v=6b09698e"
         }
       },
-      "concurrentViewers": 686,
+      "concurrentViewers": 373,
       "startedAt": "2026-11-27T11:30:16Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 915,
+      "concurrentViewers": 390,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1864,
+      "concurrentViewers": 1130,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 20,
+      "concurrentViewers": 22,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -314,7 +290,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 6177,
+      "concurrentViewers": 4599,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 371,
+      "concurrentViewers": 311,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 971,
+      "concurrentViewers": 965,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 6914,
+      "concurrentViewers": 3183,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -414,7 +390,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 99,
+      "concurrentViewers": 108,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 63,
+      "concurrentViewers": 35,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -466,7 +442,7 @@
           "url": "https://i.ytimg.com/vi/inJSphFFhaw/hqdefault.jpg?v=6b07c6f2"
         }
       },
-      "concurrentViewers": 122,
+      "concurrentViewers": 121,
       "startedAt": "2026-11-26T05:54:04Z",
       "regionRestriction": null
     },
@@ -481,16 +457,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3ac35"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3ac7b"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3ac35"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3ac7b"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3ac35"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3ac7b"
         }
       },
-      "concurrentViewers": 27,
+      "concurrentViewers": 23,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -514,63 +490,87 @@
           "url": "https://i.ytimg.com/vi/fdAJC-jfPwA/hqdefault.jpg?v=6b08e7c4"
         }
       },
-      "concurrentViewers": 65,
+      "concurrentViewers": 88,
       "startedAt": "2026-11-27T02:16:22Z",
       "regionRestriction": null
     },
     {
-      "videoId": "qN6ABMeiL30",
-      "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-      "title": "Saudi Under Attack LIVE: Houthis Bomb Saudi Oil Sites as Riyadh Ramps Up Yemen Strikes | WION",
-      "description": "Saudi Under Attack LIVE: Houthis Bomb Saudi Oil Sites as Riyadh Ramps Up Yemen Strikes | WION\n\nSaudi Arabia and Yemen’s Iran-backed Houthis are trading increasingly intense strikes on strategic sites, including oil infrastructure and ports, marking a sharp escalation in fighting between the two sid…",
-      "channelTitle": "WION",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qN6ABMeiL30/default.jpg?v=6b08d664"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qN6ABMeiL30/mqdefault.jpg?v=6b08d664"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qN6ABMeiL30/hqdefault.jpg?v=6b08d664"
-        }
-      },
-      "concurrentViewers": 7,
-      "startedAt": "2026-11-27T01:02:14Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "WkABI8IK7P0",
+      "videoId": "p53FEN5SSAc",
       "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Deepam Row | 'Case Of Contempt': Supreme Court Pulls Up Vijay Government In Deepam Row | LIVE",
-      "description": "The Supreme Court on Friday came down heavily on the Tamil Nadu government over the non-compliance of its order on the lighting of Deepam at the Deepathoon pillar in Madurai. The court stated that it is prima facie a case of \"contempt of court\" and \"wilful disobedience\" by the state. \n\nIn a big ord…",
+      "title": "NDTV Live: Delimitation Bill | UP Elections | Deepam Row | Congress | Trump | PM Modi | Rahul Gandhi",
+      "description": "The Nationalist Congress Party of Sharad Pawar is driving a hard bargain for power-sharing roles at both the central and state levels in return for supporting the upcoming delimitation bill and switching from the Congress-led INDIA bloc to the BJP-led NDA, according to party sources. With a special…",
       "channelTitle": "NDTV",
       "country": "IN",
       "language": "en",
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WkABI8IK7P0/default.jpg?v=6b0975b4"
+          "url": "https://i.ytimg.com/vi/p53FEN5SSAc/default.jpg?v=6b0a298e"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WkABI8IK7P0/mqdefault.jpg?v=6b0975b4"
+          "url": "https://i.ytimg.com/vi/p53FEN5SSAc/mqdefault.jpg?v=6b0a298e"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WkABI8IK7P0/hqdefault.jpg?v=6b0975b4"
+          "url": "https://i.ytimg.com/vi/p53FEN5SSAc/hqdefault.jpg?v=6b0a298e"
         }
       },
-      "concurrentViewers": null,
-      "startedAt": "2026-11-27T12:33:38Z",
+      "concurrentViewers": 357,
+      "startedAt": "2026-11-28T01:28:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "SP0xrq0mdto",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "LIVE Drone Visuals From Thiruparankundram Hill As SC Orders Deepam To Be Lit At Deepathoon",
+      "description": "The Supreme Court on Friday underlined that its orders \"command obedience\" and suspended the board of trustees of Tamil Nadu's Arulmigu Subramaniaswamy temple and ordered lighting of lamp at Thiruparankundram deepathoon on Saturday using the flame lit at Uchaipillaiyar mandapam.\n\n#deepam #deepamrow…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SP0xrq0mdto/default.jpg?v=6b0a409a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SP0xrq0mdto/mqdefault.jpg?v=6b0a409a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SP0xrq0mdto/hqdefault.jpg?v=6b0a409a"
+        }
+      },
+      "concurrentViewers": 35,
+      "startedAt": "2026-11-28T02:48:25Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "aiU4vJn1izQ",
+      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+      "title": "Deepam Row LIVE | Deepam To Be Lit Today Under SC Order | CRPF Deployed, Political Row Escalates",
+      "description": "The Karthigai Deepam lamp is set to be lit at the Deepathoon pillar atop Thiruparankundram Hill in Madurai today, following a fresh Supreme Court directive. The court has deployed the CRPF to secure the hill and appointed two retired judges as receivers to oversee the temple administration and impl…",
+      "channelTitle": "NDTV",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aiU4vJn1izQ/default.jpg?v=6b0a4642"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aiU4vJn1izQ/mqdefault.jpg?v=6b0a4642"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aiU4vJn1izQ/hqdefault.jpg?v=6b0a4642"
+        }
+      },
+      "concurrentViewers": 34,
+      "startedAt": "2026-11-28T03:14:50Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: SC On TN Deepam | Modi Cabinet Meet | Special Parliament Session | Donald Trump",
-      "description": "India Today LIVE: SC On TN Deepam | Modi Cabinet Meet | Special Parliament Session | Donald Trump \n\nThe Karthigai Deepam lamp will be lit at the Deepathoon, a stone pillar on Madurai’s Thiruparankundram hill, on Saturday (November 28) after the Supreme Court pulled up the Vijay government on Friday…",
+      "title": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi",
+      "description": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi\n\nWatch India Today LIVE for the latest breaking news and top political developments. Parliament faces the Delimitation Bill debate in Lok Sabha, the Deepam row sparks political tensions, Mamata Banerjee and R…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -586,15 +586,63 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 106,
+      "concurrentViewers": 779,
       "startedAt": "2022-12-28T07:43:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "tP8v4TSyaBA",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi",
+      "description": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi\n\nWatch India Today LIVE for the latest breaking news and top political developments. Parliament faces the Delimitation Bill debate in Lok Sabha, the Deepam row sparks political tensions, Mamata Banerjee and R…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tP8v4TSyaBA/default.jpg?v=6b0a3078"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tP8v4TSyaBA/mqdefault.jpg?v=6b0a3078"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tP8v4TSyaBA/hqdefault.jpg?v=6b0a3078"
+        }
+      },
+      "concurrentViewers": 87,
+      "startedAt": "2026-11-28T01:38:54Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ACGQZO1RjcQ",
+      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "title": "Breaking News: Italy Bans Burqas, Niqabs In Classrooms; 100 Euro Fine For Violators|India Today Live",
+      "description": "Breaking News: Italy Bans Burqas, Niqabs In Classrooms; 100 Euro Fine For Violators|India Today Live\n\nItaly passes a new education law banning face-covering veils, including burqas and niqabs, in classrooms, with violators facing a 100 euro fine. The legislation also caps foreign students at 30% in…",
+      "channelTitle": "India Today",
+      "country": "IN",
+      "language": "en",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ACGQZO1RjcQ/default.jpg?v=6b0a3f91"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ACGQZO1RjcQ/mqdefault.jpg?v=6b0a3f91"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ACGQZO1RjcQ/hqdefault.jpg?v=6b0a3f91"
+        }
+      },
+      "concurrentViewers": 46,
+      "startedAt": "2026-11-28T02:46:14Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Parliament Session | Delimitation Bill | Akhilesh Yadav | Rahul Gandhi | PM Modi",
-      "description": "आजतक के पास परिसीमन बिल की कॉपी- लोकसभा की सीटें बढ़ाकर 850 करने का प्रावधान- विधानसभा की सीटें 50 फीसदी बढ़ेंगी- 33 प्रतिशत महिला आरक्षण को 15 साल तक लागू करने की बात.\n\nसंसद के विशेष सत्र से पहले सरकार के लिए अच्छी खबर- परिसीमन बिल का समर्थन करेगा NCP शरद गुट- शर्तों के साथ DMK ने भी दिया साथ देने…",
+      "title": "Aaj Tak LIVE TV: Parliament Session | Delimitation Bill | PM Modi | UP Election 2027 | Hindi News",
+      "description": "आजतक के पास परिसीमन बिल की कॉपी- लोकसभा की सीटें बढ़ाकर 850 करने का प्रावधान- विधानसभा की सीटें भी 50 फीसदी बढ़ेंगी- 33 प्रतिशत महिला आरक्षण को 15 साल तक लागू करने की बात\n\nसंसद के विशेष सत्र से पहले सरकार के लिए अच्छी खबर- परिसीमन बिल का समर्थन करेगा NCP शरद गुट- शर्तों के साथ DMK ने भी दिया साथ दे…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -610,32 +658,8 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 1687,
+      "concurrentViewers": 16469,
       "startedAt": "2022-11-20T19:08:04Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "qv8gMW8fxns",
-      "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Parliament Special Session LIVE Updates: परिसीमन बिल को लेकर आरजेडी में भी खलबली | Aaj Tak",
-      "description": "परिसीमन बिल को लेकर आरजेडी में भी खलबली है.. । RJD सांसद सुरेंद्र प्रसाद यादव ने इसके पक्ष में बयान दिया..। उन्होंने कहा कि - कहा देश की बढ़ती आबादी से सरकार के ऊपर भार पड़ा है और विकास और क्षेत्रफल के हिसाब से परिसीमन होना चाहिए।\n\n\n#loksabha #specialsession #parliament #parliamentnews #loksabhalive …",
-      "channelTitle": "Aaj Tak",
-      "country": "IN",
-      "language": "hi",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qv8gMW8fxns/default.jpg?v=6b0947b8"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qv8gMW8fxns/mqdefault.jpg?v=6b0947b8"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qv8gMW8fxns/hqdefault.jpg?v=6b0947b8"
-        }
-      },
-      "concurrentViewers": 37,
-      "startedAt": "2026-11-27T09:05:37Z",
       "regionRestriction": null
     },
     {
@@ -658,7 +682,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 334,
+      "concurrentViewers": 998,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -682,7 +706,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 132,
+      "concurrentViewers": 124,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -706,7 +730,7 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 2734,
+      "concurrentViewers": 1956,
       "startedAt": "2022-02-20T00:57:03Z",
       "regionRestriction": null
     }
