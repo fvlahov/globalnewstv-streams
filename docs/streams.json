@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T03:45:16.237Z",
+  "generatedAt": "2026-11-28T09:26:34.278Z",
   "streams": [
     {
       "videoId": "53SxFKpbKDE",
@@ -22,7 +22,7 @@
           "url": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg?v=6ae1adaa"
         }
       },
-      "concurrentViewers": 2351,
+      "concurrentViewers": 6487,
       "startedAt": "2026-10-28T08:10:52Z",
       "regionRestriction": null
     },
@@ -46,7 +46,7 @@
           "url": "https://i.ytimg.com/vi/PmmEevogFZg/hqdefault.jpg?v=6ad078f8"
         }
       },
-      "concurrentViewers": 259,
+      "concurrentViewers": 833,
       "startedAt": "2026-10-15T10:00:14Z",
       "regionRestriction": {
         "allowed": [
@@ -74,7 +74,7 @@
           "url": "https://i.ytimg.com/vi/EDbWwVR7i9Q/hqdefault.jpg?v=6accbe08"
         }
       },
-      "concurrentViewers": 1169,
+      "concurrentViewers": 4164,
       "startedAt": "2026-10-12T11:02:06Z",
       "regionRestriction": null
     },
@@ -98,7 +98,7 @@
           "url": "https://i.ytimg.com/vi/3EaWrWqt7dk/hqdefault.jpg?v=6ad0dd19"
         }
       },
-      "concurrentViewers": 46,
+      "concurrentViewers": 566,
       "startedAt": "2026-08-27T12:03:23Z",
       "regionRestriction": null
     },
@@ -122,7 +122,7 @@
           "url": "https://i.ytimg.com/vi/0vNukUbpBbU/hqdefault.jpg?v=6b0a0b27"
         }
       },
-      "concurrentViewers": 1388,
+      "concurrentViewers": 464,
       "startedAt": "2026-11-27T22:59:37Z",
       "regionRestriction": null
     },
@@ -146,32 +146,8 @@
           "url": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg?v=6adc223c"
         }
       },
-      "concurrentViewers": 484,
+      "concurrentViewers": 628,
       "startedAt": "2026-10-24T03:13:21Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "d8eOeIS1EFU",
-      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "title": "LIVE: ABC News Live - Friday, November 27",
-      "description": "Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/de…",
-      "channelTitle": "ABC News",
-      "country": "US",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/default.jpg?v=6affa967"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/mqdefault.jpg?v=6affa967"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/d8eOeIS1EFU/hqdefault.jpg?v=6affa967"
-        }
-      },
-      "concurrentViewers": 391,
-      "startedAt": "2026-11-27T10:57:55Z",
       "regionRestriction": null
     },
     {
@@ -194,7 +170,7 @@
           "url": "https://i.ytimg.com/vi/pu49AmFJRp4/hqdefault.jpg?v=6b09698e"
         }
       },
-      "concurrentViewers": 373,
+      "concurrentViewers": 274,
       "startedAt": "2026-11-27T11:30:16Z",
       "regionRestriction": null
     },
@@ -218,7 +194,7 @@
           "url": "https://i.ytimg.com/vi/YecuAH1RcFA/hqdefault.jpg?v=6af62f97"
         }
       },
-      "concurrentViewers": 390,
+      "concurrentViewers": 144,
       "startedAt": "2026-11-12T21:30:24Z",
       "regionRestriction": null
     },
@@ -242,7 +218,7 @@
           "url": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg?v=6a2e8319"
         }
       },
-      "concurrentViewers": 1130,
+      "concurrentViewers": 1384,
       "startedAt": "2026-06-14T10:32:22Z",
       "regionRestriction": null
     },
@@ -266,7 +242,7 @@
           "url": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg?v=693d70bd"
         }
       },
-      "concurrentViewers": 22,
+      "concurrentViewers": 12,
       "startedAt": "2022-11-07T15:56:41Z",
       "regionRestriction": null
     },
@@ -290,7 +266,7 @@
           "url": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg?v=640a78c8"
         }
       },
-      "concurrentViewers": 4599,
+      "concurrentViewers": 8539,
       "startedAt": "2023-03-10T00:37:12Z",
       "regionRestriction": {
         "blocked": [
@@ -318,7 +294,7 @@
           "url": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg?v=67ead53f"
         }
       },
-      "concurrentViewers": 311,
+      "concurrentViewers": 444,
       "startedAt": "2025-03-31T17:50:08Z",
       "regionRestriction": null
     },
@@ -342,7 +318,7 @@
           "url": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg?v=6a15fe65"
         }
       },
-      "concurrentViewers": 965,
+      "concurrentViewers": 1441,
       "startedAt": "2026-05-27T10:26:21Z",
       "regionRestriction": null
     },
@@ -366,7 +342,7 @@
           "url": "https://i.ytimg.com/vi/a47ckXKZjxI/hqdefault.jpg?v=6a1754ab"
         }
       },
-      "concurrentViewers": 3183,
+      "concurrentViewers": 6058,
       "startedAt": "2026-05-27T20:56:27Z",
       "regionRestriction": null
     },
@@ -390,7 +366,7 @@
           "url": "https://i.ytimg.com/vi/pykpO5kQJ98/hqdefault.jpg?v=63eb92d4"
         }
       },
-      "concurrentViewers": 108,
+      "concurrentViewers": 204,
       "startedAt": "2022-12-12T16:50:08Z",
       "regionRestriction": {
         "blocked": [
@@ -418,7 +394,7 @@
           "url": "https://i.ytimg.com/vi/NiRIbKwAejk/hqdefault.jpg?v=63eb9493"
         }
       },
-      "concurrentViewers": 35,
+      "concurrentViewers": 90,
       "startedAt": "2022-09-19T16:38:52Z",
       "regionRestriction": null
     },
@@ -442,7 +418,7 @@
           "url": "https://i.ytimg.com/vi/inJSphFFhaw/hqdefault.jpg?v=6b07c6f2"
         }
       },
-      "concurrentViewers": 121,
+      "concurrentViewers": 169,
       "startedAt": "2026-11-26T05:54:04Z",
       "regionRestriction": null
     },
@@ -457,16 +433,16 @@
       "category": "general",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3ac7b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/default.jpg?v=3acc1"
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3ac7b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/mqdefault.jpg?v=3acc1"
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3ac7b"
+          "url": "https://i.ytimg.com/vi/NQjabLGdP5g/hqdefault.jpg?v=3acc1"
         }
       },
-      "concurrentViewers": 23,
+      "concurrentViewers": 41,
       "startedAt": "2020-11-18T09:26:34Z",
       "regionRestriction": null
     },
@@ -490,7 +466,7 @@
           "url": "https://i.ytimg.com/vi/fdAJC-jfPwA/hqdefault.jpg?v=6b08e7c4"
         }
       },
-      "concurrentViewers": 88,
+      "concurrentViewers": 110,
       "startedAt": "2026-11-27T02:16:22Z",
       "regionRestriction": null
     },
@@ -514,63 +490,15 @@
           "url": "https://i.ytimg.com/vi/p53FEN5SSAc/hqdefault.jpg?v=6b0a298e"
         }
       },
-      "concurrentViewers": 357,
+      "concurrentViewers": 291,
       "startedAt": "2026-11-28T01:28:59Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "SP0xrq0mdto",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "LIVE Drone Visuals From Thiruparankundram Hill As SC Orders Deepam To Be Lit At Deepathoon",
-      "description": "The Supreme Court on Friday underlined that its orders \"command obedience\" and suspended the board of trustees of Tamil Nadu's Arulmigu Subramaniaswamy temple and ordered lighting of lamp at Thiruparankundram deepathoon on Saturday using the flame lit at Uchaipillaiyar mandapam.\n\n#deepam #deepamrow…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SP0xrq0mdto/default.jpg?v=6b0a409a"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SP0xrq0mdto/mqdefault.jpg?v=6b0a409a"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SP0xrq0mdto/hqdefault.jpg?v=6b0a409a"
-        }
-      },
-      "concurrentViewers": 35,
-      "startedAt": "2026-11-28T02:48:25Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "aiU4vJn1izQ",
-      "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-      "title": "Deepam Row LIVE | Deepam To Be Lit Today Under SC Order | CRPF Deployed, Political Row Escalates",
-      "description": "The Karthigai Deepam lamp is set to be lit at the Deepathoon pillar atop Thiruparankundram Hill in Madurai today, following a fresh Supreme Court directive. The court has deployed the CRPF to secure the hill and appointed two retired judges as receivers to oversee the temple administration and impl…",
-      "channelTitle": "NDTV",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aiU4vJn1izQ/default.jpg?v=6b0a4642"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aiU4vJn1izQ/mqdefault.jpg?v=6b0a4642"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aiU4vJn1izQ/hqdefault.jpg?v=6b0a4642"
-        }
-      },
-      "concurrentViewers": 34,
-      "startedAt": "2026-11-28T03:14:50Z",
       "regionRestriction": null
     },
     {
       "videoId": "sYZtOFzM78M",
       "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi",
-      "description": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi\n\nWatch India Today LIVE for the latest breaking news and top political developments. Parliament faces the Delimitation Bill debate in Lok Sabha, the Deepam row sparks political tensions, Mamata Banerjee and R…",
+      "title": "India Today LIVE: Delimitation Bill | Deepam Row | India Bloc Meet | Vijay TVK News | Modi",
+      "description": "India Today LIVE: Delimitation Bill | Deepam Row | India Bloc Meet | Vijay TVK News | Modi\n\nWatch India Today LIVE for the latest breaking news and top political developments. Parliament faces the Delimitation Bill debate in Lok Sabha, the Deepam row sparks political tensions, Mamata Banerjee and R…",
       "channelTitle": "India Today",
       "country": "IN",
       "language": "en",
@@ -586,63 +514,15 @@
           "url": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg?v=6a1d8502"
         }
       },
-      "concurrentViewers": 779,
+      "concurrentViewers": 889,
       "startedAt": "2022-12-28T07:43:19Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "tP8v4TSyaBA",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi",
-      "description": "India Today LIVE: Delimitation Bill | Deepam Row | Mamata Banerjee | Vijay TVK News | Modi\n\nWatch India Today LIVE for the latest breaking news and top political developments. Parliament faces the Delimitation Bill debate in Lok Sabha, the Deepam row sparks political tensions, Mamata Banerjee and R…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tP8v4TSyaBA/default.jpg?v=6b0a3078"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tP8v4TSyaBA/mqdefault.jpg?v=6b0a3078"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tP8v4TSyaBA/hqdefault.jpg?v=6b0a3078"
-        }
-      },
-      "concurrentViewers": 87,
-      "startedAt": "2026-11-28T01:38:54Z",
-      "regionRestriction": null
-    },
-    {
-      "videoId": "ACGQZO1RjcQ",
-      "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-      "title": "Breaking News: Italy Bans Burqas, Niqabs In Classrooms; 100 Euro Fine For Violators|India Today Live",
-      "description": "Breaking News: Italy Bans Burqas, Niqabs In Classrooms; 100 Euro Fine For Violators|India Today Live\n\nItaly passes a new education law banning face-covering veils, including burqas and niqabs, in classrooms, with violators facing a 100 euro fine. The legislation also caps foreign students at 30% in…",
-      "channelTitle": "India Today",
-      "country": "IN",
-      "language": "en",
-      "category": "general",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ACGQZO1RjcQ/default.jpg?v=6b0a3f91"
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ACGQZO1RjcQ/mqdefault.jpg?v=6b0a3f91"
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ACGQZO1RjcQ/hqdefault.jpg?v=6b0a3f91"
-        }
-      },
-      "concurrentViewers": 46,
-      "startedAt": "2026-11-28T02:46:14Z",
       "regionRestriction": null
     },
     {
       "videoId": "Nq2wYlWFucg",
       "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-      "title": "Aaj Tak LIVE TV: Parliament Session | Delimitation Bill | PM Modi | UP Election 2027 | Hindi News",
-      "description": "आजतक के पास परिसीमन बिल की कॉपी- लोकसभा की सीटें बढ़ाकर 850 करने का प्रावधान- विधानसभा की सीटें भी 50 फीसदी बढ़ेंगी- 33 प्रतिशत महिला आरक्षण को 15 साल तक लागू करने की बात\n\nसंसद के विशेष सत्र से पहले सरकार के लिए अच्छी खबर- परिसीमन बिल का समर्थन करेगा NCP शरद गुट- शर्तों के साथ DMK ने भी दिया साथ दे…",
+      "title": "Aaj Tak LIVE TV: Delimitation Bill | Parliament Session | INDIA Aliiance | PM Modi | Hindi News",
+      "description": "संसद में ऐतिहासिक बिल से पहले महिला आरक्षण पर पीएम मोदी ने दोहराई अपनी कसम.पोस्ट में लिखा- नारी शक्ति से किया वादा पूरा करने के लिए प्रतिबद्ध..शाह ने लिखा- 33% का सपना साकार होगा\n\nबैठक के बाद इंडिया गठबंधन का सरकार पर बड़ा आरोप- खरगे ने कहा-सरकार का बिल लोकतंत्र के लिए खतरा, SC-ST के हितों का ध्यान…",
       "channelTitle": "Aaj Tak",
       "country": "IN",
       "language": "hi",
@@ -658,7 +538,7 @@
           "url": "https://i.ytimg.com/vi/Nq2wYlWFucg/hqdefault.jpg?v=69f08c98"
         }
       },
-      "concurrentViewers": 16469,
+      "concurrentViewers": 16425,
       "startedAt": "2022-11-20T19:08:04Z",
       "regionRestriction": null
     },
@@ -682,7 +562,7 @@
           "url": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg?v=6acf6a08"
         }
       },
-      "concurrentViewers": 998,
+      "concurrentViewers": 635,
       "startedAt": "2026-10-14T11:40:32Z",
       "regionRestriction": null
     },
@@ -706,7 +586,7 @@
           "url": "https://i.ytimg.com/vi/0i7n3r01L2U/hqdefault.jpg?v=6a7e6d5c"
         }
       },
-      "concurrentViewers": 124,
+      "concurrentViewers": 190,
       "startedAt": "2026-08-14T01:21:12Z",
       "regionRestriction": null
     },
@@ -730,8 +610,740 @@
           "url": "https://i.ytimg.com/vi/vOTiJkg1voo/hqdefault.jpg?v=66d66096"
         }
       },
-      "concurrentViewers": 1956,
+      "concurrentViewers": 5388,
       "startedAt": "2022-02-20T00:57:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "bNyUyrR0PHo",
+      "channelId": "UCfiwzLy-8yKzIbsmZTzxDgw",
+      "title": "قناة الجزيرة الآن - البث الحي",
+      "description": "تابع البث الحي لقناة الجزيرة الآن لتواكب الأخبار العاجلة والتغطيات المباشرة من الميدان وتبقى على اتصال بالحدث من لحظاته الأولى ومجمل تطوراته\n\nAl Jazeera Arabic Live قناة الجزيرة | البث الحي | البث المباشر\nالجزيرة البث الحي | البث المباشر  قناة الجزيرة من قطر  \nAl Jazeera Arabic TV Live / Aljazeera …",
+      "channelTitle": "AlJazeera Arabic  قناة الجزيرة",
+      "country": "QA",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bNyUyrR0PHo/default.jpg?v=6b00a693"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bNyUyrR0PHo/mqdefault.jpg?v=6b00a693"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bNyUyrR0PHo/hqdefault.jpg?v=6b00a693"
+        }
+      },
+      "concurrentViewers": 22025,
+      "startedAt": "2022-11-25T20:04:59Z",
+      "regionRestriction": {
+        "blocked": [
+          "IL"
+        ]
+      }
+    },
+    {
+      "videoId": "n7eQejkXbnM",
+      "channelId": "UCahpxixMCwoANAftn6IxkTg",
+      "title": "AlArabiya Livestream العربية مباشر.. بث حي لآخر الأخبار والعواجل لحظة بلحظة",
+      "description": "#العربية_مباشر للاطلاع على آخر الأخبار والمستجدات\n#البث_المباشر #قناة_العربية  #العربية \n\nالعربية البث الحي | العربية مباشر | بث مباشر من العربية | بث حي من العربية | العربية عاجل | أخبار عاجلة | آخر التطورات | البث المباشر \nِAlِArabiya live | AlArabiya | AlArabiya Breaking News | AlArabiya Livestr…",
+      "channelTitle": "AlArabiya العربية",
+      "country": "SA",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n7eQejkXbnM/default.jpg?v=69f00ca6"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n7eQejkXbnM/mqdefault.jpg?v=69f00ca6"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n7eQejkXbnM/hqdefault.jpg?v=69f00ca6"
+        }
+      },
+      "concurrentViewers": 20728,
+      "startedAt": "2025-01-16T09:55:40Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "f6VpkfV7m4Y",
+      "channelId": "UCRJUVYt9gjg8MnlGacySUdg",
+      "title": "تلفزيون الشرق بلومبرغ مباشر | Asharq Bloomberg Live | أخبار الاقتصاد والأسواق",
+      "description": "شاهد البث المباشر لقناة الشرق بلومبرغ، وتابع آخر أخبار الاقتصاد والأسواق والمال والأعمال لحظة بلحظة، مع تغطية متواصلة لأهم التطورات الاقتصادية في السعودية والخليج والعالم.\n\nتغطية مباشرة وتحليلات متخصصة حول:\n\n• أخبار الاقتصاد السعودي والخليجي والعالمي\n• سوق الأسهم السعودية والأسواق العالمية\n• أسعار …",
+      "channelTitle": "Asharq News - الشرق للأخبار",
+      "country": "SA",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f6VpkfV7m4Y/default.jpg?v=6a7c5cd7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f6VpkfV7m4Y/mqdefault.jpg?v=6a7c5cd7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f6VpkfV7m4Y/hqdefault.jpg?v=6a7c5cd7"
+        }
+      },
+      "concurrentViewers": 113,
+      "startedAt": "2022-11-26T10:31:33Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ppgTP8xQQsM",
+      "channelId": "UCIJXOvggjKtCagMfxvcCzAA",
+      "title": "البث المباشر لقناة سكاي نيوز عربية - Sky News Arabia Live",
+      "description": "البث المباشر لقناة سكاي نيوز عربية. تقدم قناة سكاي نيوز عربية الأخبار باللغة العربية على مدار الساعة وبشكل فوري بتقنية الوضوح العالي HD. وتهدف القناة إلى تقديم الأخبار بشكل حيوي وسريع وموضوعي إلى منطقة الشرق الأوسط وشمال أفريقيا من خلال 30 مكتبا في منطقة الشرق الأوسط وآسيا إضافة إلى مكاتبها في لندن…",
+      "channelTitle": "سكاي نيوز عربية",
+      "country": "AE",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ppgTP8xQQsM/default.jpg?v=6a392469"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ppgTP8xQQsM/mqdefault.jpg?v=6a392469"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ppgTP8xQQsM/hqdefault.jpg?v=6a392469"
+        }
+      },
+      "concurrentViewers": 2111,
+      "startedAt": "2026-06-22T12:03:38Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "O1pGmVtj2Y8",
+      "channelId": "UCelk6aHijZq-GJBBB9YpReA",
+      "title": "| BBC News Arabic Live | البث الحي لبي بي سي نيوز عربي|",
+      "description": "آخر التطورات من بي بي سي نيوز عربي:\n🔴 إدانات عربية للهجوم الإيراني على الكويت رغم نفي طهران\n🔴 ترامب يقول إنه يمنح إيران كل الفرص لإبرام اتفاق\n🔴 عراقجي يقول إن الوجود ​العسكري الأجنبي في منطقة الخليج من شأنه ‌أن يزيد التوتر بدلا من المساهمة في إحلال السلام\n🔴 أردوغان يوافق رسميا على اتفاقية ‌مكة …",
+      "channelTitle": "BBC News عربي",
+      "country": "GB",
+      "language": "ar",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O1pGmVtj2Y8/default.jpg?v=6ae74958"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O1pGmVtj2Y8/mqdefault.jpg?v=6ae74958"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O1pGmVtj2Y8/hqdefault.jpg?v=6ae74958"
+        }
+      },
+      "concurrentViewers": 293,
+      "startedAt": "2026-01-08T12:30:32Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "H_Wg-86X7TI",
+      "channelId": "UCFxHplbcoJK9m70c4VyTIxg",
+      "title": "🔴 Más Milenio EN VIVO: Ciencia, misterios y lo mejor del día",
+      "description": "Más Milenio combina el pulso dinámico de las redes con el rigor informativo, ofreciendo una curaduría variada que abarca espectáculos, videos virales, misterios y entrevistas a profundidad con personajes clave de la escena pública y cultural.\n\nBienvenido a esta transmisión EN VIVO con un maratón co…",
+      "channelTitle": "MILENIO",
+      "country": "MX",
+      "language": "es",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H_Wg-86X7TI/default.jpg?v=6b0a1ea1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H_Wg-86X7TI/mqdefault.jpg?v=6b0a1ea1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H_Wg-86X7TI/hqdefault.jpg?v=6b0a1ea1"
+        }
+      },
+      "concurrentViewers": 6,
+      "startedAt": "2026-11-28T00:46:03Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "y104PDJ5KUs",
+      "channelId": "UCvdwhh_fDyWccR42-rReZLw",
+      "title": "AO VIVO: CNN NEWSROOM - 28/11/2026",
+      "description": "Assista AO VIVO ao CNN Newsroom deste sábado, 28 de novembro de 2026. #CNNBrasil\n\nInscreva-se no canal da CNN Brasil no YouTube.\n\nACOMPANHE A CNN BRASIL TAMBÉM NAS OUTRAS PLATAFORMAS:\n\nPodcasts: https://www.cnnbrasil.com.br/podcasts/\nNewsletters: https://newsletter.cnnbrasil.com.br\nFacebook: https:…",
+      "channelTitle": "CNN Brasil",
+      "country": "BR",
+      "language": "pt",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y104PDJ5KUs/default.jpg?v=6b0a2fd2"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y104PDJ5KUs/mqdefault.jpg?v=6b0a2fd2"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y104PDJ5KUs/hqdefault.jpg?v=6b0a2fd2"
+        }
+      },
+      "concurrentViewers": 4826,
+      "startedAt": "2026-11-28T08:53:01Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "fADL3mx8NYM",
+      "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+      "title": "AO VIVO: Acompanhe as principais notícias do dia na Record News",
+      "description": "Inscreva-se no canal da Record News no YouTube: http://www.youtube.com/recordnews\n\nACOMPANHE A RECORD NEWS TAMBÉM NAS OUTRAS REDES:\n\nInstagram: https://www.instagram.com/recordnews\nTikTok: https://www.tiktok.com/@recordnews\nThreads: https://www.threads.net/@recordnews\nX: https://www.x.com/recordnew…",
+      "channelTitle": "Record News",
+      "country": "BR",
+      "language": "pt",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fADL3mx8NYM/default.jpg?v=6b0971e1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fADL3mx8NYM/mqdefault.jpg?v=6b0971e1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fADL3mx8NYM/hqdefault.jpg?v=6b0971e1"
+        }
+      },
+      "concurrentViewers": 2885,
+      "startedAt": "2026-11-27T22:25:57Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "vhUpfn47gBk",
+      "channelId": "UCP391YRAjSOdM_bwievgaZA",
+      "title": "JORNAL DA MANHÃ - 28/11/2026",
+      "description": "Canal no WhatsApp: \nhttps://whatsapp.com/channel/0029VaAx...\n\nBaixe o app Panflix: https://www.panflix.com.br/\n\nInscreva-se no nosso canal:\nhttps://www.youtube.com/c/jovempannews\n\nEntre no nosso site:\nhttp://jovempan.com.br/\n\nFacebook:\nhttps://www.facebook.com/jovempannews\n\nSiga no Twitter:\nhttps:/…",
+      "channelTitle": "Jovem Pan News",
+      "country": "BR",
+      "language": "pt",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vhUpfn47gBk/default.jpg?v=6b09fda4"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vhUpfn47gBk/mqdefault.jpg?v=6b09fda4"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vhUpfn47gBk/hqdefault.jpg?v=6b09fda4"
+        }
+      },
+      "concurrentViewers": 7326,
+      "startedAt": "2026-11-28T08:55:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "EomYGDEv38E",
+      "channelId": "UCZMsvbAhhRblVGXmEXW8TSA",
+      "title": "RENTEN-REFORM: CDU \"entsetzt\" von Schweitzers Entwurf! Nächster Zoff im Anmarsch!  I WELT LIVESTREAM",
+      "description": "RENTEN-REFORM: CDU \"entsetzt\" von Schweitzers Entwurf! Nächster Zoff im Anmarsch!  I WELT LIVESTREAM\n\nBundesarbeitsminister Alexander Schweitzer (SPD) hat seinen Gesetzentwurf für eine umfassende Rentenreform an das Kanzleramt übermittelt. Das berichten „Bild“ und „Süddeutsche Zeitung“, denen der E…",
+      "channelTitle": "WELT Nachrichtensender",
+      "country": "DE",
+      "language": "de",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EomYGDEv38E/default.jpg?v=6b0a6ece"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EomYGDEv38E/mqdefault.jpg?v=6b0a6ece"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EomYGDEv38E/hqdefault.jpg?v=6b0a6ece"
+        }
+      },
+      "concurrentViewers": 2421,
+      "startedAt": "2026-11-28T06:22:18Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "WCndZbhSSMw",
+      "channelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
+      "title": "#CANLI - Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu konuşuyor",
+      "description": "Habertürk TV YouTube Kanalına Abone Ol ➤ https://hbr.tk/2mdILN",
+      "channelTitle": "Habertürk TV",
+      "country": "TR",
+      "language": "tr",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WCndZbhSSMw/default.jpg?v=1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WCndZbhSSMw/mqdefault.jpg?v=1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WCndZbhSSMw/hqdefault.jpg?v=1"
+        }
+      },
+      "concurrentViewers": 9,
+      "startedAt": "2026-11-28T09:25:59Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "5hhjLNXlHDA",
+      "channelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
+      "title": "Trump'ın Ekibinin Hesapları Hedefteydi! | CANLI HABER",
+      "description": "HABER | Son Dakika Haber ve Güncel Haberleri İlk Bilen Siz Olun...\n\nCNN TÜRK YOUTUBE KANALINA ABONE OL ➤ https://bit.ly/2LzuZ1H\n\nCNN TÜRK Canlı Yayın İçin Tıkla ➤ https://buff.ly/FQXX6Q6  | CANLI HABER\n\n➤TÜM PROGRAM İÇERİKLERİ İÇİN: https://www.cnnturk.com/tv\n➤http://twitter.com/cnnturk\n➤https://tw…",
+      "channelTitle": "CNN TÜRK",
+      "country": "TR",
+      "language": "tr",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5hhjLNXlHDA/default.jpg?v=6b0a9653"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5hhjLNXlHDA/mqdefault.jpg?v=6b0a9653"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5hhjLNXlHDA/hqdefault.jpg?v=6b0a9653"
+        }
+      },
+      "concurrentViewers": 490,
+      "startedAt": "2026-11-28T09:00:16Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "tBIlC2x5TZE",
+      "channelId": "UCRWFSbif-RFENbBrSiez1DA",
+      "title": "India Bloc on Delimitation Bill LIVE: अचानक इंडिया ब्लॉक की प्रेस कॉफ्रेंस में खुलासा! | breaking",
+      "description": "India Bloc on Delimitation Bill LIVE: अचानक इंडिया ब्लॉक की प्रेस कॉफ्रेंस में खुलासा! | breaking\n\n#indiabloc #delimitationbill #pressconference #rahulgandhi #congressnews #indiaalliance #oppositionunity #parliamentsession #loksabhanews #breakingnews #hindinewslive #parliamentnews #abpnews \n-------…",
+      "channelTitle": "ABP NEWS",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tBIlC2x5TZE/default.jpg?v=6b0a8df5"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tBIlC2x5TZE/mqdefault.jpg?v=6b0a8df5"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tBIlC2x5TZE/hqdefault.jpg?v=6b0a8df5"
+        }
+      },
+      "concurrentViewers": 1188,
+      "startedAt": "2026-11-28T08:18:45Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "GaQi1dhnNO4",
+      "channelId": "UCttspZesZIDEwwpVIgoZtWQ",
+      "title": "Kahani Kursi Ki Live: राहुल को ज़ोर का झटका..पवार ने कैसे दिया? PM Modi | Delimitation Bill",
+      "description": "Kahani Kursi Ki Live: राहुल को ज़ोर का झटका..पवार ने कैसे दिया? PM Modi | Delimitation Bill\n#kahanikursiki #delimitationbill #modicabinetmeeting #pmmodi \nकेंद्र सरकार ने डिलिमिटेशन बिल की तैयारी पूरी कर ली है.. बिल की कॉपियां संसद के सदस्यों को बांट दी गई हैं.. उनसे बिल को पढ़ने के लिए कहा गया है..…",
+      "channelTitle": "IndiaTV",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GaQi1dhnNO4/default.jpg?v=6b0a8524"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GaQi1dhnNO4/mqdefault.jpg?v=6b0a8524"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GaQi1dhnNO4/hqdefault.jpg?v=6b0a8524"
+        }
+      },
+      "concurrentViewers": 3130,
+      "startedAt": "2026-11-28T07:36:19Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "CqNPCiwQkZw",
+      "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+      "title": "Iran America War Updates: USS लिकंन का विनाशक हमला...दहला ईऱान का बुशहर एयरपोर्ट! | Trump | IRGC",
+      "description": "#IranUSWar #IranWar #USAttack #Trump #IRGC #Hormuz #Mojtaba #Iran #America #IranMilitary #AirDefense #MiddleEastWar #USMilitary #Tehran #IsraelIran #PersianGulf #BreakingNews #WarUpdates #IranNews #DonaldTrump #IranCrisis #HormuzStrait #MilitaryNews #Geopolitics #TV9Bharatvarsh ##vishal.mishra@tv9.…",
+      "channelTitle": "TV9 Bharatvarsh",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CqNPCiwQkZw/default.jpg?v=6b0a743a"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CqNPCiwQkZw/mqdefault.jpg?v=6b0a743a"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CqNPCiwQkZw/hqdefault.jpg?v=6b0a743a"
+        }
+      },
+      "concurrentViewers": 626,
+      "startedAt": "2026-11-28T06:37:00Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "xsEFRa1YLd0",
+      "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
+      "title": "NCP-DMK का मोदी को समर्थन? LIVE | Delimitation Bill Parliament Session News | Rahul Gandhi | PM Modi",
+      "description": "NCP-DMK का मोदी को समर्थन? LIVE | Delimitation Bill Parliament Session News | Rahul Gandhi | PM Modi\n\nDelimitation Bill Parliament Session News LIVE: Rahul Gandhi | Congress | RJD | Tejashwi | Parliament Session | Rahul Gandhi |PM Modi | Delimitation Bill | RJD | PM Modi | Majority | Parliament Spe…",
+      "channelTitle": "NDTV India",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xsEFRa1YLd0/default.jpg?v=6b0a95ba"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xsEFRa1YLd0/mqdefault.jpg?v=6b0a95ba"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xsEFRa1YLd0/hqdefault.jpg?v=6b0a95ba"
+        }
+      },
+      "concurrentViewers": 519,
+      "startedAt": "2026-11-28T08:50:37Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "DrvUIiRMr9Y",
+      "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+      "title": "Nor'wester Hits America LIVE : अमेरिका में मौत का तांडव! भीषण तबाही से पूरे देश में मची भगदड़! Trump",
+      "description": "अमेरिका के उत्तर-पूर्वी हिस्से में आए शक्तिशाली नॉरईस्टर ने तेज हवाओं, भारी बारिश, ऊंचे ज्वार और समुद्री लहरों के साथ बड़े पैमाने पर तबाही मचाई।\n\nA powerful nor'easter struck the northeastern United States, wreaking widespread devastation with strong winds, heavy rain, high tides and sea waves.\n\nNo…",
+      "channelTitle": "Zee News",
+      "country": "IN",
+      "language": "hi",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DrvUIiRMr9Y/default.jpg?v=6b09b1ab"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DrvUIiRMr9Y/mqdefault.jpg?v=6b09b1ab"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DrvUIiRMr9Y/hqdefault.jpg?v=6b09b1ab"
+        }
+      },
+      "concurrentViewers": 180,
+      "startedAt": "2026-11-27T16:42:47Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "l7dJd53P5Hc",
+      "channelId": "UC_vt34wimdCzdkrzVejwX9g",
+      "title": "🔴 LIVE: Federal Minister Attaullah Tarar's Address at Punjab Event | Geo News",
+      "description": "🔴 WATCH LIVE: Federal Minister Attaullah Tarar addresses an event in Punjab.\n#AttaullahTarar #AttaullahTararLive #PunjabEvent #GeoNews #GeoNewsLive #PakistanPolitics #LiveCoverage #PakistanNews #BreakingNews\nWatch the live coverage of Federal Minister for Information and Broadcasting Attaullah Tar…",
+      "channelTitle": "Geo News",
+      "country": "PK",
+      "language": "ur",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/default.jpg?v=7"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/mqdefault.jpg?v=7"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l7dJd53P5Hc/hqdefault.jpg?v=7"
+        }
+      },
+      "concurrentViewers": 221,
+      "startedAt": "2026-11-28T08:51:34Z",
+      "regionRestriction": {
+        "blocked": [
+          "IN"
+        ]
+      }
+    },
+    {
+      "videoId": "xnXL7OMPJVI",
+      "channelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "title": "🔴Maulana Fazlur Rehman's House Sealed, Son Arrested | Live Scenes Outside Residence | SAMAA TV",
+      "description": "#Samaatv #MaulanaFazlurRehman #FazlurRehman #JUIF #JUIFNews #MaulanaHouseSealed #HouseSealed #SonArrested #BreakingNews #PakistanNews #IslamabadNews #PoliceAction #LatestNews #LiveCoverage #LiveScenes #PoliticalNews #PakistanPolitics #IslamabadPolice #JUI #MaulanaNews #PakistanBreakingNews #FazlurR…",
+      "channelTitle": "SAMAA TV",
+      "country": "PK",
+      "language": "ur",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xnXL7OMPJVI/default.jpg?v=6b0a9ca3"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xnXL7OMPJVI/mqdefault.jpg?v=6b0a9ca3"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xnXL7OMPJVI/hqdefault.jpg?v=6b0a9ca3"
+        }
+      },
+      "concurrentViewers": 67,
+      "startedAt": "2026-11-28T09:26:22Z",
+      "regionRestriction": {
+        "blocked": [
+          "IN"
+        ]
+      }
+    },
+    {
+      "videoId": "uxrKvGVX3iM",
+      "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+      "title": "【ライブ】11/28 夜ニュースまとめ 最新情報を厳選してお届け ANN/テレ朝【LIVE】",
+      "description": "■テレ朝NEWS24 日本のニュースを24時間配信\r\nhttps://youtube.com/live/coYw-eVU0Ks\r\n\r\n■テレ朝ニュース公式HP\r\nhttps://news.tv-asahi.co.jp/\r\n\r\n#ニュース #ライブ #ann",
+      "channelTitle": "ANNnewsCH",
+      "country": "JP",
+      "language": "ja",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uxrKvGVX3iM/default.jpg?v=6b07bd35"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uxrKvGVX3iM/mqdefault.jpg?v=6b07bd35"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uxrKvGVX3iM/hqdefault.jpg?v=6b07bd35"
+        }
+      },
+      "concurrentViewers": 1822,
+      "startedAt": "2026-11-28T08:59:20Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "g08_T4loJ_I",
+      "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+      "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月28日）｜TBS NEWS DIG",
+      "description": "11月28日（土）の夕方から放送された最新のニュースをダイジェストでお届けします。\n\n▼TBS NEWS DIG 公式サイト\nhttps://newsdig.tbs.co.jp/\n\n▼チャンネル登録をお願いします！\nhttp://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA?sub_confirmation=1\n\n▼情報提供はこちらから「TBSインサイダーズ」\nhttps://www.tbs.co.jp/news_sp/tbs-insiders.html\n\n▼映像提供はこちらから「TBSスクープ投稿」\nhttps://www.tbs.co.…",
+      "channelTitle": "TBS NEWS DIG Powered by JNN",
+      "country": "JP",
+      "language": "ja",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g08_T4loJ_I/default.jpg?v=6b0a8a20"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g08_T4loJ_I/mqdefault.jpg?v=6b0a8a20"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g08_T4loJ_I/hqdefault.jpg?v=6b0a8a20"
+        }
+      },
+      "concurrentViewers": 1486,
+      "startedAt": "2026-11-28T08:58:07Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "CExGvLSRghg",
+      "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
+      "title": "【昼ニュースライブ】最新ニュースと生活情報（11月28日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+      "description": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひダウンロードをよろしくお願いします。\n\n【ラインアップ】\n・宮城の山中に2人の遺体　一部が白骨化　不明の女子高校生誘拐か…男逮捕\n・【中継】宮城の山中に2人の遺体　発見現場の様子は　逮捕の男は車で周辺訪れたか\n・福岡市男性刺殺事件　現場に落ちていた“刃物”に血液…凶器の可能性高いとみて特定作業進める\n・“覆面”の3人組が住人の男性を縛り…約2400万円と腕…",
+      "channelTitle": "日テレNEWS",
+      "country": "JP",
+      "language": "ja",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CExGvLSRghg/default.jpg?v=6b0a27b9"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CExGvLSRghg/mqdefault.jpg?v=6b0a27b9"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CExGvLSRghg/hqdefault.jpg?v=6b0a27b9"
+        }
+      },
+      "concurrentViewers": 1664,
+      "startedAt": "2026-11-28T02:59:28Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "cSe0PC02YRU",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "title": "미국 해상 봉쇄에 정면 도전한 이란...미사일 날아들며 '아수라장' [이슈픽] / YTN",
+      "description": "이란이 미국의 해상 봉쇄 정면 돌파를 예고해 호르무즈 해협 긴장이 다시 고조되고 있습니다.\n\n트럼프 미 대통령은 자신이 원할 때 이란 전쟁을 끝낼 수 있다며 승리를 장담했습니다.\n\n이란전쟁 관련 주요 뉴스를 모아서 전해드립니다.\n\n1. 이란, 미 해상봉쇄 돌파 결의...트럼프 \"원할 때 끝낼 것\" (261128 정유신 기자)\n2. \"돈이 없다\" 이란 대통령, 충격적 고백…사실상 박살난 이란 [지금이뉴스] (261126)\n3. 미군 중부사령부 \"이란 해상봉쇄 돌파 시도 상선 무력화\" (261128 정유신 기자)\n4. '유조선의 무덤…",
+      "channelTitle": " YTN",
+      "country": "KR",
+      "language": "ko",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cSe0PC02YRU/default.jpg?v=6b0a67f0"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cSe0PC02YRU/mqdefault.jpg?v=6b0a67f0"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cSe0PC02YRU/hqdefault.jpg?v=6b0a67f0"
+        }
+      },
+      "concurrentViewers": 1811,
+      "startedAt": "2026-11-28T08:00:30Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "6nYn4x-90Sg",
+      "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+      "title": "\"거대한 전환점\" 이재명 대통령 AI 데이터센터 착공식 참석..기업 부스 관람 - [현장PLAY] MBC뉴스 2026년 11월 28일",
+      "description": "이재명 대통령은 28일 글로벌 인공지능(AI) 경쟁과 관련, \"대한민국이 세계의 기준을 세우고 방향을 제시하는 선도 국가로 굳건히 자리 잡을 수 있도록 정부가 모든 역량을 동원하겠다\"고 말했습니다.\n\n이 대통령은 이날 강원도 동해에서 열린 GS의 AI데이터센터(AIDC) 착공식에 참석, \"전 세계는 AI 기술에서 국가 단위의 총성 없는 전쟁을 펼치고 있다. 이 전례 없는 국가 단위 속도전에서 단 한 걸음만 늦어도 영원한 추격자 신세지만 한 걸음만 먼저 내디뎌도 판도를 바꾸는 선도자가 돼 무한한 기회를 누릴 것\"이라면서 이같이 밝혔…",
+      "channelTitle": "MBCNEWS",
+      "country": "KR",
+      "language": "ko",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6nYn4x-90Sg/default.jpg?v=6b0a6a80"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6nYn4x-90Sg/mqdefault.jpg?v=6b0a6a80"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6nYn4x-90Sg/hqdefault.jpg?v=6b0a6a80"
+        }
+      },
+      "concurrentViewers": 46,
+      "startedAt": "2026-11-28T05:47:04Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "YOQQ2K6KVIE",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "title": "[🔴LIVE] 이재명 대통령, 동해 AI 데이터센터 착공식 참석 / SBS 실시간 라이브",
+      "description": "#SBS뉴스 #8뉴스 #실시간 으로 만나 보세요\n라이브 뉴스 채널 SBS 모바일24\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+      "channelTitle": "SBS 뉴스",
+      "country": "KR",
+      "language": "ko",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YOQQ2K6KVIE/default.jpg?v=6b0a9736"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YOQQ2K6KVIE/mqdefault.jpg?v=6b0a9736"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YOQQ2K6KVIE/hqdefault.jpg?v=6b0a9736"
+        }
+      },
+      "concurrentViewers": 80,
+      "startedAt": "2026-11-28T08:58:24Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "W17t4WK4tTA",
+      "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+      "title": "【#一琪晚餐】1128特別企劃 【一琪開票 一起勝利】 選情即時掌握！吳安琪、葛瑞絲、四叉貓、翁達瑞、劉方慈攜手民視特派連線記者　帶您直擊最新開票進度",
+      "description": "本日來賓👇\n主持人             劉方慈\n政治評論員　 吳靜怡\n網紅                 四叉貓\n旅美教授         翁達瑞\n神秘嘉賓　　\n\n每週一~五 1830與安琪小姐姐一起線上見～\n鎖定《民視新聞網》YT&FB\n民視台灣台同步播出！",
+      "channelTitle": "民視新聞網 Formosa TV News network",
+      "country": "TW",
+      "language": "zh",
+      "category": "general",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W17t4WK4tTA/default.jpg?v=6b095219"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W17t4WK4tTA/mqdefault.jpg?v=6b095219"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W17t4WK4tTA/hqdefault.jpg?v=6b095219"
+        }
+      },
+      "concurrentViewers": 7225,
+      "startedAt": "2026-11-28T06:59:49Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "VNsSbAd40Fk",
+      "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+      "title": "🔴LIVE: Thiruparankundram Deepam 2026 | Supreme Court Orders Deepasthambam Lamp Lighting | Madurai",
+      "description": "🔴Karthigai Deepam LIVE: திருப்பரங்குன்றம் தீபம் | Thiruparankundram Deepam Amid Supreme Court Row | Tamil Bhakti LIVE | Tamil News LIVE | CNBC TV18\nPreparations are underway on Saturday, November 28, 2026, to light the ceremonial Karthigai Deepam lamp at the disputed Deepathoon stone pillar atop T…",
+      "channelTitle": "CNBC-TV18",
+      "country": "IN",
+      "language": "en",
+      "category": "business",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VNsSbAd40Fk/default.jpg?v=6b0a8db1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VNsSbAd40Fk/mqdefault.jpg?v=6b0a8db1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VNsSbAd40Fk/hqdefault.jpg?v=6b0a8db1"
+        }
+      },
+      "concurrentViewers": 144,
+      "startedAt": "2026-11-28T08:17:48Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "ROboUHfPUrU",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)",
+      "description": "Live views from the International Space Station are streaming from an external camera mounted on the station's Harmony module. \n\nThe camera is looking forward at an angle so that International Docking Adapter 2 is visible. If the Harmony module camera is not available due to operational considerati…",
+      "channelTitle": "NASA",
+      "country": "US",
+      "language": "en",
+      "category": "science",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ROboUHfPUrU/default.jpg?v=6ada1dd8"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ROboUHfPUrU/mqdefault.jpg?v=6ada1dd8"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ROboUHfPUrU/hqdefault.jpg?v=6ada1dd8"
+        }
+      },
+      "concurrentViewers": 108,
+      "startedAt": "2026-10-22T14:57:23Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "43pVk7dvuO8",
+      "channelId": "UCNsidkYpIAQ4QaufptQBPHQ",
+      "title": "【ライブ】最新天気ニュース・地震情報 2026年11月28日(土) ／低気圧と前線で広く雨や雷　夜は朝より冷える〈ウェザーニュースLiVEイブニング・駒木結衣／内藤邦裕〉",
+      "description": "【今日の天気／明日の天気／週間天気に関する最新情報】\n日々の天気予報や最新気象ニュースをウェザーニュースキャスターと気象予報士がわかりやすく解説。アプリユーザーから共有される天気報告や写真・動画、ライブカメラ映像を用いて、今の天気をリアルタイムにお伝えします。\n\nまた、緊急地震速報が発表された際は地震速報に切り替え、どこよりも早く速報で地震情報・津波情報をお伝えします。\n\n📺️番組表 24時間生放送中\nhttps://weathernews.jp/wnl/timetable.html\n\nYouTubeで番組再生ができない場合は、こちらからも番組をご覧いただけます\n・TikTok　https…",
+      "channelTitle": "ウェザーニュース",
+      "country": "JP",
+      "language": "ja",
+      "category": "weather",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/43pVk7dvuO8/default.jpg?v=6b0968f1"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/43pVk7dvuO8/mqdefault.jpg?v=6b0968f1"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/43pVk7dvuO8/hqdefault.jpg?v=6b0968f1"
+        }
+      },
+      "concurrentViewers": 5336,
+      "startedAt": "2026-11-28T07:29:09Z",
+      "regionRestriction": null
+    },
+    {
+      "videoId": "NbLqEOo-T80",
+      "channelId": "UCWw6scNyopJ0yjMu1SyOEyw",
+      "title": "LIVE Weekend Sports Breakfast with Shebahn Aherne & Tony Cascarino | 28-Nov-26",
+      "description": "The definitive word on GameDay with previews of the big games with Shebahn Aherne & Tony Cascarino.\n\nSubscribe: https://youtube.com/c/talkSPORT?sub_confirmation=1\n\nEnjoyed this YouTube video? 😍\n🖥️ talkSPORT's Website: https://talksport.com/\n📲 talkSPORT's X/Twitter: https://x.com/talkSPORT\n📷 tal…",
+      "channelTitle": "talkSPORT",
+      "country": "GB",
+      "language": "en",
+      "category": "sports",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NbLqEOo-T80/default.jpg?v=6b0a6e28"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NbLqEOo-T80/mqdefault.jpg?v=6b0a6e28"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NbLqEOo-T80/hqdefault.jpg?v=6b0a6e28"
+        }
+      },
+      "concurrentViewers": 1231,
+      "startedAt": "2026-11-28T06:01:27Z",
       "regionRestriction": null
     }
   ]
